@@ -55,7 +55,7 @@ export async function saveLessonProgress(lessonId: string, score: number): Promi
       lesson_id: lessonId,
       score: score,
       completed_at: new Date().toISOString()
-    }, { onConflict: 'user_id, lesson_id' });
+    }, { onConflict: 'user_id,lesson_id' });
 
     if (error) {
       console.error("Failed to save progress to Supabase:", error);

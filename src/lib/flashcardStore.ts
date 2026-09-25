@@ -87,7 +87,7 @@ export async function mergeLocalFlashcardsToSupabase(userId: string): Promise<vo
     }
     
     if (upsertRows.length > 0) {
-      const { error: upsertError } = await supabase.from('user_flashcards').upsert(upsertRows, { onConflict: 'user_id, front' });
+      const { error: upsertError } = await supabase.from('user_flashcards').upsert(upsertRows, { onConflict: 'user_id,front' });
       if (upsertError) throw upsertError;
     }
 
@@ -96,7 +96,7 @@ export async function mergeLocalFlashcardsToSupabase(userId: string): Promise<vo
     toast.success("Đã đồng bộ thành công tiến độ học tập vào tài khoản của bạn!");
     
   } catch (error) {
-    console.error("Merge error:", error);
+    console.error("Merge error:", (error as any)?.message || error);
     toast.error("Không thể đồng bộ dữ liệu với máy chủ. Vui lòng kiểm tra kết nối mạng.");
   }
 }
@@ -189,10 +189,10 @@ export async function saveFlashcards(cards: Flashcard[]): Promise<void> {
         return r;
       });
 
-      const { error } = await supabase.from('user_flashcards').upsert(upsertRows, { onConflict: 'user_id, front' });
+      const { error } = await supabase.from('user_flashcards').upsert(upsertRows, { onConflict: 'user_id,front' });
       if (error) throw error;
     } catch (e) {
-      console.error(e);
+      console.error("Sync error:", (e as any)?.message || e);
       toast.error("Không thể đồng bộ dữ liệu với máy chủ. Vui lòng kiểm tra kết nối mạng.");
       // Fallback to local
       localStorage.setItem(STORAGE_KEY, JSON.stringify(cards));
