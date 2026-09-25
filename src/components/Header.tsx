@@ -1,23 +1,18 @@
 'use client';
 
 import Link from 'next/link';
-import { BookOpen, LogOut, Type, Sun, Moon, AArrowUp, AArrowDown, Menu, X } from 'lucide-react';
+import { BookOpen, LogOut, Sun, Moon, Menu, X, Flame } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { supabase } from '@/lib/supabase';
 import { useRouter } from 'next/navigation';
-import { useFurigana } from './FuriganaProvider';
 import { useTheme } from 'next-themes';
-import { useTextSize } from './TextSizeProvider';
 import { useAuth } from './AuthProvider';
-import { Flame } from 'lucide-react';
 import { getStreakInfo, StreakInfo } from '@/lib/streakService';
 
 export function Header() {
   const { user, signOut } = useAuth();
   const router = useRouter();
-  const { showFurigana, toggleFurigana } = useFurigana();
   const { theme, setTheme } = useTheme();
-  const { textSize, toggleTextSize } = useTextSize();
   const [mounted, setMounted] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [streak, setStreak] = useState<StreakInfo | null>(null);
@@ -70,16 +65,6 @@ export function Header() {
                 </div>
               )}
 
-              {/* Text Size Toggle */}
-              <button 
-                onClick={toggleTextSize}
-                className="p-2 rounded-lg text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-slate-800 transition-colors focus:ring-2 focus:ring-blue-500 focus:outline-none"
-                title="Thay đổi cỡ chữ tiếng Nhật"
-                aria-label="Thay đổi cỡ chữ"
-              >
-                {textSize === 'normal' ? <AArrowUp className="w-5 h-5" /> : <AArrowDown className="w-5 h-5" />}
-              </button>
-
               {/* Theme Toggle */}
               <button
                 onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
@@ -91,16 +76,6 @@ export function Header() {
               </button>
             </>
           )}
-
-          <button 
-            onClick={toggleFurigana} 
-            className={`hidden sm:flex p-2 rounded-lg items-center gap-1 transition-colors focus:ring-2 focus:ring-blue-500 focus:outline-none ${showFurigana ? 'bg-blue-100 dark:bg-blue-900/40 text-blue-700 dark:text-blue-400' : 'bg-gray-100 dark:bg-slate-800 text-gray-500 dark:text-gray-400'}`}
-            title="Bật/tắt hiển thị cách đọc Furigana"
-            aria-label="Bật tắt Furigana"
-          >
-            <Type className="w-4 h-4" />
-            <span className="text-xs font-bold px-1">{showFurigana ? 'BẬT' : 'TẮT'}</span>
-          </button>
           
           <div className="hidden sm:block w-px h-6 bg-gray-200 dark:bg-slate-700"></div>
           
@@ -138,13 +113,6 @@ export function Header() {
             <Link onClick={() => setMobileMenuOpen(false)} href="/review" className="text-gray-600 dark:text-gray-300 hover:text-blue-600 font-medium">Ôn tập</Link>
           </nav>
           <div className="pt-4 border-t dark:border-slate-800 flex flex-col gap-4">
-            <button 
-              onClick={toggleFurigana} 
-              className={`w-full p-3 rounded-lg flex items-center justify-center gap-2 transition-colors ${showFurigana ? 'bg-blue-100 dark:bg-blue-900/40 text-blue-700 dark:text-blue-400' : 'bg-gray-100 dark:bg-slate-800 text-gray-500 dark:text-gray-400'}`}
-            >
-              <Type className="w-5 h-5" />
-              <span className="font-bold">Furigana: {showFurigana ? 'ĐANG BẬT' : 'ĐANG TẮT'}</span>
-            </button>
             {user ? (
               <div className="flex flex-col gap-3">
                 <span className="text-sm font-medium text-gray-700 dark:text-gray-300 text-center">{user.email}</span>
