@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { Ruby } from '@/components/Ruby';
 import { PlayAudioButton } from '@/components/PlayAudioButton';
 import { KanjiStrokeViewer } from '@/components/KanjiStrokeViewer';
+import { VocabularyImage } from '@/components/VocabularyImage';
 
 async function getLessonData(lessonId: string): Promise<Lesson | null> {
   try {
@@ -123,16 +124,27 @@ export default async function LessonPage({
                         )}
                       </td>
                       <td className="py-4 px-6 align-top">
-                        <div className="text-gray-900 dark:text-gray-100 font-semibold mb-2">{v.meaning}</div>
-                        {v.example && (
-                          <div className="mt-2 text-xs bg-gray-50 dark:bg-slate-900/50 p-3 rounded-xl border border-gray-100 dark:border-slate-700">
-                            <div className="text-gray-900 dark:text-gray-200 font-medium text-sm mb-1.5 flex items-start gap-1 jp-text">
-                              <div className="flex-1"><Ruby text={v.example.furigana || v.example.sentence} /></div>
-                              <PlayAudioButton text={v.example.sentence} className="mt-[-4px]" />
-                            </div>
-                            <div className="text-gray-500 dark:text-gray-400 text-sm leading-relaxed">{v.example.translation}</div>
+                        <div className="flex gap-4 items-start">
+                          {v.image && (
+                            <VocabularyImage 
+                              src={v.image} 
+                              alt={v.word} 
+                              className="w-16 h-16 sm:w-24 sm:h-24 object-cover rounded-xl border border-gray-200 dark:border-slate-700 shadow-sm shrink-0 hover:scale-105 transition-transform duration-300" 
+                            />
+                          )}
+                          <div className="flex-1 min-w-0">
+                            <div className="text-gray-900 dark:text-gray-100 font-semibold mb-2">{v.meaning}</div>
+                            {v.example && (
+                              <div className="mt-2 text-xs bg-gray-50 dark:bg-slate-900/50 p-3 rounded-xl border border-gray-100 dark:border-slate-700">
+                                <div className="text-gray-900 dark:text-gray-200 font-medium text-sm mb-1.5 flex items-start gap-1 jp-text">
+                                  <div className="flex-1"><Ruby text={v.example.furigana || v.example.sentence} /></div>
+                                  <PlayAudioButton text={v.example.sentence} className="mt-[-4px]" />
+                                </div>
+                                <div className="text-gray-500 dark:text-gray-400 text-sm leading-relaxed">{v.example.translation}</div>
+                              </div>
+                            )}
                           </div>
-                        )}
+                        </div>
                       </td>
                     </tr>
                   ))}

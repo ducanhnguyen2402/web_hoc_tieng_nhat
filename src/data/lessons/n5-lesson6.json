@@ -17,7 +17,8 @@
         "sentence": "朝ごはん に パン を 食べます。",
         "furigana": "[朝](あさ)ごはん に パン を [食](た)べます。",
         "translation": "Tôi ăn bánh mì vào bữa sáng."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6WiPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v2",
@@ -31,7 +32,8 @@
         "sentence": "毎朝 コーヒー を 飲みます。",
         "furigana": "[毎朝](まいあさ) コーヒー を [飲](の)みます。",
         "translation": "Mỗi sáng tôi uống cà phê."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6WkPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v3",
@@ -45,7 +47,8 @@
         "sentence": "スーパー で 野菜 を 買います。",
         "furigana": "スーパー で [野菜](やさい) を [買](か)います。",
         "translation": "Tôi mua rau ở siêu thị."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5uSPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v4",
@@ -59,7 +62,8 @@
         "sentence": "毎晩 本 を 読みます。",
         "furigana": "[毎晩](まいばん) [本](ほん) を [読](よ)みます。",
         "translation": "Mỗi tối tôi đọc sách."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OaPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v5",
@@ -73,7 +77,8 @@
         "sentence": "週末 に テレビ を 見ます。",
         "furigana": "[週末](しゅうまつ) に テレビ を [見](み)ます。",
         "translation": "Tôi xem tivi vào cuối tuần."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5GAPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v6",
@@ -87,7 +92,8 @@
         "sentence": "音楽 を 聞きます。",
         "furigana": "[音楽](おんがく) を [聞](き)きます。",
         "translation": "Tôi nghe nhạc."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZjJmZSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn46nPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v7",
@@ -101,7 +107,8 @@
         "sentence": "公園 で 写真 を 撮ります。",
         "furigana": "[公園](こうえん) で [写真](しゃしん) を [撮](と)ります。",
         "translation": "Tôi chụp ảnh ở công viên."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZTdmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5O4PC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v8",
@@ -115,7 +122,8 @@
         "sentence": "友達 と サッカー を します。",
         "furigana": "[友達](ともだち) と サッカー を します。",
         "translation": "Tôi chơi bóng đá cùng bạn."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YzZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn46uPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v9",
@@ -129,7 +137,8 @@
         "sentence": "家族 と 晩ご飯 を 食べます。",
         "furigana": "[家族](かぞく) と [晩](ばん)ご[飯](はん) を [食](た)べます。",
         "translation": "Tôi ăn cơm tối cùng gia đình."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn42aPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v10",
@@ -143,7 +152,8 @@
         "sentence": "朝 パン と 卵 を 食べました。",
         "furigana": "[朝](あさ) パン と [卵](たまご) を [食](た)べました。",
         "translation": "Buổi sáng tôi đã ăn bánh mì và trứng."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6WQPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v11",
@@ -157,7 +167,8 @@
         "sentence": "肉 と 野菜 を 買いました。",
         "furigana": "[肉](にく) と [野菜](やさい) を [買](か)いました。",
         "translation": "Tôi đã mua thịt và rau."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6WpPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v12",
@@ -171,7 +182,8 @@
         "sentence": "日本人 は よく 魚 を 食べます。",
         "furigana": "[日本人](にほんじん) は よく [魚](さかな) を [食](た)べます。",
         "translation": "Người Nhật thường hay ăn cá."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5CfPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v13",
@@ -185,7 +197,8 @@
         "sentence": "毎日 野菜 を たくさん 食べます。",
         "furigana": "[毎日](まいにち) [野菜](やさい) を たくさん [食](た)べます。",
         "translation": "Mỗi ngày tôi ăn nhiều rau."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6WmPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v14",
@@ -199,7 +212,8 @@
         "sentence": "果物 の 中 で りんご が 好き です。",
         "furigana": "[果物](くだもの) の [中](なか) で りんご が [好](す)き です。",
         "translation": "Trong các loại hoa quả tôi thích táo."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn42OPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v15",
@@ -213,7 +227,8 @@
         "sentence": "食後 に お茶 を 飲みます。",
         "furigana": "[食後](しょくご) に お[茶](ちゃ) を [飲](の)みます。",
         "translation": "Tôi uống trà sau bữa ăn."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn421PC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v16",
@@ -227,7 +242,8 @@
         "sentence": "喫茶店 で コーヒー を 飲みました。",
         "furigana": "[喫茶店](きっさてん) で コーヒー を [飲](の)みました。",
         "translation": "Tôi đã uống cà phê ở quán giải khát."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7imJU8L3RleHQ+PC9zdmc+"
     },
     {
       "id": "v17",
@@ -241,7 +257,8 @@
         "sentence": "あの レストラン で 昼ご飯 を 食べましょう。",
         "furigana": "あの レストラン で [昼](ひる)ご[飯](はん) を [食](た)べましょう。",
         "translation": "Chúng ta hãy cùng ăn trưa ở nhà hàng kia nhé."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZjJmZSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn42977iPPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v18",
@@ -255,7 +272,8 @@
         "sentence": "京都 で 写真 を たくさん 撮りました。",
         "furigana": "[京都](きょうと) で [写真](しゃしん) を たくさん [撮](と)りました。",
         "translation": "Tôi đã chụp nhiều ảnh ở Kyoto."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZTdmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5a877iPPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v19",
@@ -269,7 +287,8 @@
         "sentence": "一緒に 映画 を 見ませんか。",
         "furigana": "[一緒](いっしょ)に [映画](えいが) を [見](み)ませんか。",
         "translation": "Bạn có muốn cùng xem phim với tôi không?"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YzZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6SdPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v20",
@@ -283,7 +302,23 @@
         "sentence": "わたし は いつも 7時 に 起きます。",
         "furigana": "わたし は いつも [七時](しちじ) に [起](お)きます。",
         "translation": "Tôi luôn luôn thức dậy vào lúc 7 giờ."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5SEPC90ZXh0Pjwvc3ZnPg=="
+    },
+    {
+      "id": "v21",
+      "word": "スーパー",
+      "kanji": null,
+      "hiragana": "すーぱー",
+      "reading": "suupaa",
+      "meaning": "Siêu thị",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "スーパー で 野菜 を 買います。",
+        "furigana": "スーパー で [野菜](やさい) を [買](か)います。",
+        "translation": "Tôi mua rau ở siêu thị."
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4+sPC90ZXh0Pjwvc3ZnPg=="
     }
   ],
   "grammar": [

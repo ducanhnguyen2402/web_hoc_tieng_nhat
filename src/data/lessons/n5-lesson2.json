@@ -17,7 +17,8 @@
         "sentence": "これ は じしょ です。",
         "furigana": "これ は [辞書](じしょ) です。",
         "translation": "Đây là cuốn từ điển."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNkY2ZjZTciLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNiYmY3ZDAiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiMxNTgwM2QiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPkfhuqZOIFTDlEk8L3RleHQ+CgogICAgPCEtLSDEkMaw4budbmcgxJHhu6l0IG7DqXQgY2jhu4kgaMaw4bubbmcgLS0+CiAgICAKCiAgICA8IS0tIE5Hxq/hu5xJIENI4buIIChCw6puIHRyw6FpKSAtLT4KICAgIDwhLS0gxJDhuqd1IC0tPgogICAgPGNpcmNsZSBjeD0iMjQiIGN5PSIzNCIgcj0iOCIgZmlsbD0iIzFlMjkzYiIvPgogICAgPCEtLSBUaMOibiAmIENow6JuIC0tPgogICAgPHBhdGggZD0iTSAyNCA0MiBMIDI0IDY2IE0gMjQgNjYgTCAxNiA4NCBNIDI0IDY2IEwgMzAgODQiIHN0cm9rZT0iIzFlMjkzYiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogICAgPCEtLSBUYXkgY2jhu4kgLS0+CiAgICA8cGF0aCBkPSJNIDMyIDUwIFEgNDIgNTQgNTAgNjAiIHN0cm9rZT0iIzI1NjNlYiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgogICAgPCEtLSBOZ8OzbiB0YXkgdHLhu48gLS0+CiAgICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjU2IiByPSIyLjUiIGZpbGw9IiMyNTYzZWIiLz4KCiAgICA8IS0tIMSQ4buSIFbhuqxUIMSQxq/hu6JDIENI4buIIFThu5pJIChI4buZcCBxdcOgIG3DoHUgxJHhu48gY8OzIG7GoSB2w6BuZykgLS0+CiAgICA8cmVjdCB4PSI0NyIgeT0iNTQiIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiNlMTFkNDgiLz4KICAgIDwhLS0gUnV5IGLEg25nIC0tPgogICAgPGxpbmUgeDE9IjQ3IiB5MT0iNjUiIHgyPSI2OSIgeTI9IjY1IiBzdHJva2U9IiNmZGUwNDciIHN0cm9rZS13aWR0aD0iMiIvPgogICAgPGxpbmUgeDE9IjU4IiB5MT0iNTQiIHgyPSI1OCIgeTI9Ijc2IiBzdHJva2U9IiNmZGUwNDciIHN0cm9rZS13aWR0aD0iMiIvPgogICAgPCEtLSBOxqEgLS0+CiAgICA8Y2lyY2xlIGN4PSI1OCIgY3k9IjU0IiByPSIzIiBmaWxsPSIjZmRlMDQ3Ii8+CgogICAgPCEtLSBOaMOjbiBjaOG7ryBwaOG7pSAtLT4KICAgIDx0ZXh0IHg9IjUwIiB5PSI5MyIgZm9udC1zaXplPSI4IiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZmlsbD0iIzQ3NTU2OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+44GT44KMIChDw6FpIG7DoHkpPC90ZXh0PgogIDwvc3ZnPg=="
     },
     {
       "id": "v2",
@@ -31,7 +32,8 @@
         "sentence": "それ は わたし の かさ です。",
         "furigana": "それ は わたし の [傘](かさ) です。",
         "translation": "Đó là chiếc ô của tôi."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWYzYzciLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZGU2OGEiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiNDUzMDkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPkfhuqZOIELhuqBOPC90ZXh0PgoKICAgIDwhLS0gxJDGsOG7nW5nIMSR4bupdCBuw6l0IGNo4buJIGjGsOG7m25nIC0tPgogICAgPGxpbmUgeDE9IjM4IiB5MT0iNTIiIHgyPSI2NiIgeTI9IjU4IiBzdHJva2U9IiNmNTllMGIiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWRhc2hhcnJheT0iMywzIi8+CgogICAgPCEtLSBOR8av4bucSSBDSOG7iCAoQsOqbiB0csOhaSkgLS0+CiAgICA8IS0tIMSQ4bqndSAtLT4KICAgIDxjaXJjbGUgY3g9IjI0IiBjeT0iMzQiIHI9IjgiIGZpbGw9IiMxZTI5M2IiLz4KICAgIDwhLS0gVGjDom4gJiBDaMOibiAtLT4KICAgIDxwYXRoIGQ9Ik0gMjQgNDIgTCAyNCA2NiBNIDI0IDY2IEwgMTYgODQgTSAyNCA2NiBMIDMwIDg0IiBzdHJva2U9IiMxZTI5M2IiIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICAgIDwhLS0gVGF5IGNo4buJIC0tPgogICAgPHBhdGggZD0iTSAzMiA0OCBRIDQ4IDQ4IDYyIDU1IiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIGZpbGw9Im5vbmUiLz4KICAgIDwhLS0gTmfDs24gdGF5IHRy4buPIC0tPgogICAgPGNpcmNsZSBjeD0iNTUiIGN5PSI1NiIgcj0iMi41IiBmaWxsPSIjMjU2M2ViIi8+CgogICAgPCEtLSDEkOG7kiBW4bqsVCDEkMav4buiQyBDSOG7iCBU4buaSSAoSOG7mXAgcXXDoCBtw6B1IMSR4buPIGPDsyBuxqEgdsOgbmcpIC0tPgogICAgPHJlY3QgeD0iNjUiIHk9IjUzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSI0IiBmaWxsPSIjZTExZDQ4Ii8+CiAgICA8IS0tIFJ1eSBixINuZyAtLT4KICAgIDxsaW5lIHgxPSI2NSIgeTE9IjYyIiB4Mj0iODMiIHkyPSI2MiIgc3Ryb2tlPSIjZmRlMDQ3IiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDxsaW5lIHgxPSI3NCIgeTE9IjUzIiB4Mj0iNzQiIHkyPSI3MSIgc3Ryb2tlPSIjZmRlMDQ3IiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDwhLS0gTsahIC0tPgogICAgPGNpcmNsZSBjeD0iNzQiIGN5PSI1MyIgcj0iMyIgZmlsbD0iI2ZkZTA0NyIvPgoKICAgIDwhLS0gTmjDo24gY2jhu68gcGjhu6UgLS0+CiAgICA8dGV4dCB4PSI1MCIgeT0iOTMiIGZvbnQtc2l6ZT0iOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiM0NzU1NjkiIHRleHQtYW5jaG9yPSJtaWRkbGUiPuOBneOCjCAoQ8OhaSDEkcOzKTwvdGV4dD4KICA8L3N2Zz4="
     },
     {
       "id": "v3",
@@ -45,7 +47,8 @@
         "sentence": "あれ は くるま です。",
         "furigana": "あれ は [車](くるま) です。",
         "translation": "Kia là xe ô tô."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWUyZTIiLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZWNhY2EiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiOTFjMWMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPuG7niBYQTwvdGV4dD4KCiAgICA8IS0tIMSQxrDhu51uZyDEkeG7qXQgbsOpdCBjaOG7iSBoxrDhu5tuZyAtLT4KICAgIDxsaW5lIHgxPSIzNiIgeTE9IjQ2IiB4Mj0iNzYiIHkyPSIzOCIgc3Ryb2tlPSIjZWY0NDQ0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjMsMyIvPgoKICAgIDwhLS0gTkfGr+G7nEkgQ0jhu4ggKELDqm4gdHLDoWkpIC0tPgogICAgPCEtLSDEkOG6p3UgLS0+CiAgICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjM0IiByPSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICA8IS0tIFRow6JuICYgQ2jDom4gLS0+CiAgICA8cGF0aCBkPSJNIDI0IDQyIEwgMjQgNjYgTSAyNCA2NiBMIDE2IDg0IE0gMjQgNjYgTCAzMCA4NCIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8IS0tIFRheSBjaOG7iSAtLT4KICAgIDxwYXRoIGQ9Ik0gMzIgNDYgUSA1MiAzOCA3MiAzOCIgc3Ryb2tlPSIjMjU2M2ViIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBmaWxsPSJub25lIi8+CiAgICA8IS0tIE5nw7NuIHRheSB0cuG7jyAtLT4KICAgIDxjaXJjbGUgY3g9IjM4IiBjeT0iNTYiIHI9IjIuNSIgZmlsbD0iIzI1NjNlYiIvPgoKICAgIDwhLS0gxJDhu5IgVuG6rFQgxJDGr+G7okMgQ0jhu4ggVOG7mkkgKEjhu5lwIHF1w6AgbcOgdSDEkeG7jyBjw7MgbsahIHbDoG5nKSAtLT4KICAgIDxyZWN0IHg9Ijc3IiB5PSIzMSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iNCIgZmlsbD0iI2UxMWQ0OCIvPgogICAgPCEtLSBSdXkgYsSDbmcgLS0+CiAgICA8bGluZSB4MT0iNzciIHkxPSIzOCIgeDI9IjkxIiB5Mj0iMzgiIHN0cm9rZT0iI2ZkZTA0NyIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8bGluZSB4MT0iODQiIHkxPSIzMSIgeDI9Ijg0IiB5Mj0iNDUiIHN0cm9rZT0iI2ZkZTA0NyIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8IS0tIE7GoSAtLT4KICAgIDxjaXJjbGUgY3g9Ijg0IiBjeT0iMzEiIHI9IjMiIGZpbGw9IiNmZGUwNDciLz4KCiAgICA8IS0tIE5ow6NuIGNo4buvIHBo4bulIC0tPgogICAgPHRleHQgeD0iNTAiIHk9IjkzIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmaWxsPSIjNDc1NTY5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7jgYLjgowgKEPDoWkga2lhKTwvdGV4dD4KICA8L3N2Zz4="
     },
     {
       "id": "v4",
@@ -59,7 +62,8 @@
         "sentence": "この ほん は おもしろい です。",
         "furigana": "この [本](ほん) は おもしろい です。",
         "translation": "Cuốn sách này rất hay."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNkY2ZjZTciLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNiYmY3ZDAiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiMxNTgwM2QiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPkfhuqZOIFTDlEk8L3RleHQ+CgogICAgPCEtLSDEkMaw4budbmcgxJHhu6l0IG7DqXQgY2jhu4kgaMaw4bubbmcgLS0+CiAgICAKCiAgICA8IS0tIE5Hxq/hu5xJIENI4buIIChCw6puIHRyw6FpKSAtLT4KICAgIDwhLS0gxJDhuqd1IC0tPgogICAgPGNpcmNsZSBjeD0iMjQiIGN5PSIzNCIgcj0iOCIgZmlsbD0iIzFlMjkzYiIvPgogICAgPCEtLSBUaMOibiAmIENow6JuIC0tPgogICAgPHBhdGggZD0iTSAyNCA0MiBMIDI0IDY2IE0gMjQgNjYgTCAxNiA4NCBNIDI0IDY2IEwgMzAgODQiIHN0cm9rZT0iIzFlMjkzYiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogICAgPCEtLSBUYXkgY2jhu4kgLS0+CiAgICA8cGF0aCBkPSJNIDMyIDUwIFEgNDIgNTQgNTAgNjAiIHN0cm9rZT0iIzI1NjNlYiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgogICAgPCEtLSBOZ8OzbiB0YXkgdHLhu48gLS0+CiAgICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjU2IiByPSIyLjUiIGZpbGw9IiMyNTYzZWIiLz4KCiAgICA8IS0tIMSQ4buSIFbhuqxUIMSQxq/hu6JDIENI4buIIFThu5pJIChI4buZcCBxdcOgIG3DoHUgxJHhu48gY8OzIG7GoSB2w6BuZykgLS0+CiAgICA8cmVjdCB4PSI0NyIgeT0iNTQiIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiNlMTFkNDgiLz4KICAgIDwhLS0gUnV5IGLEg25nIC0tPgogICAgPGxpbmUgeDE9IjQ3IiB5MT0iNjUiIHgyPSI2OSIgeTI9IjY1IiBzdHJva2U9IiNmZGUwNDciIHN0cm9rZS13aWR0aD0iMiIvPgogICAgPGxpbmUgeDE9IjU4IiB5MT0iNTQiIHgyPSI1OCIgeTI9Ijc2IiBzdHJva2U9IiNmZGUwNDciIHN0cm9rZS13aWR0aD0iMiIvPgogICAgPCEtLSBOxqEgLS0+CiAgICA8Y2lyY2xlIGN4PSI1OCIgY3k9IjU0IiByPSIzIiBmaWxsPSIjZmRlMDQ3Ii8+CgogICAgPCEtLSBOaMOjbiBjaOG7ryBwaOG7pSAtLT4KICAgIDx0ZXh0IHg9IjUwIiB5PSI5MyIgZm9udC1zaXplPSI4IiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZmlsbD0iIzQ3NTU2OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+44GT44GuIChOw6B5KTwvdGV4dD4KICA8L3N2Zz4="
     },
     {
       "id": "v5",
@@ -73,7 +77,8 @@
         "sentence": "その かばん は だれ の ですか。",
         "furigana": "その かばん は [誰](だれ) の ですか。",
         "translation": "Chiếc cặp đó là của ai vậy?"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWYzYzciLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZGU2OGEiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiNDUzMDkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPkfhuqZOIELhuqBOPC90ZXh0PgoKICAgIDwhLS0gxJDGsOG7nW5nIMSR4bupdCBuw6l0IGNo4buJIGjGsOG7m25nIC0tPgogICAgPGxpbmUgeDE9IjM4IiB5MT0iNTIiIHgyPSI2NiIgeTI9IjU4IiBzdHJva2U9IiNmNTllMGIiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWRhc2hhcnJheT0iMywzIi8+CgogICAgPCEtLSBOR8av4bucSSBDSOG7iCAoQsOqbiB0csOhaSkgLS0+CiAgICA8IS0tIMSQ4bqndSAtLT4KICAgIDxjaXJjbGUgY3g9IjI0IiBjeT0iMzQiIHI9IjgiIGZpbGw9IiMxZTI5M2IiLz4KICAgIDwhLS0gVGjDom4gJiBDaMOibiAtLT4KICAgIDxwYXRoIGQ9Ik0gMjQgNDIgTCAyNCA2NiBNIDI0IDY2IEwgMTYgODQgTSAyNCA2NiBMIDMwIDg0IiBzdHJva2U9IiMxZTI5M2IiIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICAgIDwhLS0gVGF5IGNo4buJIC0tPgogICAgPHBhdGggZD0iTSAzMiA0OCBRIDQ4IDQ4IDYyIDU1IiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIGZpbGw9Im5vbmUiLz4KICAgIDwhLS0gTmfDs24gdGF5IHRy4buPIC0tPgogICAgPGNpcmNsZSBjeD0iNTUiIGN5PSI1NiIgcj0iMi41IiBmaWxsPSIjMjU2M2ViIi8+CgogICAgPCEtLSDEkOG7kiBW4bqsVCDEkMav4buiQyBDSOG7iCBU4buaSSAoSOG7mXAgcXXDoCBtw6B1IMSR4buPIGPDsyBuxqEgdsOgbmcpIC0tPgogICAgPHJlY3QgeD0iNjUiIHk9IjUzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSI0IiBmaWxsPSIjZTExZDQ4Ii8+CiAgICA8IS0tIFJ1eSBixINuZyAtLT4KICAgIDxsaW5lIHgxPSI2NSIgeTE9IjYyIiB4Mj0iODMiIHkyPSI2MiIgc3Ryb2tlPSIjZmRlMDQ3IiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDxsaW5lIHgxPSI3NCIgeTE9IjUzIiB4Mj0iNzQiIHkyPSI3MSIgc3Ryb2tlPSIjZmRlMDQ3IiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDwhLS0gTsahIC0tPgogICAgPGNpcmNsZSBjeD0iNzQiIGN5PSI1MyIgcj0iMyIgZmlsbD0iI2ZkZTA0NyIvPgoKICAgIDwhLS0gTmjDo24gY2jhu68gcGjhu6UgLS0+CiAgICA8dGV4dCB4PSI1MCIgeT0iOTMiIGZvbnQtc2l6ZT0iOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiM0NzU1NjkiIHRleHQtYW5jaG9yPSJtaWRkbGUiPuOBneOBriAoxJDDsyk8L3RleHQ+CiAgPC9zdmc+"
     },
     {
       "id": "v6",
@@ -87,7 +92,8 @@
         "sentence": "あの ひと は たなかさん です。",
         "furigana": "あの [人](ひと) は [田中](たなか)さん です。",
         "translation": "Người kia là anh Tanaka."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWUyZTIiLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZWNhY2EiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiOTFjMWMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPuG7niBYQTwvdGV4dD4KCiAgICA8IS0tIMSQxrDhu51uZyDEkeG7qXQgbsOpdCBjaOG7iSBoxrDhu5tuZyAtLT4KICAgIDxsaW5lIHgxPSIzNiIgeTE9IjQ2IiB4Mj0iNzYiIHkyPSIzOCIgc3Ryb2tlPSIjZWY0NDQ0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjMsMyIvPgoKICAgIDwhLS0gTkfGr+G7nEkgQ0jhu4ggKELDqm4gdHLDoWkpIC0tPgogICAgPCEtLSDEkOG6p3UgLS0+CiAgICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjM0IiByPSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICA8IS0tIFRow6JuICYgQ2jDom4gLS0+CiAgICA8cGF0aCBkPSJNIDI0IDQyIEwgMjQgNjYgTSAyNCA2NiBMIDE2IDg0IE0gMjQgNjYgTCAzMCA4NCIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8IS0tIFRheSBjaOG7iSAtLT4KICAgIDxwYXRoIGQ9Ik0gMzIgNDYgUSA1MiAzOCA3MiAzOCIgc3Ryb2tlPSIjMjU2M2ViIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBmaWxsPSJub25lIi8+CiAgICA8IS0tIE5nw7NuIHRheSB0cuG7jyAtLT4KICAgIDxjaXJjbGUgY3g9IjM4IiBjeT0iNTYiIHI9IjIuNSIgZmlsbD0iIzI1NjNlYiIvPgoKICAgIDwhLS0gxJDhu5IgVuG6rFQgxJDGr+G7okMgQ0jhu4ggVOG7mkkgKEjhu5lwIHF1w6AgbcOgdSDEkeG7jyBjw7MgbsahIHbDoG5nKSAtLT4KICAgIDxyZWN0IHg9Ijc3IiB5PSIzMSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iNCIgZmlsbD0iI2UxMWQ0OCIvPgogICAgPCEtLSBSdXkgYsSDbmcgLS0+CiAgICA8bGluZSB4MT0iNzciIHkxPSIzOCIgeDI9IjkxIiB5Mj0iMzgiIHN0cm9rZT0iI2ZkZTA0NyIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8bGluZSB4MT0iODQiIHkxPSIzMSIgeDI9Ijg0IiB5Mj0iNDUiIHN0cm9rZT0iI2ZkZTA0NyIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8IS0tIE7GoSAtLT4KICAgIDxjaXJjbGUgY3g9Ijg0IiBjeT0iMzEiIHI9IjMiIGZpbGw9IiNmZGUwNDciLz4KCiAgICA8IS0tIE5ow6NuIGNo4buvIHBo4bulIC0tPgogICAgPHRleHQgeD0iNTAiIHk9IjkzIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmaWxsPSIjNDc1NTY5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7jgYLjga4gKEtpYSk8L3RleHQ+CiAgPC9zdmc+"
     },
     {
       "id": "v7",
@@ -101,7 +107,8 @@
         "sentence": "これ は にほんご の ほん です。",
         "furigana": "これ は [日本語](にほんご) の [本](ほん) です。",
         "translation": "Đây là sách tiếng Nhật."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OVPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v8",
@@ -115,7 +122,8 @@
         "sentence": "それ は えいご の じしょ です。",
         "furigana": "それ は [英語](えいご) の [辞書](じしょ) です。",
         "translation": "Đó là cuốn từ điển tiếng Anh."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OWPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v9",
@@ -129,7 +137,8 @@
         "sentence": "あれ は くるま の ざっし です。",
         "furigana": "あれ は [車](くるま) の [雑誌](ざっし) です。",
         "translation": "Kia là tạp chí về ô tô."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OwPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v10",
@@ -143,7 +152,8 @@
         "sentence": "これ は にほん の しんぶん です。",
         "furigana": "これ は [日本](にほん) の [新聞](しんぶん) です。",
         "translation": "Đây là báo Nhật Bản."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5ee77iPPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v11",
@@ -157,7 +167,8 @@
         "sentence": "この ノート は わたし の です。",
         "furigana": "この ノート は わたし の です。",
         "translation": "Cuốn vở này là của tôi."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OTPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v12",
@@ -171,7 +182,8 @@
         "sentence": "これ は くるま の かぎ です。",
         "furigana": "これ は [車](くるま) の [鍵](かぎ) です。",
         "translation": "Đây là chìa khóa xe hơi."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZjJmZSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5SRPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v13",
@@ -185,7 +197,8 @@
         "sentence": "あれ は スイス の とけい です。",
         "furigana": "あれ は スイス の [時計](とけい) です。",
         "translation": "Kia là chiếc đồng hồ của Thụy Sĩ."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZTdmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7ijJo8L3RleHQ+PC9zdmc+"
     },
     {
       "id": "v14",
@@ -199,7 +212,8 @@
         "sentence": "それ は あなた の かさ ですか。",
         "furigana": "それ は あなた の [傘](かさ) ですか。",
         "translation": "Đó có phải là chiếc ô của bạn không?"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YzZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7imJQ8L3RleHQ+PC9zdmc+"
     },
     {
       "id": "v15",
@@ -213,7 +227,8 @@
         "sentence": "この かばん は せんせい の です。",
         "furigana": "この かばん は [先生](せんせい) の です。",
         "translation": "Chiếc cặp này là của thầy giáo."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5K8PC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v16",
@@ -227,7 +242,8 @@
         "sentence": "あれ は にほん の くるま です。",
         "furigana": "あれ は [日本](にほん) の [車](くるま) です。",
         "translation": "Kia là xe hơi của Nhật Bản."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5qXPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v17",
@@ -241,7 +257,8 @@
         "sentence": "これ は わたし の つくえ です。",
         "furigana": "これ は わたし の [机](つくえ) です。",
         "translation": "Đây là bàn của tôi."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6qRPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v18",
@@ -255,7 +272,8 @@
         "sentence": "あの ひと は だれ ですか。",
         "furigana": "あの [人](ひと) は [誰](だれ) ですか。",
         "translation": "Người kia là ai vậy?"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5GkPC90ZXh0Pjwvc3ZnPg=="
     }
   ],
   "grammar": [
@@ -340,7 +358,12 @@
       "id": "q1",
       "type": "multiple_choice",
       "questionText": "Chọn từ tiếng Nhật có nghĩa là 'Từ điển':",
-      "options": ["ほん", "じしょ", "ざっし", "しんぶん"],
+      "options": [
+        "ほん",
+        "じしょ",
+        "ざっし",
+        "しんぶん"
+      ],
       "correctAnswer": "じしょ",
       "explanation": "Từ 'じしょ' (辞書) có nghĩa là từ điển. Các lựa chọn khác: ほん (sách), ざっし (tạp chí), しんぶん (báo)."
     },
@@ -348,8 +371,12 @@
       "id": "q2",
       "type": "multiple_choice",
       "questionText": "Người nói muốn chỉ một đồ vật ở gần phía người nghe thì dùng từ nào?",
-      "options": ["これ", "それ", "あれ", "どれ"],
-      "correctAnswer": "口コミ",
+      "options": [
+        "これ",
+        "それ",
+        "あれ",
+        "どれ"
+      ],
       "correctAnswer": "それ",
       "explanation": "'それ' dùng để chỉ đồ vật ở gần người nghe nhưng xa người nói. 'これ' dùng cho vật ở gần người nói, 'あれ' dùng cho vật ở xa cả hai người."
     },
@@ -357,7 +384,12 @@
       "id": "q3",
       "type": "multiple_choice",
       "questionText": "Điền vào chỗ trống: _____ ほん は わたし の です。",
-      "options": ["これ", "この", "それ", "あれ"],
+      "options": [
+        "これ",
+        "この",
+        "それ",
+        "あれ"
+      ],
       "correctAnswer": "この",
       "explanation": "Trước danh từ (ほん) bắt buộc phải dùng chỉ định từ dạng 'この + N', không thể dùng đại từ độc lập 'これ' để bổ nghĩa trực tiếp cho danh từ."
     },
@@ -386,24 +418,60 @@
       "id": "q7",
       "type": "ordering",
       "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Đây là sách tiếng Nhật.'",
-      "words": ["ほん", "これ", "にほんごの", "は", "です"],
-      "correctOrder": ["これ", "は", "にほんごの", "ほん", "です"],
+      "words": [
+        "ほん",
+        "これ",
+        "にほんごの",
+        "は",
+        "です"
+      ],
+      "correctOrder": [
+        "これ",
+        "は",
+        "にほんごの",
+        "ほん",
+        "です"
+      ],
       "explanation": "Cấu trúc chuẩn: Chủ ngữ (これ は) + Bổ ngữ (にほんごの ほん) + です."
     },
     {
       "id": "q8",
       "type": "ordering",
       "questionText": "Sắp xếp các từ sau thành câu: 'Chiếc ô này là của tôi.'",
-      "words": ["この", "わたし", "は", "です", "かさ", "の"],
-      "correctOrder": ["この", "かさ", "は", "わたし", "の", "です"],
+      "words": [
+        "この",
+        "わたし",
+        "は",
+        "です",
+        "かさ",
+        "の"
+      ],
+      "correctOrder": [
+        "この",
+        "かさ",
+        "は",
+        "わたし",
+        "の",
+        "です"
+      ],
       "explanation": "Cụm chủ ngữ là 'この かさ は' (Chiếc ô này), vị ngữ sở hữu là 'わたし の です' (là của tôi)."
     },
     {
       "id": "q9",
       "type": "ordering",
       "questionText": "Sắp xếp các từ sau thành câu hỏi: 'Kia có phải là đồng hồ không?'",
-      "words": ["とけい", "ですか", "は", "あれ"],
-      "correctOrder": ["あれ", "は", "とけい", "ですか"],
+      "words": [
+        "とけい",
+        "ですか",
+        "は",
+        "あれ"
+      ],
+      "correctOrder": [
+        "あれ",
+        "は",
+        "とけい",
+        "ですか"
+      ],
       "explanation": "Cấu trúc nghi vấn: Chủ ngữ (あれ は) + Danh từ (とけい) + ですか."
     },
     {

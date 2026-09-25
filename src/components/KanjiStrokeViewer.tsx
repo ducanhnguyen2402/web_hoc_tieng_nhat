@@ -31,8 +31,8 @@ export function KanjiStrokeViewer({ character, width = 60, height = 60 }: KanjiS
         delayBetweenStrokes: 150,
         charDataLoader: (char, onComplete, onError) => {
           if (!char) return;
-          // Use kanji-writer-data-jp for Japanese kanji stroke orders
-          fetch(`https://cdn.jsdelivr.net/npm/kanji-writer-data-jp@0.0.1/data/${char}.json`)
+          // Use hanzi-writer-data-jp for Japanese kanji stroke orders
+          fetch(`https://cdn.jsdelivr.net/npm/hanzi-writer-data-jp@latest/${encodeURIComponent(char)}.json`)
             .then(res => {
               if (!res.ok) return null;
               return res.json();
@@ -67,14 +67,7 @@ export function KanjiStrokeViewer({ character, width = 60, height = 60 }: KanjiS
   };
 
   if (error || !character) {
-    return (
-      <div 
-        style={{ width, height }}
-        className="flex items-center justify-center border border-gray-200 rounded-lg bg-gray-50 text-gray-400 text-xs text-center p-2"
-      >
-        Không có dữ liệu nét chữ
-      </div>
-    );
+    return null;
   }
 
   return (

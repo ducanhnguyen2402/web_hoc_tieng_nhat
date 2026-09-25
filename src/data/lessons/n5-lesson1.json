@@ -4,12 +4,48 @@
   "title": "Bài 1: Giới thiệu bản thân",
   "description": "Học cách chào hỏi cơ bản và tự giới thiệu bản thân trong tiếng Nhật.",
   "vocabulary": [
-    { "id": "v1", "word": "わたし", "reading": "watashi", "meaning": "Tôi" },
-    { "id": "v2", "word": "あなた", "reading": "anata", "meaning": "Bạn" },
-    { "id": "v3", "word": "がくせい", "reading": "gakusei", "meaning": "Học sinh, sinh viên" },
-    { "id": "v4", "word": "せんせい", "reading": "sensei", "meaning": "Giáo viên" },
-    { "id": "v5", "word": "はい", "reading": "hai", "meaning": "Vâng, đúng" },
-    { "id": "v6", "word": "いいえ", "reading": "iie", "meaning": "Không" }
+    {
+      "id": "v1",
+      "word": "わたし",
+      "reading": "watashi",
+      "meaning": "Tôi",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5mLPC90ZXh0Pjwvc3ZnPg=="
+    },
+    {
+      "id": "v2",
+      "word": "あなた",
+      "reading": "anata",
+      "meaning": "Bạn",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5GJPC90ZXh0Pjwvc3ZnPg=="
+    },
+    {
+      "id": "v3",
+      "word": "がくせい",
+      "reading": "gakusei",
+      "meaning": "Học sinh, sinh viên",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn46SPC90ZXh0Pjwvc3ZnPg=="
+    },
+    {
+      "id": "v4",
+      "word": "せんせい",
+      "reading": "sensei",
+      "meaning": "Giáo viên",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5Go4oCN8J+PqzwvdGV4dD48L3N2Zz4="
+    },
+    {
+      "id": "v5",
+      "word": "はい",
+      "reading": "hai",
+      "meaning": "Vâng, đúng",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7inIU8L3RleHQ+PC9zdmc+"
+    },
+    {
+      "id": "v6",
+      "word": "いいえ",
+      "reading": "iie",
+      "meaning": "Không",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7inYw8L3RleHQ+PC9zdmc+"
+    }
   ],
   "grammar": [
     {
@@ -17,8 +53,14 @@
       "pattern": "N1 は N2 です",
       "explanation": "Dùng để nói N1 là N2. Trợ từ は đọc là 'wa'.",
       "examples": [
-        { "japanese": "わたし は がくせい です。", "vietnamese": "Tôi là học sinh." },
-        { "japanese": "マイク・ミラー は アメリカじん です。", "vietnamese": "Mike Miller là người Mỹ." }
+        {
+          "japanese": "わたし は がくせい です。",
+          "vietnamese": "Tôi là học sinh."
+        },
+        {
+          "japanese": "マイク・ミラー は アメリカじん です。",
+          "vietnamese": "Mike Miller là người Mỹ."
+        }
       ]
     },
     {
@@ -26,7 +68,10 @@
       "pattern": "N1 は N2 じゃありません",
       "explanation": "Thể phủ định của です, dùng để nói N1 không phải là N2.",
       "examples": [
-        { "japanese": "わたし は せんせい じゃありません。", "vietnamese": "Tôi không phải là giáo viên." }
+        {
+          "japanese": "わたし は せんせい じゃありません。",
+          "vietnamese": "Tôi không phải là giáo viên."
+        }
       ]
     },
     {
@@ -34,7 +79,10 @@
       "pattern": "S か",
       "explanation": "Câu hỏi. Thêm か vào cuối câu để tạo thành câu hỏi.",
       "examples": [
-        { "japanese": "あなたは がくせいですか。", "vietnamese": "Bạn có phải là học sinh không?" }
+        {
+          "japanese": "あなたは がくせいですか。",
+          "vietnamese": "Bạn có phải là học sinh không?"
+        }
       ]
     }
   ]

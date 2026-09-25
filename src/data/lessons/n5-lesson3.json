@@ -17,7 +17,8 @@
         "sentence": "ここ は きょうしつ です。",
         "furigana": "ここ は [教室](きょうしつ) です。",
         "translation": "Đây là phòng học."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNlMGYyZmUiLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNiYWU2ZmQiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiMwMzY5YTEiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPlThuqBJIMSQw4JZPC90ZXh0PgoKICAgIDwhLS0gxJDGsOG7nW5nIGNo4buJIGjGsOG7m25nIC0tPgogICAgCgogICAgPCEtLSBOR8av4bucSSBDSOG7iCAoQsOqbiB0csOhaSkgLS0+CiAgICA8Y2lyY2xlIGN4PSIyMiIgY3k9IjM0IiByPSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICA8cGF0aCBkPSJNIDIyIDQyIEwgMjIgNjYgTSAyMiA2NiBMIDE0IDg0IE0gMjIgNjYgTCAyOCA4NCIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8cGF0aCBkPSJNIDI4IDUwIFEgMzggNTggNDggNjgiIHN0cm9rZT0iIzAyODRjNyIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgoKICAgIDwhLS0gUElOIFbhu4ogVFLDjSDwn5ONICjEkOG7i2EgxJFp4buDbSkgLS0+CiAgICA8IS0tIFbDsm5nIHRyw7JuIGLDs25nIMSR4buVIC0tPgogICAgPGVsbGlwc2UgY3g9IjU0IiBjeT0iODIiIHJ4PSI4IiByeT0iMyIgZmlsbD0icmdiYSgwLDAsMCwwLjE1KSIvPgogICAgPCEtLSBJY29uIFBpbiBnaGltIMSR4buLbmggduG7iyAtLT4KICAgIDxwYXRoIGQ9Ik0gNTQgODAgQyA0NyA3MiA0NyA2MiA1NCA2MiBDIDYxIDYyIDYxIDcyIDU0IDgwIFoiIGZpbGw9IiNlZjQ0NDQiLz4KICAgIDxjaXJjbGUgY3g9IjU0IiBjeT0iNjciIHI9IjMiIGZpbGw9IiNmZmZmZmYiLz4KCiAgICA8IS0tIE5ow6NuIGNo4buvIHBo4bulIC0tPgogICAgPHRleHQgeD0iNTAiIHk9IjkzIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmaWxsPSIjNDc1NTY5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7jgZPjgZMgKENo4buXIG7DoHkpPC90ZXh0PgogIDwvc3ZnPg=="
     },
     {
       "id": "v2",
@@ -31,7 +32,8 @@
         "sentence": "そこ は じむしょ です。",
         "furigana": "そこ は [事務所](じむしょ) です。",
         "translation": "Đó là văn phòng."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWYzYzciLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZGU2OGEiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiNDUzMDkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPsSQ4bqwTkcgxJDDkzwvdGV4dD4KCiAgICA8IS0tIMSQxrDhu51uZyBjaOG7iSBoxrDhu5tuZyAtLT4KICAgIDxsaW5lIHgxPSIzNCIgeTE9IjUyIiB4Mj0iNjQiIHkyPSI2MiIgc3Ryb2tlPSIjZjU5ZTBiIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjMsMyIvPgoKICAgIDwhLS0gTkfGr+G7nEkgQ0jhu4ggKELDqm4gdHLDoWkpIC0tPgogICAgPGNpcmNsZSBjeD0iMjIiIGN5PSIzNCIgcj0iOCIgZmlsbD0iIzFlMjkzYiIvPgogICAgPHBhdGggZD0iTSAyMiA0MiBMIDIyIDY2IE0gMjIgNjYgTCAxNCA4NCBNIDIyIDY2IEwgMjggODQiIHN0cm9rZT0iIzFlMjkzYiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogICAgPHBhdGggZD0iTSAyOCA0OCBRIDQ2IDUwIDYyIDYwIiBzdHJva2U9IiMwMjg0YzciIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIGZpbGw9Im5vbmUiLz4KCiAgICA8IS0tIFBJTiBW4buKIFRSw40g8J+TjSAoxJDhu4thIMSRaeG7g20pIC0tPgogICAgPCEtLSBWw7JuZyB0csOybiBiw7NuZyDEkeG7lSAtLT4KICAgIDxlbGxpcHNlIGN4PSI3MiIgY3k9Ijc0IiByeD0iOCIgcnk9IjMiIGZpbGw9InJnYmEoMCwwLDAsMC4xNSkiLz4KICAgIDwhLS0gSWNvbiBQaW4gZ2hpbSDEkeG7i25oIHbhu4sgLS0+CiAgICA8cGF0aCBkPSJNIDcyIDcyIEMgNjUgNjQgNjUgNTQgNzIgNTQgQyA3OSA1NCA3OSA2NCA3MiA3MiBaIiBmaWxsPSIjZWY0NDQ0Ii8+CiAgICA8Y2lyY2xlIGN4PSI3MiIgY3k9IjU5IiByPSIzIiBmaWxsPSIjZmZmZmZmIi8+CgogICAgPCEtLSBOaMOjbiBjaOG7ryBwaOG7pSAtLT4KICAgIDx0ZXh0IHg9IjUwIiB5PSI5MyIgZm9udC1zaXplPSI4IiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZmlsbD0iIzQ3NTU2OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+44Gd44GTIChDaOG7lyDEkcOzKTwvdGV4dD4KICA8L3N2Zz4="
     },
     {
       "id": "v3",
@@ -45,7 +47,8 @@
         "sentence": "あそこ は しょくどう です。",
         "furigana": "あそこ は [食堂](しょくどう) です。",
         "translation": "Kia là nhà ăn."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWUyZTIiLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZWNhY2EiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiOTFjMWMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPsSQ4bqwTkcgS0lBPC90ZXh0PgoKICAgIDwhLS0gxJDGsOG7nW5nIGNo4buJIGjGsOG7m25nIC0tPgogICAgPGxpbmUgeDE9IjM0IiB5MT0iNDYiIHgyPSI3NiIgeTI9IjQyIiBzdHJva2U9IiNlZjQ0NDQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWRhc2hhcnJheT0iMywzIi8+CgogICAgPCEtLSBOR8av4bucSSBDSOG7iCAoQsOqbiB0csOhaSkgLS0+CiAgICA8Y2lyY2xlIGN4PSIyMiIgY3k9IjM0IiByPSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICA8cGF0aCBkPSJNIDIyIDQyIEwgMjIgNjYgTSAyMiA2NiBMIDE0IDg0IE0gMjIgNjYgTCAyOCA4NCIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8cGF0aCBkPSJNIDI4IDQ2IFEgNTIgNDAgNzQgNDIiIHN0cm9rZT0iIzAyODRjNyIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgoKICAgIDwhLS0gUElOIFbhu4ogVFLDjSDwn5ONICjEkOG7i2EgxJFp4buDbSkgLS0+CiAgICA8IS0tIFbDsm5nIHRyw7JuIGLDs25nIMSR4buVIC0tPgogICAgPGVsbGlwc2UgY3g9Ijg0IiBjeT0iNTAiIHJ4PSI4IiByeT0iMyIgZmlsbD0icmdiYSgwLDAsMCwwLjE1KSIvPgogICAgPCEtLSBJY29uIFBpbiBnaGltIMSR4buLbmggduG7iyAtLT4KICAgIDxwYXRoIGQ9Ik0gODQgNDggQyA3NyA0MCA3NyAzMCA4NCAzMCBDIDkxIDMwIDkxIDQwIDg0IDQ4IFoiIGZpbGw9IiNlZjQ0NDQiLz4KICAgIDxjaXJjbGUgY3g9Ijg0IiBjeT0iMzUiIHI9IjMiIGZpbGw9IiNmZmZmZmYiLz4KCiAgICA8IS0tIE5ow6NuIGNo4buvIHBo4bulIC0tPgogICAgPHRleHQgeD0iNTAiIHk9IjkzIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmaWxsPSIjNDc1NTY5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7jgYLjgZ3jgZMgKENo4buXIGtpYSk8L3RleHQ+CiAgPC9zdmc+"
     },
     {
       "id": "v4",
@@ -59,7 +62,8 @@
         "sentence": "といれ は どこ ですか。",
         "furigana": "トイレ は どこ ですか。",
         "translation": "Nhà vệ sinh ở đâu vậy?"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7inZM8L3RleHQ+PC9zdmc+"
     },
     {
       "id": "v5",
@@ -73,7 +77,8 @@
         "sentence": "こちら は うけつけ です。",
         "furigana": "こちら は [受付](うけつけ) です。",
         "translation": "Phía này là quầy tiếp tân."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNlMGYyZmUiLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNiYWU2ZmQiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiMwMzY5YTEiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPlThuqBJIMSQw4JZPC90ZXh0PgoKICAgIDwhLS0gxJDGsOG7nW5nIGNo4buJIGjGsOG7m25nIC0tPgogICAgCgogICAgPCEtLSBOR8av4bucSSBDSOG7iCAoQsOqbiB0csOhaSkgLS0+CiAgICA8Y2lyY2xlIGN4PSIyMiIgY3k9IjM0IiByPSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICA8cGF0aCBkPSJNIDIyIDQyIEwgMjIgNjYgTSAyMiA2NiBMIDE0IDg0IE0gMjIgNjYgTCAyOCA4NCIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8cGF0aCBkPSJNIDI4IDUwIFEgMzggNTggNDggNjgiIHN0cm9rZT0iIzAyODRjNyIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgoKICAgIDwhLS0gUElOIFbhu4ogVFLDjSDwn5ONICjEkOG7i2EgxJFp4buDbSkgLS0+CiAgICA8IS0tIFbDsm5nIHRyw7JuIGLDs25nIMSR4buVIC0tPgogICAgPGVsbGlwc2UgY3g9IjU0IiBjeT0iODIiIHJ4PSI4IiByeT0iMyIgZmlsbD0icmdiYSgwLDAsMCwwLjE1KSIvPgogICAgPCEtLSBJY29uIFBpbiBnaGltIMSR4buLbmggduG7iyAtLT4KICAgIDxwYXRoIGQ9Ik0gNTQgODAgQyA0NyA3MiA0NyA2MiA1NCA2MiBDIDYxIDYyIDYxIDcyIDU0IDgwIFoiIGZpbGw9IiNlZjQ0NDQiLz4KICAgIDxjaXJjbGUgY3g9IjU0IiBjeT0iNjciIHI9IjMiIGZpbGw9IiNmZmZmZmYiLz4KCiAgICA8IS0tIE5ow6NuIGNo4buvIHBo4bulIC0tPgogICAgPHRleHQgeD0iNTAiIHk9IjkzIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmaWxsPSIjNDc1NTY5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7jgZPjgaHjgokgKFBow61hIG7DoHkpPC90ZXh0PgogIDwvc3ZnPg=="
     },
     {
       "id": "v6",
@@ -87,7 +92,8 @@
         "sentence": "そちら は かいぎしつ です。",
         "furigana": "そちら は [会議室](かいぎしつ) です。",
         "translation": "Phía đó là phòng họp."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWYzYzciLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZGU2OGEiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiNDUzMDkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPsSQ4bqwTkcgxJDDkzwvdGV4dD4KCiAgICA8IS0tIMSQxrDhu51uZyBjaOG7iSBoxrDhu5tuZyAtLT4KICAgIDxsaW5lIHgxPSIzNCIgeTE9IjUyIiB4Mj0iNjQiIHkyPSI2MiIgc3Ryb2tlPSIjZjU5ZTBiIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjMsMyIvPgoKICAgIDwhLS0gTkfGr+G7nEkgQ0jhu4ggKELDqm4gdHLDoWkpIC0tPgogICAgPGNpcmNsZSBjeD0iMjIiIGN5PSIzNCIgcj0iOCIgZmlsbD0iIzFlMjkzYiIvPgogICAgPHBhdGggZD0iTSAyMiA0MiBMIDIyIDY2IE0gMjIgNjYgTCAxNCA4NCBNIDIyIDY2IEwgMjggODQiIHN0cm9rZT0iIzFlMjkzYiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogICAgPHBhdGggZD0iTSAyOCA0OCBRIDQ2IDUwIDYyIDYwIiBzdHJva2U9IiMwMjg0YzciIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIGZpbGw9Im5vbmUiLz4KCiAgICA8IS0tIFBJTiBW4buKIFRSw40g8J+TjSAoxJDhu4thIMSRaeG7g20pIC0tPgogICAgPCEtLSBWw7JuZyB0csOybiBiw7NuZyDEkeG7lSAtLT4KICAgIDxlbGxpcHNlIGN4PSI3MiIgY3k9Ijc0IiByeD0iOCIgcnk9IjMiIGZpbGw9InJnYmEoMCwwLDAsMC4xNSkiLz4KICAgIDwhLS0gSWNvbiBQaW4gZ2hpbSDEkeG7i25oIHbhu4sgLS0+CiAgICA8cGF0aCBkPSJNIDcyIDcyIEMgNjUgNjQgNjUgNTQgNzIgNTQgQyA3OSA1NCA3OSA2NCA3MiA3MiBaIiBmaWxsPSIjZWY0NDQ0Ii8+CiAgICA8Y2lyY2xlIGN4PSI3MiIgY3k9IjU5IiByPSIzIiBmaWxsPSIjZmZmZmZmIi8+CgogICAgPCEtLSBOaMOjbiBjaOG7ryBwaOG7pSAtLT4KICAgIDx0ZXh0IHg9IjUwIiB5PSI5MyIgZm9udC1zaXplPSI4IiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZmlsbD0iIzQ3NTU2OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+44Gd44Gh44KJIChQaMOtYSDEkcOzKTwvdGV4dD4KICA8L3N2Zz4="
     },
     {
       "id": "v7",
@@ -101,7 +107,8 @@
         "sentence": "あちら は えれべーたー です。",
         "furigana": "あちら は エレベーター です。",
         "translation": "Phía kia là thang máy."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWUyZTIiLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZWNhY2EiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiOTFjMWMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPsSQ4bqwTkcgS0lBPC90ZXh0PgoKICAgIDwhLS0gxJDGsOG7nW5nIGNo4buJIGjGsOG7m25nIC0tPgogICAgPGxpbmUgeDE9IjM0IiB5MT0iNDYiIHgyPSI3NiIgeTI9IjQyIiBzdHJva2U9IiNlZjQ0NDQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWRhc2hhcnJheT0iMywzIi8+CgogICAgPCEtLSBOR8av4bucSSBDSOG7iCAoQsOqbiB0csOhaSkgLS0+CiAgICA8Y2lyY2xlIGN4PSIyMiIgY3k9IjM0IiByPSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICA8cGF0aCBkPSJNIDIyIDQyIEwgMjIgNjYgTSAyMiA2NiBMIDE0IDg0IE0gMjIgNjYgTCAyOCA4NCIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8cGF0aCBkPSJNIDI4IDQ2IFEgNTIgNDAgNzQgNDIiIHN0cm9rZT0iIzAyODRjNyIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgoKICAgIDwhLS0gUElOIFbhu4ogVFLDjSDwn5ONICjEkOG7i2EgxJFp4buDbSkgLS0+CiAgICA8IS0tIFbDsm5nIHRyw7JuIGLDs25nIMSR4buVIC0tPgogICAgPGVsbGlwc2UgY3g9Ijg0IiBjeT0iNTAiIHJ4PSI4IiByeT0iMyIgZmlsbD0icmdiYSgwLDAsMCwwLjE1KSIvPgogICAgPCEtLSBJY29uIFBpbiBnaGltIMSR4buLbmggduG7iyAtLT4KICAgIDxwYXRoIGQ9Ik0gODQgNDggQyA3NyA0MCA3NyAzMCA4NCAzMCBDIDkxIDMwIDkxIDQwIDg0IDQ4IFoiIGZpbGw9IiNlZjQ0NDQiLz4KICAgIDxjaXJjbGUgY3g9Ijg0IiBjeT0iMzUiIHI9IjMiIGZpbGw9IiNmZmZmZmYiLz4KCiAgICA8IS0tIE5ow6NuIGNo4buvIHBo4bulIC0tPgogICAgPHRleHQgeD0iNTAiIHk9IjkzIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmaWxsPSIjNDc1NTY5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7jgYLjgaHjgokgKFBow61hIGtpYSk8L3RleHQ+CiAgPC9zdmc+"
     },
     {
       "id": "v8",
@@ -115,7 +122,8 @@
         "sentence": "かいしゃ は どちら ですか。",
         "furigana": "[会社](かいしゃ) は どちら ですか。",
         "translation": "Công ty của bạn là công ty nào? (Hỏi lịch sự)"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6S3PC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v9",
@@ -129,7 +137,8 @@
         "sentence": "きょうしつ は にかい です。",
         "furigana": "[教室](きょうしつ) は [二階](にかい) です。",
         "translation": "Phòng học ở tầng hai."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4+rPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v10",
@@ -143,7 +152,8 @@
         "sentence": "しょくどう は ちか です。",
         "furigana": "[食堂](しょくどう) は [地下](ちか) です。",
         "translation": "Nhà ăn ở dưới tầng hầm."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn42xPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v11",
@@ -157,7 +167,8 @@
         "sentence": "やまださん は じむしょ です。",
         "furigana": "[山田](やまだ)さん は [事務所](じむしょ) です。",
         "translation": "Anh Yamada ở văn phòng."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4+iPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v12",
@@ -171,7 +182,8 @@
         "sentence": "かいぎしつ は さんかい です。",
         "furigana": "[会議室](かいぎしつ) は [三階](さんかい) です。",
         "translation": "Phòng họp ở tầng ba."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5Go4oCN8J+SvDwvdGV4dD48L3N2Zz4="
     },
     {
       "id": "v13",
@@ -185,7 +197,8 @@
         "sentence": "うけつけ は いっかい です。",
         "furigana": "[受付](うけつけ) は [一階](いっかい) です。",
         "translation": "Quầy tiếp tân ở tầng một."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5uO77iPPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v14",
@@ -199,7 +212,8 @@
         "sentence": "わたし の へや は ここ です。",
         "furigana": "わたし の [部屋](へや) は ここ です。",
         "translation": "Căn phòng của tôi ở đây."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5qqPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v15",
@@ -213,7 +227,8 @@
         "sentence": "おてあらい は あそこ です。",
         "furigana": "お[手洗](てあら)い は あそこ です。",
         "translation": "Nhà vệ sinh ở đằng kia."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5q9PC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v16",
@@ -227,7 +242,8 @@
         "sentence": "かいだん は あちら です。",
         "furigana": "[階段](かいだん) は あちら です。",
         "translation": "Cầu thang bộ ở phía kia."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZjJmZSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6qcPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v17",
@@ -241,7 +257,8 @@
         "sentence": "えれべーたー は そこ です。",
         "furigana": "エレベーター は そこ です。",
         "translation": "Thang máy ở chỗ đó."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZTdmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5uXPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v18",
@@ -255,7 +272,8 @@
         "sentence": "わたし の かいしゃ は とうきょう です。",
         "furigana": "わたし の [会社](かいしゃ) は [東京](とうきょう) です。",
         "translation": "Công ty của tôi ở Tokyo."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YzZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4+tPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v19",
@@ -269,7 +287,8 @@
         "sentence": "おくに は どちら ですか。",
         "furigana": "お[国](くに) は どちら ですか。",
         "translation": "Đất nước của bạn là nước nào? (Bạn là người nước nào?)"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yOPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v20",
@@ -283,7 +302,8 @@
         "sentence": "この かさ は いくら ですか。",
         "furigana": "この [傘](かさ) は いくら ですか。",
         "translation": "Chiếc ô này giá bao nhiêu tiền?"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5KwPC90ZXh0Pjwvc3ZnPg=="
     }
   ],
   "grammar": [

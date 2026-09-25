@@ -15,6 +15,7 @@ export interface Vocabulary {
   meaning: string;
   partOfSpeech?: string;
   example?: VocabularyExample;
+  image?: string;
 }
 
 export interface Example {

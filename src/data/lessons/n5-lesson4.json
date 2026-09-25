@@ -17,7 +17,8 @@
         "sentence": "今 何時 ですか。",
         "furigana": "[今](いま) [何時](なんじ) ですか。",
         "translation": "Bây giờ là mấy giờ vậy?"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7ij7HvuI88L3RleHQ+PC9zdmc+"
     },
     {
       "id": "v2",
@@ -31,7 +32,8 @@
         "sentence": "今 4時 です。",
         "furigana": "[今](いま) [四時](よじ) です。",
         "translation": "Bây giờ là 4 giờ."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5WSPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v3",
@@ -45,7 +47,8 @@
         "sentence": "今 8時 15分 です。",
         "furigana": "[今](いま) [八時](はちじ) [十五分](じゅうごふん) です。",
         "translation": "Bây giờ là 8 giờ 15 phút."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7ij7M8L3RleHQ+PC9zdmc+"
     },
     {
       "id": "v4",
@@ -59,7 +62,8 @@
         "sentence": "会議 は 10時 半 から です。",
         "furigana": "[会議](かいぎ) は [十時](じゅうじ) [半](はん) から です。",
         "translation": "Cuộc họp bắt đầu từ 10 giờ rưỡi."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yXPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v5",
@@ -73,7 +77,8 @@
         "sentence": "東京 は 今 何時 ですか。",
         "furigana": "[東京](とうきょう) は [今](いま) [何時](なんじ) ですか。",
         "translation": "Tokyo bây giờ là mấy giờ?"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5Ww77iPPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v6",
@@ -87,7 +92,8 @@
         "sentence": "午前 9時 に 銀行 へ 行きます。",
         "furigana": "[午前](ごぜん) [九時](くじ) に [銀行](ぎんこう) へ [行](い)きます。",
         "translation": "Tôi đi ngân hàng lúc 9 giờ sáng."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yFPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v7",
@@ -101,7 +107,8 @@
         "sentence": "午後 1時 に 昼休み が 終わります。",
         "furigana": "[午後](ごご) [一時](いちじ) に [昼休](ひるやす)みが [終](お)わります。",
         "translation": "Giờ nghỉ trưa kết thúc lúc 1 giờ chiều."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZjJmZSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yHPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v8",
@@ -115,7 +122,8 @@
         "sentence": "朝 6時 に 起きます。",
         "furigana": "[朝](あさ) [六時](ろくじ) に [起](お)きます。",
         "translation": "Tôi thức dậy vào lúc 6 giờ sáng."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZTdmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn42zPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v9",
@@ -129,7 +137,8 @@
         "sentence": "昼 12時 に ごはん を 食べます。",
         "furigana": "[昼](ひる) [十二時](じゅうにじ) に ごはん を [食](た)べます。",
         "translation": "Tôi ăn cơm lúc 12 giờ trưa."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YzZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yePC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v10",
@@ -143,7 +152,8 @@
         "sentence": "晩 11時 に 寝ます。",
         "furigana": "[晩](ばん) [十一時](じゅういちじ) に [寝](ね)ます。",
         "translation": "Tôi đi ngủ vào lúc 11 giờ tối."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yDPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v11",
@@ -157,7 +167,8 @@
         "sentence": "毎日 日本語 を 勉強します。",
         "furigana": "[毎日](まいにち) [日本語](にほんご) を [勉強](べんきょう)します。",
         "translation": "Tôi học tiếng Nhật mỗi ngày."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OFPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v12",
@@ -171,7 +182,8 @@
         "sentence": "今日 は 何曜日 ですか。",
         "furigana": "[今日](きょう) は [何曜日](なんようび) ですか。",
         "translation": "Hôm nay là thứ mấy vậy?"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OGPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v13",
@@ -185,7 +197,8 @@
         "sentence": "月曜日 から 金曜日 まで 働きます。",
         "furigana": "[月曜日](げつようび) から [金曜日](きんようび) まで [働](はたら)きます。",
         "translation": "Tôi làm việc từ thứ Hai đến thứ Sáu."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yZPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v14",
@@ -199,7 +212,8 @@
         "sentence": "日曜日 は 休み です。",
         "furigana": "[日曜日](にちようび) は [休](やす)み です。",
         "translation": "Chủ nhật là ngày nghỉ."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7imIDvuI88L3RleHQ+PC9zdmc+"
     },
     {
       "id": "v15",
@@ -213,7 +227,8 @@
         "sentence": "毎朝 7時 に 起きます。",
         "furigana": "[毎朝](まいあさ) [七時](しちじ) に [起](お)きます。",
         "translation": "Mỗi sáng tôi thức dậy lúc 7 giờ."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6WxPC90ZXh0Pjwvc3ZnPg=="
     }
   ],
   "grammar": [

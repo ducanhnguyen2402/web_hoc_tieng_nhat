@@ -17,7 +17,8 @@
         "sentence": "明日 東京 へ 行きます。",
         "furigana": "[明日](あした) [東京](とうきょう) へ [行](い)きます。",
         "translation": "Ngày mai tôi sẽ đi Tokyo."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5q2PC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v2",
@@ -31,7 +32,8 @@
         "sentence": "友達 が うち へ 来ます。",
         "furigana": "[友達](ともだち) が うち へ [来](き)ます。",
         "translation": "Bạn tôi sẽ đến nhà tôi."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4+DPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v3",
@@ -45,7 +47,8 @@
         "sentence": "七時 に うち へ 帰ります。",
         "furigana": "[七時](しちじ) に うち へ [帰](かえ)ります。",
         "translation": "Tôi về nhà vào lúc 7 giờ."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZjJmZSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4+gPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v4",
@@ -59,7 +62,8 @@
         "sentence": "毎朝 バス で 学校 へ 行きます。",
         "furigana": "[毎朝](まいあさ) バス で [学校](がっこう) へ [行](い)きます。",
         "translation": "Mỗi sáng tôi đi xe buýt đến trường."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZTdmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn46TPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v5",
@@ -73,7 +77,8 @@
         "sentence": "駅 で 電車 に 乗ります。",
         "furigana": "[駅](えき) で [電車](でんしゃ) に [乗](の)ります。",
         "translation": "Tôi lên tàu điện ở nhà ga."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YzZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5qJPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v6",
@@ -87,7 +92,8 @@
         "sentence": "飛行機 で 日本 へ 行きました。",
         "furigana": "[飛行機](ひこうき) で [日本](にほん) へ [行](い)きました。",
         "translation": "Tôi đã đi Nhật Bản bằng máy bay."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7inIjvuI88L3RleHQ+PC9zdmc+"
     },
     {
       "id": "v7",
@@ -101,7 +107,8 @@
         "sentence": "船 で 島 へ 行きます。",
         "furigana": "[船](ふね) で [島](しま) へ [行](い)きます。",
         "translation": "Tôi đi đến đảo bằng thuyền."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5qiPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v8",
@@ -115,7 +122,8 @@
         "sentence": "会社 まで 電車 で 行きます。",
         "furigana": "[会社](かいしゃ) まで [電車](でんしゃ) で [行](い)きます。",
         "translation": "Tôi đi tàu điện đến công ty."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5qDPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v9",
@@ -129,7 +137,8 @@
         "sentence": "地下鉄 は とても 便利 です。",
         "furigana": "[地下鉄](ちかてつ) は とても [便利](べんり) です。",
         "translation": "Tàu điện ngầm rất tiện lợi."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5qHPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v10",
@@ -143,7 +152,8 @@
         "sentence": "新幹線 で 京都 へ 行きました。",
         "furigana": "[新幹線](しんかんせん) で [京都](きょうと) へ [行](い)きました。",
         "translation": "Tôi đã đi Kyoto bằng tàu Shinkansen."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5qFPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v11",
@@ -157,7 +167,8 @@
         "sentence": "バス で 病院 へ 行きます。",
         "furigana": "バス で [病院](びょういん) へ [行](い)きます。",
         "translation": "Tôi đi bệnh viện bằng xe buýt."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5qMPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v12",
@@ -171,7 +182,8 @@
         "sentence": "タクシー で うち へ 帰りました。",
         "furigana": "タクシー で うち へ [帰](かえ)りました。",
         "translation": "Tôi đã về nhà bằng taxi."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5qVPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v13",
@@ -185,7 +197,8 @@
         "sentence": "自転車 で 公園 へ 行きます。",
         "furigana": "[自転車](じてんしゃ) で [公園](こうえん) へ [行](い)きます。",
         "translation": "Tôi đi công viên bằng xe đạp."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5qyPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v14",
@@ -199,7 +212,8 @@
         "sentence": "駅から 歩いて 帰ります。",
         "furigana": "[駅](えき)から [歩](ある)いて [帰](かえ)ります。",
         "translation": "Tôi đi bộ từ nhà ga về nhà."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZjJmZSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5GfPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v15",
@@ -213,7 +227,8 @@
         "sentence": "友達 と デパート へ 行きました。",
         "furigana": "[友達](ともだち) と デパート へ [行](い)きました。",
         "translation": "Tôi đã đi trung tâm thương mại cùng bạn."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZTdmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6eR4oCN8J+kneKAjfCfp5E8L3RleHQ+PC9zdmc+"
     },
     {
       "id": "v16",
@@ -227,7 +242,8 @@
         "sentence": "去年 家族 と 日本 へ 来ました。",
         "furigana": "[去年](きょねん) [家族](かぞく) と [日本](にほん) へ [来](き)ました。",
         "translation": "Năm ngoái tôi đã đến Nhật cùng gia đình."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YzZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5Go4oCN8J+RqeKAjfCfkafigI3wn5GmPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v17",
@@ -241,7 +257,8 @@
         "sentence": "一人で 旅行 へ 行きます。",
         "furigana": "[一人](ひとり)で [旅行](りょこう) へ [行](い)きます。",
         "translation": "Tôi đi du lịch một mình."
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6eNPC90ZXh0Pjwvc3ZnPg=="
     },
     {
       "id": "v18",
@@ -255,7 +272,8 @@
         "sentence": "日曜日 どこ へ 行きますか。",
         "furigana": "[日曜日](にちようび) どこ へ [行](い)きますか。",
         "translation": "Chủ nhật bạn đi đâu thế?"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7inZM8L3RleHQ+PC9zdmc+"
     },
     {
       "id": "v19",
@@ -269,7 +287,8 @@
         "sentence": "いつ 国 へ 帰りますか。",
         "furigana": "いつ [国](くに) へ [帰](かえ)りますか。",
         "translation": "Khi nào bạn về nước?"
-      }
+      },
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5eT77iPPC90ZXh0Pjwvc3ZnPg=="
     }
   ],
   "grammar": [
