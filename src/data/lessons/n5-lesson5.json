@@ -1,0 +1,489 @@
+{
+  "id": "n5-lesson5",
+  "level": "N5",
+  "lessonNumber": 5,
+  "title": "Bài 5: Đi lại & Phương tiện giao thông (行きます・来ます・帰ります)",
+  "description": "Học cách nói về việc di chuyển đến các địa điểm, sử dụng phương tiện giao thông, đi cùng ai và hỏi thời gian đi lại.",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "word": "行きます",
+      "kanji": "行きます",
+      "hiragana": "いきます",
+      "reading": "ikimasu",
+      "meaning": "Đi",
+      "partOfSpeech": "Động từ nhóm 1",
+      "example": {
+        "sentence": "明日 東京 へ 行きます。",
+        "furigana": "[明日](あした) [東京](とうきょう) へ [行](い)きます。",
+        "translation": "Ngày mai tôi sẽ đi Tokyo."
+      }
+    },
+    {
+      "id": "v2",
+      "word": "来ます",
+      "kanji": "来ます",
+      "hiragana": "きます",
+      "reading": "kimasu",
+      "meaning": "Đến",
+      "partOfSpeech": "Động từ nhóm 3",
+      "example": {
+        "sentence": "友達 が うち へ 来ます。",
+        "furigana": "[友達](ともだち) が うち へ [来](き)ます。",
+        "translation": "Bạn tôi sẽ đến nhà tôi."
+      }
+    },
+    {
+      "id": "v3",
+      "word": "帰ります",
+      "kanji": "帰ります",
+      "hiragana": "かえります",
+      "reading": "kaerimasu",
+      "meaning": "Về, trở về",
+      "partOfSpeech": "Động từ nhóm 1",
+      "example": {
+        "sentence": "七時 に うち へ 帰ります。",
+        "furigana": "[七時](しちじ) に うち へ [帰](かえ)ります。",
+        "translation": "Tôi về nhà vào lúc 7 giờ."
+      }
+    },
+    {
+      "id": "v4",
+      "word": "学校",
+      "kanji": "学校",
+      "hiragana": "がっこう",
+      "reading": "gakkou",
+      "meaning": "Trường học",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "毎朝 バス で 学校 へ 行きます。",
+        "furigana": "[毎朝](まいあさ) バス で [学校](がっこう) へ [行](い)きます。",
+        "translation": "Mỗi sáng tôi đi xe buýt đến trường."
+      }
+    },
+    {
+      "id": "v5",
+      "word": "駅",
+      "kanji": "駅",
+      "hiragana": "えき",
+      "reading": "eki",
+      "meaning": "Nhà ga",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "駅 で 電車 に 乗ります。",
+        "furigana": "[駅](えき) で [電車](でんしゃ) に [乗](の)ります。",
+        "translation": "Tôi lên tàu điện ở nhà ga."
+      }
+    },
+    {
+      "id": "v6",
+      "word": "飛行機",
+      "kanji": "飛行機",
+      "hiragana": "ひこうき",
+      "reading": "hikouki",
+      "meaning": "Máy bay",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "飛行機 で 日本 へ 行きました。",
+        "furigana": "[飛行機](ひこうき) で [日本](にほん) へ [行](い)きました。",
+        "translation": "Tôi đã đi Nhật Bản bằng máy bay."
+      }
+    },
+    {
+      "id": "v7",
+      "word": "船",
+      "kanji": "船",
+      "hiragana": "ふね",
+      "reading": "fune",
+      "meaning": "Thuyền, tàu thủy",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "船 で 島 へ 行きます。",
+        "furigana": "[船](ふね) で [島](しま) へ [行](い)きます。",
+        "translation": "Tôi đi đến đảo bằng thuyền."
+      }
+    },
+    {
+      "id": "v8",
+      "word": "電車",
+      "kanji": "電車",
+      "hiragana": "でんしゃ",
+      "reading": "densha",
+      "meaning": "Tàu điện",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "会社 まで 電車 で 行きます。",
+        "furigana": "[会社](かいしゃ) まで [電車](でんしゃ) で [行](い)きます。",
+        "translation": "Tôi đi tàu điện đến công ty."
+      }
+    },
+    {
+      "id": "v9",
+      "word": "地下鉄",
+      "kanji": "地下鉄",
+      "hiragana": "ちかてつ",
+      "reading": "chikatetsu",
+      "meaning": "Tàu điện ngầm",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "地下鉄 は とても 便利 です。",
+        "furigana": "[地下鉄](ちかてつ) は とても [便利](べんり) です。",
+        "translation": "Tàu điện ngầm rất tiện lợi."
+      }
+    },
+    {
+      "id": "v10",
+      "word": "新幹線",
+      "kanji": "新幹線",
+      "hiragana": "しんかんせん",
+      "reading": "shinkansen",
+      "meaning": "Tàu siêu tốc Shinkansen",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "新幹線 で 京都 へ 行きました。",
+        "furigana": "[新幹線](しんかんせん) で [京都](きょうと) へ [行](い)きました。",
+        "translation": "Tôi đã đi Kyoto bằng tàu Shinkansen."
+      }
+    },
+    {
+      "id": "v11",
+      "word": "バス",
+      "kanji": null,
+      "hiragana": "ばす",
+      "reading": "basu",
+      "meaning": "Xe buýt",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "バス で 病院 へ 行きます。",
+        "furigana": "バス で [病院](びょういん) へ [行](い)きます。",
+        "translation": "Tôi đi bệnh viện bằng xe buýt."
+      }
+    },
+    {
+      "id": "v12",
+      "word": "タクシー",
+      "kanji": null,
+      "hiragana": "たくしー",
+      "reading": "takushii",
+      "meaning": "Xe taxi",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "タクシー で うち へ 帰りました。",
+        "furigana": "タクシー で うち へ [帰](かえ)りました。",
+        "translation": "Tôi đã về nhà bằng taxi."
+      }
+    },
+    {
+      "id": "v13",
+      "word": "自転車",
+      "kanji": "自転車",
+      "hiragana": "じてんしゃ",
+      "reading": "jitensha",
+      "meaning": "Xe đạp",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "自転車 で 公園 へ 行きます。",
+        "furigana": "[自転車](じてんしゃ) で [公園](こうえん) へ [行](い)きます。",
+        "translation": "Tôi đi công viên bằng xe đạp."
+      }
+    },
+    {
+      "id": "v14",
+      "word": "歩いて",
+      "kanji": "歩いて",
+      "hiragana": "あるいて",
+      "reading": "aruite",
+      "meaning": "Đi bộ",
+      "partOfSpeech": "Phó từ",
+      "example": {
+        "sentence": "駅から 歩いて 帰ります。",
+        "furigana": "[駅](えき)から [歩](ある)いて [帰](かえ)ります。",
+        "translation": "Tôi đi bộ từ nhà ga về nhà."
+      }
+    },
+    {
+      "id": "v15",
+      "word": "友達",
+      "kanji": "友達",
+      "hiragana": "ともだち",
+      "reading": "tomodachi",
+      "meaning": "Bạn bè",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "友達 と デパート へ 行きました。",
+        "furigana": "[友達](ともだち) と デパート へ [行](い)きました。",
+        "translation": "Tôi đã đi trung tâm thương mại cùng bạn."
+      }
+    },
+    {
+      "id": "v16",
+      "word": "家族",
+      "kanji": "家族",
+      "hiragana": "かぞく",
+      "reading": "kazoku",
+      "meaning": "Gia đình",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "去年 家族 と 日本 へ 来ました。",
+        "furigana": "[去年](きょねん) [家族](かぞく) と [日本](にほん) へ [来](き)ました。",
+        "translation": "Năm ngoái tôi đã đến Nhật cùng gia đình."
+      }
+    },
+    {
+      "id": "v17",
+      "word": "一人で",
+      "kanji": "一人で",
+      "hiragana": "ひとりで",
+      "reading": "hitoride",
+      "meaning": "Một mình",
+      "partOfSpeech": "Phó từ",
+      "example": {
+        "sentence": "一人で 旅行 へ 行きます。",
+        "furigana": "[一人](ひとり)で [旅行](りょこう) へ [行](い)きます。",
+        "translation": "Tôi đi du lịch một mình."
+      }
+    },
+    {
+      "id": "v18",
+      "word": "どこ",
+      "kanji": null,
+      "hiragana": "どこ",
+      "reading": "doko",
+      "meaning": "Đâu, nơi nào",
+      "partOfSpeech": "Nghi vấn từ",
+      "example": {
+        "sentence": "日曜日 どこ へ 行きますか。",
+        "furigana": "[日曜日](にちようび) どこ へ [行](い)きますか。",
+        "translation": "Chủ nhật bạn đi đâu thế?"
+      }
+    },
+    {
+      "id": "v19",
+      "word": "いつ",
+      "kanji": null,
+      "hiragana": "いつ",
+      "reading": "itsu",
+      "meaning": "Khi nào, bao giờ",
+      "partOfSpeech": "Nghi vấn từ",
+      "example": {
+        "sentence": "いつ 国 へ 帰りますか。",
+        "furigana": "いつ [国](くに) へ [帰](かえ)りますか。",
+        "translation": "Khi nào bạn về nước?"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "pattern": "[Địa điểm] へ 行きます / 来ます / 帰ります",
+      "structure": "N (địa điểm) + へ + 行きます / 来ます / 帰ります",
+      "explanation": "Dùng để biểu thị hướng di chuyển đến hoặc về một địa điểm nào đó. Trợ từ 'へ' viết bằng ký tự Hiragana 'へ' nhưng được phát âm chuẩn là 'e'.",
+      "usage": "• 行きます (ikimasu): Rời khỏi vị trí hiện tại để đi đến một địa điểm khác.\n• 来ます (kimasu): Di chuyển đến vị trí của người nói hoặc hướng về phía người nói.\n• 帰ります (kaerimasu): Trở về nơi chốn thân thuộc vốn có như nhà (うち), quê hương, tổ quốc (国).",
+      "notes": "• Chữ Hiragana 'へ' khi đóng vai trò là trợ từ chỉ hướng đi thì luôn phát âm là 'e' (chứ không đọc là 'he').\n• Khi muốn phủ định hoàn toàn (không đi đâu cả), thay trợ từ 'へ' bằng 'も' thành mẫu: どこ [も](へ) 行きません (hoặc どこへも 行きません).\n• 'うちへ帰ります' là cách nói chuẩn xác khi tan sở/tan học về nhà mình.",
+      "examples": [
+        {
+          "japanese": "明日 どこ へ 行きますか。",
+          "furigana": "[明日](あした) どこ へ [行](い)きますか。",
+          "vietnamese": "Ngày mai bạn đi đâu thế?"
+        },
+        {
+          "japanese": "京都 へ 行きます。",
+          "furigana": "[京都](きょうと) へ [行](い)きます。",
+          "vietnamese": "Tôi đi Kyoto."
+        },
+        {
+          "japanese": "どこ も 行きません。",
+          "furigana": "どこ も [行](い)きません。",
+          "vietnamese": "Tôi không đi đâu cả."
+        },
+        {
+          "japanese": "わたし は 六時 に うち へ 帰ります。",
+          "furigana": "わたし は [六時](ろくじ) に うち へ [帰](かえ)ります。",
+          "vietnamese": "Tôi về nhà vào lúc 6 giờ."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "pattern": "[Phương tiện] で 行きます / 来ます / 帰ります",
+      "structure": "N (phương tiện giao thông) + で + [Động từ di chuyển]",
+      "explanation": "Trợ từ 'で' (de) được đặt ngay sau danh từ chỉ phương tiện giao thông để biểu thị cách thức, phương tiện dùng để thực hiện việc di chuyển.",
+      "usage": "Dùng để trả lời cho câu hỏi phương tiện: '何 で 行きますか' (Nan de ikimasu ka? - Bạn đi bằng phương tiện gì?).",
+      "notes": "• Ngoại lệ đặc biệt: Khi đi bộ, ta dùng cụm từ '歩いて' (aruite - thể te của động từ 歩く) và KHÔNG dùng trợ từ 'で' (Nói '歩いて 行きます', tuyệt đối không nói '歩いてで行きます').\n• Từ để hỏi phương tiện giao thông là '何で' (なんで - nan de) hoặc 'どうやって' (dou yatte - bằng cách nào).",
+      "examples": [
+        {
+          "japanese": "何 で 会社 へ 行きますか。",
+          "furigana": "[何](なん) で [会社](かいしゃ) へ [行](い)きますか。",
+          "vietnamese": "Bạn đi đến công ty bằng phương tiện gì?"
+        },
+        {
+          "japanese": "地下鉄 で 行きます。",
+          "furigana": "[地下鉄](ちかてつ) で [行](い)きます。",
+          "vietnamese": "Tôi đi bằng tàu điện ngầm."
+        },
+        {
+          "japanese": "駅から 家まで 歩いて 帰ります。",
+          "furigana": "[駅](えき)から [家](うち)まで [歩](ある)いて [帰](かえ)ります。",
+          "vietnamese": "Tôi đi bộ từ nhà ga về nhà."
+        },
+        {
+          "japanese": "新幹線 で 東京 へ 行きました。",
+          "furigana": "[新幹線](しんかんせん) で [東京](とうきょう) へ [行](い)きました。",
+          "vietnamese": "Tôi đã đi đến Tokyo bằng tàu siêu tốc Shinkansen."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "pattern": "[Người] と [Động từ]",
+      "structure": "N (người / động vật) + と + [Động từ]",
+      "explanation": "Trợ từ 'と' (to) đặt sau danh từ chỉ người hoặc động vật để biểu thị đối tượng cùng tham gia thực hiện một hành động (mang nghĩa là 'cùng với', 'và').",
+      "usage": "Dùng để diễn tả người đồng hành, trả lời cho câu hỏi: 'だれ と [Động từ] か' (Dare to ... ka? - Làm gì cùng với ai?).",
+      "notes": "• Khi tự mình làm một việc gì đó (không có bạn đồng hành), ta dùng cụm từ '一人で' (ひとりで - hitoride) và KHÔNG dùng trợ từ 'と' (Nói '一人で 行きます', không nói '一人と 行きます').\n• Cần phân biệt: 'と' nối hai danh từ (Liệt kê: Táo và Cam) khác với 'と' bạn đồng hành (Làm cùng ai đó).",
+      "examples": [
+        {
+          "japanese": "だれ と 日本 へ 来ましたか。",
+          "furigana": "だれ と [日本](にほん) へ [来](き)ましたか。",
+          "vietnamese": "Bạn đã đến Nhật Bản cùng với ai?"
+        },
+        {
+          "japanese": "家族 と 来ました。",
+          "furigana": "[家族](かぞく) と [来](き)ました。",
+          "vietnamese": "Tôi đã đến cùng với gia đình."
+        },
+        {
+          "japanese": "一人で 東京 へ 行きます。",
+          "furigana": "[一人](ひとり)で [東京](とうきょう) へ [行](い)きます。",
+          "vietnamese": "Tôi đi Tokyo một mình."
+        },
+        {
+          "japanese": "日曜日 に 友達 と デパート へ 行きました。",
+          "furigana": "[日曜日](にちようび) に [友達](ともだち) と デパート へ [行](い)きました。",
+          "vietnamese": "Vào Chủ nhật tôi đã đi trung tâm thương mại cùng bạn bè."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "questionText": "Trong câu biểu thị hướng di chuyển 'わたし は 学校 ___ 行きます', trợ từ nào phù hợp nhất để điền vào chỗ trống?",
+      "options": [
+        "へ",
+        "で",
+        "を",
+        "に"
+      ],
+      "correctAnswer": "へ",
+      "explanation": "Trợ từ 'へ' (phát âm là 'e') kết hợp với các động từ di chuyển (行きます, 来ます, 帰ります) để chỉ phương hướng và đích đến của chuyển động."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "questionText": "Khi muốn nói 'Tôi đi bộ đến trường', câu tiếng Nhật nào sau đây đúng ngữ pháp nhất?",
+      "options": [
+        "わたし は 歩いて 学校 へ 行きます。",
+        "わたし は 歩いて で 学校 へ 行きます。",
+        "わたし は 歩き で 学校 へ 行きます。",
+        "わたし は 歩いて と 学校 へ 行きます。"
+      ],
+      "correctAnswer": "わたし は 歩いて 学校 へ 行きます。",
+      "explanation": "'歩いて' (aruite - đi bộ) là phó từ thể hiện cách thức di chuyển, không đi kèm trợ từ 'で'. Cụm '歩いてで' là sai ngữ pháp."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "questionText": "Chọn câu hỏi phù hợp nhất cho câu trả lời: '… 電車 で 行きます。' (Tôi đi bằng tàu điện).",
+      "options": [
+        "何 で 行きますか。",
+        "だれ と 行きますか。",
+        "どこ へ 行きますか。",
+        "いつ 行きますか。"
+      ],
+      "correctAnswer": "何 で 行きますか。",
+      "explanation": "'何 で 行きますか' (Nan de ikimasu ka) nghĩa là 'Bạn đi bằng gì/phương tiện gì?'. 'だれと' hỏi cùng ai, 'どこへ' hỏi đi đâu, 'いつ' hỏi khi nào."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "questionText": "Để nói 'Tôi đã đến Nhật Bản một mình', câu tiếng Nhật chuẩn xác là gì?",
+      "options": [
+        "一人で 日本 へ 来ました。",
+        "一人と 日本 へ 来ました。",
+        "一人へ 日本 で 来ました。",
+        "一人に 日本 へ 来ました。"
+      ],
+      "correctAnswer": "一人で 日本 へ 来ました。",
+      "explanation": "Khi thực hiện hành động một mình, ta dùng cụm phó từ '一人で' (ひとりで) và không dùng trợ từ 'と'."
+    },
+    {
+      "id": "q5",
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: わたし は 7時 に うち _____ 帰ります。(Tôi về nhà vào lúc 7 giờ.)",
+      "correctAnswer": "へ",
+      "explanation": "Trợ từ 'へ' (phát âm là 'e') biểu thị hướng di chuyển về địa điểm (ở đây là 'うち' - nhà)."
+    },
+    {
+      "id": "q6",
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: 毎朝 バス _____ 学校 へ 行きます。(Mỗi sáng tôi đi xe buýt đến trường.)",
+      "correctAnswer": "で",
+      "explanation": "Trợ từ 'で' đứng sau danh từ chỉ phương tiện giao thông (バス - xe buýt) để chỉ cách thức hoặc phương tiện di chuyển."
+    },
+    {
+      "id": "q7",
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: 日曜日 に 友達 _____ デパート へ 行きました。(Chủ nhật tôi đã đi trung tâm thương mại cùng bạn bè.)",
+      "correctAnswer": "と",
+      "explanation": "Trợ từ 'と' đứng sau danh từ chỉ người (友達 - bạn bè) để chỉ người cùng tham gia thực hiện hành động."
+    },
+    {
+      "id": "q8",
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống để tạo câu phủ định hoàn toàn: 日曜日 は どこ _____ 行きませんでした。(Chủ nhật tôi đã không đi đâu cả.)",
+      "correctAnswer": "も",
+      "explanation": "Cấu trúc '[Nghi vấn từ] + も + Động từ phủ định' dùng để biểu thị sự phủ định hoàn toàn (どこも行きませんでした: Không đi đâu cả)."
+    },
+    {
+      "id": "q9",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Tôi đi đến trường bằng xe đạp cùng bạn.'",
+      "words": [
+        "わたし は",
+        "友達 と",
+        "自転車 で",
+        "学校 へ",
+        "行きます"
+      ],
+      "correctOrder": [
+        "わたし は",
+        "友達 と",
+        "自転車 で",
+        "学校 へ",
+        "行きます"
+      ],
+      "explanation": "Trật tự câu chuẩn tiếng Nhật: [Chủ ngữ + は] + [Người cùng làm + と] + [Phương tiện + で] + [Đích đến + へ] + [Động từ: 行きます]."
+    },
+    {
+      "id": "q10",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Ngày mai tôi đi Tokyo bằng tàu Shinkansen một mình.'",
+      "words": [
+        "明日",
+        "一人で",
+        "新幹線 で",
+        "東京 へ",
+        "行きます"
+      ],
+      "correctOrder": [
+        "明日",
+        "一人で",
+        "新幹線 で",
+        "東京 へ",
+        "行きます"
+      ],
+      "explanation": "Trật tự câu chuẩn: [Thời gian: 明日] + [Trạng từ cách thức: 一人で] + [Phương tiện: 新幹線 で] + [Đích đến: 東京 へ] + [Động từ: 行きます]."
+    }
+  ]
+}

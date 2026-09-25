@@ -15,6 +15,8 @@ const courseData = [
       { id: 'n5-lesson2', title: 'Bài 2: Đồ vật xung quanh (これ・それ・あれ)', desc: 'Học cách chỉ định đồ vật ở các vị trí khác nhau và biểu thị quyền sở hữu bằng trợ từ の.' },
       { id: 'n5-lesson3', title: 'Bài 3: Vị trí và Nơi chốn (ここ・そこ・あそこ)', desc: 'Học cách xác định vị trí đồ vật, địa điểm, phòng ban; sử dụng các đại từ chỉ nơi chốn thông thường và lịch sự; hỏi xuất xứ hàng hóa và giá tiền.' },
       { id: 'n5-lesson4', title: 'Bài 4: Thời gian và Ngày tháng (Giờ, Phút, Thứ)', desc: 'Làm chủ cách nói giờ phút, ngày tháng, thứ trong tuần cùng cấu trúc thời gian quan trọng với trợ từ に và ~から ~まで.' },
+      { id: 'n5-lesson5', title: 'Bài 5: Đi lại & Phương tiện giao thông (行きます・来ます・帰ります)', desc: 'Học cách nói về việc di chuyển đến các địa điểm, sử dụng phương tiện giao thông, đi cùng ai và hỏi thời gian đi lại.' },
+      { id: 'n5-lesson6', title: 'Bài 6: Ăn uống & Sinh hoạt hàng ngày (を・で・~ませんか)', desc: 'Học cách diễn đạt các hoạt động thường ngày (ăn uống, mua sắm, đọc sách), chỉ định địa điểm diễn ra hành động và cách mời mọc, rủ rê ai đó cùng tham gia.' },
     ]
   },
   {

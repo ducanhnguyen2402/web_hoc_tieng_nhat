@@ -1,0 +1,503 @@
+{
+  "id": "n5-lesson6",
+  "level": "N5",
+  "lessonNumber": 6,
+  "title": "Bài 6: Ăn uống & Sinh hoạt hàng ngày (を・で・~ませんか)",
+  "description": "Học cách diễn đạt các hoạt động thường ngày (ăn uống, mua sắm, đọc sách), chỉ định địa điểm diễn ra hành động và cách mời mọc, rủ rê ai đó cùng tham gia.",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "word": "食べます",
+      "kanji": "食べます",
+      "hiragana": "たべます",
+      "reading": "tabemasu",
+      "meaning": "Ăn",
+      "partOfSpeech": "Động từ nhóm 2",
+      "example": {
+        "sentence": "朝ごはん に パン を 食べます。",
+        "furigana": "[朝](あさ)ごはん に パン を [食](た)べます。",
+        "translation": "Tôi ăn bánh mì vào bữa sáng."
+      }
+    },
+    {
+      "id": "v2",
+      "word": "飲みます",
+      "kanji": "飲みます",
+      "hiragana": "のみます",
+      "reading": "nomimasu",
+      "meaning": "Uống",
+      "partOfSpeech": "Động từ nhóm 1",
+      "example": {
+        "sentence": "毎朝 コーヒー を 飲みます。",
+        "furigana": "[毎朝](まいあさ) コーヒー を [飲](の)みます。",
+        "translation": "Mỗi sáng tôi uống cà phê."
+      }
+    },
+    {
+      "id": "v3",
+      "word": "買います",
+      "kanji": "買います",
+      "hiragana": "かいます",
+      "reading": "kaimasu",
+      "meaning": "Mua",
+      "partOfSpeech": "Động từ nhóm 1",
+      "example": {
+        "sentence": "スーパー で 野菜 を 買います。",
+        "furigana": "スーパー で [野菜](やさい) を [買](か)います。",
+        "translation": "Tôi mua rau ở siêu thị."
+      }
+    },
+    {
+      "id": "v4",
+      "word": "読みます",
+      "kanji": "読みます",
+      "hiragana": "よみます",
+      "reading": "yomimasu",
+      "meaning": "Đọc",
+      "partOfSpeech": "Động từ nhóm 1",
+      "example": {
+        "sentence": "毎晩 本 を 読みます。",
+        "furigana": "[毎晩](まいばん) [本](ほん) を [読](よ)みます。",
+        "translation": "Mỗi tối tôi đọc sách."
+      }
+    },
+    {
+      "id": "v5",
+      "word": "見ます",
+      "kanji": "見ます",
+      "hiragana": "みます",
+      "reading": "mimasu",
+      "meaning": "Xem, nhìn",
+      "partOfSpeech": "Động từ nhóm 2",
+      "example": {
+        "sentence": "週末 に テレビ を 見ます。",
+        "furigana": "[週末](しゅうまつ) に テレビ を [見](み)ます。",
+        "translation": "Tôi xem tivi vào cuối tuần."
+      }
+    },
+    {
+      "id": "v6",
+      "word": "聞きます",
+      "kanji": "聞きます",
+      "hiragana": "ききます",
+      "reading": "kikimasu",
+      "meaning": "Nghe",
+      "partOfSpeech": "Động từ nhóm 1",
+      "example": {
+        "sentence": "音楽 を 聞きます。",
+        "furigana": "[音楽](おんがく) を [聞](き)きます。",
+        "translation": "Tôi nghe nhạc."
+      }
+    },
+    {
+      "id": "v7",
+      "word": "撮ります",
+      "kanji": "撮ります",
+      "hiragana": "とります",
+      "reading": "torimasu",
+      "meaning": "Chụp (ảnh)",
+      "partOfSpeech": "Động từ nhóm 1",
+      "example": {
+        "sentence": "公園 で 写真 を 撮ります。",
+        "furigana": "[公園](こうえん) で [写真](しゃしん) を [撮](と)ります。",
+        "translation": "Tôi chụp ảnh ở công viên."
+      }
+    },
+    {
+      "id": "v8",
+      "word": "します",
+      "kanji": null,
+      "hiragana": "します",
+      "reading": "shimasu",
+      "meaning": "Làm, chơi",
+      "partOfSpeech": "Động từ nhóm 3",
+      "example": {
+        "sentence": "友達 と サッカー を します。",
+        "furigana": "[友達](ともだち) と サッカー を します。",
+        "translation": "Tôi chơi bóng đá cùng bạn."
+      }
+    },
+    {
+      "id": "v9",
+      "word": "ご飯",
+      "kanji": "ご飯",
+      "hiragana": "ごはん",
+      "reading": "gohan",
+      "meaning": "Cơm, bữa ăn",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "家族 と 晩ご飯 を 食べます。",
+        "furigana": "[家族](かぞく) と [晩](ばん)ご[飯](はん) を [食](た)べます。",
+        "translation": "Tôi ăn cơm tối cùng gia đình."
+      }
+    },
+    {
+      "id": "v10",
+      "word": "パン",
+      "kanji": null,
+      "hiragana": "ぱん",
+      "reading": "pan",
+      "meaning": "Bánh mì",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "朝 パン と 卵 を 食べました。",
+        "furigana": "[朝](あさ) パン と [卵](たまご) を [食](た)べました。",
+        "translation": "Buổi sáng tôi đã ăn bánh mì và trứng."
+      }
+    },
+    {
+      "id": "v11",
+      "word": "肉",
+      "kanji": "肉",
+      "hiragana": "にく",
+      "reading": "niku",
+      "meaning": "Thịt",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "肉 と 野菜 を 買いました。",
+        "furigana": "[肉](にく) と [野菜](やさい) を [買](か)いました。",
+        "translation": "Tôi đã mua thịt và rau."
+      }
+    },
+    {
+      "id": "v12",
+      "word": "魚",
+      "kanji": "魚",
+      "hiragana": "さかな",
+      "reading": "sakana",
+      "meaning": "Cá",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "日本人 は よく 魚 を 食べます。",
+        "furigana": "[日本人](にほんじん) は よく [魚](さかな) を [食](た)べます。",
+        "translation": "Người Nhật thường hay ăn cá."
+      }
+    },
+    {
+      "id": "v13",
+      "word": "野菜",
+      "kanji": "野菜",
+      "hiragana": "やさい",
+      "reading": "yasai",
+      "meaning": "Rau",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "毎日 野菜 を たくさん 食べます。",
+        "furigana": "[毎日](まいにち) [野菜](やさい) を たくさん [食](た)べます。",
+        "translation": "Mỗi ngày tôi ăn nhiều rau."
+      }
+    },
+    {
+      "id": "v14",
+      "word": "果物",
+      "kanji": "果物",
+      "hiragana": "くだもの",
+      "reading": "kudamono",
+      "meaning": "Hoa quả, trái cây",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "果物 の 中 で りんご が 好き です。",
+        "furigana": "[果物](くだもの) の [中](なか) で りんご が [好](す)き です。",
+        "translation": "Trong các loại hoa quả tôi thích táo."
+      }
+    },
+    {
+      "id": "v15",
+      "word": "お茶",
+      "kanji": "お茶",
+      "hiragana": "おちゃ",
+      "reading": "ocha",
+      "meaning": "Trà, chè",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "食後 に お茶 を 飲みます。",
+        "furigana": "[食後](しょくご) に お[茶](ちゃ) を [飲](の)みます。",
+        "translation": "Tôi uống trà sau bữa ăn."
+      }
+    },
+    {
+      "id": "v16",
+      "word": "コーヒー",
+      "kanji": null,
+      "hiragana": "こーひー",
+      "reading": "koohii",
+      "meaning": "Cà phê",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "喫茶店 で コーヒー を 飲みました。",
+        "furigana": "[喫茶店](きっさてん) で コーヒー を [飲](の)みました。",
+        "translation": "Tôi đã uống cà phê ở quán giải khát."
+      }
+    },
+    {
+      "id": "v17",
+      "word": "レストラン",
+      "kanji": null,
+      "hiragana": "れすとらん",
+      "reading": "resutoran",
+      "meaning": "Nhà hàng",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "あの レストラン で 昼ご飯 を 食べましょう。",
+        "furigana": "あの レストラン で [昼](ひる)ご[飯](はん) を [食](た)べましょう。",
+        "translation": "Chúng ta hãy cùng ăn trưa ở nhà hàng kia nhé."
+      }
+    },
+    {
+      "id": "v18",
+      "word": "写真",
+      "kanji": "写真",
+      "hiragana": "しゃしん",
+      "reading": "shashin",
+      "meaning": "Bức ảnh",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "京都 で 写真 を たくさん 撮りました。",
+        "furigana": "[京都](きょうと) で [写真](しゃしん) を たくさん [撮](と)りました。",
+        "translation": "Tôi đã chụp nhiều ảnh ở Kyoto."
+      }
+    },
+    {
+      "id": "v19",
+      "word": "一緒に",
+      "kanji": "一緒に",
+      "hiragana": "いっしょに",
+      "reading": "isshoni",
+      "meaning": "Cùng nhau",
+      "partOfSpeech": "Phó từ",
+      "example": {
+        "sentence": "一緒に 映画 を 見ませんか。",
+        "furigana": "[一緒](いっしょ)に [映画](えいが) を [見](み)ませんか。",
+        "translation": "Bạn có muốn cùng xem phim với tôi không?"
+      }
+    },
+    {
+      "id": "v20",
+      "word": "いつも",
+      "kanji": null,
+      "hiragana": "いつも",
+      "reading": "itsumo",
+      "meaning": "Luôn luôn, lúc nào cũng",
+      "partOfSpeech": "Phó từ",
+      "example": {
+        "sentence": "わたし は いつも 7時 に 起きます。",
+        "furigana": "わたし は いつも [七時](しちじ) に [起](お)きます。",
+        "translation": "Tôi luôn luôn thức dậy vào lúc 7 giờ."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "pattern": "[Danh từ] を [Động từ] & 何をしますか",
+      "structure": "N (đối tượng trực tiếp) + を + Ngoại động từ",
+      "explanation": "Trợ từ 'を' (viết là 'wo' nhưng luôn phát âm là 'o') dùng để xác định đối tượng trực tiếp chịu sự tác động của ngoại động từ (như ăn, uống, xem, đọc, mua...). Mẫu câu '何 を しますか' dùng để hỏi đối phương làm hành động gì.",
+      "usage": "Dùng để biểu thị các hành vi tác động lên đối tượng cụ thể trong sinh hoạt thường nhật (ăn gì, uống gì, xem gì, đọc gì).",
+      "notes": "• Chữ Hiragana 'を' làm trợ từ tân ngữ thì luôn phát âm chuẩn là 'o' (tuyệt đối không đọc là 'wo').\n• Chữ '何' khi đi trước trợ từ 'を' sẽ đọc là 'なに' (nani): なに を 食べますか (Bạn ăn gì?).\n• Khi phủ định hoàn toàn (không làm gì cả / không ăn gì cả), ta dùng: 何 [も] + [Động từ-ません] (Ví dụ: なにも 食べませんでした - Tôi đã không ăn gì cả).",
+      "examples": [
+        {
+          "japanese": "毎朝 何 を 食べますか。",
+          "furigana": "[毎朝](まいあさ) [何](なに) を [食](た)べますか。",
+          "vietnamese": "Mỗi sáng bạn ăn cái gì thế?"
+        },
+        {
+          "japanese": "パン と 卵 を 食べます。",
+          "furigana": "パン と [卵](たまご) を [食](た)べます。",
+          "vietnamese": "Tôi ăn bánh mì và trứng."
+        },
+        {
+          "japanese": "日曜日 に 何 を しましたか。",
+          "furigana": "[日曜日](にちようび) に [何](なに) を しましたか。",
+          "vietnamese": "Chủ nhật bạn đã làm gì vậy?"
+        },
+        {
+          "japanese": "何 も しませんでした。",
+          "furigana": "[何](なに) も しませんでした。",
+          "vietnamese": "Tôi đã không làm gì cả."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "pattern": "[Địa điểm] で [Động từ]",
+      "structure": "N (địa điểm) + で + [Động từ hành động]",
+      "explanation": "Trợ từ 'で' (de) đặt sau danh từ chỉ nơi chốn để biểu thị địa điểm diễn ra một hành động cụ thể.",
+      "usage": "Dùng khi muốn nói bạn ăn cơm ở đâu, mua hàng ở đâu, đọc sách ở đâu, xem phim ở đâu...",
+      "notes": "• Cần phân biệt rõ ràng 3 trợ từ chỉ nơi chốn:\n  + で: Nơi diễn ra HÀNH ĐỘNG (Ví dụ: レストランで 食べます - Ăn ở nhà hàng).\n  + へ: HƯỚNG TỚI, đích đến di chuyển (Ví dụ: レストランへ 行きます - Đi đến nhà hàng).\n  + に: Nơi TỒN TẠI của người/vật (Ví dụ: 部屋に います - Ở trong phòng) hoặc thời điểm xác định.\n• Từ để hỏi địa điểm diễn ra hành động là: 'どこ で [Động từ] か' (Doko de ... ka?).",
+      "examples": [
+        {
+          "japanese": "どこ で その 本 を 買いましたか。",
+          "furigana": "どこ で その [本](ほん) を [買](か)いましたか。",
+          "vietnamese": "Bạn đã mua cuốn sách đó ở đâu vậy?"
+        },
+        {
+          "japanese": "駅 の 近く の 本屋 で 買いました。",
+          "furigana": "[駅](えき) の [近](ちか)く の [本屋](ほんや) で [買](か)いました。",
+          "vietnamese": "Tôi đã mua ở hiệu sách gần nhà ga."
+        },
+        {
+          "japanese": "レストラン で 昼ご飯 を 食べます。",
+          "furigana": "レストラン で [昼](ひる)ご[飯](はん) を [食](た)べます。",
+          "vietnamese": "Tôi ăn trưa ở nhà hàng."
+        },
+        {
+          "japanese": "公園 で 友達 と 写真 を 撮りました。",
+          "furigana": "[公園](こうえん) で [友達](ともだち) と [写真](しゃしん) を [撮](と)りました。",
+          "vietnamese": "Tôi đã chụp ảnh cùng bạn bè ở công viên."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "pattern": "[Động từ-ます] ませんか / ましょう",
+      "structure": "V-ます (bỏ ます) + ませんか / ましょう",
+      "explanation": "• [V-ませんか]: Dùng để mời mọc, rủ rê đối phương cùng làm gì đó một cách lịch sự, tế nhị ('Cùng làm... với tôi không?').\n• [V-ましょう]: Dùng để hô hào, đồng ý thực hiện hành động ('Hãy cùng làm... nhé!' hoặc 'Được đấy, cùng làm thôi!').",
+      "usage": "Thường đi kèm với phó từ '一緒に' (cùng nhau) để tạo không khí thân thiện và gắn kết.",
+      "notes": "• 'V-ませんか' lịch sự và tinh tế hơn 'V-ましょう' vì nó tôn trọng quyết định của người nghe và tạo điều kiện nếu họ muốn từ chối.\n• Khi đồng ý: 'ええ、[V-ましょう]' (Vâng, cùng làm thôi) hoặc 'いいですね、[V-ましょう]'.\n• Khi từ chối khéo: 'すみません、ちょっと…' (Xin lỗi, lúc đó tôi hơi kẹt...), tránh nói thẳng 'いいえ、しません' để giữ phép lịch sự trong giao tiếp Nhật Bản.",
+      "examples": [
+        {
+          "japanese": "一緒 に 昼ご飯 を 食べませんか。",
+          "furigana": "[一緒](いっしょ) に [昼](ひる)ご[飯](はん) を [食](た)べませんか。",
+          "vietnamese": "Bạn có muốn cùng đi ăn trưa với tôi không?"
+        },
+        {
+          "japanese": "ええ、食べましょう。",
+          "furigana": "ええ、[食](た)べましょう。",
+          "vietnamese": "Vâng, chúng ta cùng đi ăn nào."
+        },
+        {
+          "japanese": "明日 京都 へ 行きませんか。",
+          "furigana": "[明日](あした) [京都](きょうと) へ [行](い)きませんか。",
+          "vietnamese": "Ngày mai bạn có muốn đi Kyoto cùng tôi không?"
+        },
+        {
+          "japanese": "すみません、明日 は ちょっと…。",
+          "furigana": "すみません、[明日](あした) は ちょっと…。",
+          "vietnamese": "Xin lỗi, ngày mai thì tôi hơi kẹt..."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "questionText": "Chọn trợ từ thích hợp vào chỗ trống: わたし は 毎朝 新聞 _____ 読みます。",
+      "options": [
+        "を",
+        "で",
+        "へ",
+        "に"
+      ],
+      "correctAnswer": "を",
+      "explanation": "Trợ từ 'を' (phát âm là 'o') đứng sau danh từ tân ngữ (新聞 - tờ báo) để chỉ đối tượng trực tiếp của hành động đọc (読みます)."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "questionText": "Chọn trợ từ thích hợp vào chỗ trống: スーパー _____ 果物 を 買いました。",
+      "options": [
+        "で",
+        "へ",
+        "を",
+        "に"
+      ],
+      "correctAnswer": "で",
+      "explanation": "Trợ từ 'で' đứng sau danh từ chỉ nơi chốn (スーパー - siêu thị) để biểu thị địa điểm diễn ra hành động mua hoa quả (買いました)."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "questionText": "Chọn câu trả lời thích hợp nhất để đáp lại lời rủ rê: '一緒 に お茶 を 飲みませんか。'",
+      "options": [
+        "ええ、飲みましょう。",
+        "いいえ、飲みます。",
+        "はい、飲みません。",
+        "ええ、飲みませんでした。"
+      ],
+      "correctAnswer": "ええ、飲みましょう。",
+      "explanation": "Khi đáp lại lời mời mọc rủ rê '~ませんか', nếu đồng ý ta dùng 'ええ、~ましょう' (Vâng, chúng ta cùng uống nhé)."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "questionText": "Câu nào sau đây phân biệt đúng giữa trợ từ chỉ nơi chốn diễn ra hành động và đích đến di chuyển?",
+      "options": [
+        "デパート で 友達 と 会って、レストラン で ご飯 を 食べました。",
+        "デパート へ 友達 と 会って、レストラン へ ご飯 を 食べました。",
+        "デパート を 友達 と 会って、レストラン を ご飯 を 食べました。",
+        "デパート に 友達 と 会って、レストラン に ご飯 を 食べました。"
+      ],
+      "correctAnswer": "デパート で 友達 と 会って、レストラン で ご飯 を 食べました。",
+      "explanation": "Hành động gặp gỡ hay ăn uống diễn ra tại địa điểm nào thì dùng trợ từ 'で' sau địa điểm đó (デパートで, レストランで)."
+    },
+    {
+      "id": "q5",
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: わたし は 音楽 _____ 聞きます。(Tôi nghe nhạc.)",
+      "correctAnswer": "を",
+      "explanation": "Trợ từ 'を' (phát âm là 'o') chỉ tân ngữ trực tiếp chịu tác động của hành động nghe (音楽 を 聞きます)."
+    },
+    {
+      "id": "q6",
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: 図書館 _____ 本 を 読みます。(Tôi đọc sách ở thư viện.)",
+      "correctAnswer": "で",
+      "explanation": "Trợ từ 'で' đứng sau địa điểm (図書館 - thư viện) biểu thị nơi diễn ra hành động đọc sách."
+    },
+    {
+      "id": "q7",
+      "type": "fill_in_blank",
+      "questionText": "Điền phần còn thiếu của đuôi động từ mời mọc: 一緒 に 映画 を 見_____ か。(Cùng xem phim với tôi không?)",
+      "correctAnswer": "ません",
+      "explanation": "Cấu trúc mời mọc, rủ rê lịch sự là [Động từ thể -ます bỏ ます] + ませんか (見ませんか)."
+    },
+    {
+      "id": "q8",
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống để tạo câu phủ định hoàn toàn: 昨日の晩 は 何 _____ 食べませんでした。(Tối qua tôi đã không ăn gì cả.)",
+      "correctAnswer": "も",
+      "explanation": "Mẫu câu [Nghi vấn từ] + も + [Động từ dạng phủ định] dùng để phủ định hoàn toàn: 何 も 食べませんでした (Không ăn gì cả)."
+    },
+    {
+      "id": "q9",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Tôi ăn cơm trưa ở nhà ăn cùng bạn bè.'",
+      "words": [
+        "わたし は",
+        "友達 と",
+        "食堂 で",
+        "昼ご飯 を",
+        "食べます"
+      ],
+      "correctOrder": [
+        "わたし は",
+        "友達 と",
+        "食堂 で",
+        "昼ご飯 を",
+        "食べます"
+      ],
+      "explanation": "Trật tự câu chuẩn tiếng Nhật: [Chủ ngữ + は] + [Người cùng làm + と] + [Địa điểm diễn ra + で] + [Tân ngữ + を] + [Động từ: 食べます]."
+    },
+    {
+      "id": "q10",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Cuối tuần này cùng nhau đi mua sắm không?'",
+      "words": [
+        "今週末",
+        "一緒 に",
+        "デパート で",
+        "買い物 を",
+        "しませんか"
+      ],
+      "correctOrder": [
+        "今週末",
+        "一緒 に",
+        "デパート で",
+        "買い物 を",
+        "しませんか"
+      ],
+      "explanation": "Trật tự câu chuẩn: [Thời gian: 今週末] + [Phó từ: 一緒 に] + [Địa điểm: デパート で] + [Tân ngữ: 買い物 を] + [Động từ rủ rê: しませんか]."
+    }
+  ]
+}
