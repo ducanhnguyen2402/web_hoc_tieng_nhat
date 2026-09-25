@@ -1,0 +1,432 @@
+{
+  "id": "n5-lesson4",
+  "level": "N5",
+  "lessonNumber": 4,
+  "title": "Bài 4: Thời gian và Ngày tháng (Giờ, Phút, Thứ, Ngày, Tháng)",
+  "description": "Nắm vững cách hỏi và nói thời gian trong ngày (giờ, phút, rưỡi), các thứ trong tuần, cách dùng trợ từ に chỉ mốc thời điểm và cấu trúc biểu thị khoảng thời gian ~から ~まで.",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "word": "今",
+      "kanji": "今",
+      "hiragana": "いま",
+      "reading": "ima",
+      "meaning": "Bây giờ, hiện tại",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "今 何時 ですか。",
+        "furigana": "[今](いま) [何時](なんじ) ですか。",
+        "translation": "Bây giờ là mấy giờ vậy?"
+      }
+    },
+    {
+      "id": "v2",
+      "word": "～時",
+      "kanji": "時",
+      "hiragana": "じ",
+      "reading": "ji",
+      "meaning": "Giờ (hậu tố đếm mốc giờ đồng hồ)",
+      "partOfSpeech": "Hậu tố",
+      "example": {
+        "sentence": "今 4時 です。",
+        "furigana": "[今](いま) [四時](よじ) です。",
+        "translation": "Bây giờ là 4 giờ."
+      }
+    },
+    {
+      "id": "v3",
+      "word": "～分",
+      "kanji": "分",
+      "hiragana": "ふん",
+      "reading": "fun / pun",
+      "meaning": "Phút (hậu tố đếm phút)",
+      "partOfSpeech": "Hậu tố",
+      "example": {
+        "sentence": "今 8時 15分 です。",
+        "furigana": "[今](いま) [八時](はちじ) [十五分](じゅうごふん) です。",
+        "translation": "Bây giờ là 8 giờ 15 phút."
+      }
+    },
+    {
+      "id": "v4",
+      "word": "半",
+      "kanji": "半",
+      "hiragana": "はん",
+      "reading": "han",
+      "meaning": "Rưỡi, nửa (chỉ 30 phút)",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "会議 は 10時 半 から です。",
+        "furigana": "[会議](かいぎ) は [十時](じゅうじ) [半](はん) から です。",
+        "translation": "Cuộc họp bắt đầu từ 10 giờ rưỡi."
+      }
+    },
+    {
+      "id": "v5",
+      "word": "何時",
+      "kanji": "何時",
+      "hiragana": "なんじ",
+      "reading": "nanji",
+      "meaning": "Mấy giờ (từ để hỏi thời gian)",
+      "partOfSpeech": "Nghi vấn từ",
+      "example": {
+        "sentence": "東京 は 今 何時 ですか。",
+        "furigana": "[東京](とうきょう) は [今](いま) [何時](なんじ) ですか。",
+        "translation": "Tokyo bây giờ là mấy giờ?"
+      }
+    },
+    {
+      "id": "v6",
+      "word": "午前",
+      "kanji": "午前",
+      "hiragana": "ごぜん",
+      "reading": "gozen",
+      "meaning": "Sáng, trước 12 giờ trưa (A.M.)",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "午前 9時 に 銀行 へ 行きます。",
+        "furigana": "[午前](ごぜん) [九時](くじ) に [銀行](ぎんこう) へ [行](い)きます。",
+        "translation": "Tôi đi ngân hàng lúc 9 giờ sáng."
+      }
+    },
+    {
+      "id": "v7",
+      "word": "午後",
+      "kanji": "午後",
+      "hiragana": "ごご",
+      "reading": "gogo",
+      "meaning": "Chiều, tối, sau 12 giờ trưa (P.M.)",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "午後 1時 に 昼休み が 終わります。",
+        "furigana": "[午後](ごご) [一時](いちじ) に [昼休](ひるやす)みが [終](お)わります。",
+        "translation": "Giờ nghỉ trưa kết thúc lúc 1 giờ chiều."
+      }
+    },
+    {
+      "id": "v8",
+      "word": "朝",
+      "kanji": "朝",
+      "hiragana": "あさ",
+      "reading": "asa",
+      "meaning": "Buổi sáng, ban sáng",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "朝 6時 に 起きます。",
+        "furigana": "[朝](あさ) [六時](ろくじ) に [起](お)きます。",
+        "translation": "Tôi thức dậy vào lúc 6 giờ sáng."
+      }
+    },
+    {
+      "id": "v9",
+      "word": "昼",
+      "kanji": "昼",
+      "hiragana": "ひる",
+      "reading": "hiru",
+      "meaning": "Buổi trưa, ban ngày",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "昼 12時 に ごはん を 食べます。",
+        "furigana": "[昼](ひる) [十二時](じゅうにじ) に ごはん を [食](た)べます。",
+        "translation": "Tôi ăn cơm lúc 12 giờ trưa."
+      }
+    },
+    {
+      "id": "v10",
+      "word": "晩",
+      "kanji": "晩",
+      "hiragana": "ばん",
+      "reading": "ban",
+      "meaning": "Buổi tối, ban đêm",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "晩 11時 に 寝ます。",
+        "furigana": "[晩](ばん) [十一時](じゅういちじ) に [寝](ね)ます。",
+        "translation": "Tôi đi ngủ vào lúc 11 giờ tối."
+      }
+    },
+    {
+      "id": "v11",
+      "word": "毎日",
+      "kanji": "毎日",
+      "hiragana": "まいにち",
+      "reading": "mainichi",
+      "meaning": "Mỗi ngày, hàng ngày",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "毎日 日本語 を 勉強します。",
+        "furigana": "[毎日](まいにち) [日本語](にほんご) を [勉強](べんきょう)します。",
+        "translation": "Tôi học tiếng Nhật mỗi ngày."
+      }
+    },
+    {
+      "id": "v12",
+      "word": "何曜日",
+      "kanji": "何曜日",
+      "hiragana": "なんようび",
+      "reading": "nanyoubi",
+      "meaning": "Thứ mấy (từ hỏi thứ trong tuần)",
+      "partOfSpeech": "Nghi vấn từ",
+      "example": {
+        "sentence": "今日 は 何曜日 ですか。",
+        "furigana": "[今日](きょう) は [何曜日](なんようび) ですか。",
+        "translation": "Hôm nay là thứ mấy vậy?"
+      }
+    },
+    {
+      "id": "v13",
+      "word": "月曜日",
+      "kanji": "月曜日",
+      "hiragana": "げつようび",
+      "reading": "getsuyoubi",
+      "meaning": "Thứ Hai",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "月曜日 から 金曜日 まで 働きます。",
+        "furigana": "[月曜日](げつようび) から [金曜日](きんようび) まで [働](はたら)きます。",
+        "translation": "Tôi làm việc từ thứ Hai đến thứ Sáu."
+      }
+    },
+    {
+      "id": "v14",
+      "word": "日曜日",
+      "kanji": "日曜日",
+      "hiragana": "にちようび",
+      "reading": "nichiyoubi",
+      "meaning": "Chủ nhật",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "日曜日 は 休み です。",
+        "furigana": "[日曜日](にちようび) は [休](やす)み です。",
+        "translation": "Chủ nhật là ngày nghỉ."
+      }
+    },
+    {
+      "id": "v15",
+      "word": "起きます",
+      "kanji": "起きます",
+      "hiragana": "おきます",
+      "reading": "okimasu",
+      "meaning": "Thức dậy, dậy",
+      "partOfSpeech": "Động từ",
+      "example": {
+        "sentence": "毎朝 7時 に 起きます。",
+        "furigana": "[毎朝](まいあさ) [七時](しちじ) に [起](お)きます。",
+        "translation": "Mỗi sáng tôi thức dậy lúc 7 giờ."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "pattern": "今 [Số giờ]時 [Số phút]分 です & 今、何時ですか",
+      "structure": "今 + [Số giờ]時 + ([Số phút]分) + です / [Số giờ]時半",
+      "explanation": "Dùng để diễn đạt chính xác thời gian hiện tại hoặc hỏi giờ trong tiếng Nhật. Giờ được đếm bằng hậu tố '時' (じ), phút được đếm bằng '分' (ふん / ぷん), và '半' (はん) biểu thị 30 phút (rưỡi). Để hỏi giờ, ta dùng câu hỏi: '今、何時ですか' (Bây giờ là mấy giờ?).",
+      "usage": "Có thể thêm '午前' (buổi sáng / AM) hoặc '午後' (buổi chiều, tối / PM) phía trước mốc thời gian để làm rõ khung giờ trong ngày.",
+      "notes": "Lưu ý các trường hợp đọc giờ biến âm đặc biệt: 4 giờ đọc là 'よじ' (không đọc よんじ hay しじ), 7 giờ đọc là 'しちじ' (không đọc ななじ), 9 giờ đọc là 'くじ' (không đọc きゅうじ). Với phút: 1 phút (いっぷん), 3 phút (さんぷん), 4 phút (よんぷん), 6 phút (ろっぷん), 8 phút (はっぷん), 10 phút (じゅっぷん).",
+      "examples": [
+        {
+          "japanese": "今 何時ですか。… 午後 3時 15分です。",
+          "furigana": "[今](いま) [何時](なんじ) ですか。… [午後](ごご) [三時](さんじ) [十五分](じゅうごふん) です。",
+          "vietnamese": "Bây giờ là mấy giờ? … 3 giờ 15 phút chiều."
+        },
+        {
+          "japanese": "東京は 今 午前 9時半です。",
+          "furigana": "[東京](とうきょう) は [今](いま) [午前](ごぜん) [九時](くじ) [半](はん) です。",
+          "vietnamese": "Tokyo bây giờ là 9 giờ rưỡi sáng."
+        },
+        {
+          "japanese": "毎朝 6時 40分に 起きます。",
+          "furigana": "[毎朝](まいあさ) [六時](ろくじ) [四十分](よんじゅっぷん) に [起](お)きます。",
+          "vietnamese": "Mỗi sáng tôi thức dậy lúc 6 giờ 40 phút."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "pattern": "[Thời gian] に [Động từ]",
+      "structure": "[Danh từ thời gian có số] + に + Động từ",
+      "explanation": "Trợ từ 'に' đi liền sau danh từ chỉ thời gian xác định có chứa con số cụ thể (giờ, phút, ngày, tháng, năm) để biểu thị thời điểm diễn ra một hành động.",
+      "usage": "Đặt 'に' ngay sau mốc thời gian cụ thể: 7時に起きます (thức dậy lúc 7 giờ), 11時に寝ます (đi ngủ lúc 11 giờ).",
+      "notes": "Quy tắc dùng trợ từ に: 1) BẮT BUỘC dùng 'に' với mốc thời gian có con số cụ thể (ví dụ: 6時 に, 8月 に). 2) KHÔNG dùng 'に' với từ chỉ thời gian tương đối như 今日 (hôm nay), あした (ngày mai), きのう (hôm qua), 毎朝 (mỗi sáng), 毎日 (mỗi ngày), いつ (khi nào). 3) Với các thứ trong tuần (月曜日, 火曜日...), có thể dùng hoặc không dùng 'に' đều đúng.",
+      "examples": [
+        {
+          "japanese": "わたしは 毎朝 7時に 起きます。",
+          "furigana": "わたし は [毎朝](まいあさ) [七時](しちじ) に [起](お)きます。",
+          "vietnamese": "Tôi thức dậy vào lúc 7 giờ mỗi sáng."
+        },
+        {
+          "japanese": "昨夜 11時に 寝ました。",
+          "furigana": "[昨夜](ゆうべ) [十一時](じゅういちじ) に [寝](ね)ました。",
+          "vietnamese": "Tối qua tôi đã đi ngủ lúc 11 giờ."
+        },
+        {
+          "japanese": "日曜日に 友達と 勉強します。",
+          "furigana": "[日曜日](にちようび) に [友達](ともだち) と [勉強](べんきょう)します。",
+          "vietnamese": "Tôi học bài cùng bạn bè vào Chủ nhật."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "pattern": "[Thời gian 1] から [Thời gian 2] まで",
+      "structure": "N1 (thời gian/địa điểm) + から + N2 (thời gian/địa điểm) + まで",
+      "explanation": "'から' mang nghĩa 'từ' (chỉ điểm mốc bắt đầu về thời gian hoặc địa điểm), còn 'まで' mang nghĩa 'đến' (chỉ mốc kết thúc). Hai trợ từ này có thể đi cùng nhau tạo thành cặp hoặc đứng độc lập trong câu.",
+      "usage": "Thường dùng để mô tả khung giờ làm việc, học tập, mở cửa hoặc hoạt động của các tổ chức, trường học, công ty.",
+      "notes": "Có thể kết thúc câu bằng 'です' (Ví dụ: 9時から 5時まで です - Từ 9 giờ đến 5 giờ) hoặc đi kèm động từ hành động (Ví dụ: 9時から 5時まで 働きます - Làm việc từ 9 giờ đến 5 giờ). Không bắt buộc lúc nào 'から' và 'まで' cũng phải đi cùng nhau; ta có thể dùng riêng '9時から働きます' hoặc '5時まで勉強します'.",
+      "examples": [
+        {
+          "japanese": "銀行は 9時から 3時まで です。",
+          "furigana": "[銀行](ぎんこう) は [九時](くじ) から [三時](さんじ) まで です。",
+          "vietnamese": "Ngân hàng mở cửa từ 9 giờ đến 3 giờ."
+        },
+        {
+          "japanese": "月曜日から 金曜日まで 働きます。",
+          "furigana": "[月曜日](げつようび) から [金曜日](きんようび) まで [働](はたら)きます。",
+          "vietnamese": "Tôi làm việc từ thứ Hai đến thứ Sáu."
+        },
+        {
+          "japanese": "昼休みは 12時半から 1時半まで です。",
+          "furigana": "[昼休](ひるやす)み は [十二時](じゅうにじ) [半](はん) から [一時](いちじ) [半](はん) まで です。",
+          "vietnamese": "Giờ nghỉ trưa là từ 12 rưỡi đến 1 rưỡi."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "questionText": "Trong tiếng Nhật, cách đọc đúng của mốc thời gian '4 giờ' là gì?",
+      "options": [
+        "よじ",
+        "よんじ",
+        "しじ",
+        "ななじ"
+      ],
+      "correctAnswer": "よじ",
+      "explanation": "Trong tiếng Nhật, 4 giờ đọc là 'よじ' (yoji), là cách đọc biến âm cố định, không dùng 'よんじ' hay 'しじ'."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "questionText": "Chọn câu hỏi phù hợp nhất với câu trả lời: '… いま 8時 30分 です。'",
+      "options": [
+        "いま なんじ ですか。",
+        "きょう は なんようび ですか。",
+        "ぎんこう は なんじ まで ですか。",
+        "まいにち なんじ に おきますか。"
+      ],
+      "correctAnswer": "いま なんじ ですか。",
+      "explanation": "'いま なんじ ですか' nghĩa là 'Bây giờ là mấy giờ?'. Câu trả lời 'いま 8時 30分 です' (Bây giờ là 8 giờ 30 phút) là câu trả lời trực tiếp cho câu hỏi này."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "questionText": "Từ nào sau đây mang nghĩa là 'Thứ Hai' trong tuần?",
+      "options": [
+        "げつようび",
+        "かようび",
+        "すいようび",
+        "にちようび"
+      ],
+      "correctAnswer": "げつようび",
+      "explanation": "'げつようび' (月曜日) là thứ Hai. 'かようび' là thứ Ba, 'すいようび' là thứ Tư, 'にちようび' là Chủ nhật."
+    },
+    {
+      "id": "q4",
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: わたし は 毎朝 6時 _____ 起きます。(Tôi thức dậy vào lúc 6 giờ mỗi sáng.)",
+      "correctAnswer": "に",
+      "explanation": "Trợ từ 'に' đứng sau danh từ chỉ thời gian có con số xác định (6時 - 6 giờ) để biểu thị thời điểm thực hiện hành động thức dậy."
+    },
+    {
+      "id": "q5",
+      "type": "fill_in_blank",
+      "questionText": "Điền từ thích hợp vào chỗ trống để biểu thị mốc kết thúc: 会社 は 9時 から 5時 _____ です。(Công ty làm việc từ 9 giờ đến 5 giờ.)",
+      "correctAnswer": "まで",
+      "explanation": "Cấu trúc '[Thời gian 1] から [Thời gian 2] まで' diễn đạt ý 'từ... đến...'. Từ 'まで' biểu thị mốc thời gian kết thúc."
+    },
+    {
+      "id": "q6",
+      "type": "fill_in_blank",
+      "questionText": "Điền cách đọc Hiragana tương ứng với chữ Hán '半' mang nghĩa 30 phút (rưỡi): _____",
+      "correctAnswer": "はん",
+      "explanation": "Chữ Hán '半' đọc bằng Hiragana là 'はん' (han), biểu thị 30 phút hoặc 'rưỡi' trong cách nói thời gian (ví dụ: 8時半 - 8 giờ rưỡi)."
+    },
+    {
+      "id": "q7",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Ngân hàng mở cửa từ 9 giờ đến 3 giờ.'",
+      "words": [
+        "ぎんこう",
+        "は",
+        "9じ",
+        "から",
+        "3じ",
+        "まで",
+        "です"
+      ],
+      "correctOrder": [
+        "ぎんこう",
+        "は",
+        "9じ",
+        "から",
+        "3じ",
+        "まで",
+        "です"
+      ],
+      "explanation": "Trật tự câu chuẩn: [Chủ ngữ + は] + [Mốc bắt đầu + から] + [Mốc kết thúc + まで] + です (ぎんこう は 9じ から 3じ まで です)."
+    },
+    {
+      "id": "q8",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Mỗi ngày tôi học bài từ thứ Hai đến thứ Sáu.'",
+      "words": [
+        "まいにち",
+        "げつようび",
+        "から",
+        "きんようび",
+        "まで",
+        "べんきょうします"
+      ],
+      "correctOrder": [
+        "まいにち",
+        "げつようび",
+        "から",
+        "きんようび",
+        "まで",
+        "べんきょうします"
+      ],
+      "explanation": "Trật tự câu chuẩn: [Thời gian chung: まいにち] + [Thứ bắt đầu + から] + [Thứ kết thúc + まで] + [Động từ: べんきょうします]."
+    },
+    {
+      "id": "q9",
+      "type": "listening",
+      "questionText": "Lắng nghe câu sau và cho biết người nói thức dậy vào lúc mấy giờ?",
+      "audioText": "わたしは まいあさ 7じはん に おきます。",
+      "options": [
+        "6 giờ 30 phút",
+        "7 giờ 30 phút",
+        "8 giờ",
+        "7 giờ"
+      ],
+      "correctAnswer": "7 giờ 30 phút",
+      "explanation": "Câu phát âm: 'わたしは まいあさ 7じはん に おきます' (Tôi thức dậy vào lúc 7 giờ rưỡi - 7:30 mỗi sáng)."
+    },
+    {
+      "id": "q10",
+      "type": "listening",
+      "questionText": "Lắng nghe đoạn hội thoại ngắn và chọn thứ trong tuần được nhắc đến:",
+      "audioText": "きょうは なんようび ですか。… きんようび です。",
+      "options": [
+        "Thứ Hai (月曜日)",
+        "Thứ Tư (水曜日)",
+        "Thứ Sáu (金曜日)",
+        "Chủ nhật (日曜日)"
+      ],
+      "correctAnswer": "Thứ Sáu (金曜日)",
+      "explanation": "Đoạn thoại hỏi: 'きょうは なんようび ですか' (Hôm nay là thứ mấy?) và câu trả lời là 'きんようび です' (Hôm nay là thứ Sáu)."
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "id": "n5-lesson3",
+  "level": "N5",
+  "lessonNumber": 3,
+  "title": "Bài 3: Vị trí và Nơi chốn (ここ・そこ・あそこ)",
+  "description": "Học cách xác định vị trí đồ vật, địa điểm, phòng ban; sử dụng các đại từ chỉ nơi chốn thông thường và lịch sự; hỏi xuất xứ hàng hóa và giá tiền.",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "word": "ここ",
+      "kanji": null,
+      "hiragana": "ここ",
+      "reading": "koko",
+      "meaning": "Chỗ này, đây (vị trí gần người nói)",
+      "partOfSpeech": "Đại từ chỉ nơi chốn",
+      "example": {
+        "sentence": "ここ は きょうしつ です。",
+        "furigana": "ここ は [教室](きょうしつ) です。",
+        "translation": "Đây là phòng học."
+      }
+    },
+    {
+      "id": "v2",
+      "word": "そこ",
+      "kanji": null,
+      "hiragana": "そこ",
+      "reading": "soko",
+      "meaning": "Chỗ đó, đó (vị trí gần người nghe)",
+      "partOfSpeech": "Đại từ chỉ nơi chốn",
+      "example": {
+        "sentence": "そこ は じむしょ です。",
+        "furigana": "そこ は [事務所](じむしょ) です。",
+        "translation": "Đó là văn phòng."
+      }
+    },
+    {
+      "id": "v3",
+      "word": "あそこ",
+      "kanji": null,
+      "hiragana": "あそこ",
+      "reading": "asoko",
+      "meaning": "Chỗ kia, kia (vị trí xa cả người nói và người nghe)",
+      "partOfSpeech": "Đại từ chỉ nơi chốn",
+      "example": {
+        "sentence": "あそこ は しょくどう です。",
+        "furigana": "あそこ は [食堂](しょくどう) です。",
+        "translation": "Kia là nhà ăn."
+      }
+    },
+    {
+      "id": "v4",
+      "word": "どこ",
+      "kanji": null,
+      "hiragana": "どこ",
+      "reading": "doko",
+      "meaning": "Ở đâu, chỗ nào (từ để hỏi vị trí thông thường)",
+      "partOfSpeech": "Đại từ nghi vấn",
+      "example": {
+        "sentence": "といれ は どこ ですか。",
+        "furigana": "トイレ は どこ ですか。",
+        "translation": "Nhà vệ sinh ở đâu vậy?"
+      }
+    },
+    {
+      "id": "v5",
+      "word": "こちら",
+      "kanji": null,
+      "hiragana": "こちら",
+      "reading": "kochira",
+      "meaning": "Phía này, đằng này, chỗ này (cách nói lịch sự của ここ)",
+      "partOfSpeech": "Đại từ chỉ phương hướng",
+      "example": {
+        "sentence": "こちら は うけつけ です。",
+        "furigana": "こちら は [受付](うけつけ) です。",
+        "translation": "Phía này là quầy tiếp tân."
+      }
+    },
+    {
+      "id": "v6",
+      "word": "そちら",
+      "kanji": null,
+      "hiragana": "そちら",
+      "reading": "sochira",
+      "meaning": "Phía đó, đằng đó, chỗ đó (cách nói lịch sự của そこ)",
+      "partOfSpeech": "Đại từ chỉ phương hướng",
+      "example": {
+        "sentence": "そちら は かいぎしつ です。",
+        "furigana": "そちら は [会議室](かいぎしつ) です。",
+        "translation": "Phía đó là phòng họp."
+      }
+    },
+    {
+      "id": "v7",
+      "word": "あちら",
+      "kanji": null,
+      "hiragana": "あちら",
+      "reading": "achira",
+      "meaning": "Phía kia, đằng kia, chỗ kia (cách nói lịch sự của あそこ)",
+      "partOfSpeech": "Đại từ chỉ phương hướng",
+      "example": {
+        "sentence": "あちら は えれべーたー です。",
+        "furigana": "あちら は エレベーター です。",
+        "translation": "Phía kia là thang máy."
+      }
+    },
+    {
+      "id": "v8",
+      "word": "どちら",
+      "kanji": null,
+      "hiragana": "どちら",
+      "reading": "dochira",
+      "meaning": "Phía nào, đằng nào, chỗ nào (cách nói lịch sự của どこ; dùng hỏi xuất xứ, công ty)",
+      "partOfSpeech": "Đại từ nghi vấn",
+      "example": {
+        "sentence": "かいしゃ は どちら ですか。",
+        "furigana": "[会社](かいしゃ) は どちら ですか。",
+        "translation": "Công ty của bạn là công ty nào? (Hỏi lịch sự)"
+      }
+    },
+    {
+      "id": "v9",
+      "word": "教室",
+      "kanji": "教室",
+      "hiragana": "きょうしつ",
+      "reading": "kyoushitsu",
+      "meaning": "Phòng học, lớp học",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "きょうしつ は にかい です。",
+        "furigana": "[教室](きょうしつ) は [二階](にかい) です。",
+        "translation": "Phòng học ở tầng hai."
+      }
+    },
+    {
+      "id": "v10",
+      "word": "食堂",
+      "kanji": "食堂",
+      "hiragana": "しょくどう",
+      "reading": "shokudou",
+      "meaning": "Nhà ăn, căng tin",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "しょくどう は ちか です。",
+        "furigana": "[食堂](しょくどう) は [地下](ちか) です。",
+        "translation": "Nhà ăn ở dưới tầng hầm."
+      }
+    },
+    {
+      "id": "v11",
+      "word": "事務所",
+      "kanji": "事務所",
+      "hiragana": "じむしょ",
+      "reading": "jimusho",
+      "meaning": "Văn phòng",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "やまださん は じむしょ です。",
+        "furigana": "[山田](やまだ)さん は [事務所](じむしょ) です。",
+        "translation": "Anh Yamada ở văn phòng."
+      }
+    },
+    {
+      "id": "v12",
+      "word": "会議室",
+      "kanji": "会議室",
+      "hiragana": "かいぎしつ",
+      "reading": "kaigishitsu",
+      "meaning": "Phòng họp",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "かいぎしつ は さんかい です。",
+        "furigana": "[会議室](かいぎしつ) は [三階](さんかい) です。",
+        "translation": "Phòng họp ở tầng ba."
+      }
+    },
+    {
+      "id": "v13",
+      "word": "受付",
+      "kanji": "受付",
+      "hiragana": "うけつけ",
+      "reading": "uketsuke",
+      "meaning": "Quầy tiếp tân, bàn tiếp tân",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "うけつけ は いっかい です。",
+        "furigana": "[受付](うけつけ) は [一階](いっかい) です。",
+        "translation": "Quầy tiếp tân ở tầng một."
+      }
+    },
+    {
+      "id": "v14",
+      "word": "部屋",
+      "kanji": "部屋",
+      "hiragana": "へや",
+      "reading": "heya",
+      "meaning": "Căn phòng",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "わたし の へや は ここ です。",
+        "furigana": "わたし の [部屋](へや) は ここ です。",
+        "translation": "Căn phòng của tôi ở đây."
+      }
+    },
+    {
+      "id": "v15",
+      "word": "お手洗い",
+      "kanji": "お手洗い",
+      "hiragana": "おてあらい",
+      "reading": "otearai",
+      "meaning": "Nhà vệ sinh, phòng vệ sinh (cách nói lịch sự; còn gọi là トイレ)",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "おてあらい は あそこ です。",
+        "furigana": "お[手洗](てあら)い は あそこ です。",
+        "translation": "Nhà vệ sinh ở đằng kia."
+      }
+    },
+    {
+      "id": "v16",
+      "word": "階段",
+      "kanji": "階段",
+      "hiragana": "かいだん",
+      "reading": "kaidan",
+      "meaning": "Cầu thang bộ",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "かいだん は あちら です。",
+        "furigana": "[階段](かいだん) は あちら です。",
+        "translation": "Cầu thang bộ ở phía kia."
+      }
+    },
+    {
+      "id": "v17",
+      "word": "エレベーター",
+      "kanji": null,
+      "hiragana": "えれべーたー",
+      "reading": "erebeetaa",
+      "meaning": "Thang máy",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "えれべーたー は そこ です。",
+        "furigana": "エレベーター は そこ です。",
+        "translation": "Thang máy ở chỗ đó."
+      }
+    },
+    {
+      "id": "v18",
+      "word": "会社",
+      "kanji": "会社",
+      "hiragana": "かいしゃ",
+      "reading": "kaisha",
+      "meaning": "Công ty",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "わたし の かいしゃ は とうきょう です。",
+        "furigana": "わたし の [会社](かいしゃ) は [東京](とうきょう) です。",
+        "translation": "Công ty của tôi ở Tokyo."
+      }
+    },
+    {
+      "id": "v19",
+      "word": "国",
+      "kanji": "国",
+      "hiragana": "くに",
+      "reading": "kuni",
+      "meaning": "Đất nước, quốc gia",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "おくに は どちら ですか。",
+        "furigana": "お[国](くに) は どちら ですか。",
+        "translation": "Đất nước của bạn là nước nào? (Bạn là người nước nào?)"
+      }
+    },
+    {
+      "id": "v20",
+      "word": "いくら",
+      "kanji": null,
+      "hiragana": "いくら",
+      "reading": "ikura",
+      "meaning": "Bao nhiêu tiền, giá bao nhiêu",
+      "partOfSpeech": "Đại từ nghi vấn",
+      "example": {
+        "sentence": "この かさ は いくら ですか。",
+        "furigana": "この [傘](かさ) は いくら ですか。",
+        "translation": "Chiếc ô này giá bao nhiêu tiền?"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "pattern": "ここ / そこ / あそこ は [Địa điểm] です",
+      "structure": "ここ / そこ / あそこ + は + [Địa điểm] + です",
+      "explanation": "Dùng để chỉ định vị trí của một địa điểm hoặc phòng ban cụ thể dựa trên khoảng cách tương đối giữa người nói và người nghe. 'ここ' (chỗ này/đây) là vị trí gần người nói; 'そこ' (chỗ đó/đó) là vị trí gần người nghe; 'あそこ' (chỗ kia/kia) là vị trí xa cả người nói lẫn người nghe.",
+      "usage": "Sử dụng làm chủ ngữ để giới thiệu hoặc xác nhận vị trí của các địa điểm, cơ sở vật chất xung quanh.",
+      "notes": "Tránh nhầm lẫn giữa nhóm từ chỉ vật (これ / それ / あれ) và nhóm từ chỉ nơi chốn (ここ / そこ / あそこ): 'これ' mang nghĩa 'cái này' (chỉ đồ vật), còn 'ここ' mang nghĩa 'chỗ này / nơi này' (chỉ không gian, địa điểm). Khi người nói và người nghe đứng cùng một vị trí thì nơi cả hai đang đứng là 'ここ', nơi cách xa một khoảng ngắn là 'そこ', và nơi xa hẳn tầm mắt là 'あそこ'.",
+      "examples": [
+        {
+          "japanese": "ここ は きょうしつ です。",
+          "furigana": "ここ は [教室](きょうしつ) です。",
+          "vietnamese": "Đây là phòng học."
+        },
+        {
+          "japanese": "そこ は じむしょ です。",
+          "furigana": "そこ は [事務所](じむしょ) です。",
+          "vietnamese": "Đó là văn phòng."
+        },
+        {
+          "japanese": "あそこ は しょくどう です。",
+          "furigana": "あそこ は [食堂](しょくどう) です。",
+          "vietnamese": "Kia là nhà ăn."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "pattern": "[Danh từ (người/vật)] は [Địa điểm] です & Nghi vấn từ どこ / どちら",
+      "structure": "[Danh từ] + は + [Địa điểm] + です / [Danh từ] + は + どこ / どちら + ですか",
+      "explanation": "Dùng để diễn đạt hoặc hỏi về vị trí nơi chốn của một người, đồ vật hoặc phòng ban. Khi hỏi vị trí, sử dụng nghi vấn từ 'どこ' (ở đâu) trong giao tiếp hàng ngày thông thường, hoặc 'どちら' (hướng nào / nơi nào) để thể hiện sự lịch sự và trang trọng.",
+      "usage": "Dùng 'どこ' khi giao tiếp thông thường với bạn bè, đồng nghiệp quen thuộc. Dùng 'どちら' trong bối cảnh công sở, dịch vụ tiếp khách hoặc nói chuyện với cấp trên. Đặc biệt, 'どちら' còn được dùng để hỏi lịch sự về công ty, trường học hoặc quốc gia của đối phương thay vì dùng 'なん' (cái gì).",
+      "notes": "Khi trả lời câu hỏi sử dụng 'どちら', người nói nên dùng các đại từ chỉ hướng lịch sự tương ứng: 'こちら' (phía này), 'そちら' (phía đó), 'あちら' (phía kia) thay vì 'ここ', 'そこ', 'あそこ'. Không dùng 'なん' khi hỏi tên cơ quan, tổ chức nơi người khác làm việc vì bị coi là thiếu tế nhị trong văn hóa Nhật Bản.",
+      "examples": [
+        {
+          "japanese": "やまださん は かいぎしつ です。",
+          "furigana": "[山田](やまだ)さん は [会議室](かいぎしつ) です。",
+          "vietnamese": "Anh Yamada ở phòng họp."
+        },
+        {
+          "japanese": "おてあらい は どこ ですか。",
+          "furigana": "お[手洗](てあら)い は どこ ですか。",
+          "vietnamese": "Nhà vệ sinh ở đâu vậy?"
+        },
+        {
+          "japanese": "かいしゃ は どちら ですか。",
+          "furigana": "[会社](かいしゃ) は どちら ですか。",
+          "vietnamese": "Công ty của bạn là công ty nào? (Hỏi lịch sự)"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "pattern": "[Quốc gia / Công ty] の [Đồ vật] & Câu hỏi giá tiền [Đồ vật] は いくら ですか",
+      "structure": "[Quốc gia / Công ty] + の + [Đồ vật] + です / [Đồ vật] + は + いくら + ですか",
+      "explanation": "Trợ từ 'の' được dùng để nêu rõ xuất xứ, nơi sản xuất hoặc công ty chế tạo của một sản phẩm (Quốc gia/Công ty + の + Sản phẩm). Để hỏi giá tiền của một món đồ, ta sử dụng mẫu câu '[Đồ vật] は いくら ですか' với nghi vấn từ 'いくら' mang nghĩa 'bao nhiêu tiền'.",
+      "usage": "Hỏi xuất xứ đồ vật bằng nghi vấn từ: '[Đồ vật] は どこ の [Đồ vật] ですか' (hoặc lịch sự hơn: 'どちら の...'). Trả lời giá tiền bằng số đếm kết hợp với đơn vị tiền tệ Nhật Bản: [Số tiền] + えん (円 - Yên).",
+      "notes": "Cần nắm vững cách đọc các hàng số đếm tiền: 百 (ひゃく - 100), 千 (せん - 1.000), 万 (まん - 10.000). Chú ý các biến âm quan trọng như: 300 (さんびゃく), 600 (ろっぴゃく), 800 (はっぴゃく); 3.000 (さんぜん), 8.000 (はっせん). Khác với tiếng Việt phân nhóm 3 chữ số (hàng nghìn), tiếng Nhật phân nhóm 4 chữ số (hàng vạn: 万).",
+      "examples": [
+        {
+          "japanese": "これ は にほん の くるま です。",
+          "furigana": "これ は [日本](にほん) の [車](くるま) です。",
+          "vietnamese": "Đây là xe ô tô của Nhật Bản."
+        },
+        {
+          "japanese": "これ は どこ の コンピューター ですか。",
+          "furigana": "これ は どこ の コンピューター ですか。",
+          "vietnamese": "Đây là máy tính của nước nào (hãng nào) sản xuất vậy?"
+        },
+        {
+          "japanese": "この とけい は いくら ですか。…ごせんえん です。",
+          "furigana": "この [時計](とけい) は いくら ですか。…[五千円](ごせんえん) です。",
+          "vietnamese": "Chiếc đồng hồ này bao nhiêu tiền? …Giá 5.000 Yên."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "questionText": "Từ nào sau đây có nghĩa là 'Phòng họp'?",
+      "options": [
+        "かいぎしつ",
+        "しょくどう",
+        "じむしょ",
+        "きょうしつ"
+      ],
+      "correctAnswer": "かいぎしつ",
+      "explanation": "'かいぎしつ' (会議室) nghĩa là phòng họp. 'しょくどう' là nhà ăn, 'じむしょ' là văn phòng, 'きょうしつ' là phòng học."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "questionText": "Người nói muốn chỉ một vị trí ở xa cả người nói lẫn người nghe thì dùng đại từ nơi chốn nào?",
+      "options": [
+        "ここ",
+        "そこ",
+        "あそこ",
+        "どこ"
+      ],
+      "correctAnswer": "あそこ",
+      "explanation": "'あそこ' dùng để chỉ vị trí ở xa cả người nói và người nghe. 'ここ' chỉ vị trí gần người nói, 'そこ' chỉ vị trí gần người nghe, 'どこ' là đại từ nghi vấn (ở đâu)."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "questionText": "Để hỏi lịch sự đối tác xem 'Công ty của anh/chị là công ty nào?', câu nào sau đây là phù hợp nhất?",
+      "options": [
+        "かいしゃ は どちら ですか。",
+        "かいしゃ は なん ですか。",
+        "かいしゃ は だれ ですか。",
+        "かいしゃ は どこ の ですか。"
+      ],
+      "correctAnswer": "かいしゃ は どちら ですか。",
+      "explanation": "Trong giao tiếp công sở lịch sự, người Nhật dùng 'どちら' (thay cho 'どこ' hoặc 'なん') khi hỏi về công ty, trường học hoặc quốc gia của đối phương để thể hiện sự tôn trọng."
+    },
+    {
+      "id": "q4",
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: これ は アメリカ _____ カメラ です。(Đây là máy ảnh của Mỹ sản xuất)",
+      "correctAnswer": "の",
+      "explanation": "Trợ từ 'の' dùng để nối giữa danh từ chỉ quốc gia xuất xứ (アメリカ - Mỹ) và sản phẩm (カメラ - máy ảnh) nhằm biểu thị nguồn gốc xuất xứ hàng hóa."
+    },
+    {
+      "id": "q5",
+      "type": "fill_in_blank",
+      "questionText": "Điền nghi vấn từ nơi chốn thông thường vào chỗ trống: すみません、エレベーター は _____ ですか。(Xin lỗi, thang máy ở đâu vậy?)",
+      "correctAnswer": "どこ",
+      "explanation": "Nghi vấn từ 'どこ' dùng để hỏi vị trí, nơi chốn thông thường (ở đâu) của đồ vật hoặc cơ sở vật chất."
+    },
+    {
+      "id": "q6",
+      "type": "fill_in_blank",
+      "questionText": "Điền cách đọc Hiragana tương ứng với chữ Hán '教室' (phòng học): _____",
+      "correctAnswer": "きょうしつ",
+      "explanation": "Chữ Hán '教室' (Giáo thất) đọc bằng Hiragana là 'きょうしつ', mang nghĩa là phòng học, lớp học."
+    },
+    {
+      "id": "q7",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Anh Yamada ở phòng họp.'",
+      "words": [
+        "かいぎしつ",
+        "やまださん",
+        "です",
+        "は"
+      ],
+      "correctOrder": [
+        "やまださん",
+        "は",
+        "かいぎしつ",
+        "です"
+      ],
+      "explanation": "Cấu trúc xác định vị trí của người: [Người] + は + [Địa điểm] + です (やまださん は かいぎしつ です)."
+    },
+    {
+      "id": "q8",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Chiếc máy tính này là của Nhật Bản.'",
+      "words": [
+        "の",
+        "この",
+        "コンピューター",
+        "です",
+        "は",
+        "にほん"
+      ],
+      "correctOrder": [
+        "この",
+        "コンピューター",
+        "は",
+        "にほん",
+        "の",
+        "です"
+      ],
+      "explanation": "Cấu trúc: Cụm chủ ngữ [Chỉ định từ + Danh từ + は] + Cụm xuất xứ [Quốc gia + の] + です (この コンピューター は にほん の です)."
+    },
+    {
+      "id": "q9",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hỏi giá tiền: 'Chiếc đồng hồ này bao nhiêu tiền?'",
+      "words": [
+        "いくら",
+        "とけい",
+        "ですか",
+        "この",
+        "は"
+      ],
+      "correctOrder": [
+        "この",
+        "とけい",
+        "は",
+        "いくら",
+        "ですか"
+      ],
+      "explanation": "Cấu trúc hỏi giá tiền: [Chủ ngữ/Đồ vật] + は + いくら + ですか (この とけい は いくら ですか)."
+    },
+    {
+      "id": "q10",
+      "type": "multiple_choice",
+      "questionText": "Khách hàng đến văn phòng và hỏi: 'すみません、うけつけ は どこ ですか。' Nhân viên muốn lịch sự chỉ dẫn 'Quầy tiếp tân ở phía đằng kia ạ' thì nên nói câu nào?",
+      "options": [
+        "うけつけ は あちら です。",
+        "うけつけ は あそこ です。",
+        "うけつけ は そこ です。",
+        "うけつけ は こちら です。"
+      ],
+      "correctAnswer": "うけつけ は あちら です。",
+      "explanation": "Trong tình huống giao tiếp phục vụ khách hàng, nhân viên sử dụng đại từ chỉ phương hướng lịch sự 'あちら' (thay cho 'あそこ') để thể hiện phong cách trang trọng và chuyên nghiệp khi chỉ dẫn vị trí ở xa cả hai người."
+    }
+  ]
+}

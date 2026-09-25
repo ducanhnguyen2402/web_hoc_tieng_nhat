@@ -1,0 +1,422 @@
+{
+  "id": "n5-lesson2",
+  "level": "N5",
+  "lessonNumber": 2,
+  "title": "Bài 2: Đồ vật xung quanh (これ・それ・あれ)",
+  "description": "Học cách sử dụng các đại từ chỉ định đồ vật ở các vị trí khác nhau và biểu thị quyền sở hữu bằng trợ từ の.",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "word": "これ",
+      "kanji": null,
+      "hiragana": "これ",
+      "reading": "kore",
+      "meaning": "Cái này, đây (vật ở gần người nói)",
+      "partOfSpeech": "Đại từ chỉ định",
+      "example": {
+        "sentence": "これ は じしょ です。",
+        "furigana": "これ は [辞書](じしょ) です。",
+        "translation": "Đây là cuốn từ điển."
+      }
+    },
+    {
+      "id": "v2",
+      "word": "それ",
+      "kanji": null,
+      "hiragana": "それ",
+      "reading": "sore",
+      "meaning": "Cái đó, đó (vật ở gần người nghe)",
+      "partOfSpeech": "Đại từ chỉ định",
+      "example": {
+        "sentence": "それ は わたし の かさ です。",
+        "furigana": "それ は わたし の [傘](かさ) です。",
+        "translation": "Đó là chiếc ô của tôi."
+      }
+    },
+    {
+      "id": "v3",
+      "word": "あれ",
+      "kanji": null,
+      "hiragana": "あれ",
+      "reading": "are",
+      "meaning": "Cái kia, kia (vật ở xa cả người nói và người nghe)",
+      "partOfSpeech": "Đại từ chỉ định",
+      "example": {
+        "sentence": "あれ は くるま です。",
+        "furigana": "あれ は [車](くるま) です。",
+        "translation": "Kia là xe ô tô."
+      }
+    },
+    {
+      "id": "v4",
+      "word": "この",
+      "kanji": null,
+      "hiragana": "この",
+      "reading": "kono",
+      "meaning": "...này (bổ nghĩa cho danh từ đứng ngay sau)",
+      "partOfSpeech": "Chỉ định từ",
+      "example": {
+        "sentence": "この ほん は おもしろい です。",
+        "furigana": "この [本](ほん) は おもしろい です。",
+        "translation": "Cuốn sách này rất hay."
+      }
+    },
+    {
+      "id": "v5",
+      "word": "その",
+      "kanji": null,
+      "hiragana": "その",
+      "reading": "sono",
+      "meaning": "...đó (bổ nghĩa cho danh từ đứng ngay sau)",
+      "partOfSpeech": "Chỉ định từ",
+      "example": {
+        "sentence": "その かばん は だれ の ですか。",
+        "furigana": "その かばん は [誰](だれ) の ですか。",
+        "translation": "Chiếc cặp đó là của ai vậy?"
+      }
+    },
+    {
+      "id": "v6",
+      "word": "あの",
+      "kanji": null,
+      "hiragana": "あの",
+      "reading": "ano",
+      "meaning": "...kia (bổ nghĩa cho danh từ đứng ngay sau)",
+      "partOfSpeech": "Chỉ định từ",
+      "example": {
+        "sentence": "あの ひと は たなかさん です。",
+        "furigana": "あの [人](ひと) は [田中](たなか)さん です。",
+        "translation": "Người kia là anh Tanaka."
+      }
+    },
+    {
+      "id": "v7",
+      "word": "本",
+      "kanji": "本",
+      "hiragana": "ほん",
+      "reading": "hon",
+      "meaning": "Sách, cuốn sách",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "これ は にほんご の ほん です。",
+        "furigana": "これ は [日本語](にほんご) の [本](ほん) です。",
+        "translation": "Đây là sách tiếng Nhật."
+      }
+    },
+    {
+      "id": "v8",
+      "word": "辞書",
+      "kanji": "辞書",
+      "hiragana": "じしょ",
+      "reading": "jisho",
+      "meaning": "Từ điển",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "それ は えいご の じしょ です。",
+        "furigana": "それ は [英語](えいご) の [辞書](じしょ) です。",
+        "translation": "Đó là cuốn từ điển tiếng Anh."
+      }
+    },
+    {
+      "id": "v9",
+      "word": "雑誌",
+      "kanji": "雑誌",
+      "hiragana": "ざっし",
+      "reading": "zasshi",
+      "meaning": "Tạp chí",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "あれ は くるま の ざっし です。",
+        "furigana": "あれ は [車](くるま) の [雑誌](ざっし) です。",
+        "translation": "Kia là tạp chí về ô tô."
+      }
+    },
+    {
+      "id": "v10",
+      "word": "新聞",
+      "kanji": "新聞",
+      "hiragana": "しんぶん",
+      "reading": "shinbun",
+      "meaning": "Báo, tờ báo",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "これ は にほん の しんぶん です。",
+        "furigana": "これ は [日本](にほん) の [新聞](しんぶん) です。",
+        "translation": "Đây là báo Nhật Bản."
+      }
+    },
+    {
+      "id": "v11",
+      "word": "ノート",
+      "kanji": null,
+      "hiragana": "のーと",
+      "reading": "nooto",
+      "meaning": "Vở, tập vở ghi chép",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "この ノート は わたし の です。",
+        "furigana": "この ノート は わたし の です。",
+        "translation": "Cuốn vở này là của tôi."
+      }
+    },
+    {
+      "id": "v12",
+      "word": "鍵",
+      "kanji": "鍵",
+      "hiragana": "かぎ",
+      "reading": "kagi",
+      "meaning": "Chìa khóa",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "これ は くるま の かぎ です。",
+        "furigana": "これ は [車](くるま) の [鍵](かぎ) です。",
+        "translation": "Đây là chìa khóa xe hơi."
+      }
+    },
+    {
+      "id": "v13",
+      "word": "時計",
+      "kanji": "時計",
+      "hiragana": "とけい",
+      "reading": "tokei",
+      "meaning": "Đồng hồ",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "あれ は スイス の とけい です。",
+        "furigana": "あれ は スイス の [時計](とけい) です。",
+        "translation": "Kia là chiếc đồng hồ của Thụy Sĩ."
+      }
+    },
+    {
+      "id": "v14",
+      "word": "傘",
+      "kanji": "傘",
+      "hiragana": "かさ",
+      "reading": "kasa",
+      "meaning": "Cái ô, cái dù",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "それ は あなた の かさ ですか。",
+        "furigana": "それ は あなた の [傘](かさ) ですか。",
+        "translation": "Đó có phải là chiếc ô của bạn không?"
+      }
+    },
+    {
+      "id": "v15",
+      "word": "かばん",
+      "kanji": null,
+      "hiragana": "かばん",
+      "reading": "kaban",
+      "meaning": "Cặp sách, túi xách",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "この かばん は せんせい の です。",
+        "furigana": "この かばん は [先生](せんせい) の です。",
+        "translation": "Chiếc cặp này là của thầy giáo."
+      }
+    },
+    {
+      "id": "v16",
+      "word": "車",
+      "kanji": "車",
+      "hiragana": "くるま",
+      "reading": "kuruma",
+      "meaning": "Xe hơi, xe ô tô",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "あれ は にほん の くるま です。",
+        "furigana": "あれ は [日本](にほん) の [車](くるま) です。",
+        "translation": "Kia là xe hơi của Nhật Bản."
+      }
+    },
+    {
+      "id": "v17",
+      "word": "机",
+      "kanji": "机",
+      "hiragana": "つくえ",
+      "reading": "tsukue",
+      "meaning": "Bàn học, bàn làm việc",
+      "partOfSpeech": "Danh từ",
+      "example": {
+        "sentence": "これ は わたし の つくえ です。",
+        "furigana": "これ は わたし の [机](つくえ) です。",
+        "translation": "Đây là bàn của tôi."
+      }
+    },
+    {
+      "id": "v18",
+      "word": "誰",
+      "kanji": "誰",
+      "hiragana": "だれ",
+      "reading": "dare",
+      "meaning": "Ai (từ để hỏi người)",
+      "partOfSpeech": "Đại từ nghi vấn",
+      "example": {
+        "sentence": "あの ひと は だれ ですか。",
+        "furigana": "あの [人](ひと) は [誰](だれ) ですか。",
+        "translation": "Người kia là ai vậy?"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "pattern": "これ / それ / あれ は N です",
+      "structure": "これ / それ / あれ + は + Danh từ + です",
+      "explanation": "Dùng để chỉ định một đồ vật và nêu rõ đồ vật đó là gì trong tương quan vị trí giữa người nói và người nghe. 'これ' chỉ vật ở gần người nói; 'それ' chỉ vật ở gần người nghe; 'あれ' chỉ vật ở xa cả hai người.",
+      "usage": "Sử dụng làm chủ ngữ độc lập để xác định tên gọi của đồ vật xung quanh.",
+      "notes": "Các từ これ, それ, あれ là đại từ chỉ định độc lập, KHÔNG được đặt một danh từ trực tiếp ngay sau nó (không dùng 'これ ほん', phải dùng 'この ほん'). Khi giao tiếp: nếu người hỏi dùng これ thì người nghe trả lời bằng それ (và ngược lại); nếu người hỏi dùng あれ thì người trả lời cũng dùng あれ.",
+      "examples": [
+        {
+          "japanese": "これ は ほん です。",
+          "furigana": "これ は [本](ほん) です。",
+          "vietnamese": "Đây là cuốn sách."
+        },
+        {
+          "japanese": "それ は わたし の かさ です。",
+          "furigana": "それ は わたし の [傘](かさ) です。",
+          "vietnamese": "Đó là chiếc ô của tôi."
+        },
+        {
+          "japanese": "あれ は なんですか。",
+          "furigana": "あれ は [何](なん)ですか。",
+          "vietnamese": "Kia là cái gì vậy?"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "pattern": "この N / その N / あの N は [Vị ngữ] です",
+      "structure": "この / その / あの + Danh từ + は + Vị ngữ + です",
+      "explanation": "Dùng để bổ nghĩa trực tiếp cho danh từ đứng ngay sau nó nhằm xác định cụ thể 'Cái N này / Cái N đó / Cái N kia'. 'この N' chỉ danh từ ở gần người nói; 'その N' chỉ danh từ ở gần người nghe; 'あの N' chỉ danh từ ở xa cả hai người.",
+      "usage": "Nhóm từ この, その, あの luôn luôn phải có danh từ đi liền phía sau để tạo thành cụm danh từ hoàn chỉnh.",
+      "notes": "Tuyệt đối không sử dụng riêng lẻ nhóm từ này làm chủ ngữ (không nói: 'この は わたしのです'; câu đúng phải là: 'この ほん は わたしのです').",
+      "examples": [
+        {
+          "japanese": "この ほん は わたし の です。",
+          "furigana": "この [本](ほん) は わたし の です。",
+          "vietnamese": "Cuốn sách này là của tôi."
+        },
+        {
+          "japanese": "その かぎ は あなた の ですか。",
+          "furigana": "その [鍵](かぎ) は あなた の ですか。",
+          "vietnamese": "Chiếc chìa khóa đó có phải của bạn không?"
+        },
+        {
+          "japanese": "あの くるま は にほん の くるま です。",
+          "furigana": "あの [車](くるま) は [日本](にほん) の [車](くるま) です。",
+          "vietnamese": "Chiếc xe hơi kia là xe hơi của Nhật Bản."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "pattern": "N1 の N2 & Câu hỏi 'だれの N2'",
+      "structure": "N1 + の + N2 / だれの + N2 + ですか",
+      "explanation": "Trợ từ 'の' dùng để liên kết 2 danh từ: (1) Biểu thị nội dung, chủng loại (N1 bổ nghĩa cho N2: sách tiếng Nhật, tạp chí ô tô); (2) Biểu thị quyền sở hữu (N1 là chủ của N2: sách của tôi, ô của giáo viên). Khi muốn hỏi người sở hữu đồ vật, ta dùng nghi vấn từ 'だれ' (ai) kết hợp với 'の'.",
+      "usage": "Khi danh từ N2 đã được người nghe hiểu rõ qua ngữ cảnh hoặc câu hỏi trước đó, ta có thể giản lược N2 và chỉ cần nói 'N1 の です' (Ví dụ: 'わたしのです' - Của tôi).",
+      "notes": "Nếu danh từ N2 là từ chỉ người (ví dụ: がくせい - học sinh, しゃいん - nhân viên công ty), ta KHÔNG được giản lược N2.",
+      "examples": [
+        {
+          "japanese": "これ は にほんご の ほん です。",
+          "furigana": "これ は [日本語](にほんご) の [本](ほん) です。",
+          "vietnamese": "Đây là sách tiếng Nhật."
+        },
+        {
+          "japanese": "それ は だれ の かばん ですか。",
+          "furigana": "それ は [誰](だれ) の かばん ですか。",
+          "vietnamese": "Đó là chiếc cặp của ai vậy?"
+        },
+        {
+          "japanese": "この かさ は たなかさん の です。",
+          "furigana": "この [傘](かさ) は [田中](たなか)さん の です。",
+          "vietnamese": "Chiếc ô này là của anh Tanaka."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ tiếng Nhật có nghĩa là 'Từ điển':",
+      "options": ["ほん", "じしょ", "ざっし", "しんぶん"],
+      "correctAnswer": "じしょ",
+      "explanation": "Từ 'じしょ' (辞書) có nghĩa là từ điển. Các lựa chọn khác: ほん (sách), ざっし (tạp chí), しんぶん (báo)."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "questionText": "Người nói muốn chỉ một đồ vật ở gần phía người nghe thì dùng từ nào?",
+      "options": ["これ", "それ", "あれ", "どれ"],
+      "correctAnswer": "それ",
+      "explanation": "'それ' dùng để chỉ đồ vật ở gần người nghe nhưng xa người nói. 'これ' dùng cho vật ở gần người nói, 'あれ' dùng cho vật ở xa cả hai người."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "questionText": "Điền vào chỗ trống: _____ ほん は わたし の です。",
+      "options": ["これ", "この", "それ", "あれ"],
+      "correctAnswer": "この",
+      "explanation": "Trước danh từ (ほん) bắt buộc phải dùng chỉ định từ dạng 'この + N', không thể dùng đại từ độc lập 'これ' để bổ nghĩa trực tiếp cho danh từ."
+    },
+    {
+      "id": "q4",
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: これ は くるま _____ かぎ です。(Đây là chìa khóa xe hơi)",
+      "correctAnswer": "の",
+      "explanation": "Trợ từ 'の' dùng để nối hai danh từ biểu thị quan hệ thuộc tính, sở hữu hoặc nội dung (くるま の かぎ: chìa khóa của xe hơi)."
+    },
+    {
+      "id": "q5",
+      "type": "fill_in_blank",
+      "questionText": "Điền cách đọc Hiragana tương ứng với chữ Hán '本' (sách):",
+      "correctAnswer": "ほん",
+      "explanation": "Chữ Hán '本' đọc là 'ほん' (hon), mang nghĩa là quyển sách."
+    },
+    {
+      "id": "q6",
+      "type": "fill_in_blank",
+      "questionText": "Điền nghi vấn từ thích hợp: あの かさ は _____ の ですか。(Chiếc ô kia là của ai vậy?)",
+      "correctAnswer": "だれ",
+      "explanation": "Nghi vấn từ 'だれ' (ai) kết hợp với trợ từ 'の' để hỏi quyền sở hữu: だれの (của ai)."
+    },
+    {
+      "id": "q7",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Đây là sách tiếng Nhật.'",
+      "words": ["ほん", "これ", "にほんごの", "は", "です"],
+      "correctOrder": ["これ", "は", "にほんごの", "ほん", "です"],
+      "explanation": "Cấu trúc chuẩn: Chủ ngữ (これ は) + Bổ ngữ (にほんごの ほん) + です."
+    },
+    {
+      "id": "q8",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu: 'Chiếc ô này là của tôi.'",
+      "words": ["この", "わたし", "は", "です", "かさ", "の"],
+      "correctOrder": ["この", "かさ", "は", "わたし", "の", "です"],
+      "explanation": "Cụm chủ ngữ là 'この かさ は' (Chiếc ô này), vị ngữ sở hữu là 'わたし の です' (là của tôi)."
+    },
+    {
+      "id": "q9",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hỏi: 'Kia có phải là đồng hồ không?'",
+      "words": ["とけい", "ですか", "は", "あれ"],
+      "correctOrder": ["あれ", "は", "とけい", "ですか"],
+      "explanation": "Cấu trúc nghi vấn: Chủ ngữ (あれ は) + Danh từ (とけい) + ですか."
+    },
+    {
+      "id": "q10",
+      "type": "multiple_choice",
+      "questionText": "A hỏi: 'これ は あなた の えんぴつ ですか。' (Đây là bút chì của bạn phải không? - vật ở gần A). B sẽ trả lời thế nào nếu đúng là của B?",
+      "options": [
+        "はい、それ は わたし の です。",
+        "はい、これ は わたし の です。",
+        "いいえ、それ は わたし の です。",
+        "はい、あれ は わたし の です。"
+      ],
+      "correctAnswer": "はい、それ は わたし の です。",
+      "explanation": "Khi người hỏi dùng 'これ' (vật ở gần người hỏi), người nghe khi trả lời phải đổi thành 'それ' (vật ở gần người đối diện)."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "lessonId": "n5-lesson1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng nghĩa: 'Giáo viên'",
+      "options": [
+        "がくせい",
+        "せんせい",
+        "わたし",
+        "あなた"
+      ],
+      "correctAnswer": "せんせい",
+      "explanation": "Từ 'せんせい' (sensei) có nghĩa là giáo viên. Các từ khác: がくせい (học sinh), わたし (tôi), あなた (bạn)."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "questionText": "Điền vào chỗ trống: わたし _____ がくせいです。",
+      "options": [
+        "の",
+        "か",
+        "は",
+        "を"
+      ],
+      "correctAnswer": "は",
+      "explanation": "Trợ từ 'は' (wa) được sử dụng để đánh dấu chủ ngữ của câu. Cấu trúc cơ bản là N1 は N2 です."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "questionText": "Câu nào sau đây dịch đúng nghĩa: 'Bạn có phải là học sinh không?'",
+      "options": [
+        "わたし は がくせい ですか。",
+        "あなた は せんせい ですか。",
+        "わたし は がくせい じゃありません。",
+        "あなた は がくせい ですか。"
+      ],
+      "correctAnswer": "あなた は がくせい ですか。",
+      "explanation": "Dùng 'あなた' (bạn) và thêm trợ từ nghi vấn 'か' ở cuối câu để tạo thành câu hỏi."
+    },
+    {
+      "id": "q4",
+      "type": "fill_in_blank",
+      "questionText": "Điền từ tiếng Nhật (hiragana) mang nghĩa 'Học sinh':",
+      "correctAnswer": "がくせい",
+      "explanation": "Từ 'がくせい' (gakusei) có nghĩa là học sinh / sinh viên."
+    },
+    {
+      "id": "q5",
+      "type": "fill_in_blank",
+      "questionText": "Điền TRỢ TỪ thích hợp vào chỗ trống: わたし ( _____ ) マイク・ミラーです。",
+      "correctAnswer": "は",
+      "explanation": "Trợ từ 'は' (wa) đi sau chủ ngữ わたし để nhấn mạnh 'Tôi là...'"
+    },
+    {
+      "id": "q6",
+      "type": "fill_in_blank",
+      "questionText": "Khi muốn tạo thành câu hỏi, ta đặt trợ từ gì ở cuối câu? (Chỉ điền 1 chữ hiragana)",
+      "correctAnswer": "か",
+      "explanation": "Trợ từ 'か' (ka) luôn đứng ở cuối câu để biến câu khẳng định thành câu nghi vấn."
+    },
+    {
+      "id": "q7",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Tôi không phải là giáo viên.'",
+      "words": [
+        "せんせい",
+        "わたし",
+        "じゃありません",
+        "は"
+      ],
+      "correctOrder": [
+        "わたし",
+        "は",
+        "せんせい",
+        "じゃありません"
+      ],
+      "explanation": "Cấu trúc phủ định (N1 không phải là N2): N1 は N2 じゃありません. Do đó câu đúng là: わたし は せんせい じゃありません."
+    },
+    {
+      "id": "q8",
+      "type": "ordering",
+      "questionText": "Sắp xếp câu sau: 'Vâng, tôi là học sinh.'",
+      "words": [
+        "は",
+        "がくせい",
+        "はい、",
+        "です",
+        "わたし"
+      ],
+      "correctOrder": [
+        "はい、",
+        "わたし",
+        "は",
+        "がくせい",
+        "です"
+      ],
+      "explanation": "Cấu trúc trả lời khẳng định: はい、(Câu khẳng định N1 は N2 です)."
+    },
+    {
+      "id": "q9",
+      "type": "listening",
+      "questionText": "Nghe và chọn từ đúng:",
+      "audioText": "せんせい",
+      "options": [
+        "がくせい",
+        "せんせい",
+        "わたし",
+        "あなた"
+      ],
+      "correctAnswer": "せんせい",
+      "explanation": "Từ bạn vừa nghe là 'せんせい' (giáo viên)."
+    },
+    {
+      "id": "q10",
+      "type": "listening",
+      "questionText": "Nghe câu sau và chọn đáp án có nghĩa tương ứng:",
+      "audioText": "わたし は がくせい じゃありません",
+      "options": [
+        "Tôi là học sinh.",
+        "Tôi không phải là giáo viên.",
+        "Bạn là học sinh phải không?",
+        "Tôi không phải là học sinh."
+      ],
+      "correctAnswer": "Tôi không phải là học sinh.",
+      "explanation": "Câu âm thanh đọc là: わたし は がくせい じゃありません (Tôi không phải là học sinh)."
+    }
+  ]
+}

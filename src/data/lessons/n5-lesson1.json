@@ -1,0 +1,41 @@
+{
+  "id": "n5-lesson1",
+  "level": "N5",
+  "title": "Bài 1: Giới thiệu bản thân",
+  "description": "Học cách chào hỏi cơ bản và tự giới thiệu bản thân trong tiếng Nhật.",
+  "vocabulary": [
+    { "id": "v1", "word": "わたし", "reading": "watashi", "meaning": "Tôi" },
+    { "id": "v2", "word": "あなた", "reading": "anata", "meaning": "Bạn" },
+    { "id": "v3", "word": "がくせい", "reading": "gakusei", "meaning": "Học sinh, sinh viên" },
+    { "id": "v4", "word": "せんせい", "reading": "sensei", "meaning": "Giáo viên" },
+    { "id": "v5", "word": "はい", "reading": "hai", "meaning": "Vâng, đúng" },
+    { "id": "v6", "word": "いいえ", "reading": "iie", "meaning": "Không" }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "pattern": "N1 は N2 です",
+      "explanation": "Dùng để nói N1 là N2. Trợ từ は đọc là 'wa'.",
+      "examples": [
+        { "japanese": "わたし は がくせい です。", "vietnamese": "Tôi là học sinh." },
+        { "japanese": "マイク・ミラー は アメリカじん です。", "vietnamese": "Mike Miller là người Mỹ." }
+      ]
+    },
+    {
+      "id": "g2",
+      "pattern": "N1 は N2 じゃありません",
+      "explanation": "Thể phủ định của です, dùng để nói N1 không phải là N2.",
+      "examples": [
+        { "japanese": "わたし は せんせい じゃありません。", "vietnamese": "Tôi không phải là giáo viên." }
+      ]
+    },
+    {
+      "id": "g3",
+      "pattern": "S か",
+      "explanation": "Câu hỏi. Thêm か vào cuối câu để tạo thành câu hỏi.",
+      "examples": [
+        { "japanese": "あなたは がくせいですか。", "vietnamese": "Bạn có phải là học sinh không?" }
+      ]
+    }
+  ]
+}
