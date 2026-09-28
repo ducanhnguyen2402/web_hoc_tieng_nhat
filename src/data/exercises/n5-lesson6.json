@@ -1,0 +1,118 @@
+{
+  "lessonId": "n5-lesson6",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: この居酒屋は駅から [ _______ ] です。",
+      "options": [
+        "ちかい",
+        "はやい"
+      ],
+      "correctAnswer": "ちかい",
+      "explanation": "ちかい (Gần). Câu này nghĩa là: Quán rượu này gần nhà ga."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: この公園はとても [ _______ ] です。",
+      "options": [
+        "ひろい",
+        "やすい"
+      ],
+      "correctAnswer": "ひろい",
+      "explanation": "ひろい (Rộng). Công viên này rất rộng."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: 明日、横浜でサッカーの [ _______ ] があります。",
+      "options": [
+        "しあい",
+        "ようじ"
+      ],
+      "correctAnswer": "しあい",
+      "explanation": "サッカーのしあい (Trận đấu bóng đá)."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: デパートの [ _______ ] に行きました。",
+      "options": [
+        "セール",
+        "コース"
+      ],
+      "correctAnswer": "セール",
+      "explanation": "セール (Giảm giá/Sale). Đi đến đợt giảm giá của trung tâm thương mại."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: 野球を [ _______ ]。",
+      "options": [
+        "します",
+        "あそびます"
+      ],
+      "correctAnswer": "します",
+      "explanation": "Chơi các môn thể thao dùng động từ します (Làm/Chơi)."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: A: 明日、映画に行きませんか。 B: すみません。明日は友達と [ _______ ] がありますから... ",
+      "options": [
+        "やくそく",
+        "ようじ"
+      ],
+      "correctAnswer": "やくそく",
+      "explanation": "やくそく (Cuộc hẹn). Có hẹn với bạn nên không đi xem phim được."
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng để hỏi: A: ご飯とパンと [ _______ ] が好きですか。",
+      "options": [
+        "どちら",
+        "どちらも"
+      ],
+      "correctAnswer": "どちら",
+      "explanation": "どちら (Cái nào). Dùng để hỏi sự lựa chọn giữa 2 vật."
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng để trả lời: B: [ _______ ] 好きです。",
+      "options": [
+        "どちらも",
+        "どちら"
+      ],
+      "correctAnswer": "どちらも",
+      "explanation": "どちらも (Cả hai). Thích cả cơm và bánh mì."
+    },
+    {
+      "id": "q9",
+      "type": "ordering",
+      "questionText": "Sắp xếp thành câu: 'Tối nay cùng nhau đi ăn cơm không?'",
+      "words": [
+        "一緒に",
+        "食べませんか",
+        "ご飯を",
+        "今晩"
+      ],
+      "correctOrder": [
+        "今晩",
+        "一緒に",
+        "ご飯を",
+        "食べませんか"
+      ],
+      "explanation": "Cấu trúc rủ rê: 今晩 一緒に ご飯を 食べませんか。"
+    },
+    {
+      "id": "q10",
+      "type": "fill_in_blank",
+      "questionText": "Điền từ tiếng Nhật (hiragana) vào chỗ trống: チケットが２______ あります。(Tôi có 2 vé)",
+      "correctAnswer": "まい",
+      "explanation": "Vé là vật mỏng nên dùng lượng từ 枚 (まい)."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "lessonId": "n5-lesson3",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ tiếng Nhật đúng nghĩa: 'Ngân hàng'",
+      "options": [
+        "びょういん (Bệnh viện)",
+        "ぎんこう (Ngân hàng)",
+        "としょかん (Thư viện)",
+        "ゆうびんきょく (Bưu điện)"
+      ],
+      "correctAnswer": "ぎんこう (Ngân hàng)",
+      "explanation": "ぎんこう (銀行) nghĩa là Ngân hàng. びょういん là Bệnh viện, としょかん là Thư viện, ゆうびんきょく là Bưu điện."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "questionText": "Nối từ với hành động phù hợp: ご飯を (Cơm) _______",
+      "options": [
+        "のみます (Uống)",
+        "たべます (Ăn)",
+        "みます (Xem)",
+        "します (Làm)"
+      ],
+      "correctAnswer": "たべます (Ăn)",
+      "explanation": "ご飯を食べます (Ăn cơm)."
+    },
+    {
+      "id": "q3",
+      "type": "fill_in_blank",
+      "questionText": "Điền từ tiếng Nhật (hiragana) mang nghĩa 'Buổi sáng':",
+      "correctAnswer": "あさ",
+      "explanation": "朝 (あさ - asa) nghĩa là Buổi sáng."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ tiếng Nhật đúng nghĩa: 'Đi'",
+      "options": [
+        "かえります (Về)",
+        "きます (Đến)",
+        "いきます (Đi)",
+        "のみます (Uống)"
+      ],
+      "correctAnswer": "いきます (Đi)",
+      "explanation": "行きます (いきます) mang nghĩa là Đi (tới một địa điểm nào đó)."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "questionText": "Nối từ với hành động phù hợp: 映画を (Phim) _______",
+      "options": [
+        "みます (Xem)",
+        "かえります (Về)",
+        "よみます (Đọc)",
+        "ききます (Nghe)"
+      ],
+      "correctAnswer": "みます (Xem)",
+      "explanation": "映画を見ます (Xem phim)."
+    },
+    {
+      "id": "q6",
+      "type": "fill_in_blank",
+      "questionText": "Điền từ tiếng Nhật (hiragana) vào chỗ trống: 今、９_____ ２０分です。(Bây giờ là 9 giờ 20 phút)",
+      "correctAnswer": "じ",
+      "explanation": "Giờ trong tiếng Nhật đếm bằng từ 時 (じ - ji)."
+    },
+    {
+      "id": "q7",
+      "type": "ordering",
+      "questionText": "Sắp xếp thành câu: 'Kỳ nghỉ hè, tôi đi Hokkaido.'",
+      "words": [
+        "行きます",
+        "夏休み、",
+        "へ",
+        "北海道"
+      ],
+      "correctOrder": [
+        "夏休み、",
+        "北海道",
+        "へ",
+        "行きます"
+      ],
+      "explanation": "夏休み、北海道へ行きます。(Natsuyasumi, Hokkaidou e ikimasu)."
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "questionText": "Từ nào sau đây không phải là danh từ chỉ thời tiết/mùa?",
+      "options": [
+        "春 (Xuân)",
+        "夏 (Hạ)",
+        "家 (Nhà)",
+        "冬 (Đông)"
+      ],
+      "correctAnswer": "家 (Nhà)",
+      "explanation": "家 (うち / ie) có nghĩa là nhà, không phải là mùa."
+    },
+    {
+      "id": "q9",
+      "type": "ordering",
+      "questionText": "Sắp xếp thành câu: 'Tôi chơi trượt tuyết.'",
+      "words": [
+        "を",
+        "します",
+        "スキー"
+      ],
+      "correctOrder": [
+        "スキー",
+        "を",
+        "します"
+      ],
+      "explanation": "Chơi các môn thể thao dùng trợ từ を kết hợp với động từ します (Làm/Chơi). Cụ thể: スキーをします."
+    },
+    {
+      "id": "q10",
+      "type": "multiple_choice",
+      "questionText": "Cách đáp lại khi ai đó đề xuất một kế hoạch hay (ví dụ: 'Ngày mai đi Hokkaido'):",
+      "options": [
+        "えっ (Hả)",
+        "いいですね (Hay quá nhỉ)",
+        "すみません (Xin lỗi)"
+      ],
+      "correctAnswer": "いいですね (Hay quá nhỉ)",
+      "explanation": "いいですね là cách nói thể hiện sự đồng tình, khen ngợi một ý tưởng hay."
+    }
+  ]
+}

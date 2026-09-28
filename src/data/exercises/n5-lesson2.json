@@ -4,16 +4,26 @@
     {
       "id": "q1",
       "type": "multiple_choice",
-      "questionText": "Chọn từ tiếng Nhật có nghĩa là 'Từ điển':",
-      "options": ["ほん", "じしょ", "ざっし", "しんぶん"],
-      "correctAnswer": "じしょ",
-      "explanation": "Từ 'じしょ' (辞書) có nghĩa là từ điển. Các lựa chọn khác: ほん (sách), ざっし (tạp chí), しんぶん (báo)."
+      "questionText": "Chọn từ tiếng Nhật có nghĩa là 'Máy tính cá nhân':",
+      "options": [
+        "カメラ",
+        "パソコン",
+        "テレビ",
+        "ケータイ"
+      ],
+      "correctAnswer": "パソコン",
+      "explanation": "Từ 'パソコン' (pasokon) có nghĩa là máy tính cá nhân. カメラ là máy ảnh."
     },
     {
       "id": "q2",
       "type": "multiple_choice",
       "questionText": "Người nói muốn chỉ một đồ vật ở gần phía người nghe thì dùng từ nào?",
-      "options": ["これ", "それ", "あれ", "どれ"],
+      "options": [
+        "これ",
+        "それ",
+        "あれ",
+        "どれ"
+      ],
       "correctAnswer": "それ",
       "explanation": "'それ' dùng để chỉ đồ vật ở gần người nghe nhưng xa người nói. 'これ' dùng cho vật ở gần người nói, 'あれ' dùng cho vật ở xa cả hai người."
     },
@@ -21,67 +31,117 @@
       "id": "q3",
       "type": "multiple_choice",
       "questionText": "Điền vào chỗ trống: _____ ほん は わたし の です。",
-      "options": ["これ", "この", "それ", "あれ"],
+      "options": [
+        "これ",
+        "この",
+        "それ",
+        "あれ"
+      ],
       "correctAnswer": "この",
       "explanation": "Trước danh từ (ほん) bắt buộc phải dùng chỉ định từ dạng 'この + N', không thể dùng đại từ độc lập 'これ' để bổ nghĩa trực tiếp cho danh từ."
     },
     {
       "id": "q4",
-      "type": "fill_in_blank",
-      "questionText": "Điền trợ từ thích hợp vào chỗ trống: これ は くるま _____ かぎ です。(Đây là chìa khóa xe hơi)",
-      "correctAnswer": "の",
-      "explanation": "Trợ từ 'の' dùng để nối hai danh từ biểu thị quan hệ thuộc tính, sở hữu hoặc nội dung (くるま の かぎ: chìa khóa của xe hơi)."
+      "type": "multiple_choice",
+      "questionText": "Nơi nào dùng để 'Rút tiền tự động'?",
+      "options": [
+        "トイレ",
+        "ＡＴＭ",
+        "レジ",
+        "きつえんしょ"
+      ],
+      "correctAnswer": "ＡＴＭ",
+      "explanation": "ＡＴＭ là máy rút tiền tự động. トイレ (nhà vệ sinh), レジ (quầy thu ngân), きつえんしょ (nơi hút thuốc)."
     },
     {
       "id": "q5",
       "type": "fill_in_blank",
-      "questionText": "Điền cách đọc Hiragana tương ứng với chữ Hán '本' (sách):",
-      "correctAnswer": "ほん",
-      "explanation": "Chữ Hán '本' đọc là 'ほん' (hon), mang nghĩa là quyển sách."
+      "questionText": "Điền từ Hiragana tương ứng: 'Thịt bò' là ぎゅう_____",
+      "correctAnswer": "にく",
+      "explanation": "ぎゅうにく (牛肉) là thịt bò."
     },
     {
       "id": "q6",
-      "type": "fill_in_blank",
-      "questionText": "Điền nghi vấn từ thích hợp: あの かさ は _____ の ですか。(Chiếc ô kia là của ai vậy?)",
-      "correctAnswer": "だれ",
-      "explanation": "Nghi vấn từ 'だれ' (ai) kết hợp với trợ từ 'の' để hỏi quyền sở hữu: だれの (của ai)."
+      "type": "multiple_choice",
+      "questionText": "Để gọi món ăn trong nhà hàng, bạn có thể nói câu nào?",
+      "options": [
+        "注文をお願いします",
+        "いらっしゃいませ",
+        "いくらですか"
+      ],
+      "correctAnswer": "注文をお願いします",
+      "explanation": "注文をお願いします (Chuumon o onegaishimasu) nghĩa là 'Cho tôi gọi đồ'."
     },
     {
       "id": "q7",
       "type": "ordering",
-      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Đây là sách tiếng Nhật.'",
-      "words": ["ほん", "これ", "にほんごの", "は", "です"],
-      "correctOrder": ["これ", "は", "にほんごの", "ほん", "です"],
-      "explanation": "Cấu trúc chuẩn: Chủ ngữ (これ は) + Bổ ngữ (にほんごの ほん) + です."
+      "questionText": "Sắp xếp các từ sau thành câu: 'Cho tôi 2 xuất cơm.'",
+      "words": [
+        "ください",
+        "２つ",
+        "ご飯を",
+        "。"
+      ],
+      "correctOrder": [
+        "ご飯を",
+        "２つ",
+        "ください",
+        "。"
+      ],
+      "explanation": "Cấu trúc xin thứ gì đó: Danh từ + を + Số lượng + ください."
     },
     {
       "id": "q8",
       "type": "ordering",
-      "questionText": "Sắp xếp các từ sau thành câu: 'Chiếc ô này là của tôi.'",
-      "words": ["この", "わたし", "は", "です", "かさ", "の"],
-      "correctOrder": ["この", "かさ", "は", "わたし", "の", "です"],
-      "explanation": "Cụm chủ ngữ là 'この かさ は' (Chiếc ô này), vị ngữ sở hữu là 'わたし の です' (là của tôi)."
+      "questionText": "Sắp xếp các từ sau thành câu: 'Chiếc cặp này là của tôi.'",
+      "words": [
+        "この",
+        "わたし",
+        "は",
+        "です",
+        "かばん",
+        "の"
+      ],
+      "correctOrder": [
+        "この",
+        "かばん",
+        "は",
+        "わたし",
+        "の",
+        "です"
+      ],
+      "explanation": "Cụm chủ ngữ là 'この かばん は' (Chiếc cặp này), vị ngữ sở hữu là 'わたし の です' (là của tôi)."
     },
     {
       "id": "q9",
       "type": "ordering",
-      "questionText": "Sắp xếp các từ sau thành câu hỏi: 'Kia có phải là đồng hồ không?'",
-      "words": ["とけい", "ですか", "は", "あれ"],
-      "correctOrder": ["あれ", "は", "とけい", "ですか"],
+      "questionText": "Sắp xếp các từ sau thành câu hỏi: 'Kia là đồng hồ phải không?'",
+      "words": [
+        "とけい",
+        "ですか",
+        "は",
+        "あれ"
+      ],
+      "correctOrder": [
+        "あれ",
+        "は",
+        "とけい",
+        "ですか"
+      ],
       "explanation": "Cấu trúc nghi vấn: Chủ ngữ (あれ は) + Danh từ (とけい) + ですか."
     },
     {
       "id": "q10",
       "type": "multiple_choice",
-      "questionText": "A hỏi: 'これ は あなた の えんぴつ ですか。' (Đây là bút chì của bạn phải không? - vật ở gần A). B sẽ trả lời thế nào nếu đúng là của B?",
+      "questionText": "Từ nào sau đây mang nghĩa 'Quần dài'?",
       "options": [
-        "はい、それ は わたし の です。",
-        "はい、これ は わたし の です。",
-        "いいえ、それ は わたし の です。",
-        "はい、あれ は わたし の です。"
+        "ズボン",
+        "かばん",
+        "くつ",
+        "Tシャツ"
       ],
-      "correctAnswer": "はい、それ は わたし の です。",
-      "explanation": "Khi người hỏi dùng 'これ' (vật ở gần người hỏi), người nghe khi trả lời phải đổi thành 'それ' (vật ở gần người đối diện)."
+      "correctAnswer": "ズボン",
+      "explanation": "ズボン (zubon) là quần dài. かばん (cặp), くつ (giày), Tシャツ (áo phông)."
     }
   ]
 }

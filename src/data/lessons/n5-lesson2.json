@@ -7,273 +7,535 @@
   "vocabulary": [
     {
       "id": "v1",
-      "word": "これ",
-      "kanji": null,
-      "hiragana": "これ",
-      "reading": "kore",
-      "meaning": "Cái này, đây (vật ở gần người nói)",
-      "partOfSpeech": "Đại từ chỉ định",
-      "example": {
-        "sentence": "これ は じしょ です。",
-        "furigana": "これ は [辞書](じしょ) です。",
-        "translation": "Đây là cuốn từ điển."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNkY2ZjZTciLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNiYmY3ZDAiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiMxNTgwM2QiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPkfhuqZOIFTDlEk8L3RleHQ+CgogICAgPCEtLSDEkMaw4budbmcgxJHhu6l0IG7DqXQgY2jhu4kgaMaw4bubbmcgLS0+CiAgICAKCiAgICA8IS0tIE5Hxq/hu5xJIENI4buIIChCw6puIHRyw6FpKSAtLT4KICAgIDwhLS0gxJDhuqd1IC0tPgogICAgPGNpcmNsZSBjeD0iMjQiIGN5PSIzNCIgcj0iOCIgZmlsbD0iIzFlMjkzYiIvPgogICAgPCEtLSBUaMOibiAmIENow6JuIC0tPgogICAgPHBhdGggZD0iTSAyNCA0MiBMIDI0IDY2IE0gMjQgNjYgTCAxNiA4NCBNIDI0IDY2IEwgMzAgODQiIHN0cm9rZT0iIzFlMjkzYiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogICAgPCEtLSBUYXkgY2jhu4kgLS0+CiAgICA8cGF0aCBkPSJNIDMyIDUwIFEgNDIgNTQgNTAgNjAiIHN0cm9rZT0iIzI1NjNlYiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgogICAgPCEtLSBOZ8OzbiB0YXkgdHLhu48gLS0+CiAgICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjU2IiByPSIyLjUiIGZpbGw9IiMyNTYzZWIiLz4KCiAgICA8IS0tIMSQ4buSIFbhuqxUIMSQxq/hu6JDIENI4buIIFThu5pJIChI4buZcCBxdcOgIG3DoHUgxJHhu48gY8OzIG7GoSB2w6BuZykgLS0+CiAgICA8cmVjdCB4PSI0NyIgeT0iNTQiIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiNlMTFkNDgiLz4KICAgIDwhLS0gUnV5IGLEg25nIC0tPgogICAgPGxpbmUgeDE9IjQ3IiB5MT0iNjUiIHgyPSI2OSIgeTI9IjY1IiBzdHJva2U9IiNmZGUwNDciIHN0cm9rZS13aWR0aD0iMiIvPgogICAgPGxpbmUgeDE9IjU4IiB5MT0iNTQiIHgyPSI1OCIgeTI9Ijc2IiBzdHJva2U9IiNmZGUwNDciIHN0cm9rZS13aWR0aD0iMiIvPgogICAgPCEtLSBOxqEgLS0+CiAgICA8Y2lyY2xlIGN4PSI1OCIgY3k9IjU0IiByPSIzIiBmaWxsPSIjZmRlMDQ3Ii8+CgogICAgPCEtLSBOaMOjbiBjaOG7ryBwaOG7pSAtLT4KICAgIDx0ZXh0IHg9IjUwIiB5PSI5MyIgZm9udC1zaXplPSI4IiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZmlsbD0iIzQ3NTU2OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+44GT44KMIChDw6FpIG7DoHkpPC90ZXh0PgogIDwvc3ZnPg=="
+      "word": "ここ／こちら",
+      "reading": "koko/kochira",
+      "meaning": "Đây, chỗ này / Phía này"
     },
     {
       "id": "v2",
-      "word": "それ",
-      "kanji": null,
-      "hiragana": "それ",
-      "reading": "sore",
-      "meaning": "Cái đó, đó (vật ở gần người nghe)",
-      "partOfSpeech": "Đại từ chỉ định",
-      "example": {
-        "sentence": "それ は わたし の かさ です。",
-        "furigana": "それ は わたし の [傘](かさ) です。",
-        "translation": "Đó là chiếc ô của tôi."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWYzYzciLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZGU2OGEiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiNDUzMDkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPkfhuqZOIELhuqBOPC90ZXh0PgoKICAgIDwhLS0gxJDGsOG7nW5nIMSR4bupdCBuw6l0IGNo4buJIGjGsOG7m25nIC0tPgogICAgPGxpbmUgeDE9IjM4IiB5MT0iNTIiIHgyPSI2NiIgeTI9IjU4IiBzdHJva2U9IiNmNTllMGIiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWRhc2hhcnJheT0iMywzIi8+CgogICAgPCEtLSBOR8av4bucSSBDSOG7iCAoQsOqbiB0csOhaSkgLS0+CiAgICA8IS0tIMSQ4bqndSAtLT4KICAgIDxjaXJjbGUgY3g9IjI0IiBjeT0iMzQiIHI9IjgiIGZpbGw9IiMxZTI5M2IiLz4KICAgIDwhLS0gVGjDom4gJiBDaMOibiAtLT4KICAgIDxwYXRoIGQ9Ik0gMjQgNDIgTCAyNCA2NiBNIDI0IDY2IEwgMTYgODQgTSAyNCA2NiBMIDMwIDg0IiBzdHJva2U9IiMxZTI5M2IiIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICAgIDwhLS0gVGF5IGNo4buJIC0tPgogICAgPHBhdGggZD0iTSAzMiA0OCBRIDQ4IDQ4IDYyIDU1IiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIGZpbGw9Im5vbmUiLz4KICAgIDwhLS0gTmfDs24gdGF5IHRy4buPIC0tPgogICAgPGNpcmNsZSBjeD0iNTUiIGN5PSI1NiIgcj0iMi41IiBmaWxsPSIjMjU2M2ViIi8+CgogICAgPCEtLSDEkOG7kiBW4bqsVCDEkMav4buiQyBDSOG7iCBU4buaSSAoSOG7mXAgcXXDoCBtw6B1IMSR4buPIGPDsyBuxqEgdsOgbmcpIC0tPgogICAgPHJlY3QgeD0iNjUiIHk9IjUzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSI0IiBmaWxsPSIjZTExZDQ4Ii8+CiAgICA8IS0tIFJ1eSBixINuZyAtLT4KICAgIDxsaW5lIHgxPSI2NSIgeTE9IjYyIiB4Mj0iODMiIHkyPSI2MiIgc3Ryb2tlPSIjZmRlMDQ3IiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDxsaW5lIHgxPSI3NCIgeTE9IjUzIiB4Mj0iNzQiIHkyPSI3MSIgc3Ryb2tlPSIjZmRlMDQ3IiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDwhLS0gTsahIC0tPgogICAgPGNpcmNsZSBjeD0iNzQiIGN5PSI1MyIgcj0iMyIgZmlsbD0iI2ZkZTA0NyIvPgoKICAgIDwhLS0gTmjDo24gY2jhu68gcGjhu6UgLS0+CiAgICA8dGV4dCB4PSI1MCIgeT0iOTMiIGZvbnQtc2l6ZT0iOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiM0NzU1NjkiIHRleHQtYW5jaG9yPSJtaWRkbGUiPuOBneOCjCAoQ8OhaSDEkcOzKTwvdGV4dD4KICA8L3N2Zz4="
+      "word": "そこ／そちら",
+      "reading": "soko/sochira",
+      "meaning": "Kia, chỗ kia / Phía kia"
     },
     {
       "id": "v3",
-      "word": "あれ",
-      "kanji": null,
-      "hiragana": "あれ",
-      "reading": "are",
-      "meaning": "Cái kia, kia (vật ở xa cả người nói và người nghe)",
-      "partOfSpeech": "Đại từ chỉ định",
-      "example": {
-        "sentence": "あれ は くるま です。",
-        "furigana": "あれ は [車](くるま) です。",
-        "translation": "Kia là xe ô tô."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWUyZTIiLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZWNhY2EiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiOTFjMWMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPuG7niBYQTwvdGV4dD4KCiAgICA8IS0tIMSQxrDhu51uZyDEkeG7qXQgbsOpdCBjaOG7iSBoxrDhu5tuZyAtLT4KICAgIDxsaW5lIHgxPSIzNiIgeTE9IjQ2IiB4Mj0iNzYiIHkyPSIzOCIgc3Ryb2tlPSIjZWY0NDQ0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjMsMyIvPgoKICAgIDwhLS0gTkfGr+G7nEkgQ0jhu4ggKELDqm4gdHLDoWkpIC0tPgogICAgPCEtLSDEkOG6p3UgLS0+CiAgICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjM0IiByPSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICA8IS0tIFRow6JuICYgQ2jDom4gLS0+CiAgICA8cGF0aCBkPSJNIDI0IDQyIEwgMjQgNjYgTSAyNCA2NiBMIDE2IDg0IE0gMjQgNjYgTCAzMCA4NCIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8IS0tIFRheSBjaOG7iSAtLT4KICAgIDxwYXRoIGQ9Ik0gMzIgNDYgUSA1MiAzOCA3MiAzOCIgc3Ryb2tlPSIjMjU2M2ViIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBmaWxsPSJub25lIi8+CiAgICA8IS0tIE5nw7NuIHRheSB0cuG7jyAtLT4KICAgIDxjaXJjbGUgY3g9IjM4IiBjeT0iNTYiIHI9IjIuNSIgZmlsbD0iIzI1NjNlYiIvPgoKICAgIDwhLS0gxJDhu5IgVuG6rFQgxJDGr+G7okMgQ0jhu4ggVOG7mkkgKEjhu5lwIHF1w6AgbcOgdSDEkeG7jyBjw7MgbsahIHbDoG5nKSAtLT4KICAgIDxyZWN0IHg9Ijc3IiB5PSIzMSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iNCIgZmlsbD0iI2UxMWQ0OCIvPgogICAgPCEtLSBSdXkgYsSDbmcgLS0+CiAgICA8bGluZSB4MT0iNzciIHkxPSIzOCIgeDI9IjkxIiB5Mj0iMzgiIHN0cm9rZT0iI2ZkZTA0NyIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8bGluZSB4MT0iODQiIHkxPSIzMSIgeDI9Ijg0IiB5Mj0iNDUiIHN0cm9rZT0iI2ZkZTA0NyIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8IS0tIE7GoSAtLT4KICAgIDxjaXJjbGUgY3g9Ijg0IiBjeT0iMzEiIHI9IjMiIGZpbGw9IiNmZGUwNDciLz4KCiAgICA8IS0tIE5ow6NuIGNo4buvIHBo4bulIC0tPgogICAgPHRleHQgeD0iNTAiIHk9IjkzIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmaWxsPSIjNDc1NTY5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7jgYLjgowgKEPDoWkga2lhKTwvdGV4dD4KICA8L3N2Zz4="
+      "word": "あそこ／あちら",
+      "reading": "asoko/achira",
+      "meaning": "Đó, chỗ đó / Phía đó"
     },
     {
       "id": "v4",
-      "word": "この",
-      "kanji": null,
-      "hiragana": "この",
-      "reading": "kono",
-      "meaning": "...này (bổ nghĩa cho danh từ đứng ngay sau)",
-      "partOfSpeech": "Chỉ định từ",
-      "example": {
-        "sentence": "この ほん は おもしろい です。",
-        "furigana": "この [本](ほん) は おもしろい です。",
-        "translation": "Cuốn sách này rất hay."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNkY2ZjZTciLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNiYmY3ZDAiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiMxNTgwM2QiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPkfhuqZOIFTDlEk8L3RleHQ+CgogICAgPCEtLSDEkMaw4budbmcgxJHhu6l0IG7DqXQgY2jhu4kgaMaw4bubbmcgLS0+CiAgICAKCiAgICA8IS0tIE5Hxq/hu5xJIENI4buIIChCw6puIHRyw6FpKSAtLT4KICAgIDwhLS0gxJDhuqd1IC0tPgogICAgPGNpcmNsZSBjeD0iMjQiIGN5PSIzNCIgcj0iOCIgZmlsbD0iIzFlMjkzYiIvPgogICAgPCEtLSBUaMOibiAmIENow6JuIC0tPgogICAgPHBhdGggZD0iTSAyNCA0MiBMIDI0IDY2IE0gMjQgNjYgTCAxNiA4NCBNIDI0IDY2IEwgMzAgODQiIHN0cm9rZT0iIzFlMjkzYiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogICAgPCEtLSBUYXkgY2jhu4kgLS0+CiAgICA8cGF0aCBkPSJNIDMyIDUwIFEgNDIgNTQgNTAgNjAiIHN0cm9rZT0iIzI1NjNlYiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgogICAgPCEtLSBOZ8OzbiB0YXkgdHLhu48gLS0+CiAgICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjU2IiByPSIyLjUiIGZpbGw9IiMyNTYzZWIiLz4KCiAgICA8IS0tIMSQ4buSIFbhuqxUIMSQxq/hu6JDIENI4buIIFThu5pJIChI4buZcCBxdcOgIG3DoHUgxJHhu48gY8OzIG7GoSB2w6BuZykgLS0+CiAgICA8cmVjdCB4PSI0NyIgeT0iNTQiIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiNlMTFkNDgiLz4KICAgIDwhLS0gUnV5IGLEg25nIC0tPgogICAgPGxpbmUgeDE9IjQ3IiB5MT0iNjUiIHgyPSI2OSIgeTI9IjY1IiBzdHJva2U9IiNmZGUwNDciIHN0cm9rZS13aWR0aD0iMiIvPgogICAgPGxpbmUgeDE9IjU4IiB5MT0iNTQiIHgyPSI1OCIgeTI9Ijc2IiBzdHJva2U9IiNmZGUwNDciIHN0cm9rZS13aWR0aD0iMiIvPgogICAgPCEtLSBOxqEgLS0+CiAgICA8Y2lyY2xlIGN4PSI1OCIgY3k9IjU0IiByPSIzIiBmaWxsPSIjZmRlMDQ3Ii8+CgogICAgPCEtLSBOaMOjbiBjaOG7ryBwaOG7pSAtLT4KICAgIDx0ZXh0IHg9IjUwIiB5PSI5MyIgZm9udC1zaXplPSI4IiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZmlsbD0iIzQ3NTU2OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+44GT44GuIChOw6B5KTwvdGV4dD4KICA8L3N2Zz4="
+      "word": "インフォメーション",
+      "reading": "infomeeshon",
+      "meaning": "Quầy thông tin"
     },
     {
       "id": "v5",
-      "word": "その",
-      "kanji": null,
-      "hiragana": "その",
-      "reading": "sono",
-      "meaning": "...đó (bổ nghĩa cho danh từ đứng ngay sau)",
-      "partOfSpeech": "Chỉ định từ",
-      "example": {
-        "sentence": "その かばん は だれ の ですか。",
-        "furigana": "その かばん は [誰](だれ) の ですか。",
-        "translation": "Chiếc cặp đó là của ai vậy?"
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWYzYzciLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZGU2OGEiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiNDUzMDkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPkfhuqZOIELhuqBOPC90ZXh0PgoKICAgIDwhLS0gxJDGsOG7nW5nIMSR4bupdCBuw6l0IGNo4buJIGjGsOG7m25nIC0tPgogICAgPGxpbmUgeDE9IjM4IiB5MT0iNTIiIHgyPSI2NiIgeTI9IjU4IiBzdHJva2U9IiNmNTllMGIiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWRhc2hhcnJheT0iMywzIi8+CgogICAgPCEtLSBOR8av4bucSSBDSOG7iCAoQsOqbiB0csOhaSkgLS0+CiAgICA8IS0tIMSQ4bqndSAtLT4KICAgIDxjaXJjbGUgY3g9IjI0IiBjeT0iMzQiIHI9IjgiIGZpbGw9IiMxZTI5M2IiLz4KICAgIDwhLS0gVGjDom4gJiBDaMOibiAtLT4KICAgIDxwYXRoIGQ9Ik0gMjQgNDIgTCAyNCA2NiBNIDI0IDY2IEwgMTYgODQgTSAyNCA2NiBMIDMwIDg0IiBzdHJva2U9IiMxZTI5M2IiIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICAgIDwhLS0gVGF5IGNo4buJIC0tPgogICAgPHBhdGggZD0iTSAzMiA0OCBRIDQ4IDQ4IDYyIDU1IiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIGZpbGw9Im5vbmUiLz4KICAgIDwhLS0gTmfDs24gdGF5IHRy4buPIC0tPgogICAgPGNpcmNsZSBjeD0iNTUiIGN5PSI1NiIgcj0iMi41IiBmaWxsPSIjMjU2M2ViIi8+CgogICAgPCEtLSDEkOG7kiBW4bqsVCDEkMav4buiQyBDSOG7iCBU4buaSSAoSOG7mXAgcXXDoCBtw6B1IMSR4buPIGPDsyBuxqEgdsOgbmcpIC0tPgogICAgPHJlY3QgeD0iNjUiIHk9IjUzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSI0IiBmaWxsPSIjZTExZDQ4Ii8+CiAgICA8IS0tIFJ1eSBixINuZyAtLT4KICAgIDxsaW5lIHgxPSI2NSIgeTE9IjYyIiB4Mj0iODMiIHkyPSI2MiIgc3Ryb2tlPSIjZmRlMDQ3IiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDxsaW5lIHgxPSI3NCIgeTE9IjUzIiB4Mj0iNzQiIHkyPSI3MSIgc3Ryb2tlPSIjZmRlMDQ3IiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDwhLS0gTsahIC0tPgogICAgPGNpcmNsZSBjeD0iNzQiIGN5PSI1MyIgcj0iMyIgZmlsbD0iI2ZkZTA0NyIvPgoKICAgIDwhLS0gTmjDo24gY2jhu68gcGjhu6UgLS0+CiAgICA8dGV4dCB4PSI1MCIgeT0iOTMiIGZvbnQtc2l6ZT0iOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiM0NzU1NjkiIHRleHQtYW5jaG9yPSJtaWRkbGUiPuOBneOBriAoxJDDsyk8L3RleHQ+CiAgPC9zdmc+"
+      "word": "ＡＴＭ",
+      "reading": "ATM",
+      "meaning": "Máy rút tiền tự động"
     },
     {
       "id": "v6",
-      "word": "あの",
-      "kanji": null,
-      "hiragana": "あの",
-      "reading": "ano",
-      "meaning": "...kia (bổ nghĩa cho danh từ đứng ngay sau)",
-      "partOfSpeech": "Chỉ định từ",
-      "example": {
-        "sentence": "あの ひと は たなかさん です。",
-        "furigana": "あの [人](ひと) は [田中](たなか)さん です。",
-        "translation": "Người kia là anh Tanaka."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWUyZTIiLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZWNhY2EiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiOTFjMWMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPuG7niBYQTwvdGV4dD4KCiAgICA8IS0tIMSQxrDhu51uZyDEkeG7qXQgbsOpdCBjaOG7iSBoxrDhu5tuZyAtLT4KICAgIDxsaW5lIHgxPSIzNiIgeTE9IjQ2IiB4Mj0iNzYiIHkyPSIzOCIgc3Ryb2tlPSIjZWY0NDQ0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjMsMyIvPgoKICAgIDwhLS0gTkfGr+G7nEkgQ0jhu4ggKELDqm4gdHLDoWkpIC0tPgogICAgPCEtLSDEkOG6p3UgLS0+CiAgICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjM0IiByPSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICA8IS0tIFRow6JuICYgQ2jDom4gLS0+CiAgICA8cGF0aCBkPSJNIDI0IDQyIEwgMjQgNjYgTSAyNCA2NiBMIDE2IDg0IE0gMjQgNjYgTCAzMCA4NCIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8IS0tIFRheSBjaOG7iSAtLT4KICAgIDxwYXRoIGQ9Ik0gMzIgNDYgUSA1MiAzOCA3MiAzOCIgc3Ryb2tlPSIjMjU2M2ViIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBmaWxsPSJub25lIi8+CiAgICA8IS0tIE5nw7NuIHRheSB0cuG7jyAtLT4KICAgIDxjaXJjbGUgY3g9IjM4IiBjeT0iNTYiIHI9IjIuNSIgZmlsbD0iIzI1NjNlYiIvPgoKICAgIDwhLS0gxJDhu5IgVuG6rFQgxJDGr+G7okMgQ0jhu4ggVOG7mkkgKEjhu5lwIHF1w6AgbcOgdSDEkeG7jyBjw7MgbsahIHbDoG5nKSAtLT4KICAgIDxyZWN0IHg9Ijc3IiB5PSIzMSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iNCIgZmlsbD0iI2UxMWQ0OCIvPgogICAgPCEtLSBSdXkgYsSDbmcgLS0+CiAgICA8bGluZSB4MT0iNzciIHkxPSIzOCIgeDI9IjkxIiB5Mj0iMzgiIHN0cm9rZT0iI2ZkZTA0NyIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8bGluZSB4MT0iODQiIHkxPSIzMSIgeDI9Ijg0IiB5Mj0iNDUiIHN0cm9rZT0iI2ZkZTA0NyIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8IS0tIE7GoSAtLT4KICAgIDxjaXJjbGUgY3g9Ijg0IiBjeT0iMzEiIHI9IjMiIGZpbGw9IiNmZGUwNDciLz4KCiAgICA8IS0tIE5ow6NuIGNo4buvIHBo4bulIC0tPgogICAgPHRleHQgeD0iNTAiIHk9IjkzIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmaWxsPSIjNDc1NTY5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7jgYLjga4gKEtpYSk8L3RleHQ+CiAgPC9zdmc+"
+      "word": "エスカレーター",
+      "reading": "esukareetaa",
+      "meaning": "Thang cuốn"
     },
     {
       "id": "v7",
+      "word": "エレベーター",
+      "reading": "erebeetaa",
+      "meaning": "Thang máy"
+    },
+    {
+      "id": "v8",
+      "word": "きつえんしょ",
+      "reading": "kitsuensho",
+      "meaning": "Nơi hút thuốc"
+    },
+    {
+      "id": "v9",
+      "word": "トイレ",
+      "reading": "toire",
+      "meaning": "Nhà vệ sinh"
+    },
+    {
+      "id": "v10",
+      "word": "レジ",
+      "reading": "reji",
+      "meaning": "Quầy thu ngân"
+    },
+    {
+      "id": "v11",
+      "word": "きっさてん",
+      "reading": "kissaten",
+      "meaning": "Quán giải khát"
+    },
+    {
+      "id": "v12",
+      "word": "１００円ショップ",
+      "kanji": "円",
+      "hiragana": "１００えんショップ",
+      "reading": "100 en shoppu",
+      "meaning": "Cửa hàng 100 Yên"
+    },
+    {
+      "id": "v13",
+      "word": "レストラン",
+      "reading": "resutoran",
+      "meaning": "Nhà hàng, quán ăn"
+    },
+    {
+      "id": "v14",
+      "word": "地下",
+      "kanji": "地下",
+      "hiragana": "ちか",
+      "reading": "chika",
+      "meaning": "Ngầm, dưới lòng đất"
+    },
+    {
+      "id": "v15",
+      "word": "カメラ",
+      "reading": "kamera",
+      "meaning": "Máy ảnh"
+    },
+    {
+      "id": "v16",
+      "word": "携帯電話",
+      "kanji": "携帯電話",
+      "hiragana": "けいたんでんわ",
+      "reading": "keitandenwa",
+      "meaning": "Điện thoại di động"
+    },
+    {
+      "id": "v17",
+      "word": "電子辞書",
+      "kanji": "電子辞書",
+      "hiragana": "でんしじしょ",
+      "reading": "denshijisho",
+      "meaning": "Kim từ điển"
+    },
+    {
+      "id": "v18",
+      "word": "パソコン",
+      "reading": "pasokon",
+      "meaning": "Máy tính cá nhân"
+    },
+    {
+      "id": "v19",
+      "word": "くつ",
+      "reading": "kutsu",
+      "meaning": "Giầy"
+    },
+    {
+      "id": "v20",
+      "word": "消しゴム",
+      "kanji": "消",
+      "hiragana": "けしごむ",
+      "reading": "keshigomu",
+      "meaning": "Tẩy"
+    },
+    {
+      "id": "v21",
+      "word": "ペン",
+      "reading": "pen",
+      "meaning": "Bút"
+    },
+    {
+      "id": "v22",
+      "word": "トイレットペーパー",
+      "reading": "toirettopeepaa",
+      "meaning": "Giấy vệ sinh"
+    },
+    {
+      "id": "v23",
       "word": "本",
       "kanji": "本",
       "hiragana": "ほん",
       "reading": "hon",
-      "meaning": "Sách, cuốn sách",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "これ は にほんご の ほん です。",
-        "furigana": "これ は [日本語](にほんご) の [本](ほん) です。",
-        "translation": "Đây là sách tiếng Nhật."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OVPC90ZXh0Pjwvc3ZnPg=="
+      "meaning": "Sách"
     },
     {
-      "id": "v8",
-      "word": "辞書",
-      "kanji": "辞書",
-      "hiragana": "じしょ",
-      "reading": "jisho",
-      "meaning": "Từ điển",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "それ は えいご の じしょ です。",
-        "furigana": "それ は [英語](えいご) の [辞書](じしょ) です。",
-        "translation": "Đó là cuốn từ điển tiếng Anh."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OWPC90ZXh0Pjwvc3ZnPg=="
+      "id": "v24",
+      "word": "油",
+      "kanji": "油",
+      "hiragana": "あぶら",
+      "reading": "abura",
+      "meaning": "Dầu"
     },
     {
-      "id": "v9",
-      "word": "雑誌",
-      "kanji": "雑誌",
-      "hiragana": "ざっし",
-      "reading": "zasshi",
-      "meaning": "Tạp chí",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "あれ は くるま の ざっし です。",
-        "furigana": "あれ は [車](くるま) の [雑誌](ざっし) です。",
-        "translation": "Kia là tạp chí về ô tô."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OwPC90ZXh0Pjwvc3ZnPg=="
+      "id": "v25",
+      "word": "ケーキ",
+      "reading": "keeki",
+      "meaning": "Bánh ngọt"
     },
     {
-      "id": "v10",
-      "word": "新聞",
-      "kanji": "新聞",
-      "hiragana": "しんぶん",
-      "reading": "shinbun",
-      "meaning": "Báo, tờ báo",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "これ は にほん の しんぶん です。",
-        "furigana": "これ は [日本](にほん) の [新聞](しんぶん) です。",
-        "translation": "Đây là báo Nhật Bản."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5ee77iPPC90ZXh0Pjwvc3ZnPg=="
+      "id": "v26",
+      "word": "米",
+      "kanji": "米",
+      "hiragana": "こめ",
+      "reading": "kome",
+      "meaning": "Gạo"
     },
     {
-      "id": "v11",
-      "word": "ノート",
-      "kanji": null,
-      "hiragana": "のーと",
-      "reading": "nooto",
-      "meaning": "Vở, tập vở ghi chép",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "この ノート は わたし の です。",
-        "furigana": "この ノート は わたし の です。",
-        "translation": "Cuốn vở này là của tôi."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OTPC90ZXh0Pjwvc3ZnPg=="
+      "id": "v27",
+      "word": "卵",
+      "kanji": "卵",
+      "hiragana": "たまご",
+      "reading": "tamago",
+      "meaning": "Trứng"
     },
     {
-      "id": "v12",
-      "word": "鍵",
-      "kanji": "鍵",
-      "hiragana": "かぎ",
-      "reading": "kagi",
-      "meaning": "Chìa khóa",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "これ は くるま の かぎ です。",
-        "furigana": "これ は [車](くるま) の [鍵](かぎ) です。",
-        "translation": "Đây là chìa khóa xe hơi."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZjJmZSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5SRPC90ZXh0Pjwvc3ZnPg=="
+      "id": "v28",
+      "word": "パン",
+      "reading": "pan",
+      "meaning": "Bánh mỳ"
     },
     {
-      "id": "v13",
+      "id": "v29",
+      "word": "水",
+      "kanji": "水",
+      "hiragana": "みず",
+      "reading": "mizu",
+      "meaning": "Nước"
+    },
+    {
+      "id": "v30",
+      "word": "店員",
+      "kanji": "店員",
+      "hiragana": "てんいん",
+      "reading": "ten'in",
+      "meaning": "Nhân viên bán hàng"
+    },
+    {
+      "id": "v31",
+      "word": "～階",
+      "kanji": "階",
+      "hiragana": "～かい",
+      "reading": "~kai",
+      "meaning": "Tầng ～"
+    },
+    {
+      "id": "v32",
+      "word": "～屋",
+      "kanji": "屋",
+      "hiragana": "～や",
+      "reading": "~ya",
+      "meaning": "Cửa hàng ～, Hiệu～"
+    },
+    {
+      "id": "v33",
+      "word": "いらっしゃいませ",
+      "reading": "irasshaimase",
+      "meaning": "Kính chào quý khách"
+    },
+    {
+      "id": "v34",
+      "word": "これ",
+      "reading": "kore",
+      "meaning": "Cái này"
+    },
+    {
+      "id": "v35",
+      "word": "それ",
+      "reading": "sore",
+      "meaning": "Cái kia"
+    },
+    {
+      "id": "v36",
+      "word": "あれ",
+      "reading": "are",
+      "meaning": "Cái đó"
+    },
+    {
+      "id": "v37",
+      "word": "どれ",
+      "reading": "dore",
+      "meaning": "Cái nào"
+    },
+    {
+      "id": "v38",
+      "word": "この～",
+      "reading": "kono~",
+      "meaning": "Cái ～ này"
+    },
+    {
+      "id": "v39",
+      "word": "その～",
+      "reading": "sono~",
+      "meaning": "Cái ～ kia"
+    },
+    {
+      "id": "v40",
+      "word": "あの～",
+      "reading": "ano~",
+      "meaning": "Cái ～ đó"
+    },
+    {
+      "id": "v41",
+      "word": "どの～",
+      "reading": "dono~",
+      "meaning": "Cái ～ nào"
+    },
+    {
+      "id": "v42",
+      "word": "かばん",
+      "reading": "kaban",
+      "meaning": "Cặp, túi xách"
+    },
+    {
+      "id": "v43",
+      "word": "ズボン",
+      "reading": "zubon",
+      "meaning": "Quần dài"
+    },
+    {
+      "id": "v44",
+      "word": "T シャツ",
+      "reading": "T shatsu",
+      "meaning": "Áo phông"
+    },
+    {
+      "id": "v45",
       "word": "時計",
       "kanji": "時計",
       "hiragana": "とけい",
       "reading": "tokei",
-      "meaning": "Đồng hồ",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "あれ は スイス の とけい です。",
-        "furigana": "あれ は スイス の [時計](とけい) です。",
-        "translation": "Kia là chiếc đồng hồ của Thụy Sĩ."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZTdmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7ijJo8L3RleHQ+PC9zdmc+"
+      "meaning": "Đồng hồ"
     },
     {
-      "id": "v14",
-      "word": "傘",
-      "kanji": "傘",
-      "hiragana": "かさ",
-      "reading": "kasa",
-      "meaning": "Cái ô, cái dù",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "それ は あなた の かさ ですか。",
-        "furigana": "それ は あなた の [傘](かさ) ですか。",
-        "translation": "Đó có phải là chiếc ô của bạn không?"
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YzZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7imJQ8L3RleHQ+PC9zdmc+"
+      "id": "v46",
+      "word": "～円",
+      "kanji": "円",
+      "hiragana": "～えん",
+      "reading": "~en",
+      "meaning": "～ Yên"
     },
     {
-      "id": "v15",
-      "word": "かばん",
-      "kanji": null,
-      "hiragana": "かばん",
-      "reading": "kaban",
-      "meaning": "Cặp sách, túi xách",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "この かばん は せんせい の です。",
-        "furigana": "この かばん は [先生](せんせい) の です。",
-        "translation": "Chiếc cặp này là của thầy giáo."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5K8PC90ZXh0Pjwvc3ZnPg=="
+      "id": "v47",
+      "word": "いくら",
+      "reading": "ikura",
+      "meaning": "Bao nhiêu tiền"
     },
     {
-      "id": "v16",
-      "word": "車",
-      "kanji": "車",
-      "hiragana": "くるま",
-      "reading": "kuruma",
-      "meaning": "Xe hơi, xe ô tô",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "あれ は にほん の くるま です。",
-        "furigana": "あれ は [日本](にほん) の [車](くるま) です。",
-        "translation": "Kia là xe hơi của Nhật Bản."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5qXPC90ZXh0Pjwvc3ZnPg=="
+      "id": "v48",
+      "word": "じゃ",
+      "reading": "ja",
+      "meaning": "Thế thì / Thôi thì"
     },
     {
-      "id": "v17",
-      "word": "机",
-      "kanji": "机",
-      "hiragana": "つくえ",
-      "reading": "tsukue",
-      "meaning": "Bàn học, bàn làm việc",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "これ は わたし の つくえ です。",
-        "furigana": "これ は わたし の [机](つくえ) です。",
-        "translation": "Đây là bàn của tôi."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6qRPC90ZXh0Pjwvc3ZnPg=="
+      "id": "v49",
+      "word": "魚",
+      "kanji": "魚",
+      "hiragana": "さかな",
+      "reading": "sakana",
+      "meaning": "Cá"
     },
     {
-      "id": "v18",
-      "word": "誰",
-      "kanji": "誰",
-      "hiragana": "だれ",
+      "id": "v50",
+      "word": "肉",
+      "kanji": "肉",
+      "hiragana": "にく",
+      "reading": "niku",
+      "meaning": "Thịt"
+    },
+    {
+      "id": "v51",
+      "word": "牛肉",
+      "kanji": "牛肉",
+      "hiragana": "ぎゅうにく",
+      "reading": "gyuuniku",
+      "meaning": "Thịt bò"
+    },
+    {
+      "id": "v52",
+      "word": "豚肉",
+      "kanji": "豚肉",
+      "hiragana": "ぶたにく",
+      "reading": "butaniku",
+      "meaning": "Thịt lợn"
+    },
+    {
+      "id": "v53",
+      "word": "野菜",
+      "kanji": "野菜",
+      "hiragana": "やさい",
+      "reading": "yasai",
+      "meaning": "Rau"
+    },
+    {
+      "id": "v54",
+      "word": "いちご",
+      "reading": "ichigo",
+      "meaning": "Quả dâu"
+    },
+    {
+      "id": "v55",
+      "word": "りんご",
+      "reading": "ringo",
+      "meaning": "Quả táo"
+    },
+    {
+      "id": "v56",
+      "word": "料理",
+      "kanji": "料理",
+      "hiragana": "りょうり",
+      "reading": "ryouri",
+      "meaning": "Món ăn / Nấu ăn"
+    },
+    {
+      "id": "v57",
+      "word": "これは 魚の料理です",
+      "kanji": "魚,料理",
+      "hiragana": "これは さかなのりょうりです",
+      "reading": "kore wa sakana no ryouri desu",
+      "meaning": "Đây là món ăn cá."
+    },
+    {
+      "id": "v58",
+      "word": "カレー",
+      "reading": "karee",
+      "meaning": "Món cà-ri"
+    },
+    {
+      "id": "v59",
+      "word": "スープ",
+      "reading": "suupu",
+      "meaning": "Canh, súp"
+    },
+    {
+      "id": "v60",
+      "word": "とんかつ",
+      "reading": "tonkatsu",
+      "meaning": "Món thịt lợn chiên xù"
+    },
+    {
+      "id": "v61",
+      "word": "ハンバーグ",
+      "reading": "hanbaagu",
+      "meaning": "Món thịt băm viên"
+    },
+    {
+      "id": "v62",
+      "word": "ご飯",
+      "kanji": "飯",
+      "hiragana": "ごはん",
+      "reading": "gohan",
+      "meaning": "Cơm"
+    },
+    {
+      "id": "v63",
+      "word": "ご飯を２つください。",
+      "kanji": "飯",
+      "hiragana": "ごはんを２つください。",
+      "reading": "gohan o futatsu kudasai.",
+      "meaning": "Cho tôi 2 bát/xuất cơm."
+    },
+    {
+      "id": "v64",
+      "word": "ライス",
+      "reading": "raisu",
+      "meaning": "Cơm, gạo"
+    },
+    {
+      "id": "v65",
+      "word": "ジュース",
+      "reading": "juusu",
+      "meaning": "Nước ngọt, nước trái cây"
+    },
+    {
+      "id": "v66",
+      "word": "コーヒー",
+      "reading": "koohii",
+      "meaning": "Cà phê"
+    },
+    {
+      "id": "v67",
+      "word": "紅茶",
+      "kanji": "紅茶",
+      "hiragana": "こうちゃ",
+      "reading": "koucha",
+      "meaning": "Trà đen"
+    },
+    {
+      "id": "v68",
+      "word": "（お）茶",
+      "kanji": "茶",
+      "hiragana": "（お）ちゃ",
+      "reading": "(o)cha",
+      "meaning": "Trà, nước chè"
+    },
+    {
+      "id": "v69",
+      "word": "ビール",
+      "reading": "biiru",
+      "meaning": "Bia"
+    },
+    {
+      "id": "v70",
+      "word": "ワイン",
+      "reading": "wain",
+      "meaning": "Rượu vang"
+    },
+    {
+      "id": "v71",
+      "word": "インド",
+      "reading": "indo",
+      "meaning": "Ấn Độ"
+    },
+    {
+      "id": "v72",
+      "word": "ドイツ",
+      "reading": "doitsu",
+      "meaning": "Đức"
+    },
+    {
+      "id": "v73",
+      "word": "フランス",
+      "reading": "furansu",
+      "meaning": "Pháp"
+    },
+    {
+      "id": "v74",
+      "word": "財布",
+      "kanji": "財布",
+      "hiragana": "さいふ",
+      "reading": "saifu",
+      "meaning": "Ví tiền"
+    },
+    {
+      "id": "v75",
+      "word": "英語",
+      "kanji": "英語",
+      "hiragana": "えいご",
+      "reading": "eigo",
+      "meaning": "Tiếng Anh"
+    },
+    {
+      "id": "v76",
+      "word": "～つ",
+      "reading": "~tsu",
+      "meaning": "～ cái / ～ chiếc"
+    },
+    {
+      "id": "v77",
+      "word": "だれ",
       "reading": "dare",
-      "meaning": "Ai (từ để hỏi người)",
-      "partOfSpeech": "Đại từ nghi vấn",
-      "example": {
-        "sentence": "あの ひと は だれ ですか。",
-        "furigana": "あの [人](ひと) は [誰](だれ) ですか。",
-        "translation": "Người kia là ai vậy?"
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5GkPC90ZXh0Pjwvc3ZnPg=="
+      "meaning": "Ai"
+    },
+    {
+      "id": "v78",
+      "word": "注文をお願いします",
+      "kanji": "注文,願",
+      "hiragana": "ちゅうもんをおねがいします",
+      "reading": "chuumon o onegai shimasu",
+      "meaning": "Cho tôi gọi đồ."
+    },
+    {
+      "id": "v79",
+      "word": "どうぞ",
+      "reading": "douzo",
+      "meaning": "Xin mời"
     }
   ],
   "grammar": [

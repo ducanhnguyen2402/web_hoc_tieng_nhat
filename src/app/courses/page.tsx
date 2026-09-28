@@ -17,6 +17,7 @@ const courseData = [
       { id: 'n5-lesson4', title: 'Bài 4: Thời gian và Ngày tháng (Giờ, Phút, Thứ)', desc: 'Làm chủ cách nói giờ phút, ngày tháng, thứ trong tuần cùng cấu trúc thời gian quan trọng với trợ từ に và ~から ~まで.' },
       { id: 'n5-lesson5', title: 'Bài 5: Đi lại & Phương tiện giao thông (行きます・来ます・帰ります)', desc: 'Học cách nói về việc di chuyển đến các địa điểm, sử dụng phương tiện giao thông, đi cùng ai và hỏi thời gian đi lại.' },
       { id: 'n5-lesson6', title: 'Bài 6: Ăn uống & Sinh hoạt hàng ngày (を・で・~ませんか)', desc: 'Học cách diễn đạt các hoạt động thường ngày (ăn uống, mua sắm, đọc sách), chỉ định địa điểm diễn ra hành động và cách mời mọc, rủ rê ai đó cùng tham gia.' },
+      { id: 'n5-lesson7', title: 'Bài 7: 友達の家で (Ở nhà bạn)', desc: 'Từ vựng và ngữ pháp Bài 7' },
     ]
   },
   {

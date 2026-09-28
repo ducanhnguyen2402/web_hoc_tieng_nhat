@@ -1,0 +1,187 @@
+{
+  "lessonId": "n5-lesson4",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "questionText": "Từ nào sau đây thuộc nhóm [乗り物 - Phương tiện giao thông]?",
+      "options": [
+        "バス",
+        "メロン",
+        "教会",
+        "水"
+      ],
+      "correctAnswer": "バス",
+      "explanation": "バス (Xe buýt) là phương tiện giao thông. Các từ khác: メロン (Dưa gang), 教会 (Nhà thờ), 水 (Nước)."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "questionText": "Từ nào sau đây thuộc nhóm [建物 - Tòa nhà, kiến trúc]?",
+      "options": [
+        "ビル",
+        "りんご",
+        "飛行機",
+        "ケーキ"
+      ],
+      "correctAnswer": "ビル",
+      "explanation": "ビル (Tòa nhà) thuộc nhóm kiến trúc. Các từ khác: りんご (Quả táo), 飛行機 (Máy bay), ケーキ (Bánh ngọt)."
+    },
+    {
+      "id": "q3",
+      "type": "fill_in_blank",
+      "questionText": "Điền từ tiếng Nhật (hiragana) vào chỗ trống: ケーキは ________ です。(Bánh ngọt thì ngọt)",
+      "correctAnswer": "あまい",
+      "explanation": "あまい (甘い) mang nghĩa là ngọt."
+    },
+    {
+      "id": "q4",
+      "type": "fill_in_blank",
+      "questionText": "Điền từ tiếng Nhật (hiragana) vào chỗ trống: コーヒーは ________ です。(Cà phê thì đắng)",
+      "correctAnswer": "にがい",
+      "explanation": "にがい (苦い) mang nghĩa là đắng."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "questionText": "Từ nào KHÔNG phù hợp để đi với tính từ [たかい] (Cao)?",
+      "options": [
+        "川",
+        "山",
+        "ビル",
+        "お城"
+      ],
+      "correctAnswer": "川",
+      "explanation": "川 (Sông) không thể miêu tả là 'cao'. 山 (Núi), ビル (Tòa nhà), お城 (Lâu đài) đều có thể dùng với たかい."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "questionText": "Từ nào KHÔNG phù hợp để đi với tính từ [ふるい] (Cũ)?",
+      "options": [
+        "人",
+        "ビル",
+        "教会",
+        "車"
+      ],
+      "correctAnswer": "人",
+      "explanation": "人 (Người) không dùng với ふるい (cũ). Để nói người già, dùng お年寄り (otoshiyori)."
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "questionText": "Từ nào KHÔNG phù hợp để đi với tính từ [おいしい] (Ngon)?",
+      "options": [
+        "温泉",
+        "ケーキ",
+        "イチゴ",
+        "ワイン"
+      ],
+      "correctAnswer": "温泉",
+      "explanation": "温泉 (Suối nước nóng) không phải là đồ ăn thức uống nên không thể dùng おいしい."
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: このビールは [ _______ ] です。",
+      "options": [
+        "つめたい",
+        "さむい"
+      ],
+      "correctAnswer": "つめたい",
+      "explanation": "Dùng つめたい (Lạnh buốt) cho đồ vật, đồ uống. さむい dùng cho thời tiết."
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: ロシアの冬は [ _______ ] です。",
+      "options": [
+        "さむい",
+        "つめたい"
+      ],
+      "correctAnswer": "さむい",
+      "explanation": "さむい (Lạnh) được dùng để miêu tả thời tiết, không khí."
+    },
+    {
+      "id": "q10",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: タイは雨が [ _______ ] です。",
+      "options": [
+        "おおい",
+        "おおきい"
+      ],
+      "correctAnswer": "おおい",
+      "explanation": "雨が多い (Mưa nhiều). おおい nghĩa là 'nhiều', おおきい là 'to, lớn'."
+    },
+    {
+      "id": "q11",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: 私の町は [ _______ ] です。",
+      "options": [
+        "おおきい",
+        "おおい"
+      ],
+      "correctAnswer": "おおきい",
+      "explanation": "Thị trấn lớn dùng おおきい. Không dùng おおい (nhiều) để miêu tả thị trấn."
+    },
+    {
+      "id": "q12",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ trái nghĩa của [おおきい] (Lớn):",
+      "options": [
+        "ちいさい",
+        "ふるい",
+        "しずか",
+        "たかい"
+      ],
+      "correctAnswer": "ちいさい",
+      "explanation": "おおきい (Lớn) >< ちいさい (Nhỏ)."
+    },
+    {
+      "id": "q13",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ trái nghĩa của [あたらしい] (Mới):",
+      "options": [
+        "ふるい",
+        "ちいさい",
+        "しずか",
+        "たかい"
+      ],
+      "correctAnswer": "ふるい",
+      "explanation": "あたらしい (Mới) >< ふるい (Cũ)."
+    },
+    {
+      "id": "q14",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ trái nghĩa của [にぎやか] (Náo nhiệt):",
+      "options": [
+        "しずか",
+        "ちいさい",
+        "ふるい",
+        "たかい"
+      ],
+      "correctAnswer": "しずか",
+      "explanation": "にぎやか (Náo nhiệt) >< しずか (Yên tĩnh)."
+    },
+    {
+      "id": "q15",
+      "type": "ordering",
+      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Ở Hakone có suối nước nóng.'",
+      "words": [
+        "が",
+        "箱根",
+        "あります",
+        "に",
+        "温泉"
+      ],
+      "correctOrder": [
+        "箱根",
+        "に",
+        "温泉",
+        "が",
+        "あります"
+      ],
+      "explanation": "Cấu trúc N1 に N2 が あります: Ở N1 có N2. (箱根に温泉があります)"
+    }
+  ]
+}

@@ -1,13 +1,31 @@
 import fs from 'fs';
 import path from 'path';
 import { notFound } from 'next/navigation';
-import { ExerciseSet } from '@/types/exercise';
+import { ExerciseSet, Question } from '@/types/exercise';
+import { Lesson } from '@/types/lesson';
 import { ExerciseRunner } from '@/components/exercise/ExerciseRunner';
 import { ChevronRight } from 'lucide-react';
 import Link from 'next/link';
+import { buildRandomizedExerciseSet } from '@/lib/exerciseGenerator';
 
-async function getExerciseData(lessonId: string): Promise<ExerciseSet | null> {
+export const dynamic = 'force-dynamic';
+
+async function getLessonData(lessonId: string): Promise<Lesson | null> {
   try {
+    const srcLessonPath = path.join(process.cwd(), 'src', 'data', 'lessons', `${lessonId}.json`);
+    const rootLessonPath = path.join(process.cwd(), 'data', 'lessons', `${lessonId}.json`);
+    const lessonTarget = fs.existsSync(srcLessonPath) ? srcLessonPath : fs.existsSync(rootLessonPath) ? rootLessonPath : null;
+    if (!lessonTarget) return null;
+    return JSON.parse(fs.readFileSync(lessonTarget, 'utf8')) as Lesson;
+  } catch {
+    return null;
+  }
+}
+
+async function getExerciseData(lessonId: string, lessonData: Lesson | null): Promise<ExerciseSet | null> {
+  try {
+    let staticQuestions: Question[] = [];
+
     // 1. Check dedicated exercise files
     const srcExPath = path.join(process.cwd(), 'src', 'data', 'exercises', `${lessonId}.json`);
     const rootExPath = path.join(process.cwd(), 'data', 'exercises', `${lessonId}.json`);
@@ -15,26 +33,19 @@ async function getExerciseData(lessonId: string): Promise<ExerciseSet | null> {
 
     if (exTarget) {
       const fileContents = fs.readFileSync(exTarget, 'utf8');
-      return JSON.parse(fileContents) as ExerciseSet;
+      const exSet = JSON.parse(fileContents) as ExerciseSet;
+      staticQuestions = exSet.questions || [];
+    } else if (lessonData && lessonData.exercises) {
+      // 2. Fallback: check if lesson JSON itself contains exercises
+      staticQuestions = lessonData.exercises;
     }
 
-    // 2. Fallback: check if lesson JSON itself contains exercises
-    const srcLessonPath = path.join(process.cwd(), 'src', 'data', 'lessons', `${lessonId}.json`);
-    const rootLessonPath = path.join(process.cwd(), 'data', 'lessons', `${lessonId}.json`);
-    const lessonTarget = fs.existsSync(srcLessonPath) ? srcLessonPath : fs.existsSync(rootLessonPath) ? rootLessonPath : null;
-
-    if (lessonTarget) {
-      const fileContents = fs.readFileSync(lessonTarget, 'utf8');
-      const lessonData = JSON.parse(fileContents);
-      if (lessonData.exercises && Array.isArray(lessonData.exercises)) {
-        return {
-          lessonId,
-          questions: lessonData.exercises,
-        };
-      }
+    if (staticQuestions.length === 0 && (!lessonData || !lessonData.vocabulary || lessonData.vocabulary.length === 0)) {
+      return null; // No static questions and no vocabulary to generate dynamic questions
     }
 
-    return null;
+    // Combine static and dynamic questions, randomize and pick 15
+    return buildRandomizedExerciseSet(lessonId, staticQuestions, lessonData, 15);
   } catch (error) {
     return null;
   }
@@ -46,7 +57,8 @@ export default async function PracticePage({
   params: Promise<{ level: string; lessonId: string }>
 }) {
   const { level, lessonId } = await params;
-  const exerciseSet = await getExerciseData(lessonId);
+  const lessonData = await getLessonData(lessonId);
+  const exerciseSet = await getExerciseData(lessonId, lessonData);
   
   if (!exerciseSet) {
     notFound();

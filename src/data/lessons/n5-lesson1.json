@@ -6,45 +6,357 @@
   "vocabulary": [
     {
       "id": "v1",
-      "word": "わたし",
+      "word": "私",
+      "kanji": "私",
+      "hiragana": "わたし",
       "reading": "watashi",
-      "meaning": "Tôi",
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5mLPC90ZXh0Pjwvc3ZnPg=="
+      "meaning": "Tôi"
     },
     {
       "id": "v2",
-      "word": "あなた",
-      "reading": "anata",
-      "meaning": "Bạn",
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5GJPC90ZXh0Pjwvc3ZnPg=="
+      "word": "（お）名前",
+      "kanji": "名前",
+      "hiragana": "（お）なまえ",
+      "reading": "(o)namae",
+      "meaning": "Tên (bạn)"
     },
     {
       "id": "v3",
-      "word": "がくせい",
-      "reading": "gakusei",
-      "meaning": "Học sinh, sinh viên",
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn46SPC90ZXh0Pjwvc3ZnPg=="
+      "word": "（お）国",
+      "kanji": "国",
+      "hiragana": "（お）くに",
+      "reading": "(o)kuni",
+      "meaning": "Đất nước (bạn)"
     },
     {
       "id": "v4",
-      "word": "せんせい",
-      "reading": "sensei",
-      "meaning": "Giáo viên",
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5Go4oCN8J+PqzwvdGV4dD48L3N2Zz4="
+      "word": "日本",
+      "kanji": "日本",
+      "hiragana": "にほん",
+      "reading": "nihon",
+      "meaning": "Nhật Bản"
     },
     {
       "id": "v5",
-      "word": "はい",
-      "reading": "hai",
-      "meaning": "Vâng, đúng",
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7inIU8L3RleHQ+PC9zdmc+"
+      "word": "韓国",
+      "kanji": "韓国",
+      "hiragana": "かんこく",
+      "reading": "kankoku",
+      "meaning": "Hàn Quốc"
     },
     {
       "id": "v6",
-      "word": "いいえ",
-      "reading": "iie",
-      "meaning": "Không",
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7inYw8L3RleHQ+PC9zdmc+"
+      "word": "中国",
+      "kanji": "中国",
+      "hiragana": "ちゅうごく",
+      "reading": "chuugoku",
+      "meaning": "Trung Quốc"
+    },
+    {
+      "id": "v7",
+      "word": "アメリカ",
+      "reading": "amerika",
+      "meaning": "Mỹ"
+    },
+    {
+      "id": "v8",
+      "word": "イタリア",
+      "reading": "itaria",
+      "meaning": "Ý"
+    },
+    {
+      "id": "v9",
+      "word": "オーストラリア",
+      "reading": "oosutoraria",
+      "meaning": "Úc"
+    },
+    {
+      "id": "v10",
+      "word": "ロシア",
+      "reading": "roshia",
+      "meaning": "Nga"
+    },
+    {
+      "id": "v11",
+      "word": "タイ",
+      "reading": "tai",
+      "meaning": "Thái Lan"
+    },
+    {
+      "id": "v12",
+      "word": "高校",
+      "kanji": "高校",
+      "hiragana": "こうこう",
+      "reading": "koukou",
+      "meaning": "Trường trung học phổ thông (cấp 3)"
+    },
+    {
+      "id": "v13",
+      "word": "大学",
+      "kanji": "大学",
+      "hiragana": "だいがく",
+      "reading": "daigaku",
+      "meaning": "Trường đại học"
+    },
+    {
+      "id": "v14",
+      "word": "日本語学校",
+      "kanji": "日本語学校",
+      "hiragana": "にほんごがっこう",
+      "reading": "nihongogakkou",
+      "meaning": "Trường tiếng Nhật"
+    },
+    {
+      "id": "v15",
+      "word": "（お）仕事",
+      "kanji": "仕事",
+      "hiragana": "（お）しごと",
+      "reading": "(o)shigoto",
+      "meaning": "Công việc (của bạn)"
+    },
+    {
+      "id": "v16",
+      "word": "学生",
+      "kanji": "学生",
+      "hiragana": "がくせい",
+      "reading": "gakusei",
+      "meaning": "Học sinh"
+    },
+    {
+      "id": "v17",
+      "word": "先生",
+      "kanji": "先生",
+      "hiragana": "せんせい",
+      "reading": "sensei",
+      "meaning": "Thầy/Cô giáo"
+    },
+    {
+      "id": "v18",
+      "word": "教師",
+      "kanji": "教師",
+      "hiragana": "きょうし",
+      "reading": "kyoushi",
+      "meaning": "Giáo viên"
+    },
+    {
+      "id": "v19",
+      "word": "会社員",
+      "kanji": "会社員",
+      "hiragana": "かいしゃいん",
+      "reading": "kaishain",
+      "meaning": "Nhân viên văn phòng"
+    },
+    {
+      "id": "v20",
+      "word": "社員",
+      "kanji": "社員",
+      "hiragana": "しゃいん",
+      "reading": "shain",
+      "meaning": "Nhân viên (của công ty nào đó)"
+    },
+    {
+      "id": "v21",
+      "word": "～さん",
+      "reading": "~san",
+      "meaning": "Anh/Chị/Ông/Bà/Bạn ～"
+    },
+    {
+      "id": "v22",
+      "word": "～人",
+      "kanji": "人",
+      "hiragana": "～じん",
+      "reading": "~jin",
+      "meaning": "Người (nước nào)"
+    },
+    {
+      "id": "v23",
+      "word": "～語",
+      "kanji": "語",
+      "hiragana": "～ご",
+      "reading": "~go",
+      "meaning": "Tiếng (nước nào)"
+    },
+    {
+      "id": "v24",
+      "word": "どちら",
+      "reading": "dochira",
+      "meaning": "Ở đâu / Phía nào"
+    },
+    {
+      "id": "v25",
+      "word": "お国はどちらですか。",
+      "kanji": "国",
+      "hiragana": "おくにはどちらですか。",
+      "reading": "okuni wa dochira desu ka.",
+      "meaning": "Đất nước của bạn là nước nào?"
+    },
+    {
+      "id": "v26",
+      "word": "はじめまして",
+      "reading": "hajimemashite",
+      "meaning": "Xin chào (lần đầu gặp mặt)"
+    },
+    {
+      "id": "v27",
+      "word": "（どうぞ）よろしくお願いします。",
+      "kanji": "願",
+      "hiragana": "（どうぞ）よろしくおねがいします。",
+      "reading": "(douzo) yoroshiku onegai shimasu.",
+      "meaning": "Rất mong nhận được sự giúp đỡ của bạn"
+    },
+    {
+      "id": "v28",
+      "word": "こちらこそ",
+      "reading": "kochirakoso",
+      "meaning": "Tôi cũng vậy!"
+    },
+    {
+      "id": "v29",
+      "word": "あのう",
+      "reading": "anou",
+      "meaning": "Anh / chị ơi…"
+    },
+    {
+      "id": "v30",
+      "word": "すみません",
+      "reading": "sumimasen",
+      "meaning": "Xin lỗi… cho tôi hỏi…"
+    },
+    {
+      "id": "v31",
+      "word": "あのう、すみません。",
+      "reading": "anou, sumimasen.",
+      "meaning": "Anh / chị ơi, xin lỗi cho tôi hỏi 1 chút…"
+    },
+    {
+      "id": "v32",
+      "word": "そうですか。",
+      "reading": "sou desu ka.",
+      "meaning": "Thế à!"
+    },
+    {
+      "id": "v33",
+      "word": "誕生日",
+      "kanji": "誕生日",
+      "hiragana": "たんじょうび",
+      "reading": "tanjoubi",
+      "meaning": "Ngày sinh / Sinh nhật"
+    },
+    {
+      "id": "v34",
+      "word": "ブラジル",
+      "reading": "burajiru",
+      "meaning": "Brazil"
+    },
+    {
+      "id": "v35",
+      "word": "～月",
+      "kanji": "月",
+      "hiragana": "～がつ",
+      "reading": "~gatsu",
+      "meaning": "Tháng ～"
+    },
+    {
+      "id": "v36",
+      "word": "～日",
+      "kanji": "日",
+      "hiragana": "～にち／か",
+      "reading": "~nichi/ka",
+      "meaning": "Ngày (mùng) ～"
+    },
+    {
+      "id": "v37",
+      "word": "～歳",
+      "kanji": "歳",
+      "hiragana": "～さい",
+      "reading": "~sai",
+      "meaning": "～ tuổi"
+    },
+    {
+      "id": "v38",
+      "word": "いつ",
+      "reading": "itsu",
+      "meaning": "Lúc nào / Khi nào"
+    },
+    {
+      "id": "v39",
+      "word": "趣味",
+      "kanji": "趣味",
+      "hiragana": "しゅみ",
+      "reading": "shumi",
+      "meaning": "Sở thích"
+    },
+    {
+      "id": "v40",
+      "word": "スポーツ",
+      "reading": "supootsu",
+      "meaning": "Thể thao"
+    },
+    {
+      "id": "v41",
+      "word": "サッカー",
+      "reading": "sakkaa",
+      "meaning": "Bóng đá"
+    },
+    {
+      "id": "v42",
+      "word": "テニス",
+      "reading": "tenisu",
+      "meaning": "Tennis (Quần vợt)"
+    },
+    {
+      "id": "v43",
+      "word": "水泳",
+      "kanji": "水泳",
+      "hiragana": "すいえい",
+      "reading": "suiei",
+      "meaning": "Bơi lội"
+    },
+    {
+      "id": "v44",
+      "word": "音楽",
+      "kanji": "音楽",
+      "hiragana": "おんがく",
+      "reading": "ongaku",
+      "meaning": "Âm nhạc"
+    },
+    {
+      "id": "v45",
+      "word": "読書",
+      "kanji": "読書",
+      "hiragana": "どくしょ",
+      "reading": "dokusho",
+      "meaning": "Đọc sách"
+    },
+    {
+      "id": "v46",
+      "word": "旅行",
+      "kanji": "旅行",
+      "hiragana": "りょこう",
+      "reading": "ryokou",
+      "meaning": "Du lịch"
+    },
+    {
+      "id": "v47",
+      "word": "料理",
+      "kanji": "料理",
+      "hiragana": "りょうり",
+      "reading": "ryouri",
+      "meaning": "Nấu ăn / Món ăn"
+    },
+    {
+      "id": "v48",
+      "word": "何",
+      "kanji": "何",
+      "hiragana": "なん",
+      "reading": "nan",
+      "meaning": "Cái gì"
+    },
+    {
+      "id": "v49",
+      "word": "あ（っ）",
+      "reading": "a(t)",
+      "meaning": "A! / Á!"
     }
   ],
   "grammar": [

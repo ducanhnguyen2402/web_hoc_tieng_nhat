@@ -7,318 +7,435 @@
   "vocabulary": [
     {
       "id": "v1",
-      "word": "食べます",
-      "kanji": "食べます",
-      "hiragana": "たべます",
-      "reading": "tabemasu",
-      "meaning": "Ăn",
-      "partOfSpeech": "Động từ nhóm 2",
-      "example": {
-        "sentence": "朝ごはん に パン を 食べます。",
-        "furigana": "[朝](あさ)ごはん に パン を [食](た)べます。",
-        "translation": "Tôi ăn bánh mì vào bữa sáng."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6WiPC90ZXh0Pjwvc3ZnPg=="
+      "word": "今週",
+      "kanji": "今週",
+      "hiragana": "こんしゅう",
+      "reading": "konshuu",
+      "meaning": "Tuần này"
     },
     {
       "id": "v2",
-      "word": "飲みます",
-      "kanji": "飲みます",
-      "hiragana": "のみます",
-      "reading": "nomimasu",
-      "meaning": "Uống",
-      "partOfSpeech": "Động từ nhóm 1",
-      "example": {
-        "sentence": "毎朝 コーヒー を 飲みます。",
-        "furigana": "[毎朝](まいあさ) コーヒー を [飲](の)みます。",
-        "translation": "Mỗi sáng tôi uống cà phê."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6WkPC90ZXh0Pjwvc3ZnPg=="
+      "word": "来週",
+      "kanji": "来週",
+      "hiragana": "らいしゅう",
+      "reading": "raishuu",
+      "meaning": "Tuần sau"
     },
     {
       "id": "v3",
-      "word": "買います",
-      "kanji": "買います",
-      "hiragana": "かいます",
-      "reading": "kaimasu",
-      "meaning": "Mua",
-      "partOfSpeech": "Động từ nhóm 1",
-      "example": {
-        "sentence": "スーパー で 野菜 を 買います。",
-        "furigana": "スーパー で [野菜](やさい) を [買](か)います。",
-        "translation": "Tôi mua rau ở siêu thị."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5uSPC90ZXh0Pjwvc3ZnPg=="
+      "word": "今月",
+      "kanji": "今月",
+      "hiragana": "こんげつ",
+      "reading": "kongetsu",
+      "meaning": "Tháng này"
     },
     {
       "id": "v4",
-      "word": "読みます",
-      "kanji": "読みます",
-      "hiragana": "よみます",
-      "reading": "yomimasu",
-      "meaning": "Đọc",
-      "partOfSpeech": "Động từ nhóm 1",
-      "example": {
-        "sentence": "毎晩 本 を 読みます。",
-        "furigana": "[毎晩](まいばん) [本](ほん) を [読](よ)みます。",
-        "translation": "Mỗi tối tôi đọc sách."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OaPC90ZXh0Pjwvc3ZnPg=="
+      "word": "来月",
+      "kanji": "来月",
+      "hiragana": "らいげつ",
+      "reading": "raigetsu",
+      "meaning": "Tháng sau"
     },
     {
       "id": "v5",
-      "word": "見ます",
-      "kanji": "見ます",
-      "hiragana": "みます",
-      "reading": "mimasu",
-      "meaning": "Xem, nhìn",
-      "partOfSpeech": "Động từ nhóm 2",
-      "example": {
-        "sentence": "週末 に テレビ を 見ます。",
-        "furigana": "[週末](しゅうまつ) に テレビ を [見](み)ます。",
-        "translation": "Tôi xem tivi vào cuối tuần."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5GAPC90ZXh0Pjwvc3ZnPg=="
+      "word": "カラオケ",
+      "reading": "karaoke",
+      "meaning": "Hát karaoke"
     },
     {
       "id": "v6",
-      "word": "聞きます",
-      "kanji": "聞きます",
-      "hiragana": "ききます",
-      "reading": "kikimasu",
-      "meaning": "Nghe",
-      "partOfSpeech": "Động từ nhóm 1",
-      "example": {
-        "sentence": "音楽 を 聞きます。",
-        "furigana": "[音楽](おんがく) を [聞](き)きます。",
-        "translation": "Tôi nghe nhạc."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZjJmZSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn46nPC90ZXh0Pjwvc3ZnPg=="
+      "word": "コンサート",
+      "reading": "konsaato",
+      "meaning": "Hòa nhạc"
     },
     {
       "id": "v7",
-      "word": "撮ります",
-      "kanji": "撮ります",
-      "hiragana": "とります",
-      "reading": "torimasu",
-      "meaning": "Chụp (ảnh)",
-      "partOfSpeech": "Động từ nhóm 1",
-      "example": {
-        "sentence": "公園 で 写真 を 撮ります。",
-        "furigana": "[公園](こうえん) で [写真](しゃしん) を [撮](と)ります。",
-        "translation": "Tôi chụp ảnh ở công viên."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZTdmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5O4PC90ZXh0Pjwvc3ZnPg=="
+      "word": "試合",
+      "kanji": "試合",
+      "hiragana": "しあい",
+      "reading": "shiai",
+      "meaning": "Trận đấu"
     },
     {
       "id": "v8",
-      "word": "します",
-      "kanji": null,
-      "hiragana": "します",
-      "reading": "shimasu",
-      "meaning": "Làm, chơi",
-      "partOfSpeech": "Động từ nhóm 3",
-      "example": {
-        "sentence": "友達 と サッカー を します。",
-        "furigana": "[友達](ともだち) と サッカー を します。",
-        "translation": "Tôi chơi bóng đá cùng bạn."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YzZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn46uPC90ZXh0Pjwvc3ZnPg=="
+      "word": "セール",
+      "reading": "seeru",
+      "meaning": "Giảm giá"
     },
     {
       "id": "v9",
-      "word": "ご飯",
-      "kanji": "ご飯",
-      "hiragana": "ごはん",
-      "reading": "gohan",
-      "meaning": "Cơm, bữa ăn",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "家族 と 晩ご飯 を 食べます。",
-        "furigana": "[家族](かぞく) と [晩](ばん)ご[飯](はん) を [食](た)べます。",
-        "translation": "Tôi ăn cơm tối cùng gia đình."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn42aPC90ZXh0Pjwvc3ZnPg=="
+      "word": "チケット",
+      "reading": "chiketto",
+      "meaning": "Vé"
     },
     {
       "id": "v10",
-      "word": "パン",
-      "kanji": null,
-      "hiragana": "ぱん",
-      "reading": "pan",
-      "meaning": "Bánh mì",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "朝 パン と 卵 を 食べました。",
-        "furigana": "[朝](あさ) パン と [卵](たまご) を [食](た)べました。",
-        "translation": "Buổi sáng tôi đã ăn bánh mì và trứng."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6WQPC90ZXh0Pjwvc3ZnPg=="
+      "word": "地図",
+      "kanji": "地図",
+      "hiragana": "ちず",
+      "reading": "chizu",
+      "meaning": "Bản đồ"
     },
     {
       "id": "v11",
-      "word": "肉",
-      "kanji": "肉",
-      "hiragana": "にく",
-      "reading": "niku",
-      "meaning": "Thịt",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "肉 と 野菜 を 買いました。",
-        "furigana": "[肉](にく) と [野菜](やさい) を [買](か)いました。",
-        "translation": "Tôi đã mua thịt và rau."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6WpPC90ZXh0Pjwvc3ZnPg=="
+      "word": "ドライブ",
+      "reading": "doraibu",
+      "meaning": "Lái xe"
     },
     {
       "id": "v12",
-      "word": "魚",
-      "kanji": "魚",
-      "hiragana": "さかな",
-      "reading": "sakana",
-      "meaning": "Cá",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "日本人 は よく 魚 を 食べます。",
-        "furigana": "[日本人](にほんじん) は よく [魚](さかな) を [食](た)べます。",
-        "translation": "Người Nhật thường hay ăn cá."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5CfPC90ZXh0Pjwvc3ZnPg=="
+      "word": "水着",
+      "kanji": "水着",
+      "hiragana": "みずぎ",
+      "reading": "mizugi",
+      "meaning": "Đồ bơi"
     },
     {
       "id": "v13",
-      "word": "野菜",
-      "kanji": "野菜",
-      "hiragana": "やさい",
-      "reading": "yasai",
-      "meaning": "Rau",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "毎日 野菜 を たくさん 食べます。",
-        "furigana": "[毎日](まいにち) [野菜](やさい) を たくさん [食](た)べます。",
-        "translation": "Mỗi ngày tôi ăn nhiều rau."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6WmPC90ZXh0Pjwvc3ZnPg=="
+      "word": "野球",
+      "kanji": "野球",
+      "hiragana": "やきゅう",
+      "reading": "yakyuu",
+      "meaning": "Bóng chày"
     },
     {
       "id": "v14",
-      "word": "果物",
-      "kanji": "果物",
-      "hiragana": "くだもの",
-      "reading": "kudamono",
-      "meaning": "Hoa quả, trái cây",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "果物 の 中 で りんご が 好き です。",
-        "furigana": "[果物](くだもの) の [中](なか) で りんご が [好](す)き です。",
-        "translation": "Trong các loại hoa quả tôi thích táo."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn42OPC90ZXh0Pjwvc3ZnPg=="
+      "word": "約束",
+      "kanji": "約束",
+      "hiragana": "やくそく",
+      "reading": "yakusoku",
+      "meaning": "Hứa, hẹn"
     },
     {
       "id": "v15",
-      "word": "お茶",
-      "kanji": "お茶",
-      "hiragana": "おちゃ",
-      "reading": "ocha",
-      "meaning": "Trà, chè",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "食後 に お茶 を 飲みます。",
-        "furigana": "[食後](しょくご) に お[茶](ちゃ) を [飲](の)みます。",
-        "translation": "Tôi uống trà sau bữa ăn."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn421PC90ZXh0Pjwvc3ZnPg=="
+      "word": "用事",
+      "kanji": "用事",
+      "hiragana": "ようじ",
+      "reading": "youji",
+      "meaning": "Việc bận"
     },
     {
       "id": "v16",
-      "word": "コーヒー",
-      "kanji": null,
-      "hiragana": "こーひー",
-      "reading": "koohii",
-      "meaning": "Cà phê",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "喫茶店 で コーヒー を 飲みました。",
-        "furigana": "[喫茶店](きっさてん) で コーヒー を [飲](の)みました。",
-        "translation": "Tôi đã uống cà phê ở quán giải khát."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7imJU8L3RleHQ+PC9zdmc+"
+      "word": "～枚",
+      "kanji": "枚",
+      "hiragana": "～まい",
+      "reading": "~mai",
+      "meaning": "Cách đếm vật mỏng, phẳng"
     },
     {
       "id": "v17",
-      "word": "レストラン",
-      "kanji": null,
-      "hiragana": "れすとらん",
-      "reading": "resutoran",
-      "meaning": "Nhà hàng",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "あの レストラン で 昼ご飯 を 食べましょう。",
-        "furigana": "あの レストラン で [昼](ひる)ご[飯](はん) を [食](た)べましょう。",
-        "translation": "Chúng ta hãy cùng ăn trưa ở nhà hàng kia nhé."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZjJmZSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn42977iPPC90ZXh0Pjwvc3ZnPg=="
+      "word": "あります",
+      "reading": "arimasu",
+      "meaning": "Có"
     },
     {
       "id": "v18",
-      "word": "写真",
-      "kanji": "写真",
-      "hiragana": "しゃしん",
-      "reading": "shashin",
-      "meaning": "Bức ảnh",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "京都 で 写真 を たくさん 撮りました。",
-        "furigana": "[京都](きょうと) で [写真](しゃしん) を たくさん [撮](と)りました。",
-        "translation": "Tôi đã chụp nhiều ảnh ở Kyoto."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZTdmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5a877iPPC90ZXh0Pjwvc3ZnPg=="
+      "word": "今晩、用事があります",
+      "kanji": "今晩,用事",
+      "hiragana": "こんばん、ようじがあります",
+      "reading": "konban, youji ga arimasu",
+      "meaning": "Tối nay có việc bận"
     },
     {
       "id": "v19",
-      "word": "一緒に",
-      "kanji": "一緒に",
-      "hiragana": "いっしょに",
-      "reading": "isshoni",
-      "meaning": "Cùng nhau",
-      "partOfSpeech": "Phó từ",
-      "example": {
-        "sentence": "一緒に 映画 を 見ませんか。",
-        "furigana": "[一緒](いっしょ)に [映画](えいが) を [見](み)ませんか。",
-        "translation": "Bạn có muốn cùng xem phim với tôi không?"
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YzZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6SdPC90ZXh0Pjwvc3ZnPg=="
+      "word": "横浜で野球の試合があります",
+      "kanji": "横浜,野球,試合",
+      "hiragana": "よこはまでやきゅうのしあいがあります",
+      "reading": "yokohama de yakyuu no shiai ga arimasu",
+      "meaning": "Có trận đấu bóng chày ở Yokohama"
     },
     {
       "id": "v20",
-      "word": "いつも",
-      "kanji": null,
-      "hiragana": "いつも",
-      "reading": "itsumo",
-      "meaning": "Luôn luôn, lúc nào cũng",
-      "partOfSpeech": "Phó từ",
-      "example": {
-        "sentence": "わたし は いつも 7時 に 起きます。",
-        "furigana": "わたし は いつも [七時](しちじ) に [起](お)きます。",
-        "translation": "Tôi luôn luôn thức dậy vào lúc 7 giờ."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5SEPC90ZXh0Pjwvc3ZnPg=="
+      "word": "チケットが２枚あります",
+      "kanji": "枚",
+      "hiragana": "チケットが２まいあります",
+      "reading": "chiketto ga nimai arimasu",
+      "meaning": "Tôi có 2 vé"
     },
     {
       "id": "v21",
-      "word": "スーパー",
-      "kanji": null,
-      "hiragana": "すーぱー",
-      "reading": "suupaa",
-      "meaning": "Siêu thị",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "スーパー で 野菜 を 買います。",
-        "furigana": "スーパー で [野菜](やさい) を [買](か)います。",
-        "translation": "Tôi mua rau ở siêu thị."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4+sPC90ZXh0Pjwvc3ZnPg=="
+      "word": "残念",
+      "kanji": "残念",
+      "hiragana": "ざんねん",
+      "reading": "zannen",
+      "meaning": "Tiếc"
+    },
+    {
+      "id": "v22",
+      "word": "一緒に",
+      "kanji": "一緒",
+      "hiragana": "いっしょに",
+      "reading": "issho ni",
+      "meaning": "Cùng với"
+    },
+    {
+      "id": "v23",
+      "word": "一緒に映画を見に行きませんか。",
+      "kanji": "一緒,映画,見,行",
+      "hiragana": "いっしょにえいがをみにいきませんか。",
+      "reading": "issho ni eiga o mi ni ikimasen ka.",
+      "meaning": "Đi xem phim với tôi đi?"
+    },
+    {
+      "id": "v24",
+      "word": "いいですね。行きましょう。",
+      "kanji": "行",
+      "hiragana": "いいですね。いきましょう。",
+      "reading": "ii desu ne. ikimashou.",
+      "meaning": "Hay đấy. Chúng ta cùng đi"
+    },
+    {
+      "id": "v25",
+      "word": "ああ、日曜日はちょっと…",
+      "kanji": "日曜日",
+      "hiragana": "ああ、にちようびはちょっと…",
+      "reading": "aa, nichiyoubi wa chotto...",
+      "meaning": "A, thứ 7 thì không được"
+    },
+    {
+      "id": "v26",
+      "word": "今晩一緒にご飯を食べませんか。",
+      "kanji": "今晩,一緒,飯,食",
+      "hiragana": "こんばんいっしょにごはんをたべませんか。",
+      "reading": "konban issho ni gohan o tabemasen ka.",
+      "meaning": "Tối nay đi ăn với tôi đi?"
+    },
+    {
+      "id": "v27",
+      "word": "すみません。今晩はちょっと…",
+      "kanji": "今晩",
+      "hiragana": "すみません。こんばんはちょっと…",
+      "reading": "sumimasen. konban wa chotto...",
+      "meaning": "Xin lỗi, tối nay thì không được rồi"
+    },
+    {
+      "id": "v28",
+      "word": "また今度",
+      "kanji": "今度",
+      "hiragana": "またこんど",
+      "reading": "mata kondo",
+      "meaning": "Hẹn anh lần sau"
+    },
+    {
+      "id": "v29",
+      "word": "わあ",
+      "reading": "waa",
+      "meaning": "Oa (Thể hiện sự ngạc nhiên)"
+    },
+    {
+      "id": "v30",
+      "word": "食べ物",
+      "kanji": "食,物",
+      "hiragana": "たべもの",
+      "reading": "tabemono",
+      "meaning": "Đồ ăn"
+    },
+    {
+      "id": "v31",
+      "word": "飲み物",
+      "kanji": "飲,物",
+      "hiragana": "のみもの",
+      "reading": "nomimono",
+      "meaning": "Đồ uống"
+    },
+    {
+      "id": "v32",
+      "word": "焼き肉",
+      "kanji": "焼,肉",
+      "hiragana": "やきにく",
+      "reading": "yakiniku",
+      "meaning": "Thịt nướng"
+    },
+    {
+      "id": "v33",
+      "word": "ラーメン",
+      "reading": "raamen",
+      "meaning": "Mỳ Nhật"
+    },
+    {
+      "id": "v34",
+      "word": "食べ放題",
+      "kanji": "食,放題",
+      "hiragana": "たべほうだい",
+      "reading": "tabehoudai",
+      "meaning": "Ăn buffe"
+    },
+    {
+      "id": "v35",
+      "word": "コース",
+      "reading": "koosu",
+      "meaning": "Suất ăn / Khóa học"
+    },
+    {
+      "id": "v36",
+      "word": "居酒屋",
+      "kanji": "居酒屋",
+      "hiragana": "いざかや",
+      "reading": "izakaya",
+      "meaning": "Quán rượu"
+    },
+    {
+      "id": "v37",
+      "word": "映画館",
+      "kanji": "映画館",
+      "hiragana": "えいがかん",
+      "reading": "eigakan",
+      "meaning": "Rạp chiếu phim"
+    },
+    {
+      "id": "v38",
+      "word": "地下鉄",
+      "kanji": "地下鉄",
+      "hiragana": "ちかてつ",
+      "reading": "chikatetsu",
+      "meaning": "Tàu điện ngầm"
+    },
+    {
+      "id": "v39",
+      "word": "歌手",
+      "kanji": "歌手",
+      "hiragana": "かしゅ",
+      "reading": "kashu",
+      "meaning": "Ca sỹ"
+    },
+    {
+      "id": "v40",
+      "word": "季節",
+      "kanji": "季節",
+      "hiragana": "きせつ",
+      "reading": "kisetsu",
+      "meaning": "Mùa"
+    },
+    {
+      "id": "v41",
+      "word": "コメディー",
+      "reading": "komedii",
+      "meaning": "Hài kịch"
+    },
+    {
+      "id": "v42",
+      "word": "ジャズ",
+      "reading": "jazu",
+      "meaning": "Nhạc jazz"
+    },
+    {
+      "id": "v43",
+      "word": "ツアー",
+      "reading": "tsuaa",
+      "meaning": "Tour du lịch"
+    },
+    {
+      "id": "v44",
+      "word": "どちらも",
+      "reading": "dochiramo",
+      "meaning": "Bên nào cũng"
+    },
+    {
+      "id": "v45",
+      "word": "近い",
+      "kanji": "近",
+      "hiragana": "ちかい",
+      "reading": "chikai",
+      "meaning": "Gần"
+    },
+    {
+      "id": "v46",
+      "word": "遠い",
+      "kanji": "遠",
+      "hiragana": "とおい",
+      "reading": "tooi",
+      "meaning": "Xa"
+    },
+    {
+      "id": "v47",
+      "word": "早い",
+      "kanji": "早",
+      "hiragana": "はやい",
+      "reading": "hayai",
+      "meaning": "Sớm"
+    },
+    {
+      "id": "v48",
+      "word": "広い",
+      "kanji": "広",
+      "hiragana": "ひろい",
+      "reading": "hiroi",
+      "meaning": "Rộng"
+    },
+    {
+      "id": "v49",
+      "word": "いちばん",
+      "reading": "ichiban",
+      "meaning": "Nhất"
+    },
+    {
+      "id": "v50",
+      "word": "全部",
+      "kanji": "全部",
+      "hiragana": "ぜんぶ",
+      "reading": "zenbu",
+      "meaning": "Toàn bộ"
+    },
+    {
+      "id": "v51",
+      "word": "そうですねえ",
+      "reading": "sou desu nee",
+      "meaning": "Câu nói ngập ngừng khi suy nghĩ để trả lời câu hỏi."
+    },
+    {
+      "id": "v52",
+      "word": "お好み焼き",
+      "kanji": "好,焼",
+      "hiragana": "おこのみやき",
+      "reading": "okonomiyaki",
+      "meaning": "Món bánh xèo Nhật"
+    },
+    {
+      "id": "v53",
+      "word": "すき焼き",
+      "kanji": "焼",
+      "hiragana": "すきやき",
+      "reading": "sukiyaki",
+      "meaning": "Món nhúng có thịt bò và rau"
+    },
+    {
+      "id": "v54",
+      "word": "遊びます",
+      "kanji": "遊",
+      "hiragana": "あそびます",
+      "reading": "asobimasu",
+      "meaning": "Chơi"
+    },
+    {
+      "id": "v55",
+      "word": "ぜひ",
+      "reading": "zehi",
+      "meaning": "Nhất định"
+    },
+    {
+      "id": "v56",
+      "word": "まだ",
+      "reading": "mada",
+      "meaning": "Vẫn, chưa"
+    },
+    {
+      "id": "v57",
+      "word": "もう",
+      "reading": "mou",
+      "meaning": "Đã, rồi"
+    },
+    {
+      "id": "v58",
+      "word": "そうしましょう",
+      "reading": "sou shimashou",
+      "meaning": "Làm như thế đi"
+    },
+    {
+      "id": "v59",
+      "word": "わかりました",
+      "reading": "wakarimashita",
+      "meaning": "Tôi hiểu rồi"
     }
   ],
   "grammar": [

@@ -7,228 +7,545 @@
   "vocabulary": [
     {
       "id": "v1",
-      "word": "今",
-      "kanji": "今",
-      "hiragana": "いま",
-      "reading": "ima",
-      "meaning": "Bây giờ, hiện tại",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "今 何時 ですか。",
-        "furigana": "[今](いま) [何時](なんじ) ですか。",
-        "translation": "Bây giờ là mấy giờ vậy?"
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7ij7HvuI88L3RleHQ+PC9zdmc+"
+      "word": "北",
+      "kanji": "北",
+      "hiragana": "きた",
+      "reading": "kita",
+      "meaning": "Phía bắc"
     },
     {
       "id": "v2",
-      "word": "～時",
-      "kanji": "時",
-      "hiragana": "じ",
-      "reading": "ji",
-      "meaning": "Giờ (hậu tố đếm mốc giờ đồng hồ)",
-      "partOfSpeech": "Hậu tố",
-      "example": {
-        "sentence": "今 4時 です。",
-        "furigana": "[今](いま) [四時](よじ) です。",
-        "translation": "Bây giờ là 4 giờ."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5WSPC90ZXh0Pjwvc3ZnPg=="
+      "word": "南",
+      "kanji": "南",
+      "hiragana": "みなみ",
+      "reading": "minami",
+      "meaning": "Phía nam"
     },
     {
       "id": "v3",
-      "word": "～分",
-      "kanji": "分",
-      "hiragana": "ふん",
-      "reading": "fun / pun",
-      "meaning": "Phút (hậu tố đếm phút)",
-      "partOfSpeech": "Hậu tố",
-      "example": {
-        "sentence": "今 8時 15分 です。",
-        "furigana": "[今](いま) [八時](はちじ) [十五分](じゅうごふん) です。",
-        "translation": "Bây giờ là 8 giờ 15 phút."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7ij7M8L3RleHQ+PC9zdmc+"
+      "word": "東",
+      "kanji": "東",
+      "hiragana": "ひがし",
+      "reading": "higashi",
+      "meaning": "Phía đông"
     },
     {
       "id": "v4",
-      "word": "半",
-      "kanji": "半",
-      "hiragana": "はん",
-      "reading": "han",
-      "meaning": "Rưỡi, nửa (chỉ 30 phút)",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "会議 は 10時 半 から です。",
-        "furigana": "[会議](かいぎ) は [十時](じゅうじ) [半](はん) から です。",
-        "translation": "Cuộc họp bắt đầu từ 10 giờ rưỡi."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yXPC90ZXh0Pjwvc3ZnPg=="
+      "word": "西",
+      "kanji": "西",
+      "hiragana": "にし",
+      "reading": "nishi",
+      "meaning": "Phía tây"
     },
     {
       "id": "v5",
-      "word": "何時",
-      "kanji": "何時",
-      "hiragana": "なんじ",
-      "reading": "nanji",
-      "meaning": "Mấy giờ (từ để hỏi thời gian)",
-      "partOfSpeech": "Nghi vấn từ",
-      "example": {
-        "sentence": "東京 は 今 何時 ですか。",
-        "furigana": "[東京](とうきょう) は [今](いま) [何時](なんじ) ですか。",
-        "translation": "Tokyo bây giờ là mấy giờ?"
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5Ww77iPPC90ZXh0Pjwvc3ZnPg=="
+      "word": "真ん中",
+      "kanji": "真ん中",
+      "hiragana": "まんなか",
+      "reading": "mannaka",
+      "meaning": "Chính giữa"
     },
     {
       "id": "v6",
-      "word": "午前",
-      "kanji": "午前",
-      "hiragana": "ごぜん",
-      "reading": "gozen",
-      "meaning": "Sáng, trước 12 giờ trưa (A.M.)",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "午前 9時 に 銀行 へ 行きます。",
-        "furigana": "[午前](ごぜん) [九時](くじ) に [銀行](ぎんこう) へ [行](い)きます。",
-        "translation": "Tôi đi ngân hàng lúc 9 giờ sáng."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yFPC90ZXh0Pjwvc3ZnPg=="
+      "word": "車",
+      "kanji": "車",
+      "hiragana": "くるま",
+      "reading": "kuruma",
+      "meaning": "Ô tô"
     },
     {
       "id": "v7",
-      "word": "午後",
-      "kanji": "午後",
-      "hiragana": "ごご",
-      "reading": "gogo",
-      "meaning": "Chiều, tối, sau 12 giờ trưa (P.M.)",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "午後 1時 に 昼休み が 終わります。",
-        "furigana": "[午後](ごご) [一時](いちじ) に [昼休](ひるやす)みが [終](お)わります。",
-        "translation": "Giờ nghỉ trưa kết thúc lúc 1 giờ chiều."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZjJmZSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yHPC90ZXh0Pjwvc3ZnPg=="
+      "word": "新幹線",
+      "kanji": "新幹線",
+      "hiragana": "しんかんせん",
+      "reading": "shinkansen",
+      "meaning": "Tàu cao tốc Shinkansen"
     },
     {
       "id": "v8",
-      "word": "朝",
-      "kanji": "朝",
-      "hiragana": "あさ",
-      "reading": "asa",
-      "meaning": "Buổi sáng, ban sáng",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "朝 6時 に 起きます。",
-        "furigana": "[朝](あさ) [六時](ろくじ) に [起](お)きます。",
-        "translation": "Tôi thức dậy vào lúc 6 giờ sáng."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZTdmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn42zPC90ZXh0Pjwvc3ZnPg=="
+      "word": "電車",
+      "kanji": "電車",
+      "hiragana": "でんしゃ",
+      "reading": "densha",
+      "meaning": "Tàu điện"
     },
     {
       "id": "v9",
-      "word": "昼",
-      "kanji": "昼",
-      "hiragana": "ひる",
-      "reading": "hiru",
-      "meaning": "Buổi trưa, ban ngày",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "昼 12時 に ごはん を 食べます。",
-        "furigana": "[昼](ひる) [十二時](じゅうにじ) に ごはん を [食](た)べます。",
-        "translation": "Tôi ăn cơm lúc 12 giờ trưa."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YzZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yePC90ZXh0Pjwvc3ZnPg=="
+      "word": "飛行機",
+      "kanji": "飛行機",
+      "hiragana": "ひこうき",
+      "reading": "hikouki",
+      "meaning": "Máy bay"
     },
     {
       "id": "v10",
-      "word": "晩",
-      "kanji": "晩",
-      "hiragana": "ばん",
-      "reading": "ban",
-      "meaning": "Buổi tối, ban đêm",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "晩 11時 に 寝ます。",
-        "furigana": "[晩](ばん) [十一時](じゅういちじ) に [寝](ね)ます。",
-        "translation": "Tôi đi ngủ vào lúc 11 giờ tối."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yDPC90ZXh0Pjwvc3ZnPg=="
+      "word": "駅",
+      "kanji": "駅",
+      "hiragana": "えき",
+      "reading": "eki",
+      "meaning": "Nhà ga"
     },
     {
       "id": "v11",
-      "word": "毎日",
-      "kanji": "毎日",
-      "hiragana": "まいにち",
-      "reading": "mainichi",
-      "meaning": "Mỗi ngày, hàng ngày",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "毎日 日本語 を 勉強します。",
-        "furigana": "[毎日](まいにち) [日本語](にほんご) を [勉強](べんきょう)します。",
-        "translation": "Tôi học tiếng Nhật mỗi ngày."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OFPC90ZXh0Pjwvc3ZnPg=="
+      "word": "町",
+      "kanji": "町",
+      "hiragana": "まち",
+      "reading": "machi",
+      "meaning": "Thành phố, thị trấn"
     },
     {
       "id": "v12",
-      "word": "何曜日",
-      "kanji": "何曜日",
-      "hiragana": "なんようび",
-      "reading": "nanyoubi",
-      "meaning": "Thứ mấy (từ hỏi thứ trong tuần)",
-      "partOfSpeech": "Nghi vấn từ",
-      "example": {
-        "sentence": "今日 は 何曜日 ですか。",
-        "furigana": "[今日](きょう) は [何曜日](なんようび) ですか。",
-        "translation": "Hôm nay là thứ mấy vậy?"
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5OGPC90ZXh0Pjwvc3ZnPg=="
+      "word": "～時間",
+      "kanji": "時間",
+      "hiragana": "～じかん",
+      "reading": "~jikan",
+      "meaning": "～Tiếng"
     },
     {
       "id": "v13",
-      "word": "月曜日",
-      "kanji": "月曜日",
-      "hiragana": "げつようび",
-      "reading": "getsuyoubi",
-      "meaning": "Thứ Hai",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "月曜日 から 金曜日 まで 働きます。",
-        "furigana": "[月曜日](げつようび) から [金曜日](きんようび) まで [働](はたら)きます。",
-        "translation": "Tôi làm việc từ thứ Hai đến thứ Sáu."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yZPC90ZXh0Pjwvc3ZnPg=="
+      "word": "～時間半",
+      "kanji": "時間半",
+      "hiragana": "～じかんはん",
+      "reading": "~jikanhan",
+      "meaning": "～ Tiếng rưỡi"
     },
     {
       "id": "v14",
-      "word": "日曜日",
-      "kanji": "日曜日",
-      "hiragana": "にちようび",
-      "reading": "nichiyoubi",
-      "meaning": "Chủ nhật",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "日曜日 は 休み です。",
-        "furigana": "[日曜日](にちようび) は [休](やす)み です。",
-        "translation": "Chủ nhật là ngày nghỉ."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7imIDvuI88L3RleHQ+PC9zdmc+"
+      "word": "～分",
+      "kanji": "分",
+      "hiragana": "～ふん",
+      "reading": "~fun",
+      "meaning": "～ Phút"
     },
     {
       "id": "v15",
-      "word": "起きます",
-      "kanji": "起きます",
-      "hiragana": "おきます",
-      "reading": "okimasu",
-      "meaning": "Thức dậy, dậy",
-      "partOfSpeech": "Động từ",
-      "example": {
-        "sentence": "毎朝 7時 に 起きます。",
-        "furigana": "[毎朝](まいあさ) [七時](しちじ) に [起](お)きます。",
-        "translation": "Mỗi sáng tôi thức dậy lúc 7 giờ."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6WxPC90ZXh0Pjwvc3ZnPg=="
+      "word": "うちから学校まで２０分です。",
+      "kanji": "学校,分",
+      "hiragana": "うちからがっこうまで２０ぷんです。",
+      "reading": "uchi kara gakkou made nijuuppun desu.",
+      "meaning": "Từ nhà đến trường mất 20 phút"
+    },
+    {
+      "id": "v16",
+      "word": "歩いて",
+      "kanji": "歩",
+      "hiragana": "あるいて",
+      "reading": "aruite",
+      "meaning": "Đi bộ"
+    },
+    {
+      "id": "v17",
+      "word": "～くらい",
+      "reading": "~kurai",
+      "meaning": "Khoảng"
+    },
+    {
+      "id": "v18",
+      "word": "どのくらい",
+      "reading": "donokurai",
+      "meaning": "Bao lâu"
+    },
+    {
+      "id": "v19",
+      "word": "温泉",
+      "kanji": "温泉",
+      "hiragana": "おんせん",
+      "reading": "onsen",
+      "meaning": "Suối nước nóng"
+    },
+    {
+      "id": "v20",
+      "word": "川",
+      "kanji": "川",
+      "hiragana": "かわ",
+      "reading": "kawa",
+      "meaning": "Sông"
+    },
+    {
+      "id": "v21",
+      "word": "山",
+      "kanji": "山",
+      "hiragana": "やま",
+      "reading": "yama",
+      "meaning": "Núi"
+    },
+    {
+      "id": "v22",
+      "word": "教会",
+      "kanji": "教会",
+      "hiragana": "きょうかい",
+      "reading": "kyoukai",
+      "meaning": "Nhà thờ"
+    },
+    {
+      "id": "v23",
+      "word": "（お）城",
+      "kanji": "城",
+      "hiragana": "（お）しろ",
+      "reading": "(o)shiro",
+      "meaning": "Lâu đài"
+    },
+    {
+      "id": "v24",
+      "word": "神社",
+      "kanji": "神社",
+      "hiragana": "じんじゃ",
+      "reading": "jinja",
+      "meaning": "Đền"
+    },
+    {
+      "id": "v25",
+      "word": "（お）寺",
+      "kanji": "寺",
+      "hiragana": "（お）てら",
+      "reading": "(o)tera",
+      "meaning": "Chùa"
+    },
+    {
+      "id": "v26",
+      "word": "ビル",
+      "reading": "biru",
+      "meaning": "Tòa nhà"
+    },
+    {
+      "id": "v27",
+      "word": "ところ",
+      "reading": "tokoro",
+      "meaning": "Nơi, chỗ"
+    },
+    {
+      "id": "v28",
+      "word": "人",
+      "kanji": "人",
+      "hiragana": "ひと",
+      "reading": "hito",
+      "meaning": "Người"
+    },
+    {
+      "id": "v29",
+      "word": "緑",
+      "kanji": "緑",
+      "hiragana": "みどり",
+      "reading": "midori",
+      "meaning": "Màu xanh; Cây xanh"
+    },
+    {
+      "id": "v30",
+      "word": "あります",
+      "reading": "arimasu",
+      "meaning": "Có"
+    },
+    {
+      "id": "v31",
+      "word": "箱根に温泉があります。",
+      "kanji": "箱根,温泉",
+      "hiragana": "はこねにおんせんがあります。",
+      "reading": "hakone ni onsen ga arimasu.",
+      "meaning": "Ở Hakone có suối nước nóng"
+    },
+    {
+      "id": "v32",
+      "word": "新しい",
+      "kanji": "新",
+      "hiragana": "あたらしい",
+      "reading": "atarashii",
+      "meaning": "Mới"
+    },
+    {
+      "id": "v33",
+      "word": "古い",
+      "kanji": "古",
+      "hiragana": "ふるい",
+      "reading": "furui",
+      "meaning": "Cũ"
+    },
+    {
+      "id": "v34",
+      "word": "いい",
+      "reading": "ii",
+      "meaning": "Tốt"
+    },
+    {
+      "id": "v35",
+      "word": "多い",
+      "kanji": "多",
+      "hiragana": "おおい",
+      "reading": "ooi",
+      "meaning": "Nhiều ～"
+    },
+    {
+      "id": "v36",
+      "word": "少ない",
+      "kanji": "少",
+      "hiragana": "すくない",
+      "reading": "sukunai",
+      "meaning": "Ít ～"
+    },
+    {
+      "id": "v37",
+      "word": "大きい",
+      "kanji": "大",
+      "hiragana": "おおきい",
+      "reading": "ookii",
+      "meaning": "To, lớn"
+    },
+    {
+      "id": "v38",
+      "word": "小さい",
+      "kanji": "小",
+      "hiragana": "ちいさい",
+      "reading": "chiisai",
+      "meaning": "Nhỏ, bé"
+    },
+    {
+      "id": "v39",
+      "word": "高い",
+      "kanji": "高",
+      "hiragana": "たかい",
+      "reading": "takai",
+      "meaning": "Cao, đắt"
+    },
+    {
+      "id": "v40",
+      "word": "富士山は高いです。",
+      "kanji": "富士山,高",
+      "hiragana": "ふじさんはたかいです。",
+      "reading": "fujisan wa takai desu.",
+      "meaning": "Núi Phú Sỹ cao"
+    },
+    {
+      "id": "v41",
+      "word": "低い",
+      "kanji": "低",
+      "hiragana": "ひくい",
+      "reading": "hikui",
+      "meaning": "Thấp"
+    },
+    {
+      "id": "v42",
+      "word": "きれい",
+      "reading": "kirei",
+      "meaning": "Đẹp, sạch sẽ"
+    },
+    {
+      "id": "v43",
+      "word": "静か",
+      "kanji": "静",
+      "hiragana": "しずか",
+      "reading": "shizuka",
+      "meaning": "Yên tĩnh"
+    },
+    {
+      "id": "v44",
+      "word": "にぎやか",
+      "reading": "nigiyaka",
+      "meaning": "Náo nhiệt, nhộn nhịp"
+    },
+    {
+      "id": "v45",
+      "word": "有名",
+      "kanji": "有名",
+      "hiragana": "ゆうめい",
+      "reading": "yuumei",
+      "meaning": "Nổi tiếng"
+    },
+    {
+      "id": "v46",
+      "word": "どんな",
+      "reading": "donna",
+      "meaning": "Như thế nào"
+    },
+    {
+      "id": "v47",
+      "word": "そして",
+      "reading": "soshite",
+      "meaning": "Và"
+    },
+    {
+      "id": "v48",
+      "word": "雨",
+      "kanji": "雨",
+      "hiragana": "あめ",
+      "reading": "ame",
+      "meaning": "Mưa"
+    },
+    {
+      "id": "v49",
+      "word": "雪",
+      "kanji": "雪",
+      "hiragana": "ゆき",
+      "reading": "yuki",
+      "meaning": "Tuyết"
+    },
+    {
+      "id": "v50",
+      "word": "日",
+      "kanji": "日",
+      "hiragana": "ひ",
+      "reading": "hi",
+      "meaning": "Ngày / Mặt trời"
+    },
+    {
+      "id": "v51",
+      "word": "メロン",
+      "reading": "meron",
+      "meaning": "Dưa gang (dưa lưới)"
+    },
+    {
+      "id": "v52",
+      "word": "暖かい",
+      "kanji": "暖",
+      "hiragana": "あたたかい",
+      "reading": "atatakai",
+      "meaning": "Ấm áp (thời tiết)"
+    },
+    {
+      "id": "v53",
+      "word": "涼しい",
+      "kanji": "涼",
+      "hiragana": "すずしい",
+      "reading": "suzushii",
+      "meaning": "Mát mẻ"
+    },
+    {
+      "id": "v54",
+      "word": "暑い",
+      "kanji": "暑",
+      "hiragana": "あつい",
+      "reading": "atsui",
+      "meaning": "Nóng bức (thời tiết)"
+    },
+    {
+      "id": "v55",
+      "word": "寒い",
+      "kanji": "寒",
+      "hiragana": "さむい",
+      "reading": "samui",
+      "meaning": "Lạnh, rét (thời tiết)"
+    },
+    {
+      "id": "v56",
+      "word": "天気がいい",
+      "kanji": "天気",
+      "hiragana": "てんきがいい",
+      "reading": "tenki ga ii",
+      "meaning": "Thời tiết đẹp"
+    },
+    {
+      "id": "v57",
+      "word": "天気がわるい",
+      "kanji": "天気",
+      "hiragana": "てんきがわるい",
+      "reading": "tenki ga warui",
+      "meaning": "Thời tiết xấu"
+    },
+    {
+      "id": "v58",
+      "word": "温かい",
+      "kanji": "温",
+      "hiragana": "あたたかい",
+      "reading": "atatakai",
+      "meaning": "Ấm (nhiệt độ, cảm giác)"
+    },
+    {
+      "id": "v59",
+      "word": "熱い",
+      "kanji": "熱",
+      "hiragana": "あつい",
+      "reading": "atsui",
+      "meaning": "Nóng (nhiệt độ)"
+    },
+    {
+      "id": "v60",
+      "word": "冷たい",
+      "kanji": "冷",
+      "hiragana": "つめたい",
+      "reading": "tsumetai",
+      "meaning": "Lạnh / Mát (nhiệt độ, cảm giác)"
+    },
+    {
+      "id": "v61",
+      "word": "おいしい",
+      "reading": "oishii",
+      "meaning": "Ngon"
+    },
+    {
+      "id": "v62",
+      "word": "甘い",
+      "kanji": "甘",
+      "hiragana": "あまい",
+      "reading": "amai",
+      "meaning": "Ngọt"
+    },
+    {
+      "id": "v63",
+      "word": "辛い",
+      "kanji": "辛",
+      "hiragana": "からい",
+      "reading": "karai",
+      "meaning": "Cay"
+    },
+    {
+      "id": "v64",
+      "word": "苦い",
+      "kanji": "苦",
+      "hiragana": "にがい",
+      "reading": "nigai",
+      "meaning": "Đắng"
+    },
+    {
+      "id": "v65",
+      "word": "すっぱい",
+      "reading": "suppai",
+      "meaning": "Chua"
+    },
+    {
+      "id": "v66",
+      "word": "一年中",
+      "kanji": "一年中",
+      "hiragana": "いちねんじゅう",
+      "reading": "ichinenjuu",
+      "meaning": "Suốt 1 năm"
+    },
+    {
+      "id": "v67",
+      "word": "あまり",
+      "reading": "amari",
+      "meaning": "Không ～ lắm"
+    },
+    {
+      "id": "v68",
+      "word": "私の国は夏、あまり暑くないです。",
+      "kanji": "私,国,夏,暑",
+      "hiragana": "わたしのくにはなつ、あまりあつくないです。",
+      "reading": "watashi no kuni wa natsu, amari atsukunai desu.",
+      "meaning": "Đất nước tôi vào mùa hè không lạnh lắm"
+    },
+    {
+      "id": "v69",
+      "word": "少し",
+      "kanji": "少",
+      "hiragana": "すこし",
+      "reading": "sukoshi",
+      "meaning": "Một chút, ít"
+    },
+    {
+      "id": "v70",
+      "word": "とても",
+      "reading": "totemo",
+      "meaning": "Rất"
+    },
+    {
+      "id": "v71",
+      "word": "どう",
+      "reading": "dou",
+      "meaning": "Thế nào"
+    },
+    {
+      "id": "v72",
+      "word": "そうですね。",
+      "reading": "sou desu ne.",
+      "meaning": "Câu nói thể hiện sự đồng tình"
     }
   ],
   "grammar": [

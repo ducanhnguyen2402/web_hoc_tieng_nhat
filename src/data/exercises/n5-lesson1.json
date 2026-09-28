@@ -7,12 +7,12 @@
       "questionText": "Chọn từ đúng nghĩa: 'Giáo viên'",
       "options": [
         "がくせい",
-        "せんせい",
+        "きょうし",
         "わたし",
-        "あなた"
+        "しゃいん"
       ],
-      "correctAnswer": "せんせい",
-      "explanation": "Từ 'せんせい' (sensei) có nghĩa là giáo viên. Các từ khác: がくせい (học sinh), わたし (tôi), あなた (bạn)."
+      "correctAnswer": "きょうし",
+      "explanation": "Từ 'きょうし' (kyoushi) có nghĩa là giáo viên. Các từ khác: がくせい (học sinh), わたし (tôi), しゃいん (nhân viên công ty)."
     },
     {
       "id": "q2",
@@ -30,15 +30,15 @@
     {
       "id": "q3",
       "type": "multiple_choice",
-      "questionText": "Câu nào sau đây dịch đúng nghĩa: 'Bạn có phải là học sinh không?'",
+      "questionText": "Khi gặp ai đó lần đầu tiên, bạn sẽ nói câu chào nào?",
       "options": [
-        "わたし は がくせい ですか。",
-        "あなた は せんせい ですか。",
-        "わたし は がくせい じゃありません。",
-        "あなた は がくせい ですか。"
+        "はじめまして",
+        "すみません",
+        "そうですか",
+        "あのう"
       ],
-      "correctAnswer": "あなた は がくせい ですか。",
-      "explanation": "Dùng 'あなた' (bạn) và thêm trợ từ nghi vấn 'か' ở cuối câu để tạo thành câu hỏi."
+      "correctAnswer": "はじめまして",
+      "explanation": "'はじめまして' dùng để chào khi lần đầu gặp mặt. Các từ khác: すみません (xin lỗi), そうですか (thế à), あのう (à ừm)."
     },
     {
       "id": "q4",
@@ -50,21 +50,26 @@
     {
       "id": "q5",
       "type": "fill_in_blank",
-      "questionText": "Điền TRỢ TỪ thích hợp vào chỗ trống: わたし ( _____ ) マイク・ミラーです。",
-      "correctAnswer": "は",
-      "explanation": "Trợ từ 'は' (wa) đi sau chủ ngữ わたし để nhấn mạnh 'Tôi là...'"
+      "questionText": "Cách đáp lại khi đối phương nói 'よろしくおねがいします' (Mong được giúp đỡ):",
+      "correctAnswer": "こちらこそ",
+      "explanation": "'こちらこそ' (Tôi cũng vậy) là cách đáp lại lịch sự."
     },
     {
       "id": "q6",
-      "type": "fill_in_blank",
-      "questionText": "Khi muốn tạo thành câu hỏi, ta đặt trợ từ gì ở cuối câu? (Chỉ điền 1 chữ hiragana)",
-      "correctAnswer": "か",
-      "explanation": "Trợ từ 'か' (ka) luôn đứng ở cuối câu để biến câu khẳng định thành câu nghi vấn."
+      "type": "multiple_choice",
+      "questionText": "Câu nào dùng để hỏi quốc tịch (Đất nước của bạn là nước nào)?",
+      "options": [
+        "お国はどちらですか。",
+        "お名前はどちらですか。",
+        "お仕事はどちらですか。"
+      ],
+      "correctAnswer": "お国はどちらですか。",
+      "explanation": "お国はどちらですか (okuni wa dochira desuka) dùng để hỏi quê hương, quốc gia của đối phương."
     },
     {
       "id": "q7",
       "type": "ordering",
-      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Tôi không phải là giáo viên.'",
+      "questionText": "Sắp xếp thành câu: 'Tôi không phải là giáo viên.'",
       "words": [
         "せんせい",
         "わたし",
@@ -77,55 +82,55 @@
         "せんせい",
         "じゃありません"
       ],
-      "explanation": "Cấu trúc phủ định (N1 không phải là N2): N1 は N2 じゃありません. Do đó câu đúng là: わたし は せんせい じゃありません."
+      "explanation": "Cấu trúc phủ định: N1 は N2 じゃありません. Câu đúng là: わたし は せんせい じゃありません."
     },
     {
       "id": "q8",
       "type": "ordering",
-      "questionText": "Sắp xếp câu sau: 'Vâng, tôi là học sinh.'",
+      "questionText": "Sắp xếp câu sau: 'Sở thích của tôi là thể thao.'",
       "words": [
         "は",
-        "がくせい",
-        "はい、",
+        "スポーツ",
+        "しゅみ",
         "です",
-        "わたし"
+        "わたし",
+        "の"
       ],
       "correctOrder": [
-        "はい、",
         "わたし",
+        "の",
+        "しゅみ",
         "は",
-        "がくせい",
+        "スポーツ",
         "です"
       ],
-      "explanation": "Cấu trúc trả lời khẳng định: はい、(Câu khẳng định N1 は N2 です)."
+      "explanation": "Chủ ngữ là わたしのしゅみ (Sở thích của tôi), vị ngữ là スポーツです (là thể thao)."
     },
     {
       "id": "q9",
-      "type": "listening",
-      "questionText": "Nghe và chọn từ đúng:",
-      "audioText": "せんせい",
+      "type": "multiple_choice",
+      "questionText": "Từ nào sau đây mang nghĩa 'Hàn Quốc'?",
       "options": [
-        "がくせい",
-        "せんせい",
-        "わたし",
-        "あなた"
+        "にほん",
+        "ちゅうごく",
+        "かんこく",
+        "タイ"
       ],
-      "correctAnswer": "せんせい",
-      "explanation": "Từ bạn vừa nghe là 'せんせい' (giáo viên)."
+      "correctAnswer": "かんこく",
+      "explanation": "かんこく (韓国) là Hàn Quốc. にほん (Nhật Bản), ちゅうごく (Trung Quốc), タイ (Thái Lan)."
     },
     {
       "id": "q10",
-      "type": "listening",
-      "questionText": "Nghe câu sau và chọn đáp án có nghĩa tương ứng:",
-      "audioText": "わたし は がくせい じゃありません",
+      "type": "multiple_choice",
+      "questionText": "Từ nào sau đây mang nghĩa 'Nhân viên văn phòng'?",
       "options": [
-        "Tôi là học sinh.",
-        "Tôi không phải là giáo viên.",
-        "Bạn là học sinh phải không?",
-        "Tôi không phải là học sinh."
+        "かいしゃいん",
+        "がくせい",
+        "きょうし",
+        "せんせい"
       ],
-      "correctAnswer": "Tôi không phải là học sinh.",
-      "explanation": "Câu âm thanh đọc là: わたし は がくせい じゃありません (Tôi không phải là học sinh)."
+      "correctAnswer": "かいしゃいん",
+      "explanation": "かいしゃいん (会社員) là nhân viên văn phòng."
     }
   ]
 }

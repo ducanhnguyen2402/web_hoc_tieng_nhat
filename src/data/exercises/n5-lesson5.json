@@ -1,0 +1,142 @@
+{
+  "lessonId": "n5-lesson5",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill_in_blank",
+      "questionText": "Điền từ tiếng Nhật (hiragana) vào chỗ trống: 洗濯 ________ (Giặt giũ)",
+      "correctAnswer": "します",
+      "explanation": "洗濯します (Sentaku shimasu) nghĩa là giặt giũ."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "questionText": "Từ nào sau đây KHÔNG cùng nhóm với các từ còn lại?",
+      "options": [
+        "水 (Nước)",
+        "ジュース (Nước ép)",
+        "ワイン (Rượu vang)",
+        "パン (Bánh mì)"
+      ],
+      "correctAnswer": "パン (Bánh mì)",
+      "explanation": "パン (Bánh mì) là đồ ăn (食べ物), các từ còn lại là đồ uống (飲み物)."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "questionText": "Nhóm từ [春 (Xuân), 夏 (Hạ), 秋 (Thu), 冬 (Đông)] thuộc chủ đề gì?",
+      "options": [
+        "料理 (Món ăn)",
+        "飲み物 (Đồ uống)",
+        "季節 (Mùa)",
+        "乗り物 (Phương tiện)"
+      ],
+      "correctAnswer": "季節 (Mùa)",
+      "explanation": "春, 夏, 秋, 冬 là 4 mùa trong năm. 季節 (kisetsu) nghĩa là Mùa."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "questionText": "Từ nào sau đây là Tính từ đuôi な (ナ形容詞)?",
+      "options": [
+        "たかい",
+        "おもしろい",
+        "きれい",
+        "やすい"
+      ],
+      "correctAnswer": "きれい",
+      "explanation": "きれい (Đẹp/Sạch) là tính từ đuôi な. たかい, おもしろい, やすい là tính từ đuôi い."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: 毎日、アルバイトをします。[ _______ ] です。",
+      "options": [
+        "たいへん",
+        "むずかしい"
+      ],
+      "correctAnswer": "たいへん",
+      "explanation": "Làm thêm mỗi ngày thì 'vất vả' (たいへん). むずかしい là 'khó'."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: 日曜日、私はどこへも行きません。[ _______ ] です。",
+      "options": [
+        "ひま",
+        "かんたん"
+      ],
+      "correctAnswer": "ひま",
+      "explanation": "Chủ nhật không đi đâu cả nên 'rảnh rỗi' (ひま)."
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: 朝7時から夜10時まで働きます。[ _______ ] です。",
+      "options": [
+        "いそがしい",
+        "おもしろい"
+      ],
+      "correctAnswer": "いそがしい",
+      "explanation": "Làm việc từ 7h sáng đến 10h tối thì rất 'bận rộn' (いそがしい)."
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "questionText": "Cách sử dụng từ [ぜひ] nào sau đây là ĐÚNG?",
+      "options": [
+        "一緒にお祭りに行きませんか。・・・ぜひ行きたいです。",
+        "タイは今、暑いですか。・・・はい、ぜひ暑いです。",
+        "子どももチケットを買いますか。・・・はい、ぜひ買います。"
+      ],
+      "correctAnswer": "一緒にお祭りに行きませんか。・・・ぜひ行きたいです。",
+      "explanation": "ぜひ (Nhất định) thường đi với các mẫu câu thể hiện nguyện vọng (~たいです) hoặc rủ rê/mời mọc (~ましょう, ~てください)."
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ thích hợp điền vào chỗ trống: パクさんはアルバイトがありましたから、来ませんでした。[ _______ ] でした。",
+      "options": [
+        "いっしょに",
+        "ざんねん",
+        "またこんど",
+        "たべほうだい"
+      ],
+      "correctAnswer": "ざんねん",
+      "explanation": "Vì Paku có việc làm thêm nên không đến được -> Thật 'đáng tiếc' (ざんねん)."
+    },
+    {
+      "id": "q10",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ thích hợp điền vào chỗ trống: とてもおいしかったです。[ _______ ] 行きたいです。",
+      "options": [
+        "またこんど",
+        "ざんねん",
+        "いっしょに",
+        "たべほうだい"
+      ],
+      "correctAnswer": "またこんど",
+      "explanation": "Rất ngon nên 'lần tới' (またこんど) lại muốn đi."
+    },
+    {
+      "id": "q11",
+      "type": "ordering",
+      "questionText": "Sắp xếp thành câu: 'Tôi đã đi chơi ở Shibuya cùng với bạn.'",
+      "words": [
+        "友達",
+        "渋谷へ",
+        "遊びに",
+        "と",
+        "行きました"
+      ],
+      "correctOrder": [
+        "友達",
+        "と",
+        "渋谷へ",
+        "遊びに",
+        "行きました"
+      ],
+      "explanation": "Cấu trúc đi cùng ai (と), đi đến đâu (へ) để làm gì (V masu bỏ masu + に行く): 友達 と 渋谷へ 遊びに 行きました."
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "id": "n5-lesson7",
+  "level": "N5",
+  "title": "Bài 7: 友達の家で (Ở nhà bạn)",
+  "description": "Từ vựng và ngữ pháp Bài 7",
+  "vocabulary": [
+    {
+      "id": "v1",
+      "word": "改札",
+      "kanji": "改札",
+      "hiragana": "かいさつ",
+      "reading": "kaisatsu",
+      "meaning": "Soát vé"
+    },
+    {
+      "id": "v2",
+      "word": "木",
+      "kanji": "木",
+      "hiragana": "き",
+      "reading": "ki",
+      "meaning": "Cây / Gỗ"
+    },
+    {
+      "id": "v3",
+      "word": "交番",
+      "kanji": "交番",
+      "hiragana": "こうばん",
+      "reading": "kouban",
+      "meaning": "Đồn cảnh sát"
+    },
+    {
+      "id": "v4",
+      "word": "自動販売機",
+      "kanji": "自動販売機",
+      "hiragana": "じどうはんばいき",
+      "reading": "jidouhanbaiki",
+      "meaning": "Máy bán hàng tự động"
+    },
+    {
+      "id": "v5",
+      "word": "ポスト",
+      "reading": "posuto",
+      "meaning": "Thùng thư"
+    },
+    {
+      "id": "v6",
+      "word": "花",
+      "kanji": "花",
+      "hiragana": "はな",
+      "reading": "hana",
+      "meaning": "Hoa"
+    },
+    {
+      "id": "v7",
+      "word": "犬",
+      "kanji": "犬",
+      "hiragana": "いぬ",
+      "reading": "inu",
+      "meaning": "Con chó"
+    },
+    {
+      "id": "v8",
+      "word": "間",
+      "kanji": "間",
+      "hiragana": "あいだ",
+      "reading": "aida",
+      "meaning": "Giữa, ở giữa"
+    },
+    {
+      "id": "v9",
+      "word": "上",
+      "kanji": "上",
+      "hiragana": "うえ",
+      "reading": "ue",
+      "meaning": "Trên, bên trên"
+    },
+    {
+      "id": "v10",
+      "word": "下",
+      "kanji": "下",
+      "hiragana": "した",
+      "reading": "shita",
+      "meaning": "Dưới, phía dưới"
+    },
+    {
+      "id": "v11",
+      "word": "近く",
+      "kanji": "近",
+      "hiragana": "ちかく",
+      "reading": "chikaku",
+      "meaning": "Gần (ở vị trí gần)"
+    },
+    {
+      "id": "v12",
+      "word": "隣",
+      "kanji": "隣",
+      "hiragana": "となり",
+      "reading": "tonari",
+      "meaning": "Bên cạnh (cạnh sát)"
+    },
+    {
+      "id": "v13",
+      "word": "中",
+      "kanji": "中",
+      "hiragana": "なか",
+      "reading": "naka",
+      "meaning": "Trong, bên trong"
+    },
+    {
+      "id": "v14",
+      "word": "外",
+      "kanji": "外",
+      "hiragana": "そと",
+      "reading": "soto",
+      "meaning": "Ngoài, bên ngoài"
+    },
+    {
+      "id": "v15",
+      "word": "前",
+      "kanji": "前",
+      "hiragana": "まえ",
+      "reading": "mae",
+      "meaning": "Trước, phía trước"
+    },
+    {
+      "id": "v16",
+      "word": "後ろ",
+      "kanji": "後",
+      "hiragana": "うしろ",
+      "reading": "ushiro",
+      "meaning": "Sau, phía sau, đằng sau"
+    },
+    {
+      "id": "v17",
+      "word": "横",
+      "kanji": "横",
+      "hiragana": "よこ",
+      "reading": "yoko",
+      "meaning": "Bên cạnh, chiều ngang"
+    },
+    {
+      "id": "v18",
+      "word": "迎えに行きます",
+      "kanji": "迎,行",
+      "hiragana": "むかえにいきます",
+      "reading": "mukae ni ikimasu",
+      "meaning": "Đi đón"
+    },
+    {
+      "id": "v19",
+      "word": "います",
+      "reading": "imasu",
+      "meaning": "Có mặt ở (sự tồn tại của người, động vật)"
+    },
+    {
+      "id": "v20",
+      "word": "私は本屋の中にいます。",
+      "kanji": "私,本屋,中",
+      "hiragana": "わたしはほんやのなかにいます。",
+      "reading": "watashi wa honya no naka ni imasu.",
+      "meaning": "Tôi ở hiệu sách."
+    },
+    {
+      "id": "v21",
+      "word": "もしもし",
+      "reading": "moshimoshi",
+      "meaning": "A lô a lô (khi gọi điện thoại)"
+    },
+    {
+      "id": "v22",
+      "word": "いす",
+      "reading": "isu",
+      "meaning": "Ghế, cái ghế"
+    },
+    {
+      "id": "v23",
+      "word": "テーブル",
+      "reading": "teeburu",
+      "meaning": "Bàn, cái bàn"
+    },
+    {
+      "id": "v24",
+      "word": "電子レンジ",
+      "kanji": "電子",
+      "hiragana": "でんしれんじ",
+      "reading": "denshirenji",
+      "meaning": "Lò vi sóng"
+    },
+    {
+      "id": "v25",
+      "word": "冷蔵庫",
+      "kanji": "冷蔵庫",
+      "hiragana": "れいぞうこ",
+      "reading": "reizouko",
+      "meaning": "Tủ lạnh"
+    },
+    {
+      "id": "v26",
+      "word": "砂糖",
+      "kanji": "砂糖",
+      "hiragana": "さとう",
+      "reading": "satou",
+      "meaning": "Đường (ăn)"
+    },
+    {
+      "id": "v27",
+      "word": "塩",
+      "kanji": "塩",
+      "hiragana": "しお",
+      "reading": "shio",
+      "meaning": "Muối"
+    },
+    {
+      "id": "v28",
+      "word": "しょうゆ",
+      "reading": "shouyu",
+      "meaning": "Nước tương / Xì dầu"
+    },
+    {
+      "id": "v29",
+      "word": "コップ",
+      "reading": "koppu",
+      "meaning": "Cốc, cái cốc"
+    },
+    {
+      "id": "v30",
+      "word": "（お）皿",
+      "kanji": "皿",
+      "hiragana": "（お）さら",
+      "reading": "(o)sara",
+      "meaning": "Đĩa, cái đĩa"
+    },
+    {
+      "id": "v31",
+      "word": "スプーン",
+      "reading": "supuun",
+      "meaning": "Cái thìa, cái muỗng"
+    },
+    {
+      "id": "v32",
+      "word": "ナイフ",
+      "reading": "naifu",
+      "meaning": "Dao, con dao"
+    },
+    {
+      "id": "v33",
+      "word": "フォーク",
+      "reading": "fooku",
+      "meaning": "Cái dĩa"
+    },
+    {
+      "id": "v34",
+      "word": "はし",
+      "reading": "hashi",
+      "meaning": "Đũa"
+    },
+    {
+      "id": "v35",
+      "word": "漢字",
+      "kanji": "漢字",
+      "hiragana": "かんじ",
+      "reading": "kanji",
+      "meaning": "Chữ hán"
+    },
+    {
+      "id": "v36",
+      "word": "どれ",
+      "reading": "dore",
+      "meaning": "Cái nào"
+    },
+    {
+      "id": "v37",
+      "word": "どの～",
+      "reading": "dono~",
+      "meaning": "～ nào"
+    },
+    {
+      "id": "v38",
+      "word": "洗います",
+      "kanji": "洗",
+      "hiragana": "あらいます",
+      "reading": "araimasu",
+      "meaning": "Giặt, rửa, tắm"
+    },
+    {
+      "id": "v39",
+      "word": "置きます",
+      "kanji": "置",
+      "hiragana": "おきます",
+      "reading": "okimasu",
+      "meaning": "Đặt, để"
+    },
+    {
+      "id": "v40",
+      "word": "書きます",
+      "kanji": "書",
+      "hiragana": "かきます",
+      "reading": "kakimasu",
+      "meaning": "Viết"
+    },
+    {
+      "id": "v41",
+      "word": "貸します",
+      "kanji": "貸",
+      "hiragana": "かします",
+      "reading": "kashimasu",
+      "meaning": "Cho mượn"
+    },
+    {
+      "id": "v42",
+      "word": "聞きます",
+      "kanji": "聞",
+      "hiragana": "ききます",
+      "reading": "kikimasu",
+      "meaning": "Nghe, hỏi"
+    },
+    {
+      "id": "v43",
+      "word": "パクさんに電話番号を聞きます。",
+      "kanji": "電話番号,聞",
+      "hiragana": "パクさんにでんわばんごうをききます。",
+      "reading": "paku san ni denwabangou o kikimasu.",
+      "meaning": "Tôi hỏi anh Pak số điện thoại."
+    },
+    {
+      "id": "v44",
+      "word": "切ります",
+      "kanji": "切",
+      "hiragana": "きります",
+      "reading": "kirimasu",
+      "meaning": "Cắt, gọt"
+    },
+    {
+      "id": "v45",
+      "word": "使います",
+      "kanji": "使",
+      "hiragana": "つかいます",
+      "reading": "tsukaimasu",
+      "meaning": "Dùng, sử dụng"
+    },
+    {
+      "id": "v46",
+      "word": "手伝います",
+      "kanji": "手伝",
+      "hiragana": "てつだいます",
+      "reading": "tetsudaimasu",
+      "meaning": "Giúp, giúp đỡ"
+    },
+    {
+      "id": "v47",
+      "word": "取ります",
+      "kanji": "取",
+      "hiragana": "とります",
+      "reading": "torimasu",
+      "meaning": "Cầm, lấy"
+    },
+    {
+      "id": "v48",
+      "word": "持って行きます",
+      "kanji": "持,行",
+      "hiragana": "もっていきます",
+      "reading": "motte ikimasu",
+      "meaning": "Mang đi"
+    },
+    {
+      "id": "v49",
+      "word": "わかります",
+      "reading": "wakarimasu",
+      "meaning": "Hiểu, biết"
+    },
+    {
+      "id": "v50",
+      "word": "出します",
+      "kanji": "出",
+      "hiragana": "だします",
+      "reading": "dashimasu",
+      "meaning": "Nộp, lấy ra"
+    },
+    {
+      "id": "v51",
+      "word": "冷蔵庫からジュースを出します。",
+      "kanji": "冷蔵庫,出",
+      "hiragana": "れいぞうこからジュースをだします。",
+      "reading": "reizouko kara juusu o dashimasu.",
+      "meaning": "Tôi lấy nước trái cây từ tủ lạnh"
+    },
+    {
+      "id": "v52",
+      "word": "入れます",
+      "kanji": "入",
+      "hiragana": "いれます",
+      "reading": "iremasu",
+      "meaning": "Cho vào, bỏ vào"
+    },
+    {
+      "id": "v53",
+      "word": "教えます",
+      "kanji": "教",
+      "hiragana": "おしえます",
+      "reading": "oshiemasu",
+      "meaning": "Dạy, chỉ bảo"
+    },
+    {
+      "id": "v54",
+      "word": "たくさん",
+      "reading": "takusan",
+      "meaning": "Nhiều"
+    },
+    {
+      "id": "v55",
+      "word": "すみませんが",
+      "reading": "sumimasen ga",
+      "meaning": "Xin lỗi"
+    },
+    {
+      "id": "v56",
+      "word": "ああ",
+      "reading": "aa",
+      "meaning": "A, à"
+    },
+    {
+      "id": "v57",
+      "word": "ああ、これですね。",
+      "reading": "aa, kore desu ne.",
+      "meaning": "A, là cái này nhỉ!"
+    },
+    {
+      "id": "v58",
+      "word": "いいですよ。",
+      "reading": "ii desu yo.",
+      "meaning": "Được đấy!"
+    },
+    {
+      "id": "v59",
+      "word": "歌",
+      "kanji": "歌",
+      "hiragana": "うた",
+      "reading": "uta",
+      "meaning": "Bài hát"
+    },
+    {
+      "id": "v60",
+      "word": "ギター",
+      "reading": "gitaa",
+      "meaning": "Đàn ghi ta"
+    },
+    {
+      "id": "v61",
+      "word": "台所",
+      "kanji": "台所",
+      "hiragana": "だいどころ",
+      "reading": "daidokoro",
+      "meaning": "Nhà bếp"
+    },
+    {
+      "id": "v62",
+      "word": "たばこ",
+      "reading": "tabako",
+      "meaning": "Thuốc lá"
+    },
+    {
+      "id": "v63",
+      "word": "電話",
+      "kanji": "電話",
+      "hiragana": "でんわ",
+      "reading": "denwa",
+      "meaning": "Điện thoại"
+    },
+    {
+      "id": "v64",
+      "word": "ピザ",
+      "reading": "piza",
+      "meaning": "Bánh pizza"
+    },
+    {
+      "id": "v65",
+      "word": "窓",
+      "kanji": "窓",
+      "hiragana": "まど",
+      "reading": "mado",
+      "meaning": "Cửa sổ"
+    },
+    {
+      "id": "v66",
+      "word": "歌います",
+      "kanji": "歌",
+      "hiragana": "うたいます",
+      "reading": "utaimasu",
+      "meaning": "Hát"
+    },
+    {
+      "id": "v67",
+      "word": "吸います",
+      "kanji": "吸",
+      "hiragana": "すいます",
+      "reading": "suimasu",
+      "meaning": "Hút"
+    },
+    {
+      "id": "v68",
+      "word": "話します",
+      "kanji": "話",
+      "hiragana": "はなします",
+      "reading": "hanashimasu",
+      "meaning": "Nói chuyện"
+    },
+    {
+      "id": "v69",
+      "word": "弾きます",
+      "kanji": "弾",
+      "hiragana": "ひきます",
+      "reading": "hikimasu",
+      "meaning": "Chơi (nhạc cụ)"
+    },
+    {
+      "id": "v70",
+      "word": "持ちます",
+      "kanji": "持",
+      "hiragana": "もちます",
+      "reading": "mochimasu",
+      "meaning": "Cầm, mang"
+    },
+    {
+      "id": "v71",
+      "word": "開けます",
+      "kanji": "開",
+      "hiragana": "あけます",
+      "reading": "akemasu",
+      "meaning": "Mở"
+    },
+    {
+      "id": "v72",
+      "word": "閉めます",
+      "kanji": "閉",
+      "hiragana": "しめます",
+      "reading": "shimemasu",
+      "meaning": "Đóng"
+    },
+    {
+      "id": "v73",
+      "word": "かけます",
+      "reading": "kakemasu",
+      "meaning": "Gọi"
+    },
+    {
+      "id": "v74",
+      "word": "友達に電話をかけます。",
+      "kanji": "友達,電話",
+      "hiragana": "ともだちにでんわをかけます。",
+      "reading": "tomodachi ni denwa o kakemasu.",
+      "meaning": "Tôi gọi điện cho bạn tôi"
+    },
+    {
+      "id": "v75",
+      "word": "持って来ます",
+      "kanji": "持,来",
+      "hiragana": "もってきます",
+      "reading": "motte kimasu",
+      "meaning": "Mang đến"
+    }
+  ],
+  "grammar": []
+}

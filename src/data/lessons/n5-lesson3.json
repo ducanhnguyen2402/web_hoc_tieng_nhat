@@ -7,303 +7,613 @@
   "vocabulary": [
     {
       "id": "v1",
-      "word": "ここ",
-      "kanji": null,
-      "hiragana": "ここ",
-      "reading": "koko",
-      "meaning": "Chỗ này, đây (vị trí gần người nói)",
-      "partOfSpeech": "Đại từ chỉ nơi chốn",
-      "example": {
-        "sentence": "ここ は きょうしつ です。",
-        "furigana": "ここ は [教室](きょうしつ) です。",
-        "translation": "Đây là phòng học."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNlMGYyZmUiLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNiYWU2ZmQiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiMwMzY5YTEiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPlThuqBJIMSQw4JZPC90ZXh0PgoKICAgIDwhLS0gxJDGsOG7nW5nIGNo4buJIGjGsOG7m25nIC0tPgogICAgCgogICAgPCEtLSBOR8av4bucSSBDSOG7iCAoQsOqbiB0csOhaSkgLS0+CiAgICA8Y2lyY2xlIGN4PSIyMiIgY3k9IjM0IiByPSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICA8cGF0aCBkPSJNIDIyIDQyIEwgMjIgNjYgTSAyMiA2NiBMIDE0IDg0IE0gMjIgNjYgTCAyOCA4NCIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8cGF0aCBkPSJNIDI4IDUwIFEgMzggNTggNDggNjgiIHN0cm9rZT0iIzAyODRjNyIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgoKICAgIDwhLS0gUElOIFbhu4ogVFLDjSDwn5ONICjEkOG7i2EgxJFp4buDbSkgLS0+CiAgICA8IS0tIFbDsm5nIHRyw7JuIGLDs25nIMSR4buVIC0tPgogICAgPGVsbGlwc2UgY3g9IjU0IiBjeT0iODIiIHJ4PSI4IiByeT0iMyIgZmlsbD0icmdiYSgwLDAsMCwwLjE1KSIvPgogICAgPCEtLSBJY29uIFBpbiBnaGltIMSR4buLbmggduG7iyAtLT4KICAgIDxwYXRoIGQ9Ik0gNTQgODAgQyA0NyA3MiA0NyA2MiA1NCA2MiBDIDYxIDYyIDYxIDcyIDU0IDgwIFoiIGZpbGw9IiNlZjQ0NDQiLz4KICAgIDxjaXJjbGUgY3g9IjU0IiBjeT0iNjciIHI9IjMiIGZpbGw9IiNmZmZmZmYiLz4KCiAgICA8IS0tIE5ow6NuIGNo4buvIHBo4bulIC0tPgogICAgPHRleHQgeD0iNTAiIHk9IjkzIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmaWxsPSIjNDc1NTY5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7jgZPjgZMgKENo4buXIG7DoHkpPC90ZXh0PgogIDwvc3ZnPg=="
+      "word": "今",
+      "kanji": "今",
+      "hiragana": "いま",
+      "reading": "ima",
+      "meaning": "Bây giờ"
     },
     {
       "id": "v2",
-      "word": "そこ",
-      "kanji": null,
-      "hiragana": "そこ",
-      "reading": "soko",
-      "meaning": "Chỗ đó, đó (vị trí gần người nghe)",
-      "partOfSpeech": "Đại từ chỉ nơi chốn",
-      "example": {
-        "sentence": "そこ は じむしょ です。",
-        "furigana": "そこ は [事務所](じむしょ) です。",
-        "translation": "Đó là văn phòng."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWYzYzciLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZGU2OGEiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiNDUzMDkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPsSQ4bqwTkcgxJDDkzwvdGV4dD4KCiAgICA8IS0tIMSQxrDhu51uZyBjaOG7iSBoxrDhu5tuZyAtLT4KICAgIDxsaW5lIHgxPSIzNCIgeTE9IjUyIiB4Mj0iNjQiIHkyPSI2MiIgc3Ryb2tlPSIjZjU5ZTBiIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjMsMyIvPgoKICAgIDwhLS0gTkfGr+G7nEkgQ0jhu4ggKELDqm4gdHLDoWkpIC0tPgogICAgPGNpcmNsZSBjeD0iMjIiIGN5PSIzNCIgcj0iOCIgZmlsbD0iIzFlMjkzYiIvPgogICAgPHBhdGggZD0iTSAyMiA0MiBMIDIyIDY2IE0gMjIgNjYgTCAxNCA4NCBNIDIyIDY2IEwgMjggODQiIHN0cm9rZT0iIzFlMjkzYiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogICAgPHBhdGggZD0iTSAyOCA0OCBRIDQ2IDUwIDYyIDYwIiBzdHJva2U9IiMwMjg0YzciIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIGZpbGw9Im5vbmUiLz4KCiAgICA8IS0tIFBJTiBW4buKIFRSw40g8J+TjSAoxJDhu4thIMSRaeG7g20pIC0tPgogICAgPCEtLSBWw7JuZyB0csOybiBiw7NuZyDEkeG7lSAtLT4KICAgIDxlbGxpcHNlIGN4PSI3MiIgY3k9Ijc0IiByeD0iOCIgcnk9IjMiIGZpbGw9InJnYmEoMCwwLDAsMC4xNSkiLz4KICAgIDwhLS0gSWNvbiBQaW4gZ2hpbSDEkeG7i25oIHbhu4sgLS0+CiAgICA8cGF0aCBkPSJNIDcyIDcyIEMgNjUgNjQgNjUgNTQgNzIgNTQgQyA3OSA1NCA3OSA2NCA3MiA3MiBaIiBmaWxsPSIjZWY0NDQ0Ii8+CiAgICA8Y2lyY2xlIGN4PSI3MiIgY3k9IjU5IiByPSIzIiBmaWxsPSIjZmZmZmZmIi8+CgogICAgPCEtLSBOaMOjbiBjaOG7ryBwaOG7pSAtLT4KICAgIDx0ZXh0IHg9IjUwIiB5PSI5MyIgZm9udC1zaXplPSI4IiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZmlsbD0iIzQ3NTU2OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+44Gd44GTIChDaOG7lyDEkcOzKTwvdGV4dD4KICA8L3N2Zz4="
+      "word": "午前",
+      "kanji": "午前",
+      "hiragana": "ごぜん",
+      "reading": "gozen",
+      "meaning": "Buổi sáng / AM"
     },
     {
       "id": "v3",
-      "word": "あそこ",
-      "kanji": null,
-      "hiragana": "あそこ",
-      "reading": "asoko",
-      "meaning": "Chỗ kia, kia (vị trí xa cả người nói và người nghe)",
-      "partOfSpeech": "Đại từ chỉ nơi chốn",
-      "example": {
-        "sentence": "あそこ は しょくどう です。",
-        "furigana": "あそこ は [食堂](しょくどう) です。",
-        "translation": "Kia là nhà ăn."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWUyZTIiLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZWNhY2EiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiOTFjMWMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPsSQ4bqwTkcgS0lBPC90ZXh0PgoKICAgIDwhLS0gxJDGsOG7nW5nIGNo4buJIGjGsOG7m25nIC0tPgogICAgPGxpbmUgeDE9IjM0IiB5MT0iNDYiIHgyPSI3NiIgeTI9IjQyIiBzdHJva2U9IiNlZjQ0NDQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWRhc2hhcnJheT0iMywzIi8+CgogICAgPCEtLSBOR8av4bucSSBDSOG7iCAoQsOqbiB0csOhaSkgLS0+CiAgICA8Y2lyY2xlIGN4PSIyMiIgY3k9IjM0IiByPSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICA8cGF0aCBkPSJNIDIyIDQyIEwgMjIgNjYgTSAyMiA2NiBMIDE0IDg0IE0gMjIgNjYgTCAyOCA4NCIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8cGF0aCBkPSJNIDI4IDQ2IFEgNTIgNDAgNzQgNDIiIHN0cm9rZT0iIzAyODRjNyIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgoKICAgIDwhLS0gUElOIFbhu4ogVFLDjSDwn5ONICjEkOG7i2EgxJFp4buDbSkgLS0+CiAgICA8IS0tIFbDsm5nIHRyw7JuIGLDs25nIMSR4buVIC0tPgogICAgPGVsbGlwc2UgY3g9Ijg0IiBjeT0iNTAiIHJ4PSI4IiByeT0iMyIgZmlsbD0icmdiYSgwLDAsMCwwLjE1KSIvPgogICAgPCEtLSBJY29uIFBpbiBnaGltIMSR4buLbmggduG7iyAtLT4KICAgIDxwYXRoIGQ9Ik0gODQgNDggQyA3NyA0MCA3NyAzMCA4NCAzMCBDIDkxIDMwIDkxIDQwIDg0IDQ4IFoiIGZpbGw9IiNlZjQ0NDQiLz4KICAgIDxjaXJjbGUgY3g9Ijg0IiBjeT0iMzUiIHI9IjMiIGZpbGw9IiNmZmZmZmYiLz4KCiAgICA8IS0tIE5ow6NuIGNo4buvIHBo4bulIC0tPgogICAgPHRleHQgeD0iNTAiIHk9IjkzIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmaWxsPSIjNDc1NTY5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7jgYLjgZ3jgZMgKENo4buXIGtpYSk8L3RleHQ+CiAgPC9zdmc+"
+      "word": "午後",
+      "kanji": "午後",
+      "hiragana": "ごご",
+      "reading": "gogo",
+      "meaning": "Buổi chiều / PM"
     },
     {
       "id": "v4",
-      "word": "どこ",
-      "kanji": null,
-      "hiragana": "どこ",
-      "reading": "doko",
-      "meaning": "Ở đâu, chỗ nào (từ để hỏi vị trí thông thường)",
-      "partOfSpeech": "Đại từ nghi vấn",
-      "example": {
-        "sentence": "といれ は どこ ですか。",
-        "furigana": "トイレ は どこ ですか。",
-        "translation": "Nhà vệ sinh ở đâu vậy?"
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7inZM8L3RleHQ+PC9zdmc+"
+      "word": "昼",
+      "kanji": "昼",
+      "hiragana": "ひる",
+      "reading": "hiru",
+      "meaning": "Buổi trưa"
     },
     {
       "id": "v5",
-      "word": "こちら",
-      "kanji": null,
-      "hiragana": "こちら",
-      "reading": "kochira",
-      "meaning": "Phía này, đằng này, chỗ này (cách nói lịch sự của ここ)",
-      "partOfSpeech": "Đại từ chỉ phương hướng",
-      "example": {
-        "sentence": "こちら は うけつけ です。",
-        "furigana": "こちら は [受付](うけつけ) です。",
-        "translation": "Phía này là quầy tiếp tân."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNlMGYyZmUiLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNiYWU2ZmQiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiMwMzY5YTEiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPlThuqBJIMSQw4JZPC90ZXh0PgoKICAgIDwhLS0gxJDGsOG7nW5nIGNo4buJIGjGsOG7m25nIC0tPgogICAgCgogICAgPCEtLSBOR8av4bucSSBDSOG7iCAoQsOqbiB0csOhaSkgLS0+CiAgICA8Y2lyY2xlIGN4PSIyMiIgY3k9IjM0IiByPSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICA8cGF0aCBkPSJNIDIyIDQyIEwgMjIgNjYgTSAyMiA2NiBMIDE0IDg0IE0gMjIgNjYgTCAyOCA4NCIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8cGF0aCBkPSJNIDI4IDUwIFEgMzggNTggNDggNjgiIHN0cm9rZT0iIzAyODRjNyIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgoKICAgIDwhLS0gUElOIFbhu4ogVFLDjSDwn5ONICjEkOG7i2EgxJFp4buDbSkgLS0+CiAgICA8IS0tIFbDsm5nIHRyw7JuIGLDs25nIMSR4buVIC0tPgogICAgPGVsbGlwc2UgY3g9IjU0IiBjeT0iODIiIHJ4PSI4IiByeT0iMyIgZmlsbD0icmdiYSgwLDAsMCwwLjE1KSIvPgogICAgPCEtLSBJY29uIFBpbiBnaGltIMSR4buLbmggduG7iyAtLT4KICAgIDxwYXRoIGQ9Ik0gNTQgODAgQyA0NyA3MiA0NyA2MiA1NCA2MiBDIDYxIDYyIDYxIDcyIDU0IDgwIFoiIGZpbGw9IiNlZjQ0NDQiLz4KICAgIDxjaXJjbGUgY3g9IjU0IiBjeT0iNjciIHI9IjMiIGZpbGw9IiNmZmZmZmYiLz4KCiAgICA8IS0tIE5ow6NuIGNo4buvIHBo4bulIC0tPgogICAgPHRleHQgeD0iNTAiIHk9IjkzIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmaWxsPSIjNDc1NTY5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7jgZPjgaHjgokgKFBow61hIG7DoHkpPC90ZXh0PgogIDwvc3ZnPg=="
+      "word": "銀行",
+      "kanji": "銀行",
+      "hiragana": "ぎんこう",
+      "reading": "ginkou",
+      "meaning": "Ngân hàng"
     },
     {
       "id": "v6",
-      "word": "そちら",
-      "kanji": null,
-      "hiragana": "そちら",
-      "reading": "sochira",
-      "meaning": "Phía đó, đằng đó, chỗ đó (cách nói lịch sự của そこ)",
-      "partOfSpeech": "Đại từ chỉ phương hướng",
-      "example": {
-        "sentence": "そちら は かいぎしつ です。",
-        "furigana": "そちら は [会議室](かいぎしつ) です。",
-        "translation": "Phía đó là phòng họp."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWYzYzciLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZGU2OGEiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiNDUzMDkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPsSQ4bqwTkcgxJDDkzwvdGV4dD4KCiAgICA8IS0tIMSQxrDhu51uZyBjaOG7iSBoxrDhu5tuZyAtLT4KICAgIDxsaW5lIHgxPSIzNCIgeTE9IjUyIiB4Mj0iNjQiIHkyPSI2MiIgc3Ryb2tlPSIjZjU5ZTBiIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjMsMyIvPgoKICAgIDwhLS0gTkfGr+G7nEkgQ0jhu4ggKELDqm4gdHLDoWkpIC0tPgogICAgPGNpcmNsZSBjeD0iMjIiIGN5PSIzNCIgcj0iOCIgZmlsbD0iIzFlMjkzYiIvPgogICAgPHBhdGggZD0iTSAyMiA0MiBMIDIyIDY2IE0gMjIgNjYgTCAxNCA4NCBNIDIyIDY2IEwgMjggODQiIHN0cm9rZT0iIzFlMjkzYiIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogICAgPHBhdGggZD0iTSAyOCA0OCBRIDQ2IDUwIDYyIDYwIiBzdHJva2U9IiMwMjg0YzciIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIGZpbGw9Im5vbmUiLz4KCiAgICA8IS0tIFBJTiBW4buKIFRSw40g8J+TjSAoxJDhu4thIMSRaeG7g20pIC0tPgogICAgPCEtLSBWw7JuZyB0csOybiBiw7NuZyDEkeG7lSAtLT4KICAgIDxlbGxpcHNlIGN4PSI3MiIgY3k9Ijc0IiByeD0iOCIgcnk9IjMiIGZpbGw9InJnYmEoMCwwLDAsMC4xNSkiLz4KICAgIDwhLS0gSWNvbiBQaW4gZ2hpbSDEkeG7i25oIHbhu4sgLS0+CiAgICA8cGF0aCBkPSJNIDcyIDcyIEMgNjUgNjQgNjUgNTQgNzIgNTQgQyA3OSA1NCA3OSA2NCA3MiA3MiBaIiBmaWxsPSIjZWY0NDQ0Ii8+CiAgICA8Y2lyY2xlIGN4PSI3MiIgY3k9IjU5IiByPSIzIiBmaWxsPSIjZmZmZmZmIi8+CgogICAgPCEtLSBOaMOjbiBjaOG7ryBwaOG7pSAtLT4KICAgIDx0ZXh0IHg9IjUwIiB5PSI5MyIgZm9udC1zaXplPSI4IiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZmlsbD0iIzQ3NTU2OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+44Gd44Gh44KJIChQaMOtYSDEkcOzKTwvdGV4dD4KICA8L3N2Zz4="
+      "word": "体育館",
+      "kanji": "体育館",
+      "hiragana": "たいいくかん",
+      "reading": "taiikukan",
+      "meaning": "Nhà thi đấu, Nhà tập thể dục"
     },
     {
       "id": "v7",
-      "word": "あちら",
-      "kanji": null,
-      "hiragana": "あちら",
-      "reading": "achira",
-      "meaning": "Phía kia, đằng kia, chỗ kia (cách nói lịch sự của あそこ)",
-      "partOfSpeech": "Đại từ chỉ phương hướng",
-      "example": {
-        "sentence": "あちら は えれべーたー です。",
-        "furigana": "あちら は エレベーター です。",
-        "translation": "Phía kia là thang máy."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMTgiIGZpbGw9IiNmZWUyZTIiLz4KICAgIAogICAgPCEtLSBIdXkgaGnhu4d1IGtob+G6o25nIGPDoWNoIC0tPgogICAgPHJlY3QgeD0iMjIiIHk9IjgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjgiIGZpbGw9IiNmZWNhY2EiLz4KICAgIDx0ZXh0IHg9IjUwIiB5PSIxOSIgZm9udC1zaXplPSI4LjUiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZpbGw9IiNiOTFjMWMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPsSQ4bqwTkcgS0lBPC90ZXh0PgoKICAgIDwhLS0gxJDGsOG7nW5nIGNo4buJIGjGsOG7m25nIC0tPgogICAgPGxpbmUgeDE9IjM0IiB5MT0iNDYiIHgyPSI3NiIgeTI9IjQyIiBzdHJva2U9IiNlZjQ0NDQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWRhc2hhcnJheT0iMywzIi8+CgogICAgPCEtLSBOR8av4bucSSBDSOG7iCAoQsOqbiB0csOhaSkgLS0+CiAgICA8Y2lyY2xlIGN4PSIyMiIgY3k9IjM0IiByPSI4IiBmaWxsPSIjMWUyOTNiIi8+CiAgICA8cGF0aCBkPSJNIDIyIDQyIEwgMjIgNjYgTSAyMiA2NiBMIDE0IDg0IE0gMjIgNjYgTCAyOCA4NCIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8cGF0aCBkPSJNIDI4IDQ2IFEgNTIgNDAgNzQgNDIiIHN0cm9rZT0iIzAyODRjNyIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsbD0ibm9uZSIvPgoKICAgIDwhLS0gUElOIFbhu4ogVFLDjSDwn5ONICjEkOG7i2EgxJFp4buDbSkgLS0+CiAgICA8IS0tIFbDsm5nIHRyw7JuIGLDs25nIMSR4buVIC0tPgogICAgPGVsbGlwc2UgY3g9Ijg0IiBjeT0iNTAiIHJ4PSI4IiByeT0iMyIgZmlsbD0icmdiYSgwLDAsMCwwLjE1KSIvPgogICAgPCEtLSBJY29uIFBpbiBnaGltIMSR4buLbmggduG7iyAtLT4KICAgIDxwYXRoIGQ9Ik0gODQgNDggQyA3NyA0MCA3NyAzMCA4NCAzMCBDIDkxIDMwIDkxIDQwIDg0IDQ4IFoiIGZpbGw9IiNlZjQ0NDQiLz4KICAgIDxjaXJjbGUgY3g9Ijg0IiBjeT0iMzUiIHI9IjMiIGZpbGw9IiNmZmZmZmYiLz4KCiAgICA8IS0tIE5ow6NuIGNo4buvIHBo4bulIC0tPgogICAgPHRleHQgeD0iNTAiIHk9IjkzIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmaWxsPSIjNDc1NTY5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7jgYLjgaHjgokgKFBow61hIGtpYSk8L3RleHQ+CiAgPC9zdmc+"
+      "word": "図書館",
+      "kanji": "図書館",
+      "hiragana": "としょかん",
+      "reading": "toshokan",
+      "meaning": "Thư viện"
     },
     {
       "id": "v8",
-      "word": "どちら",
-      "kanji": null,
-      "hiragana": "どちら",
-      "reading": "dochira",
-      "meaning": "Phía nào, đằng nào, chỗ nào (cách nói lịch sự của どこ; dùng hỏi xuất xứ, công ty)",
-      "partOfSpeech": "Đại từ nghi vấn",
-      "example": {
-        "sentence": "かいしゃ は どちら ですか。",
-        "furigana": "[会社](かいしゃ) は どちら ですか。",
-        "translation": "Công ty của bạn là công ty nào? (Hỏi lịch sự)"
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6S3PC90ZXh0Pjwvc3ZnPg=="
+      "word": "病院",
+      "kanji": "病院",
+      "hiragana": "びょういん",
+      "reading": "byouin",
+      "meaning": "Bệnh viện"
     },
     {
       "id": "v9",
-      "word": "教室",
-      "kanji": "教室",
-      "hiragana": "きょうしつ",
-      "reading": "kyoushitsu",
-      "meaning": "Phòng học, lớp học",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "きょうしつ は にかい です。",
-        "furigana": "[教室](きょうしつ) は [二階](にかい) です。",
-        "translation": "Phòng học ở tầng hai."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4+rPC90ZXh0Pjwvc3ZnPg=="
+      "word": "郵便局",
+      "kanji": "郵便局",
+      "hiragana": "ゆうびんきょく",
+      "reading": "yuubinkyoku",
+      "meaning": "Bưu điện"
     },
     {
       "id": "v10",
-      "word": "食堂",
-      "kanji": "食堂",
-      "hiragana": "しょくどう",
-      "reading": "shokudou",
-      "meaning": "Nhà ăn, căng tin",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "しょくどう は ちか です。",
-        "furigana": "[食堂](しょくどう) は [地下](ちか) です。",
-        "translation": "Nhà ăn ở dưới tầng hầm."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZTJlMiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn42xPC90ZXh0Pjwvc3ZnPg=="
+      "word": "授業",
+      "kanji": "授業",
+      "hiragana": "じゅぎょう",
+      "reading": "jugyou",
+      "meaning": "Giờ học"
     },
     {
       "id": "v11",
-      "word": "事務所",
-      "kanji": "事務所",
-      "hiragana": "じむしょ",
-      "reading": "jimusho",
-      "meaning": "Văn phòng",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "やまださん は じむしょ です。",
-        "furigana": "[山田](やまだ)さん は [事務所](じむしょ) です。",
-        "translation": "Anh Yamada ở văn phòng."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZWRkNSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4+iPC90ZXh0Pjwvc3ZnPg=="
+      "word": "テスト",
+      "reading": "tesuto",
+      "meaning": "Bài kiểm tra"
     },
     {
       "id": "v12",
-      "word": "会議室",
-      "kanji": "会議室",
-      "hiragana": "かいぎしつ",
-      "reading": "kaigishitsu",
-      "meaning": "Phòng họp",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "かいぎしつ は さんかい です。",
-        "furigana": "[会議室](かいぎしつ) は [三階](さんかい) です。",
-        "translation": "Phòng họp ở tầng ba."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZlZjNjNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5Go4oCN8J+SvDwvdGV4dD48L3N2Zz4="
+      "word": "休み",
+      "kanji": "休",
+      "hiragana": "やすみ",
+      "reading": "yasumi",
+      "meaning": "Nghỉ / Ngày nghỉ"
     },
     {
       "id": "v13",
-      "word": "受付",
-      "kanji": "受付",
-      "hiragana": "うけつけ",
-      "reading": "uketsuke",
-      "meaning": "Quầy tiếp tân, bàn tiếp tân",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "うけつけ は いっかい です。",
-        "furigana": "[受付](うけつけ) は [一階](いっかい) です。",
-        "translation": "Quầy tiếp tân ở tầng một."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2VjZmNjYiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5uO77iPPC90ZXh0Pjwvc3ZnPg=="
+      "word": "時間",
+      "kanji": "時間",
+      "hiragana": "じかん",
+      "reading": "jikan",
+      "meaning": "Thời gian / Giờ giấc"
     },
     {
       "id": "v14",
-      "word": "部屋",
-      "kanji": "部屋",
-      "hiragana": "へや",
-      "reading": "heya",
-      "meaning": "Căn phòng",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "わたし の へや は ここ です。",
-        "furigana": "わたし の [部屋](へや) は ここ です。",
-        "translation": "Căn phòng của tôi ở đây."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2RjZmNlNyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5qqPC90ZXh0Pjwvc3ZnPg=="
+      "word": "～時",
+      "kanji": "時",
+      "hiragana": "～じ",
+      "reading": "~ji",
+      "meaning": "～ giờ"
     },
     {
       "id": "v15",
-      "word": "お手洗い",
-      "kanji": "お手洗い",
-      "hiragana": "おてあらい",
-      "reading": "otearai",
-      "meaning": "Nhà vệ sinh, phòng vệ sinh (cách nói lịch sự; còn gọi là トイレ)",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "おてあらい は あそこ です。",
-        "furigana": "お[手洗](てあら)い は あそこ です。",
-        "translation": "Nhà vệ sinh ở đằng kia."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2NjZmJmMSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5q9PC90ZXh0Pjwvc3ZnPg=="
+      "word": "～分",
+      "kanji": "分",
+      "hiragana": "～ふん",
+      "reading": "~fun",
+      "meaning": "～ phút"
     },
     {
       "id": "v16",
-      "word": "階段",
-      "kanji": "階段",
-      "hiragana": "かいだん",
-      "reading": "kaidan",
-      "meaning": "Cầu thang bộ",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "かいだん は あちら です。",
-        "furigana": "[階段](かいだん) は あちら です。",
-        "translation": "Cầu thang bộ ở phía kia."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZjJmZSIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn6qcPC90ZXh0Pjwvc3ZnPg=="
+      "word": "今、９時２０分です。",
+      "kanji": "今,時,分",
+      "hiragana": "いま、９じ２０ぷんです。",
+      "reading": "ima, kuji nijippun desu.",
+      "meaning": "Bây giờ là 9 giờ 20 phút."
     },
     {
       "id": "v17",
-      "word": "エレベーター",
-      "kanji": null,
-      "hiragana": "えれべーたー",
-      "reading": "erebeetaa",
-      "meaning": "Thang máy",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "えれべーたー は そこ です。",
-        "furigana": "エレベーター は そこ です。",
-        "translation": "Thang máy ở chỗ đó."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2UwZTdmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5uXPC90ZXh0Pjwvc3ZnPg=="
+      "word": "～時半",
+      "kanji": "時半",
+      "hiragana": "～じはん",
+      "reading": "~jihan",
+      "meaning": "～ giờ rưỡi"
     },
     {
       "id": "v18",
+      "word": "～曜日",
+      "kanji": "曜日",
+      "hiragana": "～ようび",
+      "reading": "~youbi",
+      "meaning": "Thứ ～"
+    },
+    {
+      "id": "v19",
+      "word": "スケジュール",
+      "reading": "sukejuuru",
+      "meaning": "Kế hoạch, lịch"
+    },
+    {
+      "id": "v20",
+      "word": "アルバイト",
+      "reading": "arubaito",
+      "meaning": "Việc làm thêm"
+    },
+    {
+      "id": "v21",
+      "word": "スキー",
+      "reading": "sukii",
+      "meaning": "Trượt tuyết"
+    },
+    {
+      "id": "v22",
+      "word": "パーティー",
+      "reading": "paatii",
+      "meaning": "Bữa tiệc"
+    },
+    {
+      "id": "v23",
+      "word": "バーベキュー",
+      "reading": "baabekyuu",
+      "meaning": "Tiệc nướng ngoài trời"
+    },
+    {
+      "id": "v24",
+      "word": "花火",
+      "kanji": "花火",
+      "hiragana": "はなび",
+      "reading": "hanabi",
+      "meaning": "Pháo hoa"
+    },
+    {
+      "id": "v25",
+      "word": "（お）花見",
+      "kanji": "花見",
+      "hiragana": "（お）はなみ",
+      "reading": "(o)hanami",
+      "meaning": "Ngắm hoa (anh đào)"
+    },
+    {
+      "id": "v26",
+      "word": "ホームステイ",
+      "reading": "hoomusutei",
+      "meaning": "Ở cùng gia đình bản địa"
+    },
+    {
+      "id": "v27",
+      "word": "（お）祭り",
+      "kanji": "祭",
+      "hiragana": "（お）まつり",
+      "reading": "(o)matsuri",
+      "meaning": "Lễ hội"
+    },
+    {
+      "id": "v28",
+      "word": "海",
+      "kanji": "海",
+      "hiragana": "うみ",
+      "reading": "umi",
+      "meaning": "Biển"
+    },
+    {
+      "id": "v29",
+      "word": "公園",
+      "kanji": "公園",
+      "hiragana": "こうえん",
+      "reading": "kouen",
+      "meaning": "Công viên"
+    },
+    {
+      "id": "v30",
+      "word": "桜",
+      "kanji": "桜",
+      "hiragana": "さくら",
+      "reading": "sakura",
+      "meaning": "Hoa anh đào"
+    },
+    {
+      "id": "v31",
+      "word": "（お）酒",
+      "kanji": "酒",
+      "hiragana": "（お）さけ",
+      "reading": "(o)sake",
+      "meaning": "Rượu (Nhật)"
+    },
+    {
+      "id": "v32",
+      "word": "（お）すし",
+      "reading": "(o)sushi",
+      "meaning": "Món sushi"
+    },
+    {
+      "id": "v33",
+      "word": "バス",
+      "reading": "basu",
+      "meaning": "Xe buýt"
+    },
+    {
+      "id": "v34",
+      "word": "（お）弁当",
+      "kanji": "弁当",
+      "hiragana": "（お）べんとう",
+      "reading": "(o)bentou",
+      "meaning": "Cơm hộp"
+    },
+    {
+      "id": "v35",
+      "word": "１年",
+      "kanji": "年",
+      "hiragana": "いちねん",
+      "reading": "ichinen",
+      "meaning": "1 năm"
+    },
+    {
+      "id": "v36",
+      "word": "春",
+      "kanji": "春",
+      "hiragana": "はる",
+      "reading": "haru",
+      "meaning": "Mùa xuân"
+    },
+    {
+      "id": "v37",
+      "word": "夏",
+      "kanji": "夏",
+      "hiragana": "なつ",
+      "reading": "natsu",
+      "meaning": "Mùa hè"
+    },
+    {
+      "id": "v38",
+      "word": "秋",
+      "kanji": "秋",
+      "hiragana": "あき",
+      "reading": "aki",
+      "meaning": "Mùa thu"
+    },
+    {
+      "id": "v39",
+      "word": "冬",
+      "kanji": "冬",
+      "hiragana": "ふゆ",
+      "reading": "fuyu",
+      "meaning": "Mùa đông"
+    },
+    {
+      "id": "v40",
+      "word": "ゴールデンウイーク",
+      "reading": "gooruden wiiku",
+      "meaning": "Tuần lễ vàng"
+    },
+    {
+      "id": "v41",
+      "word": "何",
+      "kanji": "何",
+      "hiragana": "なに",
+      "reading": "nani",
+      "meaning": "Cái gì"
+    },
+    {
+      "id": "v42",
+      "word": "行きます",
+      "kanji": "行",
+      "hiragana": "いきます",
+      "reading": "ikimasu",
+      "meaning": "Đi"
+    },
+    {
+      "id": "v43",
+      "word": "帰ります",
+      "kanji": "帰",
+      "hiragana": "かえります",
+      "reading": "kaerimasu",
+      "meaning": "Về, trở về"
+    },
+    {
+      "id": "v44",
+      "word": "飲みます",
+      "kanji": "飲",
+      "hiragana": "のみます",
+      "reading": "nomimasu",
+      "meaning": "Uống"
+    },
+    {
+      "id": "v45",
+      "word": "食べます",
+      "kanji": "食",
+      "hiragana": "たべます",
+      "reading": "tabemasu",
+      "meaning": "Ăn"
+    },
+    {
+      "id": "v46",
+      "word": "見ます",
+      "kanji": "見",
+      "hiragana": "みます",
+      "reading": "mimasu",
+      "meaning": "Xem, nhìn"
+    },
+    {
+      "id": "v47",
+      "word": "します",
+      "reading": "shimasu",
+      "meaning": "Làm, chơi"
+    },
+    {
+      "id": "v48",
+      "word": "スキーをします。",
+      "reading": "sukii o shimasu.",
+      "meaning": "Chơi trượt tuyết."
+    },
+    {
+      "id": "v49",
+      "word": "いいですね",
+      "reading": "ii desu ne",
+      "meaning": "Hay quá nhỉ!"
+    },
+    {
+      "id": "v50",
+      "word": "夏休み、北海道へ行きます。",
+      "kanji": "夏休み,北海道,行",
+      "hiragana": "なつやすみ、ほっかいどうへいきます。",
+      "reading": "natsuyasumi, hokkaidou e ikimasu.",
+      "meaning": "Kỳ nghỉ hè, tôi đi Hokkaido."
+    },
+    {
+      "id": "v51",
+      "word": "えっ",
+      "reading": "e(t)",
+      "meaning": "Ơ! / Hả"
+    },
+    {
+      "id": "v52",
+      "word": "へえ",
+      "reading": "hee",
+      "meaning": "Chà / Wow"
+    },
+    {
+      "id": "v53",
+      "word": "朝",
+      "kanji": "朝",
+      "hiragana": "あさ",
+      "reading": "asa",
+      "meaning": "Buổi sáng"
+    },
+    {
+      "id": "v54",
+      "word": "夜",
+      "kanji": "夜",
+      "hiragana": "よる",
+      "reading": "yoru",
+      "meaning": "Buổi tối, đêm"
+    },
+    {
+      "id": "v55",
+      "word": "毎日",
+      "kanji": "毎日",
+      "hiragana": "まいにち",
+      "reading": "mainichi",
+      "meaning": "Hàng ngày"
+    },
+    {
+      "id": "v56",
+      "word": "毎朝",
+      "kanji": "毎朝",
+      "hiragana": "まいあさ",
+      "reading": "maiasa",
+      "meaning": "Hàng sáng"
+    },
+    {
+      "id": "v57",
+      "word": "毎晩",
+      "kanji": "毎晩",
+      "hiragana": "まいばん",
+      "reading": "maiban",
+      "meaning": "Mỗi tối"
+    },
+    {
+      "id": "v58",
+      "word": "朝ご飯",
+      "kanji": "朝ご飯",
+      "hiragana": "あさごはん",
+      "reading": "asagohan",
+      "meaning": "Bữa sáng"
+    },
+    {
+      "id": "v59",
+      "word": "昼ごはん",
+      "kanji": "昼",
+      "hiragana": "ひるごはん",
+      "reading": "hirugohan",
+      "meaning": "Bữa trưa"
+    },
+    {
+      "id": "v60",
+      "word": "家",
+      "kanji": "家",
+      "hiragana": "うち",
+      "reading": "uchi",
+      "meaning": "Nhà, ngôi nhà"
+    },
+    {
+      "id": "v61",
       "word": "会社",
       "kanji": "会社",
       "hiragana": "かいしゃ",
       "reading": "kaisha",
-      "meaning": "Công ty",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "わたし の かいしゃ は とうきょう です。",
-        "furigana": "わたし の [会社](かいしゃ) は [東京](とうきょう) です。",
-        "translation": "Công ty của tôi ở Tokyo."
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YzZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4+tPC90ZXh0Pjwvc3ZnPg=="
+      "meaning": "Công ty"
     },
     {
-      "id": "v19",
-      "word": "国",
-      "kanji": "国",
-      "hiragana": "くに",
-      "reading": "kuni",
-      "meaning": "Đất nước, quốc gia",
-      "partOfSpeech": "Danh từ",
-      "example": {
-        "sentence": "おくに は どちら ですか。",
-        "furigana": "お[国](くに) は どちら ですか。",
-        "translation": "Đất nước của bạn là nước nào? (Bạn là người nước nào?)"
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZhZThmZiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn4yOPC90ZXh0Pjwvc3ZnPg=="
+      "id": "v62",
+      "word": "学校",
+      "kanji": "学校",
+      "hiragana": "がっこう",
+      "reading": "gakkou",
+      "meaning": "Trường học"
     },
     {
-      "id": "v20",
-      "word": "いくら",
-      "kanji": null,
-      "hiragana": "いくら",
-      "reading": "ikura",
-      "meaning": "Bao nhiêu tiền, giá bao nhiêu",
-      "partOfSpeech": "Đại từ nghi vấn",
-      "example": {
-        "sentence": "この かさ は いくら ですか。",
-        "furigana": "この [傘](かさ) は いくら ですか。",
-        "translation": "Chiếc ô này giá bao nhiêu tiền?"
-      },
-      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZjZTdmMyIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1zaXplPSI1NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIj7wn5KwPC90ZXh0Pjwvc3ZnPg=="
+      "id": "v63",
+      "word": "コンビニ",
+      "reading": "konbini",
+      "meaning": "Cửa hàng tiện lợi"
+    },
+    {
+      "id": "v64",
+      "word": "牛乳",
+      "kanji": "牛乳",
+      "hiragana": "ぎゅうにゅう",
+      "reading": "gyuunyuu",
+      "meaning": "Sữa bò"
+    },
+    {
+      "id": "v65",
+      "word": "果物",
+      "kanji": "果物",
+      "hiragana": "くだもの",
+      "reading": "kudamono",
+      "meaning": "Hoa quả, trái cây"
+    },
+    {
+      "id": "v66",
+      "word": "サラダ",
+      "reading": "sarada",
+      "meaning": "Món salad"
+    },
+    {
+      "id": "v67",
+      "word": "チーズ",
+      "reading": "chiizu",
+      "meaning": "Pho-mát"
+    },
+    {
+      "id": "v68",
+      "word": "インターネット",
+      "reading": "intaanetto",
+      "meaning": "Mạng internet"
+    },
+    {
+      "id": "v69",
+      "word": "新聞",
+      "kanji": "新聞",
+      "hiragana": "しんぶん",
+      "reading": "shinbun",
+      "meaning": "Báo, tờ báo"
+    },
+    {
+      "id": "v70",
+      "word": "テレビ",
+      "reading": "terebi",
+      "meaning": "Ti vi"
+    },
+    {
+      "id": "v71",
+      "word": "CD",
+      "reading": "shiidii",
+      "meaning": "CD"
+    },
+    {
+      "id": "v72",
+      "word": "DVD",
+      "reading": "diibuidii",
+      "meaning": "DVD"
+    },
+    {
+      "id": "v73",
+      "word": "何も",
+      "kanji": "何",
+      "hiragana": "なにも",
+      "reading": "nani mo",
+      "meaning": "Cái gì cũng…"
+    },
+    {
+      "id": "v74",
+      "word": "どこ（へ）も",
+      "reading": "doko(e)mo",
+      "meaning": "Đâu cũng…"
+    },
+    {
+      "id": "v75",
+      "word": "買います",
+      "kanji": "買",
+      "hiragana": "かいます",
+      "reading": "kaimasu",
+      "meaning": "Mua"
+    },
+    {
+      "id": "v76",
+      "word": "聞きます",
+      "kanji": "聞",
+      "hiragana": "ききます",
+      "reading": "kikimasu",
+      "meaning": "Nghe"
+    },
+    {
+      "id": "v77",
+      "word": "働きます",
+      "kanji": "働",
+      "hiragana": "はたらきます",
+      "reading": "hatarakimasu",
+      "meaning": "Làm việc, lao động"
+    },
+    {
+      "id": "v78",
+      "word": "読みます",
+      "kanji": "読",
+      "hiragana": "よみます",
+      "reading": "yomimasu",
+      "meaning": "Đọc"
+    },
+    {
+      "id": "v79",
+      "word": "寝ます",
+      "kanji": "寝",
+      "hiragana": "ねます",
+      "reading": "nemasu",
+      "meaning": "Ngủ"
+    },
+    {
+      "id": "v80",
+      "word": "起きます",
+      "kanji": "起",
+      "hiragana": "おきます",
+      "reading": "okimasu",
+      "meaning": "Thức dậy"
+    },
+    {
+      "id": "v81",
+      "word": "勉強します",
+      "kanji": "勉強",
+      "hiragana": "べんきょうします",
+      "reading": "benkyoushimasu",
+      "meaning": "Học, học bài, học tập"
+    },
+    {
+      "id": "v82",
+      "word": "来ます",
+      "kanji": "来",
+      "hiragana": "きます",
+      "reading": "kimasu",
+      "meaning": "Tới, đến"
     }
   ],
   "grammar": [

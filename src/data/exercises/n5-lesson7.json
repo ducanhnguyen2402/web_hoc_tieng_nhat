@@ -1,0 +1,181 @@
+{
+  "lessonId": "n5-lesson7",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "questionText": "Nối từ thích hợp: お皿を (おさらを) _______",
+      "options": [
+        "あらいます",
+        "かきます",
+        "かけます",
+        "ひきます"
+      ],
+      "correctAnswer": "あらいます",
+      "explanation": "お皿を洗います (Rửa đĩa)."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "questionText": "Nối từ thích hợp: 名前を (なまえを) _______",
+      "options": [
+        "かきます",
+        "うたいます",
+        "すいます",
+        "あらいます"
+      ],
+      "correctAnswer": "かきます",
+      "explanation": "名前を書きます (Viết tên)."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "questionText": "Nối từ thích hợp: 電話を (でんわを) _______",
+      "options": [
+        "かけます",
+        "かきます",
+        "ひきます",
+        "うたいます"
+      ],
+      "correctAnswer": "かけます",
+      "explanation": "電話をかけます (Gọi điện thoại)."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "questionText": "Nối từ thích hợp: 歌を (うたを) _______",
+      "options": [
+        "うたいます",
+        "すいます",
+        "かきます",
+        "あらいます"
+      ],
+      "correctAnswer": "うたいます",
+      "explanation": "歌を歌います (Hát)."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "questionText": "Nối từ thích hợp: ギターを _______",
+      "options": [
+        "ひきます",
+        "かきます",
+        "かけます",
+        "すいます"
+      ],
+      "correctAnswer": "ひきます",
+      "explanation": "ギターを弾きます (Chơi guitar)."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "questionText": "Nối từ thích hợp: たばこを _______",
+      "options": [
+        "すいます",
+        "うたいます",
+        "ひきます",
+        "あらいます"
+      ],
+      "correctAnswer": "すいます",
+      "explanation": "たばこを吸います (Hút thuốc)."
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: コーヒーに [ _______ ] を入れます。",
+      "options": [
+        "さとう",
+        "しお"
+      ],
+      "correctAnswer": "さとう",
+      "explanation": "さとう (Đường). Cho đường vào cà phê."
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: A: パクさん、すみませんが、消しゴムを [ _______ ] ください。 B: はい、どうぞ。",
+      "options": [
+        "かして",
+        "かりて"
+      ],
+      "correctAnswer": "かして",
+      "explanation": "かして (Cho mượn). Xin hãy cho tôi mượn cục tẩy."
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ đúng: A: 暑いですね。窓を [ _______ ]。 B: はい、お願いします。",
+      "options": [
+        "あけましょうか",
+        "しめましょうか"
+      ],
+      "correctAnswer": "あけましょうか",
+      "explanation": "あけましょうか (Mở nhé). Trời nóng nên đề nghị mở cửa sổ."
+    },
+    {
+      "id": "q10",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ trái nghĩa của [いれます] (Cho vào):",
+      "options": [
+        "だします",
+        "もっていきます",
+        "まえ",
+        "なか"
+      ],
+      "correctAnswer": "だします",
+      "explanation": "いれます (Cho vào) >< だします (Lấy ra)."
+    },
+    {
+      "id": "q11",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ trái nghĩa của [もってきます] (Mang đến):",
+      "options": [
+        "もっていきます",
+        "だします",
+        "ひだり",
+        "なか"
+      ],
+      "correctAnswer": "もっていきます",
+      "explanation": "もってきます (Mang đến) >< もっていきます (Mang đi)."
+    },
+    {
+      "id": "q12",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ trái nghĩa của [うしろ] (Đằng sau):",
+      "options": [
+        "まえ",
+        "なか",
+        "ひだり",
+        "だします"
+      ],
+      "correctAnswer": "まえ",
+      "explanation": "うしろ (Đằng sau) >< まえ (Đằng trước)."
+    },
+    {
+      "id": "q13",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ trái nghĩa của [そと] (Bên ngoài):",
+      "options": [
+        "なか",
+        "まえ",
+        "ひだり",
+        "だします"
+      ],
+      "correctAnswer": "なか",
+      "explanation": "そと (Bên ngoài) >< なか (Bên trong)."
+    },
+    {
+      "id": "q14",
+      "type": "multiple_choice",
+      "questionText": "Chọn từ trái nghĩa của [みぎ] (Bên phải):",
+      "options": [
+        "ひだり",
+        "なか",
+        "まえ",
+        "だします"
+      ],
+      "correctAnswer": "ひだり",
+      "explanation": "みぎ (Bên phải) >< ひだり (Bên trái)."
+    }
+  ]
+}
