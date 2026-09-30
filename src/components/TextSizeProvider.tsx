@@ -43,7 +43,7 @@ export function TextSizeProvider({ children }: { children: React.ReactNode }) {
 
   return (
     <TextSizeContext.Provider value={{ textSize, toggleTextSize, jpTextClass }}>
-      <div className={mounted && textSize === 'large' ? 'text-size-large' : 'text-size-normal'}>
+      <div className={`flex-1 flex flex-col w-full ${mounted && textSize === 'large' ? 'text-size-large' : 'text-size-normal'}`}>
         {children}
       </div>
     </TextSizeContext.Provider>

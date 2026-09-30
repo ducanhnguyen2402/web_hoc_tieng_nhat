@@ -238,7 +238,25 @@ export async function updateFlashcardSRS(id: string, newSRS: Flashcard['srs']): 
 export async function getDueFlashcards(): Promise<Flashcard[]> {
   const cards = await getFlashcards();
   const today = new Date();
-  today.setHours(0, 0, 0, 0);
+  today.setHours(23, 59, 59, 999); // Include cards due any time today
 
   return cards.filter(card => card.srs.nextReviewDate.getTime() <= today.getTime());
+}
+
+export async function addFlashcards(newCards: Omit<Flashcard, 'id' | 'srs'>[]): Promise<number> {
+  const existingCards = await getFlashcards();
+  const existingFronts = new Set(existingCards.map(c => c.front));
+  
+  const cardsToAdd = newCards.filter(c => !existingFronts.has(c.front)).map(c => ({
+    id: typeof crypto !== 'undefined' && crypto.randomUUID ? crypto.randomUUID() : `local_${Date.now()}_${Math.random().toString(36).substring(2, 9)}`,
+    front: c.front,
+    back: c.back,
+    srs: initializeSRSData()
+  }));
+
+  if (cardsToAdd.length === 0) return 0;
+
+  const combined = [...existingCards, ...cardsToAdd];
+  await saveFlashcards(combined);
+  return cardsToAdd.length;
 }

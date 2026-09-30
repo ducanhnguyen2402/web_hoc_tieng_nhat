@@ -8,6 +8,7 @@ import { Ruby } from '@/components/Ruby';
 import { PlayAudioButton } from '@/components/PlayAudioButton';
 import { KanjiStrokeViewer } from '@/components/KanjiStrokeViewer';
 import { VocabularyImage } from '@/components/VocabularyImage';
+import { AddFlashcardButton } from '@/components/AddFlashcardButton';
 
 async function getLessonData(lessonId: string): Promise<Lesson | null> {
   try {
@@ -64,14 +65,18 @@ export default async function LessonPage({
 
         {/* Vocabulary Section */}
         <section className="mb-12">
-          <div className="flex items-center justify-between gap-2 mb-6">
+          <div className="flex flex-wrap items-center justify-between gap-4 mb-6">
             <div className="flex items-center gap-2">
               <BookA className="w-6 h-6 text-blue-600 dark:text-blue-400" />
               <h2 className="text-2xl font-bold text-gray-800 dark:text-gray-100">Từ vựng (Vocabulary)</h2>
+              <span className="ml-2 text-sm font-medium text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-slate-800 px-3 py-1 rounded-full">
+                {lesson.vocabulary.length} từ
+              </span>
             </div>
-            <span className="text-sm font-medium text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-slate-800 px-3 py-1 rounded-full">
-              {lesson.vocabulary.length} từ
-            </span>
+            
+            {lesson.vocabulary.length > 0 && (
+              <AddFlashcardButton vocabList={lesson.vocabulary} />
+            )}
           </div>
 
           <div className="bg-white dark:bg-slate-800 rounded-2xl shadow-sm border border-gray-100 dark:border-slate-700 overflow-hidden">
