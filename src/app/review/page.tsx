@@ -13,6 +13,7 @@ export default function ReviewPage() {
   const [cards, setCards] = useState<Flashcard[]>([]);
   const [currentIdx, setCurrentIdx] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
+  const [hasFlipped, setHasFlipped] = useState(false);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -44,6 +45,7 @@ export default function ReviewPage() {
 
     // Next card
     setIsFlipped(false);
+    setHasFlipped(false);
     setCurrentIdx(nextIdx);
   };
 
@@ -78,7 +80,7 @@ export default function ReviewPage() {
       </div>
 
       <div className="w-full max-w-xl perspective-1000 h-96 relative">
-        <div className={`w-full h-full transition-all duration-500 preserve-3d cursor-pointer ${isFlipped ? 'rotate-y-180' : ''}`} onClick={() => !isFlipped && setIsFlipped(true)}>
+        <div className={`w-full h-full transition-all duration-500 preserve-3d cursor-pointer ${isFlipped ? 'rotate-y-180' : ''}`} onClick={() => { setIsFlipped(!isFlipped); setHasFlipped(true); }}>
           {/* Front */}
           <div className="absolute inset-0 backface-hidden bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-700 shadow-sm rounded-3xl flex flex-col items-center justify-center p-8 hover:shadow-md transition-shadow">
             <span className="text-7xl font-medium text-gray-900 dark:text-white mb-6 jp-text">{card.front}</span>
@@ -97,7 +99,7 @@ export default function ReviewPage() {
         </div>
       </div>
 
-      {isFlipped && (
+      {hasFlipped && (
         <div className="w-full max-w-xl mt-8 animate-in fade-in slide-in-from-bottom-4">
           <p className="text-center text-gray-500 dark:text-gray-400 font-medium mb-4 uppercase text-xs tracking-wider">Đánh giá độ khó</p>
           <div className="grid grid-cols-4 gap-2 sm:gap-4">
