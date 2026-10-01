@@ -1,681 +1,158 @@
-{
+﻿{
   "id": "n5-lesson5",
   "level": "N5",
   "lessonNumber": 5,
-  "title": "Bài 5: Đi lại & Phương tiện giao thông (行きます・来ます・帰ります)",
-  "description": "Học cách nói về việc di chuyển đến các địa điểm, sử dụng phương tiện giao thông, đi cùng ai và hỏi thời gian đi lại.",
+  "title": "Bài 5: Sở thích, Mong muốn và Mục đích đi lại",
+  "description": "Học cách diễn đạt sở thích, mong muốn sở hữu một vật, muốn thực hiện một hành động và nói về mục đích của việc di chuyển.",
   "vocabulary": [
-    {
-      "id": "v1",
-      "word": "今日",
-      "kanji": "今日",
-      "hiragana": "きょう",
-      "reading": "kyou",
-      "meaning": "Hôm nay"
-    },
-    {
-      "id": "v2",
-      "word": "明日",
-      "kanji": "明日",
-      "hiragana": "あした",
-      "reading": "ashita",
-      "meaning": "Ngày mai"
-    },
-    {
-      "id": "v3",
-      "word": "あさって",
-      "reading": "asatte",
-      "meaning": "Ngày kia"
-    },
-    {
-      "id": "v4",
-      "word": "昨日",
-      "kanji": "昨日",
-      "hiragana": "きのう",
-      "reading": "kinou",
-      "meaning": "Hôm qua"
-    },
-    {
-      "id": "v5",
-      "word": "おととい",
-      "reading": "ototoi",
-      "meaning": "Hôm kia"
-    },
-    {
-      "id": "v6",
-      "word": "先週",
-      "kanji": "先週",
-      "hiragana": "せんしゅう",
-      "reading": "senshuu",
-      "meaning": "Tuần trước"
-    },
-    {
-      "id": "v7",
-      "word": "週末",
-      "kanji": "週末",
-      "hiragana": "しゅうまつ",
-      "reading": "shuumatsu",
-      "meaning": "Cuối tuần"
-    },
-    {
-      "id": "v8",
-      "word": "家",
-      "kanji": "家",
-      "hiragana": "いえ",
-      "reading": "ie",
-      "meaning": "Nhà"
-    },
-    {
-      "id": "v9",
-      "word": "部屋",
-      "kanji": "部屋",
-      "hiragana": "へや",
-      "reading": "heya",
-      "meaning": "Căn phòng"
-    },
-    {
-      "id": "v10",
-      "word": "デパート",
-      "reading": "depaato",
-      "meaning": "Trung tâm thương mại"
-    },
-    {
-      "id": "v11",
-      "word": "美術館",
-      "kanji": "美術館",
-      "hiragana": "びじゅつかん",
-      "reading": "bijutsukan",
-      "meaning": "Bảo tàng mỹ thuật"
-    },
-    {
-      "id": "v12",
-      "word": "ゲーム",
-      "reading": "geemu",
-      "meaning": "Trò chơi"
-    },
-    {
-      "id": "v13",
-      "word": "家族",
-      "kanji": "家族",
-      "hiragana": "かぞく",
-      "reading": "kazoku",
-      "meaning": "Gia đình"
-    },
-    {
-      "id": "v14",
-      "word": "恋人",
-      "kanji": "恋人",
-      "hiragana": "こいびと",
-      "reading": "koibito",
-      "meaning": "Người yêu"
-    },
-    {
-      "id": "v15",
-      "word": "友達",
-      "kanji": "友達",
-      "hiragana": "ともだち",
-      "reading": "tomodachi",
-      "meaning": "Bạn bè"
-    },
-    {
-      "id": "v16",
-      "word": "ルームメイト",
-      "reading": "ruumumeito",
-      "meaning": "Bạn cùng phòng"
-    },
-    {
-      "id": "v17",
-      "word": "どこか（へ）",
-      "reading": "dokoka(e)",
-      "meaning": "Nơi nào đó"
-    },
-    {
-      "id": "v18",
-      "word": "会います",
-      "kanji": "会",
-      "hiragana": "あいます",
-      "reading": "aimasu",
-      "meaning": "Gặp gỡ"
-    },
-    {
-      "id": "v19",
-      "word": "作ります",
-      "kanji": "作",
-      "hiragana": "つくります",
-      "reading": "tsukurimasu",
-      "meaning": "Làm, chế tạo"
-    },
-    {
-      "id": "v20",
-      "word": "買い物します",
-      "kanji": "買,物",
-      "hiragana": "かいものします",
-      "reading": "kaimonoshimasu",
-      "meaning": "Mua sắm"
-    },
-    {
-      "id": "v21",
-      "word": "食事します",
-      "kanji": "食事",
-      "hiragana": "しょくじします",
-      "reading": "shokujishimasu",
-      "meaning": "Dùng bữa, ăn uống"
-    },
-    {
-      "id": "v22",
-      "word": "洗濯します",
-      "kanji": "洗濯",
-      "hiragana": "せんたくします",
-      "reading": "sentakushimasu",
-      "meaning": "Giặt giũ"
-    },
-    {
-      "id": "v23",
-      "word": "掃除します",
-      "kanji": "掃除",
-      "hiragana": "そうじします",
-      "reading": "soujishimasu",
-      "meaning": "Hút bụi, lau dọn nhà cửa"
-    },
-    {
-      "id": "v24",
-      "word": "それから",
-      "reading": "sorekara",
-      "meaning": "Sau đó"
-    },
-    {
-      "id": "v25",
-      "word": "一人で",
-      "kanji": "一人",
-      "hiragana": "ひとりで",
-      "reading": "hitori de",
-      "meaning": "Một mình"
-    },
-    {
-      "id": "v26",
-      "word": "今朝",
-      "kanji": "今朝",
-      "hiragana": "けさ",
-      "reading": "kesa",
-      "meaning": "Sáng nay"
-    },
-    {
-      "id": "v27",
-      "word": "先月",
-      "kanji": "先月",
-      "hiragana": "せんげつ",
-      "reading": "sengetsu",
-      "meaning": "Tháng trước"
-    },
-    {
-      "id": "v28",
-      "word": "去年",
-      "kanji": "去年",
-      "hiragana": "きょねん",
-      "reading": "kyonen",
-      "meaning": "Năm ngoái"
-    },
-    {
-      "id": "v29",
-      "word": "風邪",
-      "kanji": "風邪",
-      "hiragana": "かぜ",
-      "reading": "kaze",
-      "meaning": "Cảm cúm"
-    },
-    {
-      "id": "v30",
-      "word": "天気",
-      "kanji": "天気",
-      "hiragana": "てんき",
-      "reading": "tenki",
-      "meaning": "Thời tiết"
-    },
-    {
-      "id": "v31",
-      "word": "晩ご飯",
-      "kanji": "晩,飯",
-      "hiragana": "ばんごはん",
-      "reading": "bangohan",
-      "meaning": "Cơm tối"
-    },
-    {
-      "id": "v32",
-      "word": "服",
-      "kanji": "服",
-      "hiragana": "ふく",
-      "reading": "fuku",
-      "meaning": "Quần áo"
-    },
-    {
-      "id": "v33",
-      "word": "登ります",
-      "kanji": "登",
-      "hiragana": "のぼります",
-      "reading": "noborimasu",
-      "meaning": "Leo, trèo"
-    },
-    {
-      "id": "v34",
-      "word": "入ります",
-      "kanji": "入",
-      "hiragana": "はいります",
-      "reading": "hairimasu",
-      "meaning": "Vào / Bước vào"
-    },
-    {
-      "id": "v35",
-      "word": "温泉に入ります。",
-      "kanji": "温泉,入",
-      "hiragana": "おんせんにはいります。",
-      "reading": "onsen ni hairimasu.",
-      "meaning": "Tắm suối nước nóng"
-    },
-    {
-      "id": "v36",
-      "word": "忙しい",
-      "kanji": "忙",
-      "hiragana": "いそがしい",
-      "reading": "isogashii",
-      "meaning": "Bận"
-    },
-    {
-      "id": "v37",
-      "word": "おもしろい",
-      "reading": "omoshiroi",
-      "meaning": "Thú vị, hay, hấp dẫn"
-    },
-    {
-      "id": "v38",
-      "word": "気持ちがいい",
-      "kanji": "気持",
-      "hiragana": "きもちがいい",
-      "reading": "kimochi ga ii",
-      "meaning": "Cảm thấy sảng khoái"
-    },
-    {
-      "id": "v39",
-      "word": "パソコンは高かったです。",
-      "kanji": "高",
-      "hiragana": "パソコンはたかかったです。",
-      "reading": "pasokon wa takakatta desu.",
-      "meaning": "Máy tính đắt"
-    },
-    {
-      "id": "v40",
-      "word": "安い",
-      "kanji": "安",
-      "hiragana": "やすい",
-      "reading": "yasui",
-      "meaning": "Rẻ"
-    },
-    {
-      "id": "v41",
-      "word": "楽しい",
-      "kanji": "楽",
-      "hiragana": "たのしい",
-      "reading": "tanoshii",
-      "meaning": "Vui vẻ"
-    },
-    {
-      "id": "v42",
-      "word": "難しい",
-      "kanji": "難",
-      "hiragana": "むずかしい",
-      "reading": "muzukashii",
-      "meaning": "Khó"
-    },
-    {
-      "id": "v43",
-      "word": "簡単",
-      "kanji": "簡単",
-      "hiragana": "かんたん",
-      "reading": "kantan",
-      "meaning": "Dễ, đơn giản"
-    },
-    {
-      "id": "v44",
-      "word": "大変",
-      "kanji": "大変",
-      "hiragana": "たいへん",
-      "reading": "taihen",
-      "meaning": "Vất vả"
-    },
-    {
-      "id": "v45",
-      "word": "暇",
-      "kanji": "暇",
-      "hiragana": "ひま",
-      "reading": "hima",
-      "meaning": "Rảnh rỗi"
-    },
-    {
-      "id": "v46",
-      "word": "どうして",
-      "reading": "doushite",
-      "meaning": "Tại sao"
-    },
-    {
-      "id": "v47",
-      "word": "今度",
-      "kanji": "今度",
-      "hiragana": "こんど",
-      "reading": "kondo",
-      "meaning": "Lần tới"
-    },
-    {
-      "id": "v48",
-      "word": "今晩",
-      "kanji": "今晩",
-      "hiragana": "こんばん",
-      "reading": "konban",
-      "meaning": "Tối nay"
-    },
-    {
-      "id": "v49",
-      "word": "今年",
-      "kanji": "今年",
-      "hiragana": "ことし",
-      "reading": "kotoshi",
-      "meaning": "Năm nay"
-    },
-    {
-      "id": "v50",
-      "word": "来年",
-      "kanji": "来年",
-      "hiragana": "らいねん",
-      "reading": "rainen",
-      "meaning": "Sang năm"
-    },
-    {
-      "id": "v51",
-      "word": "アニメ",
-      "reading": "anime",
-      "meaning": "Hoạt hình"
-    },
-    {
-      "id": "v52",
-      "word": "絵",
-      "kanji": "絵",
-      "hiragana": "え",
-      "reading": "e",
-      "meaning": "Tranh"
-    },
-    {
-      "id": "v53",
-      "word": "景色",
-      "kanji": "景色",
-      "hiragana": "けしき",
-      "reading": "keshiki",
-      "meaning": "Phong cảnh"
-    },
-    {
-      "id": "v54",
-      "word": "自転車",
-      "kanji": "自転車",
-      "hiragana": "じてんしゃ",
-      "reading": "jitensha",
-      "meaning": "Xe đạp"
-    },
-    {
-      "id": "v55",
-      "word": "写真",
-      "kanji": "写真",
-      "hiragana": "しゃしん",
-      "reading": "shashin",
-      "meaning": "Ảnh"
-    },
-    {
-      "id": "v56",
-      "word": "撮ります",
-      "kanji": "撮",
-      "hiragana": "とります",
-      "reading": "torimasu",
-      "meaning": "Chụp"
-    },
-    {
-      "id": "v57",
-      "word": "借ります",
-      "kanji": "借",
-      "hiragana": "かります",
-      "reading": "karimasu",
-      "meaning": "Vay, mượn"
-    },
-    {
-      "id": "v58",
-      "word": "ほしい",
-      "reading": "hoshii",
-      "meaning": "Muốn có"
-    },
-    {
-      "id": "v59",
-      "word": "好き",
-      "kanji": "好",
-      "hiragana": "すき",
-      "reading": "suki",
-      "meaning": "Thích"
-    },
-    {
-      "id": "v60",
-      "word": "嫌い",
-      "kanji": "嫌",
-      "hiragana": "きらい",
-      "reading": "kirai",
-      "meaning": "Ghét"
-    }
+    { "id": "v1", "word": "今度", "kanji": "今度", "hiragana": "こんど", "reading": "kondo", "meaning": "Lần tới, lần này" },
+    { "id": "v2", "word": "今晩", "kanji": "今晩", "hiragana": "こんばん", "reading": "konban", "meaning": "Tối nay" },
+    { "id": "v3", "word": "今年", "kanji": "今年", "hiragana": "ことし", "reading": "kotoshi", "meaning": "Năm nay" },
+    { "id": "v4", "word": "来年", "kanji": "来年", "hiragana": "らいねん", "reading": "rainen", "meaning": "Năm sau" },
+    { "id": "v5", "word": "アニメ", "hiragana": "アニメ", "reading": "anime", "meaning": "Phim hoạt hình" },
+    { "id": "v6", "word": "絵", "kanji": "絵", "hiragana": "え", "reading": "e", "meaning": "Tranh, bức tranh" },
+    { "id": "v7", "word": "景色", "kanji": "景色", "hiragana": "けしき", "reading": "keshiki", "meaning": "Phong cảnh" },
+    { "id": "v8", "word": "自転車", "kanji": "自転車", "hiragana": "じてんしゃ", "reading": "jitensha", "meaning": "Xe đạp" },
+    { "id": "v9", "word": "写真", "kanji": "写真", "hiragana": "しゃしん", "reading": "shashin", "meaning": "Bức ảnh" },
+    { "id": "v10", "word": "撮ります", "kanji": "撮ります", "hiragana": "とります", "reading": "torimasu", "meaning": "Chụp (ảnh)", "example": { "sentence": "しゃしんを とります", "translation": "Chụp ảnh" } },
+    { "id": "v11", "word": "借ります", "kanji": "借ります", "hiragana": "かります", "reading": "karimasu", "meaning": "Mượn", "example": { "sentence": "じてんしゃを かります", "translation": "Mượn xe đạp" } },
+    { "id": "v12", "word": "欲しい", "kanji": "欲しい", "hiragana": "ほしい", "reading": "hoshii", "meaning": "Muốn có", "example": { "sentence": "パソコンが ほしいです", "translation": "Tôi muốn có máy tính" } },
+    { "id": "v13", "word": "好き", "kanji": "好き", "hiragana": "すき", "reading": "suki", "meaning": "Thích", "example": { "sentence": "かいものが すきです", "translation": "Tôi thích mua sắm" } },
+    { "id": "v14", "word": "嫌い", "kanji": "嫌い", "hiragana": "きらい", "reading": "kirai", "meaning": "Ghét, không thích", "example": { "sentence": "さかなが きらいです", "translation": "Tôi ghét cá" } },
+    { "id": "v15", "word": "おととい", "hiragana": "おととい", "reading": "ototoi", "meaning": "Hôm kia" },
+    { "id": "v16", "word": "今朝", "kanji": "今朝", "hiragana": "けさ", "reading": "kesa", "meaning": "Sáng nay" },
+    { "id": "v17", "word": "忙しい", "kanji": "忙しい", "hiragana": "いそがしい", "reading": "isogashii", "meaning": "Bận rộn" },
+    { "id": "v18", "word": "暇", "kanji": "暇", "hiragana": "ひま", "reading": "hima", "meaning": "Rảnh rỗi" },
+    { "id": "v19", "word": "服", "kanji": "服", "hiragana": "ふく", "reading": "fuku", "meaning": "Quần áo" },
+    { "id": "v20", "word": "楽しい", "kanji": "楽しい", "hiragana": "たのしい", "reading": "tanoshii", "meaning": "Vui vẻ" },
+    { "id": "v21", "word": "簡単", "kanji": "簡単", "hiragana": "かんたん", "reading": "kantan", "meaning": "Đơn giản, dễ" },
+    { "id": "v22", "word": "大変", "kanji": "大変", "hiragana": "たいへん", "reading": "taihen", "meaning": "Vất vả, cực nhọc" },
+    { "id": "v23", "word": "先月", "kanji": "先月", "hiragana": "せんげつ", "reading": "sengetsu", "meaning": "Tháng trước" },
+    { "id": "v24", "word": "難しい", "kanji": "難しい", "hiragana": "むずかしい", "reading": "muzukashii", "meaning": "Khó" },
+    { "id": "v25", "word": "安い", "kanji": "安い", "hiragana": "やすい", "reading": "yasui", "meaning": "Rẻ" },
+    { "id": "v26", "word": "温泉に入ります", "kanji": "温泉に入ります", "hiragana": "おんせんにはいります", "reading": "onsen ni hairimasu", "meaning": "Tắm suối nước nóng" },
+    { "id": "v27", "word": "山に登ります", "kanji": "山に登ります", "hiragana": "やまにのぼります", "reading": "yama ni noborimasu", "meaning": "Leo núi" }
   ],
   "grammar": [
     {
       "id": "g1",
-      "pattern": "[Địa điểm] へ 行きます / 来ます / 帰ります",
-      "structure": "N (địa điểm) + へ + 行きます / 来ます / 帰ります",
-      "explanation": "Dùng để biểu thị hướng di chuyển đến hoặc về một địa điểm nào đó. Trợ từ 'へ' viết bằng ký tự Hiragana 'へ' nhưng được phát âm chuẩn là 'e'.",
-      "usage": "• 行きます (ikimasu): Rời khỏi vị trí hiện tại để đi đến một địa điểm khác.\n• 来ます (kimasu): Di chuyển đến vị trí của người nói hoặc hướng về phía người nói.\n• 帰ります (kaerimasu): Trở về nơi chốn thân thuộc vốn có như nhà (うち), quê hương, tổ quốc (国).",
-      "notes": "• Chữ Hiragana 'へ' khi đóng vai trò là trợ từ chỉ hướng đi thì luôn phát âm là 'e' (chứ không đọc là 'he').\n• Khi muốn phủ định hoàn toàn (không đi đâu cả), thay trợ từ 'へ' bằng 'も' thành mẫu: どこ [も](へ) 行きません (hoặc どこへも 行きません).\n• 'うちへ帰ります' là cách nói chuẩn xác khi tan sở/tan học về nhà mình.",
+      "pattern": "N が ほしいです",
+      "structure": "私は [Danh từ] が ほしいです。",
+      "explanation": "Dùng để diễn tả mong muốn sở hữu một vật gì đó của người nói. Trợ từ đi kèm luôn là 'が'. 'ほしい' (hoshii) là một tính từ đuôi 'い'.",
       "examples": [
         {
-          "japanese": "明日 どこ へ 行きますか。",
-          "furigana": "[明日](あした) どこ へ [行](い)きますか。",
-          "vietnamese": "Ngày mai bạn đi đâu thế?"
+          "japanese": "やまださんは 家 が ほしいです。",
+          "furigana": "やまださんは [家](いえ) が ほしいです。",
+          "vietnamese": "Anh Yamada muốn có một ngôi nhà."
         },
         {
-          "japanese": "京都 へ 行きます。",
-          "furigana": "[京都](きょうと) へ [行](い)きます。",
-          "vietnamese": "Tôi đi Kyoto."
-        },
-        {
-          "japanese": "どこ も 行きません。",
-          "furigana": "どこ も [行](い)きません。",
-          "vietnamese": "Tôi không đi đâu cả."
-        },
-        {
-          "japanese": "わたし は 六時 に うち へ 帰ります。",
-          "furigana": "わたし は [六時](ろくじ) に うち へ [帰](かえ)ります。",
-          "vietnamese": "Tôi về nhà vào lúc 6 giờ."
+          "japanese": "やまださんは お金 が ほしいです。",
+          "furigana": "やまださんは お[金](かね) が ほしいです。",
+          "vietnamese": "Anh Yamada muốn có tiền."
         }
       ]
     },
     {
       "id": "g2",
-      "pattern": "[Phương tiện] で 行きます / 来ます / 帰ります",
-      "structure": "N (phương tiện giao thông) + で + [Động từ di chuyển]",
-      "explanation": "Trợ từ 'で' (de) được đặt ngay sau danh từ chỉ phương tiện giao thông để biểu thị cách thức, phương tiện dùng để thực hiện việc di chuyển.",
-      "usage": "Dùng để trả lời cho câu hỏi phương tiện: '何 で 行きますか' (Nan de ikimasu ka? - Bạn đi bằng phương tiện gì?).",
-      "notes": "• Ngoại lệ đặc biệt: Khi đi bộ, ta dùng cụm từ '歩いて' (aruite - thể te của động từ 歩く) và KHÔNG dùng trợ từ 'で' (Nói '歩いて 行きます', tuyệt đối không nói '歩いてで行きます').\n• Từ để hỏi phương tiện giao thông là '何で' (なんで - nan de) hoặc 'どうやって' (dou yatte - bằng cách nào).",
+      "pattern": "N が すきです / きらいです",
+      "structure": "私は [Danh từ] が すきです / きらいです。",
+      "explanation": "Dùng để biểu đạt sở thích (thích cái gì) hoặc sự ghét bỏ (ghét cái gì). Trợ từ đi kèm để chỉ đối tượng luôn là 'が'.",
       "examples": [
         {
-          "japanese": "何 で 会社 へ 行きますか。",
-          "furigana": "[何](なん) で [会社](かいしゃ) へ [行](い)きますか。",
-          "vietnamese": "Bạn đi đến công ty bằng phương tiện gì?"
+          "japanese": "私は 映画 が すきです。",
+          "furigana": "[私](わたし)は [映画](えいが) が すきです。",
+          "vietnamese": "Tôi thích phim ảnh."
         },
         {
-          "japanese": "地下鉄 で 行きます。",
-          "furigana": "[地下鉄](ちかてつ) で [行](い)きます。",
-          "vietnamese": "Tôi đi bằng tàu điện ngầm."
+          "japanese": "私は スポーツ が すきです。",
+          "furigana": "[私](わたし)は スポーツ が すきです。",
+          "vietnamese": "Tôi thích thể thao."
         },
         {
-          "japanese": "駅から 家まで 歩いて 帰ります。",
-          "furigana": "[駅](えき)から [家](うち)まで [歩](ある)いて [帰](かえ)ります。",
-          "vietnamese": "Tôi đi bộ từ nhà ga về nhà."
+          "japanese": "私は ワイン が きらいです。",
+          "furigana": "[私](わたし)は ワイン が きらいです。",
+          "vietnamese": "Tôi ghét rượu vang."
         },
         {
-          "japanese": "新幹線 で 東京 へ 行きました。",
-          "furigana": "[新幹線](しんかんせん) で [東京](とうきょう) へ [行](い)きました。",
-          "vietnamese": "Tôi đã đi đến Tokyo bằng tàu siêu tốc Shinkansen."
+          "japanese": "私は 仕事 が すきじゃありません。",
+          "furigana": "[私](わたし)は [仕事](しごと) が すきじゃありません。",
+          "vietnamese": "Tôi không thích công việc."
         }
       ]
     },
     {
       "id": "g3",
-      "pattern": "[Người] と [Động từ]",
-      "structure": "N (người / động vật) + と + [Động từ]",
-      "explanation": "Trợ từ 'と' (to) đặt sau danh từ chỉ người hoặc động vật để biểu thị đối tượng cùng tham gia thực hiện một hành động (mang nghĩa là 'cùng với', 'và').",
-      "usage": "Dùng để diễn tả người đồng hành, trả lời cho câu hỏi: 'だれ と [Động từ] か' (Dare to ... ka? - Làm gì cùng với ai?).",
-      "notes": "• Khi tự mình làm một việc gì đó (không có bạn đồng hành), ta dùng cụm từ '一人で' (ひとりで - hitoride) và KHÔNG dùng trợ từ 'と' (Nói '一人で 行きます', không nói '一人と 行きます').\n• Cần phân biệt: 'と' nối hai danh từ (Liệt kê: Táo và Cam) khác với 'と' bạn đồng hành (Làm cùng ai đó).",
+      "pattern": "Vます + たい",
+      "structure": "私は [Danh từ] を/が [Động từ thể ます bỏ ます] + たいです。",
+      "explanation": "Dùng để diễn tả mong muốn thực hiện một hành động nào đó của người nói. Động từ ở thể 'ます' (masu) sẽ bỏ chữ 'ます' đi và thêm 'たい' (tai).\nLưu ý: Trợ từ 'を' có thể giữ nguyên hoặc chuyển thành 'が', các trợ từ khác (に, で, へ...) giữ nguyên.",
       "examples": [
         {
-          "japanese": "だれ と 日本 へ 来ましたか。",
-          "furigana": "だれ と [日本](にほん) へ [来](き)ましたか。",
-          "vietnamese": "Bạn đã đến Nhật Bản cùng với ai?"
+          "japanese": "わたしは すしを たべたいです。",
+          "furigana": "わたしは すしを たべたいです。",
+          "vietnamese": "Tôi muốn ăn sushi."
         },
         {
-          "japanese": "家族 と 来ました。",
-          "furigana": "[家族](かぞく) と [来](き)ました。",
-          "vietnamese": "Tôi đã đến cùng với gia đình."
+          "japanese": "わたしは ビールを のみたいです。",
+          "furigana": "わたしは ビールを のみたいです。",
+          "vietnamese": "Tôi muốn uống bia."
         },
         {
-          "japanese": "一人で 東京 へ 行きます。",
-          "furigana": "[一人](ひとり)で [東京](とうきょう) へ [行](い)きます。",
-          "vietnamese": "Tôi đi Tokyo một mình."
-        },
-        {
-          "japanese": "日曜日 に 友達 と デパート へ 行きました。",
-          "furigana": "[日曜日](にちようび) に [友達](ともだち) と デパート へ [行](い)きました。",
-          "vietnamese": "Vào Chủ nhật tôi đã đi trung tâm thương mại cùng bạn bè."
+          "japanese": "わたしは 山に のぼりたいです。",
+          "furigana": "わたしは [山](やま)に のぼりたいです。",
+          "vietnamese": "Tôi muốn leo núi."
         }
       ]
-    }
-  ],
-  "exercises": [
-    {
-      "id": "q1",
-      "type": "multiple_choice",
-      "questionText": "Trong câu biểu thị hướng di chuyển 'わたし は 学校 ___ 行きます', trợ từ nào phù hợp nhất để điền vào chỗ trống?",
-      "options": [
-        "へ",
-        "で",
-        "を",
-        "に"
-      ],
-      "correctAnswer": "へ",
-      "explanation": "Trợ từ 'へ' (phát âm là 'e') kết hợp với các động từ di chuyển (行きます, 来ます, 帰ります) để chỉ phương hướng và đích đến của chuyển động."
     },
     {
-      "id": "q2",
-      "type": "multiple_choice",
-      "questionText": "Khi muốn nói 'Tôi đi bộ đến trường', câu tiếng Nhật nào sau đây đúng ngữ pháp nhất?",
-      "options": [
-        "わたし は 歩いて 学校 へ 行きます。",
-        "わたし は 歩いて で 学校 へ 行きます。",
-        "わたし は 歩き で 学校 へ 行きます。",
-        "わたし は 歩いて と 学校 へ 行きます。"
-      ],
-      "correctAnswer": "わたし は 歩いて 学校 へ 行きます。",
-      "explanation": "'歩いて' (aruite - đi bộ) là phó từ thể hiện cách thức di chuyển, không đi kèm trợ từ 'で'. Cụm '歩いてで' là sai ngữ pháp."
+      "id": "g4",
+      "pattern": "Vます に いきます",
+      "structure": "[Địa điểm] へ [Động từ thể ます bỏ ます / Danh động từ] に 行きます / 来ます / 帰ります。",
+      "explanation": "Dùng để diễn tả mục đích của việc đi lại. Trợ từ 'に' đặt sau phần chỉ mục đích (động từ bỏ masu hoặc danh từ chỉ hành động).",
+      "examples": [
+        {
+          "japanese": "コンサートに 行きます。",
+          "furigana": "コンサートに [行](い)きます。",
+          "vietnamese": "Tôi đi đến buổi hòa nhạc."
+        },
+        {
+          "japanese": "本やへ じしょを かいに いきます。",
+          "furigana": "[本や](ほんや)へ じしょを かいに いきます。",
+          "vietnamese": "Tôi đi đến hiệu sách để mua từ điển."
+        },
+        {
+          "japanese": "こうえんへ バーベキューを しに いきます。",
+          "furigana": "こうえんへ バーベキューを しに いきます。",
+          "vietnamese": "Tôi đi đến công viên để làm tiệc nướng BBQ."
+        },
+        {
+          "japanese": "日本へ 日本語の勉強に いきます。",
+          "furigana": "[日本](にほん)へ [日本語](にほんご)の[勉強](べんきょう)に いきます。",
+          "vietnamese": "Tôi đi đến Nhật Bản để học tiếng Nhật."
+        }
+      ]
     },
     {
-      "id": "q3",
-      "type": "multiple_choice",
-      "questionText": "Chọn câu hỏi phù hợp nhất cho câu trả lời: '… 電車 で 行きます。' (Tôi đi bằng tàu điện).",
-      "options": [
-        "何 で 行きますか。",
-        "だれ と 行きますか。",
-        "どこ へ 行きますか。",
-        "いつ 行きますか。"
-      ],
-      "correctAnswer": "何 で 行きますか。",
-      "explanation": "'何 で 行きますか' (Nan de ikimasu ka) nghĩa là 'Bạn đi bằng gì/phương tiện gì?'. 'だれと' hỏi cùng ai, 'どこへ' hỏi đi đâu, 'いつ' hỏi khi nào."
-    },
-    {
-      "id": "q4",
-      "type": "multiple_choice",
-      "questionText": "Để nói 'Tôi đã đến Nhật Bản một mình', câu tiếng Nhật chuẩn xác là gì?",
-      "options": [
-        "一人で 日本 へ 来ました。",
-        "一人と 日本 へ 来ました。",
-        "一人へ 日本 で 来ました。",
-        "一人に 日本 へ 来ました。"
-      ],
-      "correctAnswer": "一人で 日本 へ 来ました。",
-      "explanation": "Khi thực hiện hành động một mình, ta dùng cụm phó từ '一人で' (ひとりで) và không dùng trợ từ 'と'."
-    },
-    {
-      "id": "q5",
-      "type": "fill_in_blank",
-      "questionText": "Điền trợ từ thích hợp vào chỗ trống: わたし は 7時 に うち _____ 帰ります。(Tôi về nhà vào lúc 7 giờ.)",
-      "correctAnswer": "へ",
-      "explanation": "Trợ từ 'へ' (phát âm là 'e') biểu thị hướng di chuyển về địa điểm (ở đây là 'うち' - nhà)."
-    },
-    {
-      "id": "q6",
-      "type": "fill_in_blank",
-      "questionText": "Điền trợ từ thích hợp vào chỗ trống: 毎朝 バス _____ 学校 へ 行きます。(Mỗi sáng tôi đi xe buýt đến trường.)",
-      "correctAnswer": "で",
-      "explanation": "Trợ từ 'で' đứng sau danh từ chỉ phương tiện giao thông (バス - xe buýt) để chỉ cách thức hoặc phương tiện di chuyển."
-    },
-    {
-      "id": "q7",
-      "type": "fill_in_blank",
-      "questionText": "Điền trợ từ thích hợp vào chỗ trống: 日曜日 に 友達 _____ デパート へ 行きました。(Chủ nhật tôi đã đi trung tâm thương mại cùng bạn bè.)",
-      "correctAnswer": "と",
-      "explanation": "Trợ từ 'と' đứng sau danh từ chỉ người (友達 - bạn bè) để chỉ người cùng tham gia thực hiện hành động."
-    },
-    {
-      "id": "q8",
-      "type": "fill_in_blank",
-      "questionText": "Điền trợ từ thích hợp vào chỗ trống để tạo câu phủ định hoàn toàn: 日曜日 は どこ _____ 行きませんでした。(Chủ nhật tôi đã không đi đâu cả.)",
-      "correctAnswer": "も",
-      "explanation": "Cấu trúc '[Nghi vấn từ] + も + Động từ phủ định' dùng để biểu thị sự phủ định hoàn toàn (どこも行きませんでした: Không đi đâu cả)."
-    },
-    {
-      "id": "q9",
-      "type": "ordering",
-      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Tôi đi đến trường bằng xe đạp cùng bạn.'",
-      "words": [
-        "わたし は",
-        "友達 と",
-        "自転車 で",
-        "学校 へ",
-        "行きます"
-      ],
-      "correctOrder": [
-        "わたし は",
-        "友達 と",
-        "自転車 で",
-        "学校 へ",
-        "行きます"
-      ],
-      "explanation": "Trật tự câu chuẩn tiếng Nhật: [Chủ ngữ + は] + [Người cùng làm + と] + [Phương tiện + で] + [Đích đến + へ] + [Động từ: 行きます]."
-    },
-    {
-      "id": "q10",
-      "type": "ordering",
-      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Ngày mai tôi đi Tokyo bằng tàu Shinkansen một mình.'",
-      "words": [
-        "明日",
-        "一人で",
-        "新幹線 で",
-        "東京 へ",
-        "行きます"
-      ],
-      "correctOrder": [
-        "明日",
-        "一人で",
-        "新幹線 で",
-        "東京 へ",
-        "行きます"
-      ],
-      "explanation": "Trật tự câu chuẩn: [Thời gian: 明日] + [Trạng từ cách thức: 一人で] + [Phương tiện: 新幹線 で] + [Đích đến: 東京 へ] + [Động từ: 行きます]."
+      "id": "g5",
+      "pattern": "どこかへ / なにか",
+      "structure": "どこかへ (Đi đâu đó) / なにか (Cái gì đó)",
+      "explanation": "Đây là các đại từ phiếm chỉ. 'どこかへ' mang nghĩa là một nơi nào đó không xác định, 'なにか' mang nghĩa là một cái gì đó.",
+      "examples": [
+        {
+          "japanese": "冬休みは どこかへ 行きましたか。",
+          "furigana": "[冬休み](ふゆやすみ)は どこかへ [行](い)きましたか。",
+          "vietnamese": "Kỳ nghỉ đông bạn đã đi đâu đó không?"
+        },
+        {
+          "japanese": "はい、北海道へ いきました。",
+          "furigana": "はい、[北海道](ほっかいどう)へ いきました。",
+          "vietnamese": "Vâng, tôi đã đi Hokkaido."
+        },
+        {
+          "japanese": "なにか たべたいですか。",
+          "furigana": "なにか たべたいですか。",
+          "vietnamese": "Bạn có muốn ăn gì đó không?"
+        }
+      ]
     }
   ]
 }

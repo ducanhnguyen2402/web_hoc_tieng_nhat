@@ -1,142 +1,119 @@
-{
+﻿{
   "lessonId": "n5-lesson5",
   "questions": [
     {
       "id": "q1",
       "type": "fill_in_blank",
-      "questionText": "Điền từ tiếng Nhật (hiragana) vào chỗ trống: 洗濯 ________ (Giặt giũ)",
-      "correctAnswer": "します",
-      "explanation": "洗濯します (Sentaku shimasu) nghĩa là giặt giũ."
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: やまださんは いえ ___ ほしいです。(Anh Yamada muốn có một ngôi nhà.)",
+      "correctAnswer": "が",
+      "explanation": "Cấu trúc 'N が ほしいです' dùng để diễn tả mong muốn sở hữu một vật gì đó."
     },
     {
       "id": "q2",
-      "type": "multiple_choice",
-      "questionText": "Từ nào sau đây KHÔNG cùng nhóm với các từ còn lại?",
-      "options": [
-        "水 (Nước)",
-        "ジュース (Nước ép)",
-        "ワイン (Rượu vang)",
-        "パン (Bánh mì)"
-      ],
-      "correctAnswer": "パン (Bánh mì)",
-      "explanation": "パン (Bánh mì) là đồ ăn (食べ物), các từ còn lại là đồ uống (飲み物)."
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: わたしは すし ___ たべたいです。(Tôi muốn ăn sushi.)",
+      "correctAnswer": "を",
+      "explanation": "Với cấu trúc 'Vたいです' (muốn làm V), trợ từ có thể là 'を' (giữ nguyên của tha động từ) hoặc 'が'."
     },
     {
       "id": "q3",
-      "type": "multiple_choice",
-      "questionText": "Nhóm từ [春 (Xuân), 夏 (Hạ), 秋 (Thu), 冬 (Đông)] thuộc chủ đề gì?",
-      "options": [
-        "料理 (Món ăn)",
-        "飲み物 (Đồ uống)",
-        "季節 (Mùa)",
-        "乗り物 (Phương tiện)"
-      ],
-      "correctAnswer": "季節 (Mùa)",
-      "explanation": "春, 夏, 秋, 冬 là 4 mùa trong năm. 季節 (kisetsu) nghĩa là Mùa."
+      "type": "fill_in_blank",
+      "questionText": "Chia động từ trong ngoặc: わたしは やまに (のぼります) _______ たいです。(Tôi muốn leo núi.)",
+      "correctAnswer": "のぼり",
+      "explanation": "Cấu trúc muốn làm V: Động từ thể 'ます' bỏ 'ます' đi + 'たい'. 'のぼります' -> 'のぼりたい'."
     },
     {
       "id": "q4",
       "type": "multiple_choice",
-      "questionText": "Từ nào sau đây là Tính từ đuôi な (ナ形容詞)?",
+      "questionText": "Chọn câu đúng nhất với nghĩa 'Tôi ghét rượu vang.'",
       "options": [
-        "たかい",
-        "おもしろい",
-        "きれい",
-        "やすい"
+        "私は ワイン が きらいです。",
+        "私は ワイン を きらいです。",
+        "私は ワイン に きらいです。",
+        "私は ワイン で きらいです。"
       ],
-      "correctAnswer": "きれい",
-      "explanation": "きれい (Đẹp/Sạch) là tính từ đuôi な. たかい, おもしろい, やすい là tính từ đuôi い."
+      "correctAnswer": "私は ワイン が きらいです。",
+      "explanation": "'きらい' (ghét) và 'すき' (thích) là các tính từ đuôi な, dùng với trợ từ 'が' để chỉ đối tượng."
     },
     {
       "id": "q5",
       "type": "multiple_choice",
-      "questionText": "Chọn từ đúng: 毎日、アルバイトをします。[ _______ ] です。",
+      "questionText": "Ghép câu đúng nhất: 図書館へ 本を _______ に 行きます。(Tôi đi đến thư viện để mượn sách.)",
       "options": [
-        "たいへん",
-        "むずかしい"
+        "かり",
+        "かります",
+        "かって",
+        "かりて"
       ],
-      "correctAnswer": "たいへん",
-      "explanation": "Làm thêm mỗi ngày thì 'vất vả' (たいへん). むずかしい là 'khó'."
+      "correctAnswer": "かり",
+      "explanation": "Cấu trúc 'đi để làm V': Động từ thể 'ます' bỏ 'ます' + に行きます. '借ります' (mượn) bỏ masu thành 'かり'."
     },
     {
       "id": "q6",
       "type": "multiple_choice",
-      "questionText": "Chọn từ đúng: 日曜日、私はどこへも行きません。[ _______ ] です。",
+      "questionText": "Ghép câu đúng nhất: 日本へ 日本語の _______ に きました。(Tôi đã đến Nhật Bản để học tiếng Nhật.)",
       "options": [
-        "ひま",
-        "かんたん"
+        "勉強",
+        "勉強します",
+        "勉強して",
+        "勉強し"
       ],
-      "correctAnswer": "ひま",
-      "explanation": "Chủ nhật không đi đâu cả nên 'rảnh rỗi' (ひま)."
+      "correctAnswer": "勉強",
+      "explanation": "Cấu trúc với Danh động từ (Nhóm 3): Danh động từ (không có します) + に来ました/行きます. Vậy '勉強' + に きました."
     },
     {
       "id": "q7",
       "type": "multiple_choice",
-      "questionText": "Chọn từ đúng: 朝7時から夜10時まで働きます。[ _______ ] です。",
+      "questionText": "Chọn câu ứng với tình huống: Bạn muốn mua một chiếc máy tính mới, bạn sẽ nói gì?",
       "options": [
-        "いそがしい",
-        "おもしろい"
+        "新しいパソコン が ほしいです。",
+        "新しいパソコン を したいです。",
+        "新しいパソコン が すきです。",
+        "新しいパソコン に 行きたいです。"
       ],
-      "correctAnswer": "いそがしい",
-      "explanation": "Làm việc từ 7h sáng đến 10h tối thì rất 'bận rộn' (いそがしい)."
+      "correctAnswer": "新しいパソコン が ほしいです。",
+      "explanation": "'ほしいです' diễn tả mong muốn sở hữu một danh từ (máy tính)."
     },
     {
       "id": "q8",
-      "type": "multiple_choice",
-      "questionText": "Cách sử dụng từ [ぜひ] nào sau đây là ĐÚNG?",
-      "options": [
-        "一緒にお祭りに行きませんか。・・・ぜひ行きたいです。",
-        "タイは今、暑いですか。・・・はい、ぜひ暑いです。",
-        "子どももチケットを買いますか。・・・はい、ぜひ買います。"
+      "type": "ordering",
+      "questionText": "Sắp xếp thành câu: 'Tôi đã đi đến Tokyo để mua sắm.'",
+      "words": [
+        "東京へ",
+        "買い物に",
+        "行きました",
+        "わたしは"
       ],
-      "correctAnswer": "一緒にお祭りに行きませんか。・・・ぜひ行きたいです。",
-      "explanation": "ぜひ (Nhất định) thường đi với các mẫu câu thể hiện nguyện vọng (~たいです) hoặc rủ rê/mời mọc (~ましょう, ~てください)."
+      "correctOrder": [
+        "わたしは",
+        "東京へ",
+        "買い物に",
+        "行きました"
+      ],
+      "explanation": "Trật tự câu: [Chủ ngữ] + [Địa điểm] へ + [Mục đích (Danh động từ)] に + 行きました."
     },
     {
       "id": "q9",
-      "type": "multiple_choice",
-      "questionText": "Chọn từ thích hợp điền vào chỗ trống: パクさんはアルバイトがありましたから、来ませんでした。[ _______ ] でした。",
-      "options": [
-        "いっしょに",
-        "ざんねん",
-        "またこんど",
-        "たべほうだい"
+      "type": "ordering",
+      "questionText": "Sắp xếp thành câu: 'Kỳ nghỉ đông bạn đã đi đâu đó không?'",
+      "words": [
+        "行きましたか",
+        "どこかへ",
+        "冬休みは"
       ],
-      "correctAnswer": "ざんねん",
-      "explanation": "Vì Paku có việc làm thêm nên không đến được -> Thật 'đáng tiếc' (ざんねん)."
+      "correctOrder": [
+        "冬休みは",
+        "どこかへ",
+        "行きましたか"
+      ],
+      "explanation": "冬休みは (Kỳ nghỉ đông thì) どこかへ (đi đâu đó) 行きましたか (có đi không?)."
     },
     {
       "id": "q10",
-      "type": "multiple_choice",
-      "questionText": "Chọn từ thích hợp điền vào chỗ trống: とてもおいしかったです。[ _______ ] 行きたいです。",
-      "options": [
-        "またこんど",
-        "ざんねん",
-        "いっしょに",
-        "たべほうだい"
-      ],
-      "correctAnswer": "またこんど",
-      "explanation": "Rất ngon nên 'lần tới' (またこんど) lại muốn đi."
-    },
-    {
-      "id": "q11",
-      "type": "ordering",
-      "questionText": "Sắp xếp thành câu: 'Tôi đã đi chơi ở Shibuya cùng với bạn.'",
-      "words": [
-        "友達",
-        "渋谷へ",
-        "遊びに",
-        "と",
-        "行きました"
-      ],
-      "correctOrder": [
-        "友達",
-        "と",
-        "渋谷へ",
-        "遊びに",
-        "行きました"
-      ],
-      "explanation": "Cấu trúc đi cùng ai (と), đi đến đâu (へ) để làm gì (V masu bỏ masu + に行く): 友達 と 渋谷へ 遊びに 行きました."
+      "type": "fill_in_blank",
+      "questionText": "Điền từ tiếng Nhật (hiragana) vào chỗ trống: 今度の休みに ________ を したいですか。(Kỳ nghỉ tới bạn muốn làm gì?)",
+      "correctAnswer": "なに",
+      "explanation": "何 (なに) nghĩa là 'cái gì'. Để hỏi 'Muốn làm cái gì', ta dùng 'なにを したいですか'."
     }
   ]
 }
