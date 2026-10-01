@@ -1,0 +1,317 @@
+const fs = require('fs');
+const path = require('path');
+
+const lessonData = {
+  id: "n5-lesson5",
+  level: "N5",
+  lessonNumber: 5,
+  title: "Bài 5: Quá khứ, Sở thích và Mong muốn (〜ました・〜かったです・ほしい・たい)",
+  description: "Học cách chia thì quá khứ của động từ, tính từ; cách hỏi đáp về cảm nhận; diễn đạt sở thích, mong muốn và mục đích di chuyển.",
+  vocabulary: [
+    { id: "v1", word: "今日", kanji: "今日", hiragana: "きょう", reading: "kyou", meaning: "Hôm nay" },
+    { id: "v2", word: "明日", kanji: "明日", hiragana: "あした", reading: "ashita", meaning: "Ngày mai" },
+    { id: "v3", word: "あさって", hiragana: "あさって", reading: "asatte", meaning: "Ngày kia" },
+    { id: "v4", word: "昨日", kanji: "昨日", hiragana: "きのう", reading: "kinou", meaning: "Hôm qua" },
+    { id: "v5", word: "おととい", hiragana: "おととい", reading: "ototoi", meaning: "Hôm kia" },
+    { id: "v6", word: "先週", kanji: "先週", hiragana: "せんしゅう", reading: "senshuu", meaning: "Tuần trước" },
+    { id: "v7", word: "週末", kanji: "週末", hiragana: "しゅうまつ", reading: "shuumatsu", meaning: "Cuối tuần" },
+    { id: "v8", word: "家", kanji: "家", hiragana: "いえ", reading: "ie", meaning: "Nhà" },
+    { id: "v9", word: "部屋", kanji: "部屋", hiragana: "へや", reading: "heya", meaning: "Căn phòng" },
+    { id: "v10", word: "デパート", hiragana: "デパート", reading: "depaato", meaning: "Trung tâm thương mại" },
+    { id: "v11", word: "美術館", kanji: "美術館", hiragana: "びじゅつかん", reading: "bijutsukan", meaning: "Bảo tàng mỹ thuật" },
+    { id: "v12", word: "ゲーム", hiragana: "ゲーム", reading: "geemu", meaning: "Trò chơi, game" },
+    { id: "v13", word: "家族", kanji: "家族", hiragana: "かぞく", reading: "kazoku", meaning: "Gia đình" },
+    { id: "v14", word: "恋人", kanji: "恋人", hiragana: "こいびと", reading: "koibito", meaning: "Người yêu" },
+    { id: "v15", word: "友達", kanji: "友達", hiragana: "ともだち", reading: "tomodachi", meaning: "Bạn bè" },
+    { id: "v16", word: "ルームメイト", hiragana: "ルームメイト", reading: "ruumumeito", meaning: "Bạn cùng phòng" },
+    { id: "v17", word: "どこか", hiragana: "どこか", reading: "dokoka", meaning: "Nơi nào đó" },
+    { id: "v18", word: "会います", kanji: "会います", hiragana: "あいます", reading: "aimasu", meaning: "Gặp gỡ" },
+    { id: "v19", word: "作ります", kanji: "作ります", hiragana: "つくります", reading: "tsukurimasu", meaning: "Làm, chế tạo, nấu" },
+    { id: "v20", word: "買い物します", kanji: "買い物します", hiragana: "かいものします", reading: "kaimonoshimasu", meaning: "Mua sắm" },
+    { id: "v21", word: "食事します", kanji: "食事します", hiragana: "しょくじします", reading: "shokujishimasu", meaning: "Dùng bữa, ăn uống" },
+    { id: "v22", word: "洗濯します", kanji: "洗濯します", hiragana: "せんたくします", reading: "sentakushimasu", meaning: "Giặt giũ" },
+    { id: "v23", word: "掃除します", kanji: "掃除します", hiragana: "そうじします", reading: "soujishimasu", meaning: "Hút bụi, lau dọn nhà cửa" },
+    { id: "v24", word: "それから", hiragana: "それから", reading: "sorekara", meaning: "Sau đó" },
+    { id: "v25", word: "一人で", kanji: "一人で", hiragana: "ひとりで", reading: "hitoride", meaning: "Một mình" },
+    { id: "v26", word: "今朝", kanji: "今朝", hiragana: "けさ", reading: "kesa", meaning: "Sáng nay" },
+    { id: "v27", word: "先月", kanji: "先月", hiragana: "せんげつ", reading: "sengetsu", meaning: "Tháng trước" },
+    { id: "v28", word: "去年", kanji: "去年", hiragana: "きょねん", reading: "kyonen", meaning: "Năm ngoái" },
+    { id: "v29", word: "風邪", kanji: "風邪", hiragana: "かぜ", reading: "kaze", meaning: "Cảm cúm" },
+    { id: "v30", word: "天気", kanji: "天気", hiragana: "てんき", reading: "tenki", meaning: "Thời tiết" },
+    { id: "v31", word: "晩ご飯", kanji: "晩ご飯", hiragana: "ばんごはん", reading: "bangohan", meaning: "Cơm tối" },
+    { id: "v32", word: "服", kanji: "服", hiragana: "ふく", reading: "fuku", meaning: "Quần áo" },
+    { id: "v33", word: "登ります", kanji: "登ります", hiragana: "のぼります", reading: "noborimasu", meaning: "Leo, trèo" },
+    { id: "v34", word: "入ります", kanji: "入ります", hiragana: "はいります", reading: "hairimasu", meaning: "Vào / Bước vào" },
+    { id: "v35", word: "忙しい", kanji: "忙しい", hiragana: "いそがしい", reading: "isogashii", meaning: "Bận rộn" },
+    { id: "v36", word: "おもしろい", hiragana: "おもしろい", reading: "omoshiroi", meaning: "Thú vị, hay, hấp dẫn" },
+    { id: "v37", word: "気持ちがいい", kanji: "気持ちがいい", hiragana: "きもちがいい", reading: "kimochi ga ii", meaning: "Cảm thấy sảng khoái" },
+    { id: "v38", word: "高い", kanji: "高い", hiragana: "たかい", reading: "takai", meaning: "Cao, đắt" },
+    { id: "v39", word: "安い", kanji: "安い", hiragana: "やすい", reading: "yasui", meaning: "Rẻ" },
+    { id: "v40", word: "楽しい", kanji: "楽しい", hiragana: "たのしい", reading: "tanoshii", meaning: "Vui vẻ" },
+    { id: "v41", word: "難しい", kanji: "難しい", hiragana: "むずかしい", reading: "muzukashii", meaning: "Khó" },
+    { id: "v42", word: "簡単", kanji: "簡単", hiragana: "かんたん", reading: "kantan", meaning: "Dễ, đơn giản" },
+    { id: "v43", word: "大変", kanji: "大変", hiragana: "たいへん", reading: "taihen", meaning: "Vất vả" },
+    { id: "v44", word: "暇", kanji: "暇", hiragana: "ひま", reading: "hima", meaning: "Rảnh rỗi" },
+    { id: "v45", word: "どうして", hiragana: "どうして", reading: "doushite", meaning: "Tại sao" },
+    { id: "v46", word: "今度", kanji: "今度", hiragana: "こんど", reading: "kondo", meaning: "Lần tới" },
+    { id: "v47", word: "今晩", kanji: "今晩", hiragana: "こんばん", reading: "konban", meaning: "Tối nay" },
+    { id: "v48", word: "今年", kanji: "今年", hiragana: "ことし", reading: "kotoshi", meaning: "Năm nay" },
+    { id: "v49", word: "来年", kanji: "来年", hiragana: "らいねん", reading: "rainen", meaning: "Sang năm" },
+    { id: "v50", word: "アニメ", hiragana: "アニメ", reading: "anime", meaning: "Hoạt hình Nhật Bản" },
+    { id: "v51", word: "絵", kanji: "絵", hiragana: "え", reading: "e", meaning: "Tranh, bức tranh" },
+    { id: "v52", word: "景色", kanji: "景色", hiragana: "けしき", reading: "keshiki", meaning: "Phong cảnh" },
+    { id: "v53", word: "自転車", kanji: "自転車", hiragana: "じてんしゃ", reading: "jitensha", meaning: "Xe đạp" },
+    { id: "v54", word: "写真", kanji: "写真", hiragana: "しゃしん", reading: "shashin", meaning: "Ảnh" },
+    { id: "v55", word: "撮ります", kanji: "撮ります", hiragana: "とります", reading: "torimasu", meaning: "Chụp (ảnh)" },
+    { id: "v56", word: "借ります", kanji: "借ります", hiragana: "かります", reading: "karimasu", meaning: "Vay, mượn" },
+    { id: "v57", word: "欲しい", kanji: "欲しい", hiragana: "ほしい", reading: "hoshii", meaning: "Muốn có" },
+    { id: "v58", word: "好き", kanji: "好き", hiragana: "すき", reading: "suki", meaning: "Thích" },
+    { id: "v59", word: "嫌い", kanji: "嫌い", hiragana: "きらい", reading: "kirai", meaning: "Ghét" }
+  ],
+  grammar: [
+    {
+      id: "g1",
+      pattern: "Vました / Vませんでした",
+      structure: "Động từ thể ます đổi thành ました (khẳng định quá khứ) / ませんでした (phủ định quá khứ)",
+      explanation: "Dùng để diễn tả một hành động đã xảy ra trong quá khứ hoặc không xảy ra trong quá khứ.",
+      examples: [
+        {
+          japanese: "昨日 スーパーへ 行きました。",
+          furigana: "[昨日](きのう) スーパーへ [行](い)きました。",
+          vietnamese: "Hôm qua tôi đã đi siêu thị."
+        },
+        {
+          japanese: "昨日 パンを 食べませんでした。ご飯を 食べました。",
+          furigana: "[昨日](きのう) パンを [食](た)べませんでした。ご[飯](はん)を [食](た)べました。",
+          vietnamese: "Hôm qua tôi đã không ăn bánh mì. Tôi đã ăn cơm."
+        }
+      ]
+    },
+    {
+      id: "g2",
+      pattern: "N(người) と Vます",
+      structure: "[Danh từ chỉ người/động vật] + と + Động từ",
+      explanation: "Trợ từ 'と' dùng để chỉ đối tượng cùng thực hiện hành động với người nói (Làm gì cùng với ai). Nếu làm một mình thì dùng 'ひとりで' (không có と).",
+      examples: [
+        {
+          japanese: "レストランで 家族と 食事しました。",
+          furigana: "レストランで [家族](かぞく)と [食事](しょくじ)しました。",
+          vietnamese: "Tôi đã dùng bữa với gia đình ở nhà hàng."
+        },
+        {
+          japanese: "一人で テレビを 見ます。",
+          furigana: "[一人](ひとり)で テレビを [見](み)ます。",
+          vietnamese: "Tôi xem tivi một mình."
+        }
+      ]
+    },
+    {
+      id: "g3",
+      pattern: "どこかへ行きましたか",
+      structure: "どこか(へ) 行きましたか",
+      explanation: "Dùng để hỏi xem ai đó có đi đâu đó không. 'どこか' mang nghĩa 'nơi nào đó'. Trả lời: はい、〜へ行きました (Vâng, tôi đã đi ~) / いいえ、どこへも行きませんでした (Không, tôi đã không đi đâu cả).",
+      examples: [
+        {
+          japanese: "昨日、どこかへ 行きましたか。",
+          furigana: "[昨日](きのう)、どこかへ [行](い)きましたか。",
+          vietnamese: "Hôm qua bạn có đi đâu không?"
+        },
+        {
+          japanese: "はい、新宿へ 行きました。",
+          furigana: "はい、[新宿](しんじゅく)へ [行](い)きました。",
+          vietnamese: "Vâng, tôi đã đi Shinjuku."
+        },
+        {
+          japanese: "いいえ、どこへも 行きませんでした。",
+          furigana: "いいえ、どこへも [行](い)きませんでした。",
+          vietnamese: "Không, tôi đã không đi đâu cả."
+        }
+      ]
+    },
+    {
+      id: "g4",
+      pattern: "〜。それから、〜",
+      structure: "Câu 1. それから、Câu 2.",
+      explanation: "'それから' (Sau đó) là từ nối dùng để liệt kê 2 hành động theo trình tự thời gian. Hành động 1 xảy ra trước, rồi sau đó đến hành động 2.",
+      examples: [
+        {
+          japanese: "昨日、友達の家へ 行きました。それから、ゲームをしました。",
+          furigana: "[昨日](きのう)、[友達](ともだち)の[家](いえ)へ [行](い)きました。それから、ゲームをしました。",
+          vietnamese: "Hôm qua tôi đã đến nhà bạn. Sau đó, chúng tôi chơi game."
+        }
+      ]
+    },
+    {
+      id: "g5",
+      pattern: "Quá khứ của tính từ đuôi い",
+      structure: "Tính từ đuôi い bỏ い + かったです (khẳng định quá khứ) / くなかったです (phủ định quá khứ)",
+      explanation: "Dùng để diễn tả tính chất, trạng thái trong quá khứ của tính từ đuôi い. Riêng tính từ 'いい' (tốt) sẽ đổi thành 'よかったです' (đã tốt) và 'よくなかったです' (đã không tốt).",
+      examples: [
+        {
+          japanese: "今朝は 寒かったです。",
+          furigana: "[今朝](けさ)は [寒](さむ)かったです。",
+          vietnamese: "Sáng nay trời đã lạnh."
+        },
+        {
+          japanese: "パーティーは 楽しくなかったです。",
+          furigana: "パーティーは [楽](たの)しくなかったです。",
+          vietnamese: "Bữa tiệc đã không vui."
+        }
+      ]
+    },
+    {
+      id: "g6",
+      pattern: "Quá khứ của tính từ đuôi な và Danh từ",
+      structure: "Tính từ đuôi な (bỏ な) / Danh từ + でした (khẳng định quá khứ) / じゃありませんでした (phủ định quá khứ)",
+      explanation: "Dùng để diễn tả trạng thái, tính chất trong quá khứ đối với tính từ đuôi な và Danh từ.",
+      examples: [
+        {
+          japanese: "昨日は 暇でした。",
+          furigana: "[昨日](きのう)は [暇](ひま)でした。",
+          vietnamese: "Hôm qua tôi đã rảnh rỗi."
+        },
+        {
+          japanese: "昨日は 雨じゃありませんでした。",
+          furigana: "[昨日](きのう)は [雨](あめ)じゃありませんでした。",
+          vietnamese: "Hôm qua trời đã không mưa."
+        }
+      ]
+    },
+    {
+      id: "g7",
+      pattern: "どうでしたか",
+      structure: "[Chủ đề] は どうでしたか",
+      explanation: "Dùng để hỏi về cảm nhận, ấn tượng của người nghe về một sự việc, trải nghiệm đã xảy ra trong quá khứ.",
+      examples: [
+        {
+          japanese: "先週のテストは どうでしたか。",
+          furigana: "[先週](せんしゅう)のテストは どうでしたか。",
+          vietnamese: "Bài kiểm tra tuần trước thế nào?"
+        },
+        {
+          japanese: "難しかったです。",
+          furigana: "[難](むずか)しかったです。",
+          vietnamese: "Nó đã rất khó."
+        }
+      ]
+    },
+    {
+      id: "g8",
+      pattern: "どうして〜 / 〜から",
+      structure: "どうして [Câu hỏi] か。 -> [Lý do] から。",
+      explanation: "'どうして' dùng để hỏi lý do (Tại sao). Khi trả lời, thêm 'から' (Vì, bởi vì) vào cuối câu chỉ lý do.",
+      examples: [
+        {
+          japanese: "どうして 今朝 休みましたか。",
+          furigana: "どうして [今朝](けさ) [休](やす)みましたか。",
+          vietnamese: "Tại sao sáng nay bạn lại nghỉ?"
+        },
+        {
+          japanese: "風邪でしたから、休みました。",
+          furigana: "[風邪](かぜ)でしたから、[休](やす)みました。",
+          vietnamese: "Vì tôi bị cảm nên tôi đã nghỉ."
+        }
+      ]
+    },
+    {
+      id: "g9",
+      pattern: "N が ほしいです",
+      structure: "私は [Danh từ] が ほしいです。",
+      explanation: "Dùng để diễn tả mong muốn sở hữu một vật gì đó của người nói. Trợ từ đi kèm luôn là 'が'. 'ほしい' (hoshii) là một tính từ đuôi 'い'.",
+      examples: [
+        {
+          japanese: "やまださんは 家 が ほしいです。",
+          furigana: "やまださんは [家](いえ) が ほしいです。",
+          vietnamese: "Anh Yamada muốn có một ngôi nhà."
+        },
+        {
+          japanese: "やまださんは お金 が ほしいです。",
+          furigana: "やまださんは お[金](かね) が ほしいです。",
+          vietnamese: "Anh Yamada muốn có tiền."
+        }
+      ]
+    },
+    {
+      id: "g10",
+      pattern: "N が すきです / きらいです",
+      structure: "私は [Danh từ] が すきです / きらいです。",
+      explanation: "Dùng để biểu đạt sở thích (thích cái gì) hoặc sự ghét bỏ (ghét cái gì). Trợ từ đi kèm để chỉ đối tượng luôn là 'が'.",
+      examples: [
+        {
+          japanese: "私は 映画 が すきです。",
+          furigana: "[私](わたし)は [映画](えいが) が すきです。",
+          vietnamese: "Tôi thích phim ảnh."
+        },
+        {
+          japanese: "私は スポーツ が すきです。",
+          furigana: "[私](わたし)は スポーツ が すきです。",
+          vietnamese: "Tôi thích thể thao."
+        },
+        {
+          japanese: "私は ワイン が きらいです。",
+          furigana: "[私](わたし)は ワイン が きらいです。",
+          vietnamese: "Tôi ghét rượu vang."
+        },
+        {
+          japanese: "私は 仕事 が すきじゃありません。",
+          furigana: "[私](わたし)は [仕事](しごと) が すきじゃありません。",
+          vietnamese: "Tôi không thích công việc."
+        }
+      ]
+    },
+    {
+      id: "g11",
+      pattern: "Vます + たい",
+      structure: "私は [Danh từ] を/が [Động từ thể ます bỏ ます] + たいです。",
+      explanation: "Dùng để diễn tả mong muốn thực hiện một hành động nào đó của người nói. Động từ ở thể 'ます' (masu) sẽ bỏ chữ 'ます' đi và thêm 'たい' (tai).\nLưu ý: Trợ từ 'を' có thể giữ nguyên hoặc chuyển thành 'が', các trợ từ khác (に, で, へ...) giữ nguyên.",
+      examples: [
+        {
+          japanese: "わたしは すしを たべたいです。",
+          furigana: "わたしは すしを たべたいです。",
+          vietnamese: "Tôi muốn ăn sushi."
+        },
+        {
+          japanese: "わたしは ビールを のみたいです。",
+          furigana: "わたしは ビールを のみたいです。",
+          vietnamese: "Tôi muốn uống bia."
+        },
+        {
+          japanese: "わたしは 山に のぼりたいです。",
+          furigana: "わたしは [山](やま)に のぼりたいです。",
+          vietnamese: "Tôi muốn leo núi."
+        }
+      ]
+    },
+    {
+      id: "g12",
+      pattern: "Vます に いきます",
+      structure: "[Địa điểm] へ [Động từ thể ます bỏ ます / Danh động từ] に 行きます / 来ます / 帰ります。",
+      explanation: "Dùng để diễn tả mục đích của việc đi lại. Trợ từ 'に' đặt sau phần chỉ mục đích (động từ bỏ masu hoặc danh từ chỉ hành động).",
+      examples: [
+        {
+          japanese: "コンサートに 行きます。",
+          furigana: "コンサートに [行](い)きます。",
+          vietnamese: "Tôi đi đến buổi hòa nhạc."
+        },
+        {
+          japanese: "本やへ じしょを かいに いきます。",
+          furigana: "[本や](ほんや)へ じしょを かいに いきます。",
+          vietnamese: "Tôi đi đến hiệu sách để mua từ điển."
+        },
+        {
+          japanese: "こうえんへ バーベキューを しに いきます。",
+          furigana: "こうえんへ バーベキューを しに いきます。",
+          vietnamese: "Tôi đi đến công viên để làm tiệc nướng BBQ."
+        },
+        {
+          japanese: "日本へ 日本語の勉強に いきます。",
+          furigana: "[日本](にほん)へ [日本語](にほんご)の[勉強](べんきょう)に いきます。",
+          vietnamese: "Tôi đi đến Nhật Bản để học tiếng Nhật."
+        }
+      ]
+    }
+  ]
+};
+
+fs.writeFileSync(path.join(__dirname, '../data/lessons/n5-lesson5.json'), JSON.stringify(lessonData, null, 2), 'utf8');
+console.log('Successfully wrote n5-lesson5.json');

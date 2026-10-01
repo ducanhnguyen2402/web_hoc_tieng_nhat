@@ -1,0 +1,193 @@
+const fs = require('fs');
+const path = require('path');
+
+const exerciseData = {
+  lessonId: "n5-lesson5",
+  questions: [
+    {
+      id: "q1",
+      type: "multiple_choice",
+      questionText: "Chọn cách chia quá khứ đúng của động từ: 昨日 パンを _______ (Hôm qua tôi đã ăn bánh mì).",
+      options: [
+        "食べます",
+        "食べました",
+        "食べません",
+        "食べませんでした"
+      ],
+      correctAnswer: "食べました",
+      explanation: "Hành động đã xảy ra trong quá khứ nên dùng thể khẳng định quá khứ: ました."
+    },
+    {
+      id: "q2",
+      type: "fill_in_blank",
+      questionText: "Điền trợ từ thích hợp vào chỗ trống: 日曜日、家族 ___ はこねへ いきました。(Chủ nhật, tôi đã đi Hakone với gia đình).",
+      correctAnswer: "と",
+      explanation: "Làm gì đó cùng với ai dùng trợ từ と."
+    },
+    {
+      id: "q3",
+      type: "multiple_choice",
+      questionText: "Sắp xếp từ để tạo thành câu hoàn chỉnh: 友達の家へ行きました。(     ) 、ゲームをしました。",
+      options: [
+        "どうして",
+        "それから",
+        "どこかへ",
+        "なにか"
+      ],
+      correctAnswer: "それから",
+      explanation: "それから (sau đó) dùng để nối 2 hành động xảy ra liên tiếp theo trình tự thời gian."
+    },
+    {
+      id: "q4",
+      type: "multiple_choice",
+      questionText: "Chọn cách chia quá khứ đúng của tính từ đuôi い: 今朝は _______。(Sáng nay trời đã lạnh).",
+      options: [
+        "寒いです",
+        "寒いでした",
+        "寒かったです",
+        "寒くなかったです"
+      ],
+      correctAnswer: "寒かったです",
+      explanation: "Tính từ đuôi い chia quá khứ bằng cách bỏ い thêm かったです."
+    },
+    {
+      id: "q5",
+      type: "multiple_choice",
+      questionText: "Chọn cách chia quá khứ đúng của tính từ đuôi な: 昨日は _______。(Hôm qua tôi đã rảnh).",
+      options: [
+        "暇です",
+        "暇でした",
+        "暇かったです",
+        "暇じゃありません"
+      ],
+      correctAnswer: "暇でした",
+      explanation: "Tính từ đuôi な chia quá khứ bằng cách thêm でした."
+    },
+    {
+      id: "q6",
+      type: "multiple_choice",
+      questionText: "Câu hỏi: 先週のテストは どうでしたか。 (Bài kiểm tra tuần trước như thế nào?) - Chọn câu trả lời ĐÚNG:",
+      options: [
+        "難しいです。",
+        "難しかったです。",
+        "難しくなかったです。",
+        "難しいでした。"
+      ],
+      correctAnswer: "難しかったです。",
+      explanation: "Hỏi về quá khứ nên phải trả lời bằng quá khứ. 難しい (tính từ đuôi い) -> 難しかったです."
+    },
+    {
+      id: "q7",
+      type: "fill_in_blank",
+      questionText: "Điền trợ từ thích hợp vào chỗ trống: やまださんは いえ ___ ほしいです。(Anh Yamada muốn có một ngôi nhà.)",
+      correctAnswer: "が",
+      explanation: "Cấu trúc 'N が ほしいです' dùng để diễn tả mong muốn sở hữu một vật gì đó."
+    },
+    {
+      id: "q8",
+      type: "fill_in_blank",
+      questionText: "Điền trợ từ thích hợp vào chỗ trống: わたしは すし ___ たべたいです。(Tôi muốn ăn sushi.)",
+      correctAnswer: "を",
+      explanation: "Với cấu trúc 'Vたいです' (muốn làm V), trợ từ có thể là 'を' (giữ nguyên của tha động từ) hoặc 'が'."
+    },
+    {
+      id: "q9",
+      type: "fill_in_blank",
+      questionText: "Chia động từ trong ngoặc: わたしは やまに (のぼります) _______ たいです。(Tôi muốn leo núi.)",
+      correctAnswer: "のぼり",
+      explanation: "Cấu trúc muốn làm V: Động từ thể 'ます' bỏ 'ます' đi + 'たい'. 'のぼります' -> 'のぼりたい'."
+    },
+    {
+      id: "q10",
+      type: "multiple_choice",
+      questionText: "Chọn câu đúng nhất với nghĩa 'Tôi ghét rượu vang.'",
+      options: [
+        "私は ワイン が きらいです。",
+        "私は ワイン を きらいです。",
+        "私は ワイン に きらいです。",
+        "私は ワイン で きらいです。"
+      ],
+      correctAnswer: "私は ワイン が きらいです。",
+      explanation: "'きらい' (ghét) và 'すき' (thích) là các tính từ đuôi な, dùng với trợ từ 'が' để chỉ đối tượng."
+    },
+    {
+      id: "q11",
+      type: "multiple_choice",
+      questionText: "Ghép câu đúng nhất: 図書館へ 本を _______ に 行きます。(Tôi đi đến thư viện để mượn sách.)",
+      options: [
+        "かり",
+        "かります",
+        "かって",
+        "かりて"
+      ],
+      correctAnswer: "かり",
+      explanation: "Cấu trúc 'đi để làm V': Động từ thể 'ます' bỏ 'ます' + に行きます. '借ります' (mượn) bỏ masu thành 'かり'."
+    },
+    {
+      id: "q12",
+      type: "multiple_choice",
+      questionText: "Ghép câu đúng nhất: 日本へ 日本語の _______ に きました。(Tôi đã đến Nhật Bản để học tiếng Nhật.)",
+      options: [
+        "勉強",
+        "勉強します",
+        "勉強して",
+        "勉強し"
+      ],
+      correctAnswer: "勉強",
+      explanation: "Cấu trúc với Danh động từ (Nhóm 3): Danh động từ (không có します) + に来ました/行きます. Vậy '勉強' + に きました."
+    },
+    {
+      id: "q13",
+      type: "ordering",
+      questionText: "Sắp xếp thành câu: 'Tại sao sáng nay bạn lại nghỉ?'",
+      words: [
+        "どうして",
+        "休みましたか",
+        "今朝"
+      ],
+      correctOrder: [
+        "どうして",
+        "今朝",
+        "休みましたか"
+      ],
+      explanation: "Trật tự câu hỏi lý do: どうして + Thời gian + Động từ quá khứ + か."
+    },
+    {
+      id: "q14",
+      type: "ordering",
+      questionText: "Sắp xếp thành câu: 'Tôi đã đi đến Tokyo để mua sắm.'",
+      words: [
+        "東京へ",
+        "買い物に",
+        "行きました",
+        "わたしは"
+      ],
+      correctOrder: [
+        "わたしは",
+        "東京へ",
+        "買い物に",
+        "行きました"
+      ],
+      explanation: "Trật tự câu: [Chủ ngữ] + [Địa điểm] へ + [Mục đích (Danh động từ)] に + 行きました."
+    },
+    {
+      id: "q15",
+      type: "ordering",
+      questionText: "Sắp xếp thành câu: 'Kỳ nghỉ đông bạn đã đi đâu đó không?'",
+      words: [
+        "行きましたか",
+        "どこかへ",
+        "冬休みは"
+      ],
+      correctOrder: [
+        "冬休みは",
+        "どこかへ",
+        "行きましたか"
+      ],
+      explanation: "冬休みは (Kỳ nghỉ đông thì) どこかへ (đi đâu đó) 行きましたか (có đi không?)."
+    }
+  ]
+};
+
+fs.writeFileSync(path.join(__dirname, '../data/exercises/n5-lesson5.json'), JSON.stringify(exerciseData, null, 2), 'utf8');
+console.log('Successfully wrote exercises to n5-lesson5.json');
