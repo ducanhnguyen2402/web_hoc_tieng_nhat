@@ -7,166 +7,182 @@
       "questionText": "Từ nào sau đây thuộc nhóm [乗り物 - Phương tiện giao thông]?",
       "options": [
         "バス",
-        "メロン",
+        "真ん中",
         "教会",
-        "水"
+        "北"
       ],
       "correctAnswer": "バス",
-      "explanation": "バス (Xe buýt) là phương tiện giao thông. Các từ khác: メロン (Dưa gang), 教会 (Nhà thờ), 水 (Nước)."
+      "explanation": "バス (Xe buýt) là phương tiện giao thông. 真ん中 (Chính giữa), 北 (Bắc) chỉ hướng. 教会 (Nhà thờ)."
     },
     {
       "id": "q2",
       "type": "multiple_choice",
-      "questionText": "Từ nào sau đây thuộc nhóm [建物 - Tòa nhà, kiến trúc]?",
+      "questionText": "Chọn cách phủ định đúng của tính từ [高い] (Cao / Đắt):",
       "options": [
-        "ビル",
-        "りんご",
-        "飛行機",
-        "ケーキ"
+        "高くないです",
+        "高いじゃないです",
+        "高いじゃありません",
+        "高くありませんでした"
       ],
-      "correctAnswer": "ビル",
-      "explanation": "ビル (Tòa nhà) thuộc nhóm kiến trúc. Các từ khác: りんご (Quả táo), 飛行機 (Máy bay), ケーキ (Bánh ngọt)."
+      "correctAnswer": "高くないです",
+      "explanation": "高い là tính từ đuôi い. Phủ định ở hiện tại là 高くないです."
     },
     {
       "id": "q3",
-      "type": "fill_in_blank",
-      "questionText": "Điền từ tiếng Nhật (hiragana) vào chỗ trống: ケーキは ________ です。(Bánh ngọt thì ngọt)",
-      "correctAnswer": "あまい",
-      "explanation": "あまい (甘い) mang nghĩa là ngọt."
+      "type": "multiple_choice",
+      "questionText": "Chọn cách phủ định đúng của tính từ [静か] (Yên tĩnh):",
+      "options": [
+        "静かくないです",
+        "静かじゃありません",
+        "静かいじゃないです",
+        "静かなじゃありません"
+      ],
+      "correctAnswer": "静かじゃありません",
+      "explanation": "静か là tính từ đuôi な. Phủ định ở hiện tại là 静かじゃありません."
     },
     {
       "id": "q4",
       "type": "fill_in_blank",
-      "questionText": "Điền từ tiếng Nhật (hiragana) vào chỗ trống: コーヒーは ________ です。(Cà phê thì đắng)",
-      "correctAnswer": "にがい",
-      "explanation": "にがい (苦い) mang nghĩa là đắng."
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: ホアン・マイは ハノイ ___ 南です。(Hoàng Mai ở phía Nam của Hà Nội)",
+      "correctAnswer": "の",
+      "explanation": "Cấu trúc N1 は N2 の [Phương hướng] です: N1 ở phía... của N2."
     },
     {
       "id": "q5",
-      "type": "multiple_choice",
-      "questionText": "Từ nào KHÔNG phù hợp để đi với tính từ [たかい] (Cao)?",
-      "options": [
-        "川",
-        "山",
-        "ビル",
-        "お城"
-      ],
-      "correctAnswer": "川",
-      "explanation": "川 (Sông) không thể miêu tả là 'cao'. 山 (Núi), ビル (Tòa nhà), お城 (Lâu đài) đều có thể dùng với たかい."
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: 何 ___ フランスへ 行きますか。(Bạn đi Pháp bằng gì?)",
+      "correctAnswer": "で",
+      "explanation": "Trợ từ で chỉ phương tiện giao thông: 何で (bằng gì), 飛行機で (bằng máy bay)."
     },
     {
       "id": "q6",
-      "type": "multiple_choice",
-      "questionText": "Từ nào KHÔNG phù hợp để đi với tính từ [ふるい] (Cũ)?",
-      "options": [
-        "人",
-        "ビル",
-        "教会",
-        "車"
-      ],
-      "correctAnswer": "人",
-      "explanation": "人 (Người) không dùng với ふるい (cũ). Để nói người già, dùng お年寄り (otoshiyori)."
+      "type": "fill_in_blank",
+      "questionText": "Điền từ tiếng Nhật (hiragana) vào chỗ trống: 富士山は きれい ___ 山です。(Núi Phú Sĩ là ngọn núi đẹp)",
+      "correctAnswer": "な",
+      "explanation": "きれい là tính từ đuôi な. Khi bổ nghĩa cho danh từ (山), ta thêm な thành きれいな."
     },
     {
       "id": "q7",
       "type": "multiple_choice",
-      "questionText": "Từ nào KHÔNG phù hợp để đi với tính từ [おいしい] (Ngon)?",
+      "questionText": "Chọn từ thích hợp điền vào chỗ trống: 私の部屋は 小さいです___、きれいです。(Phòng của tôi nhỏ nhưng đẹp)",
       "options": [
-        "温泉",
-        "ケーキ",
-        "イチゴ",
-        "ワイン"
+        "が",
+        "そして",
+        "から",
+        "ね"
       ],
-      "correctAnswer": "温泉",
-      "explanation": "温泉 (Suối nước nóng) không phải là đồ ăn thức uống nên không thể dùng おいしい."
+      "correctAnswer": "が",
+      "explanation": "Hai vế mang nghĩa trái ngược nhau (nhỏ >< đẹp) nên dùng trợ từ nối 'が' (nhưng)."
     },
     {
       "id": "q8",
       "type": "multiple_choice",
-      "questionText": "Chọn từ đúng: このビールは [ _______ ] です。",
+      "questionText": "Chọn từ thích hợp điền vào chỗ trống: 姫路城は きれいです。___、有名です。(Lâu đài Himeji đẹp. Và còn nổi tiếng nữa)",
       "options": [
-        "つめたい",
-        "さむい"
+        "そして",
+        "が",
+        "から",
+        "でも"
       ],
-      "correctAnswer": "つめたい",
-      "explanation": "Dùng つめたい (Lạnh buốt) cho đồ vật, đồ uống. さむい dùng cho thời tiết."
+      "correctAnswer": "そして",
+      "explanation": "Hai vế mang nghĩa tương đồng (cùng tốt) nên dùng 'そして' (Và / Hơn nữa)."
     },
     {
       "id": "q9",
       "type": "multiple_choice",
-      "questionText": "Chọn từ đúng: ロシアの冬は [ _______ ] です。",
+      "questionText": "Chọn từ thích hợp: 日本からアメリカまで [ _______ ] かかりますか。",
       "options": [
-        "さむい",
-        "つめたい"
+        "どのくらい",
+        "なん",
+        "どこ",
+        "だれ"
       ],
-      "correctAnswer": "さむい",
-      "explanation": "さむい (Lạnh) được dùng để miêu tả thời tiết, không khí."
+      "correctAnswer": "どのくらい",
+      "explanation": "Hỏi về khoảng thời gian mất bao lâu, dùng 'どのくらい' (Khoảng bao lâu)."
     },
     {
       "id": "q10",
       "type": "multiple_choice",
-      "questionText": "Chọn từ đúng: タイは雨が [ _______ ] です。",
+      "questionText": "Cách nói 'Rất lớn' trong tiếng Nhật là gì?",
       "options": [
-        "おおい",
-        "おおきい"
+        "とても おおきいです",
+        "あまり おおきいです",
+        "ぜんぜん おおきいです",
+        "すこし おおきいです"
       ],
-      "correctAnswer": "おおい",
-      "explanation": "雨が多い (Mưa nhiều). おおい nghĩa là 'nhiều', おおきい là 'to, lớn'."
+      "correctAnswer": "とても おおきいです",
+      "explanation": "とても (Rất) đi với tính từ khẳng định. すこし là 'một chút'. あまり, ぜんぜん dùng với phủ định."
     },
     {
       "id": "q11",
       "type": "multiple_choice",
-      "questionText": "Chọn từ đúng: 私の町は [ _______ ] です。",
+      "questionText": "Cách nói 'Không nóng lắm' trong tiếng Nhật là gì?",
       "options": [
-        "おおきい",
-        "おおい"
+        "あまり あつくないです",
+        "とても あつくないです",
+        "すこし あつくないです",
+        "ぜんぜん あつくないです"
       ],
-      "correctAnswer": "おおきい",
-      "explanation": "Thị trấn lớn dùng おおきい. Không dùng おおい (nhiều) để miêu tả thị trấn."
+      "correctAnswer": "あまり あつくないです",
+      "explanation": "あまり + phủ định mang nghĩa 'không... lắm'. ぜんぜん + phủ định là 'hoàn toàn không'."
     },
     {
       "id": "q12",
       "type": "multiple_choice",
-      "questionText": "Chọn từ trái nghĩa của [おおきい] (Lớn):",
+      "questionText": "Trợ từ nào dùng cuối câu để thể hiện sự cảm thán (Ví dụ: Trời nóng quá nhỉ!)",
       "options": [
-        "ちいさい",
-        "ふるい",
-        "しずか",
-        "たかい"
+        "ね",
+        "よ",
+        "か",
+        "わ"
       ],
-      "correctAnswer": "ちいさい",
-      "explanation": "おおきい (Lớn) >< ちいさい (Nhỏ)."
+      "correctAnswer": "ね",
+      "explanation": "Trợ từ 'ね' đặt ở cuối câu để cảm thán hoặc mong người nghe đồng tình. (あついですね - Nóng nhỉ!)"
     },
     {
       "id": "q13",
-      "type": "multiple_choice",
-      "questionText": "Chọn từ trái nghĩa của [あたらしい] (Mới):",
-      "options": [
-        "ふるい",
-        "ちいさい",
-        "しずか",
-        "たかい"
+      "type": "ordering",
+      "questionText": "Sắp xếp thành câu: 'Hà Nội ở phía Bắc Việt Nam.'",
+      "words": [
+        "ハノイ",
+        "ベトナムの",
+        "北",
+        "です",
+        "は"
       ],
-      "correctAnswer": "ふるい",
-      "explanation": "あたらしい (Mới) >< ふるい (Cũ)."
+      "correctOrder": [
+        "ハノイ",
+        "は",
+        "ベトナムの",
+        "北",
+        "です"
+      ],
+      "explanation": "Cấu trúc: N1(thành phố) は N2(đất nước) の [hướng] です。"
     },
     {
       "id": "q14",
-      "type": "multiple_choice",
-      "questionText": "Chọn từ trái nghĩa của [にぎやか] (Náo nhiệt):",
-      "options": [
-        "しずか",
-        "ちいさい",
-        "ふるい",
-        "たかい"
+      "type": "ordering",
+      "questionText": "Sắp xếp thành câu: 'Từ nhà đến công ty bằng tàu điện mất khoảng 20 phút.'",
+      "words": [
+        "会社まで",
+        "うちから",
+        "20分くらい",
+        "電車で",
+        "です"
       ],
-      "correctAnswer": "しずか",
-      "explanation": "にぎやか (Náo nhiệt) >< しずか (Yên tĩnh)."
+      "correctOrder": [
+        "うちから",
+        "会社まで",
+        "電車で",
+        "20分くらい",
+        "です"
+      ],
+      "explanation": "Trật tự: Điểm A から Điểm B まで + Phương tiện で + Thời gian くらい + です。"
     },
     {
       "id": "q15",
       "type": "ordering",
-      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Ở Hakone có suối nước nóng.'",
+      "questionText": "Sắp xếp thành câu: 'Ở Hakone có suối nước nóng.'",
       "words": [
         "が",
         "箱根",
@@ -181,7 +197,7 @@
         "が",
         "あります"
       ],
-      "explanation": "Cấu trúc N1 に N2 が あります: Ở N1 có N2. (箱根に温泉があります)"
+      "explanation": "Cấu trúc tồn tại: N1(địa điểm) に N2(sự vật) が あります。"
     }
   ]
 }

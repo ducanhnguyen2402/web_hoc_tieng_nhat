@@ -2,40 +2,40 @@
   "id": "n5-lesson4",
   "level": "N5",
   "lessonNumber": 4,
-  "title": "Bài 4: Thời gian và Ngày tháng (Giờ, Phút, Thứ, Ngày, Tháng)",
-  "description": "Nắm vững cách hỏi và nói thời gian trong ngày (giờ, phút, rưỡi), các thứ trong tuần, cách dùng trợ từ に chỉ mốc thời điểm và cấu trúc biểu thị khoảng thời gian ~から ~まで.",
+  "title": "Bài 4: Phương hướng, Phương tiện & Miêu tả bằng Tính từ",
+  "description": "Học về phương hướng, phương tiện giao thông, cách sử dụng tính từ đuôi i và đuôi na để miêu tả người, vật, địa điểm, và các phó từ chỉ mức độ.",
   "vocabulary": [
     {
       "id": "v1",
-      "word": "北",
-      "kanji": "北",
-      "hiragana": "きた",
-      "reading": "kita",
-      "meaning": "Phía bắc"
-    },
-    {
-      "id": "v2",
-      "word": "南",
-      "kanji": "南",
-      "hiragana": "みなみ",
-      "reading": "minami",
-      "meaning": "Phía nam"
-    },
-    {
-      "id": "v3",
       "word": "東",
       "kanji": "東",
       "hiragana": "ひがし",
       "reading": "higashi",
-      "meaning": "Phía đông"
+      "meaning": "Đông / Phía Đông"
     },
     {
-      "id": "v4",
+      "id": "v2",
       "word": "西",
       "kanji": "西",
       "hiragana": "にし",
       "reading": "nishi",
-      "meaning": "Phía tây"
+      "meaning": "Tây / Phía Tây"
+    },
+    {
+      "id": "v3",
+      "word": "南",
+      "kanji": "南",
+      "hiragana": "みなみ",
+      "reading": "minami",
+      "meaning": "Nam / Phía Nam"
+    },
+    {
+      "id": "v4",
+      "word": "北",
+      "kanji": "北",
+      "hiragana": "きた",
+      "reading": "kita",
+      "meaning": "Bắc / Phía Bắc"
     },
     {
       "id": "v5",
@@ -43,7 +43,7 @@
       "kanji": "真ん中",
       "hiragana": "まんなか",
       "reading": "mannaka",
-      "meaning": "Chính giữa"
+      "meaning": "Chính giữa / Trung tâm"
     },
     {
       "id": "v6",
@@ -79,6 +79,36 @@
     },
     {
       "id": "v10",
+      "word": "バイク",
+      "hiragana": "バイク",
+      "reading": "baiku",
+      "meaning": "Xe máy"
+    },
+    {
+      "id": "v11",
+      "word": "自転車",
+      "kanji": "自転車",
+      "hiragana": "じてんしゃ",
+      "reading": "jitensha",
+      "meaning": "Xe đạp"
+    },
+    {
+      "id": "v12",
+      "word": "タクシー",
+      "hiragana": "タクシー",
+      "reading": "takushii",
+      "meaning": "Xe taxi"
+    },
+    {
+      "id": "v13",
+      "word": "歩いて",
+      "kanji": "歩いて",
+      "hiragana": "あるいて",
+      "reading": "aruite",
+      "meaning": "Đi bộ"
+    },
+    {
+      "id": "v14",
       "word": "駅",
       "kanji": "駅",
       "hiragana": "えき",
@@ -86,679 +116,265 @@
       "meaning": "Nhà ga"
     },
     {
-      "id": "v11",
+      "id": "v15",
       "word": "町",
       "kanji": "町",
       "hiragana": "まち",
       "reading": "machi",
-      "meaning": "Thành phố, thị trấn"
-    },
-    {
-      "id": "v12",
-      "word": "～時間",
-      "kanji": "時間",
-      "hiragana": "～じかん",
-      "reading": "~jikan",
-      "meaning": "～Tiếng"
-    },
-    {
-      "id": "v13",
-      "word": "～時間半",
-      "kanji": "時間半",
-      "hiragana": "～じかんはん",
-      "reading": "~jikanhan",
-      "meaning": "～ Tiếng rưỡi"
-    },
-    {
-      "id": "v14",
-      "word": "～分",
-      "kanji": "分",
-      "hiragana": "～ふん",
-      "reading": "~fun",
-      "meaning": "～ Phút"
-    },
-    {
-      "id": "v15",
-      "word": "うちから学校まで２０分です。",
-      "kanji": "学校,分",
-      "hiragana": "うちからがっこうまで２０ぷんです。",
-      "reading": "uchi kara gakkou made nijuuppun desu.",
-      "meaning": "Từ nhà đến trường mất 20 phút"
+      "meaning": "Thành phố / Thị trấn"
     },
     {
       "id": "v16",
-      "word": "歩いて",
-      "kanji": "歩",
-      "hiragana": "あるいて",
-      "reading": "aruite",
-      "meaning": "Đi bộ"
+      "word": "時間",
+      "kanji": "時間",
+      "hiragana": "じかん",
+      "reading": "jikan",
+      "meaning": "Tiếng / Giờ (khoảng thời gian)"
     },
     {
       "id": "v17",
-      "word": "～くらい",
-      "reading": "~kurai",
-      "meaning": "Khoảng"
+      "word": "時間半",
+      "kanji": "時間半",
+      "hiragana": "じかんはん",
+      "reading": "jikanhan",
+      "meaning": "Tiếng rưỡi (vd: 1 tiếng rưỡi)"
     },
     {
       "id": "v18",
-      "word": "どのくらい",
-      "reading": "donokurai",
-      "meaning": "Bao lâu"
+      "word": "分",
+      "kanji": "分",
+      "hiragana": "ふん",
+      "reading": "fun/pun",
+      "meaning": "Phút (khoảng thời gian)"
     },
     {
       "id": "v19",
-      "word": "温泉",
-      "kanji": "温泉",
-      "hiragana": "おんせん",
-      "reading": "onsen",
-      "meaning": "Suối nước nóng"
+      "word": "どのくらい",
+      "hiragana": "どのくらい",
+      "reading": "donokurai",
+      "meaning": "Bao lâu / Khoảng bao lâu"
     },
     {
       "id": "v20",
-      "word": "川",
-      "kanji": "川",
-      "hiragana": "かわ",
-      "reading": "kawa",
-      "meaning": "Sông"
-    },
-    {
-      "id": "v21",
-      "word": "山",
-      "kanji": "山",
-      "hiragana": "やま",
-      "reading": "yama",
-      "meaning": "Núi"
-    },
-    {
-      "id": "v22",
-      "word": "教会",
-      "kanji": "教会",
-      "hiragana": "きょうかい",
-      "reading": "kyoukai",
-      "meaning": "Nhà thờ"
-    },
-    {
-      "id": "v23",
-      "word": "（お）城",
-      "kanji": "城",
-      "hiragana": "（お）しろ",
-      "reading": "(o)shiro",
-      "meaning": "Lâu đài"
-    },
-    {
-      "id": "v24",
-      "word": "神社",
-      "kanji": "神社",
-      "hiragana": "じんじゃ",
-      "reading": "jinja",
-      "meaning": "Đền"
-    },
-    {
-      "id": "v25",
-      "word": "（お）寺",
-      "kanji": "寺",
-      "hiragana": "（お）てら",
-      "reading": "(o)tera",
-      "meaning": "Chùa"
-    },
-    {
-      "id": "v26",
-      "word": "ビル",
-      "reading": "biru",
-      "meaning": "Tòa nhà"
-    },
-    {
-      "id": "v27",
-      "word": "ところ",
-      "reading": "tokoro",
-      "meaning": "Nơi, chỗ"
-    },
-    {
-      "id": "v28",
-      "word": "人",
-      "kanji": "人",
-      "hiragana": "ひと",
-      "reading": "hito",
-      "meaning": "Người"
-    },
-    {
-      "id": "v29",
-      "word": "緑",
-      "kanji": "緑",
-      "hiragana": "みどり",
-      "reading": "midori",
-      "meaning": "Màu xanh; Cây xanh"
-    },
-    {
-      "id": "v30",
-      "word": "あります",
-      "reading": "arimasu",
-      "meaning": "Có"
-    },
-    {
-      "id": "v31",
-      "word": "箱根に温泉があります。",
-      "kanji": "箱根,温泉",
-      "hiragana": "はこねにおんせんがあります。",
-      "reading": "hakone ni onsen ga arimasu.",
-      "meaning": "Ở Hakone có suối nước nóng"
-    },
-    {
-      "id": "v32",
-      "word": "新しい",
-      "kanji": "新",
-      "hiragana": "あたらしい",
-      "reading": "atarashii",
-      "meaning": "Mới"
-    },
-    {
-      "id": "v33",
-      "word": "古い",
-      "kanji": "古",
-      "hiragana": "ふるい",
-      "reading": "furui",
-      "meaning": "Cũ"
-    },
-    {
-      "id": "v34",
-      "word": "いい",
-      "reading": "ii",
-      "meaning": "Tốt"
-    },
-    {
-      "id": "v35",
-      "word": "多い",
-      "kanji": "多",
-      "hiragana": "おおい",
-      "reading": "ooi",
-      "meaning": "Nhiều ～"
-    },
-    {
-      "id": "v36",
-      "word": "少ない",
-      "kanji": "少",
-      "hiragana": "すくない",
-      "reading": "sukunai",
-      "meaning": "Ít ～"
-    },
-    {
-      "id": "v37",
-      "word": "大きい",
-      "kanji": "大",
-      "hiragana": "おおきい",
-      "reading": "ookii",
-      "meaning": "To, lớn"
-    },
-    {
-      "id": "v38",
-      "word": "小さい",
-      "kanji": "小",
-      "hiragana": "ちいさい",
-      "reading": "chiisai",
-      "meaning": "Nhỏ, bé"
-    },
-    {
-      "id": "v39",
-      "word": "高い",
-      "kanji": "高",
-      "hiragana": "たかい",
-      "reading": "takai",
-      "meaning": "Cao, đắt"
-    },
-    {
-      "id": "v40",
-      "word": "富士山は高いです。",
-      "kanji": "富士山,高",
-      "hiragana": "ふじさんはたかいです。",
-      "reading": "fujisan wa takai desu.",
-      "meaning": "Núi Phú Sỹ cao"
-    },
-    {
-      "id": "v41",
-      "word": "低い",
-      "kanji": "低",
-      "hiragana": "ひくい",
-      "reading": "hikui",
-      "meaning": "Thấp"
-    },
-    {
-      "id": "v42",
-      "word": "きれい",
-      "reading": "kirei",
-      "meaning": "Đẹp, sạch sẽ"
-    },
-    {
-      "id": "v43",
-      "word": "静か",
-      "kanji": "静",
-      "hiragana": "しずか",
-      "reading": "shizuka",
-      "meaning": "Yên tĩnh"
-    },
-    {
-      "id": "v44",
-      "word": "にぎやか",
-      "reading": "nigiyaka",
-      "meaning": "Náo nhiệt, nhộn nhịp"
-    },
-    {
-      "id": "v45",
-      "word": "有名",
-      "kanji": "有名",
-      "hiragana": "ゆうめい",
-      "reading": "yuumei",
-      "meaning": "Nổi tiếng"
-    },
-    {
-      "id": "v46",
-      "word": "どんな",
-      "reading": "donna",
-      "meaning": "Như thế nào"
-    },
-    {
-      "id": "v47",
-      "word": "そして",
-      "reading": "soshite",
-      "meaning": "Và"
-    },
-    {
-      "id": "v48",
-      "word": "雨",
-      "kanji": "雨",
-      "hiragana": "あめ",
-      "reading": "ame",
-      "meaning": "Mưa"
-    },
-    {
-      "id": "v49",
-      "word": "雪",
-      "kanji": "雪",
-      "hiragana": "ゆき",
-      "reading": "yuki",
-      "meaning": "Tuyết"
-    },
-    {
-      "id": "v50",
-      "word": "日",
-      "kanji": "日",
-      "hiragana": "ひ",
-      "reading": "hi",
-      "meaning": "Ngày / Mặt trời"
-    },
-    {
-      "id": "v51",
-      "word": "メロン",
-      "reading": "meron",
-      "meaning": "Dưa gang (dưa lưới)"
-    },
-    {
-      "id": "v52",
-      "word": "暖かい",
-      "kanji": "暖",
-      "hiragana": "あたたかい",
-      "reading": "atatakai",
-      "meaning": "Ấm áp (thời tiết)"
-    },
-    {
-      "id": "v53",
-      "word": "涼しい",
-      "kanji": "涼",
-      "hiragana": "すずしい",
-      "reading": "suzushii",
-      "meaning": "Mát mẻ"
-    },
-    {
-      "id": "v54",
-      "word": "暑い",
-      "kanji": "暑",
-      "hiragana": "あつい",
-      "reading": "atsui",
-      "meaning": "Nóng bức (thời tiết)"
-    },
-    {
-      "id": "v55",
-      "word": "寒い",
-      "kanji": "寒",
-      "hiragana": "さむい",
-      "reading": "samui",
-      "meaning": "Lạnh, rét (thời tiết)"
-    },
-    {
-      "id": "v56",
-      "word": "天気がいい",
-      "kanji": "天気",
-      "hiragana": "てんきがいい",
-      "reading": "tenki ga ii",
-      "meaning": "Thời tiết đẹp"
-    },
-    {
-      "id": "v57",
-      "word": "天気がわるい",
-      "kanji": "天気",
-      "hiragana": "てんきがわるい",
-      "reading": "tenki ga warui",
-      "meaning": "Thời tiết xấu"
-    },
-    {
-      "id": "v58",
-      "word": "温かい",
-      "kanji": "温",
-      "hiragana": "あたたかい",
-      "reading": "atatakai",
-      "meaning": "Ấm (nhiệt độ, cảm giác)"
-    },
-    {
-      "id": "v59",
-      "word": "熱い",
-      "kanji": "熱",
-      "hiragana": "あつい",
-      "reading": "atsui",
-      "meaning": "Nóng (nhiệt độ)"
-    },
-    {
-      "id": "v60",
-      "word": "冷たい",
-      "kanji": "冷",
-      "hiragana": "つめたい",
-      "reading": "tsumetai",
-      "meaning": "Lạnh / Mát (nhiệt độ, cảm giác)"
-    },
-    {
-      "id": "v61",
-      "word": "おいしい",
-      "reading": "oishii",
-      "meaning": "Ngon"
-    },
-    {
-      "id": "v62",
-      "word": "甘い",
-      "kanji": "甘",
-      "hiragana": "あまい",
-      "reading": "amai",
-      "meaning": "Ngọt"
-    },
-    {
-      "id": "v63",
-      "word": "辛い",
-      "kanji": "辛",
-      "hiragana": "からい",
-      "reading": "karai",
-      "meaning": "Cay"
-    },
-    {
-      "id": "v64",
-      "word": "苦い",
-      "kanji": "苦",
-      "hiragana": "にがい",
-      "reading": "nigai",
-      "meaning": "Đắng"
-    },
-    {
-      "id": "v65",
-      "word": "すっぱい",
-      "reading": "suppai",
-      "meaning": "Chua"
-    },
-    {
-      "id": "v66",
-      "word": "一年中",
-      "kanji": "一年中",
-      "hiragana": "いちねんじゅう",
-      "reading": "ichinenjuu",
-      "meaning": "Suốt 1 năm"
-    },
-    {
-      "id": "v67",
-      "word": "あまり",
-      "reading": "amari",
-      "meaning": "Không ～ lắm"
-    },
-    {
-      "id": "v68",
-      "word": "私の国は夏、あまり暑くないです。",
-      "kanji": "私,国,夏,暑",
-      "hiragana": "わたしのくにはなつ、あまりあつくないです。",
-      "reading": "watashi no kuni wa natsu, amari atsukunai desu.",
-      "meaning": "Đất nước tôi vào mùa hè không lạnh lắm"
-    },
-    {
-      "id": "v69",
-      "word": "少し",
-      "kanji": "少",
-      "hiragana": "すこし",
-      "reading": "sukoshi",
-      "meaning": "Một chút, ít"
-    },
-    {
-      "id": "v70",
-      "word": "とても",
-      "reading": "totemo",
-      "meaning": "Rất"
-    },
-    {
-      "id": "v71",
-      "word": "どう",
-      "reading": "dou",
-      "meaning": "Thế nào"
-    },
-    {
-      "id": "v72",
-      "word": "そうですね。",
-      "reading": "sou desu ne.",
-      "meaning": "Câu nói thể hiện sự đồng tình"
+      "word": "くらい",
+      "hiragana": "くらい",
+      "reading": "kurai",
+      "meaning": "Khoảng..."
     }
   ],
   "grammar": [
     {
       "id": "g1",
-      "pattern": "今 [Số giờ]時 [Số phút]分 です & 今、何時ですか",
-      "structure": "今 + [Số giờ]時 + ([Số phút]分) + です / [Số giờ]時半",
-      "explanation": "Dùng để diễn đạt chính xác thời gian hiện tại hoặc hỏi giờ trong tiếng Nhật. Giờ được đếm bằng hậu tố '時' (じ), phút được đếm bằng '分' (ふん / ぷん), và '半' (はん) biểu thị 30 phút (rưỡi). Để hỏi giờ, ta dùng câu hỏi: '今、何時ですか' (Bây giờ là mấy giờ?).",
-      "usage": "Có thể thêm '午前' (buổi sáng / AM) hoặc '午後' (buổi chiều, tối / PM) phía trước mốc thời gian để làm rõ khung giờ trong ngày.",
-      "notes": "Lưu ý các trường hợp đọc giờ biến âm đặc biệt: 4 giờ đọc là 'よじ' (không đọc よんじ hay しじ), 7 giờ đọc là 'しちじ' (không đọc ななじ), 9 giờ đọc là 'くじ' (không đọc きゅうじ). Với phút: 1 phút (いっぷん), 3 phút (さんぷん), 4 phút (よんぷん), 6 phút (ろっぷん), 8 phút (はっぷん), 10 phút (じゅっぷん).",
+      "pattern": "N1 は N2(đất nước) の [hướng] です",
+      "structure": "N1 は N2 の [Phương hướng] です。",
+      "explanation": "Dùng để diễn tả vị trí của một thành phố, địa điểm nằm ở hướng nào của một đất nước hay địa phương lớn hơn.",
       "examples": [
         {
-          "japanese": "今 何時ですか。… 午後 3時 15分です。",
-          "furigana": "[今](いま) [何時](なんじ) ですか。… [午後](ごご) [三時](さんじ) [十五分](じゅうごふん) です。",
-          "vietnamese": "Bây giờ là mấy giờ? … 3 giờ 15 phút chiều."
+          "japanese": "ハノイは ベトナムの 北です。",
+          "furigana": "ハノイは ベトナムの [北](きた)です。",
+          "vietnamese": "Hà Nội ở phía Bắc của Việt Nam."
         },
         {
-          "japanese": "東京は 今 午前 9時半です。",
-          "furigana": "[東京](とうきょう) は [今](いま) [午前](ごぜん) [九時](くじ) [半](はん) です。",
-          "vietnamese": "Tokyo bây giờ là 9 giờ rưỡi sáng."
-        },
-        {
-          "japanese": "毎朝 6時 40分に 起きます。",
-          "furigana": "[毎朝](まいあさ) [六時](ろくじ) [四十分](よんじゅっぷん) に [起](お)きます。",
-          "vietnamese": "Mỗi sáng tôi thức dậy lúc 6 giờ 40 phút."
+          "japanese": "ホアン・マイは ハノイの 南です。",
+          "furigana": "ホアン・マイは ハノイの [南](みなみ)です。",
+          "vietnamese": "Hoàng Mai ở phía Nam của Hà Nội."
         }
       ]
     },
     {
       "id": "g2",
-      "pattern": "[Thời gian] に [Động từ]",
-      "structure": "[Danh từ thời gian có số] + に + Động từ",
-      "explanation": "Trợ từ 'に' đi liền sau danh từ chỉ thời gian xác định có chứa con số cụ thể (giờ, phút, ngày, tháng, năm) để biểu thị thời điểm diễn ra một hành động.",
-      "usage": "Đặt 'に' ngay sau mốc thời gian cụ thể: 7時に起きます (thức dậy lúc 7 giờ), 11時に寝ます (đi ngủ lúc 11 giờ).",
-      "notes": "Quy tắc dùng trợ từ に: 1) BẮT BUỘC dùng 'に' với mốc thời gian có con số cụ thể (ví dụ: 6時 に, 8月 に). 2) KHÔNG dùng 'に' với từ chỉ thời gian tương đối như 今日 (hôm nay), あした (ngày mai), きのう (hôm qua), 毎朝 (mỗi sáng), 毎日 (mỗi ngày), いつ (khi nào). 3) Với các thứ trong tuần (月曜日, 火曜日...), có thể dùng hoặc không dùng 'に' đều đúng.",
+      "pattern": "なんでいきますか -> Phương tiện + で",
+      "structure": "何で (なんで) 行きますか。 -> [Phương tiện] + で 行きます。",
+      "explanation": "Hỏi và đáp về phương tiện di chuyển. Trợ từ 'で' đứng sau danh từ chỉ phương tiện. Riêng 'đi bộ' dùng '歩いて' (không có で).",
       "examples": [
         {
-          "japanese": "わたしは 毎朝 7時に 起きます。",
-          "furigana": "わたし は [毎朝](まいあさ) [七時](しちじ) に [起](お)きます。",
-          "vietnamese": "Tôi thức dậy vào lúc 7 giờ mỗi sáng."
+          "japanese": "なんで フランスへ 行きますか。",
+          "furigana": "なんで フランスへ [行](い)きますか。",
+          "vietnamese": "Bạn đi Pháp bằng gì?"
         },
         {
-          "japanese": "昨夜 11時に 寝ました。",
-          "furigana": "[昨夜](ゆうべ) [十一時](じゅういちじ) に [寝](ね)ました。",
-          "vietnamese": "Tối qua tôi đã đi ngủ lúc 11 giờ."
+          "japanese": "飛行機で 行きます。",
+          "furigana": "[飛行機](ひこうき)で [行](い)きます。",
+          "vietnamese": "Tôi đi bằng máy bay."
         },
         {
-          "japanese": "日曜日に 友達と 勉強します。",
-          "furigana": "[日曜日](にちようび) に [友達](ともだち) と [勉強](べんきょう)します。",
-          "vietnamese": "Tôi học bài cùng bạn bè vào Chủ nhật."
+          "japanese": "歩いて 行きます。",
+          "furigana": "[歩](ある)いて [行](い)きます。",
+          "vietnamese": "Tôi đi bộ."
         }
       ]
     },
     {
       "id": "g3",
-      "pattern": "[Thời gian 1] から [Thời gian 2] まで",
-      "structure": "N1 (thời gian/địa điểm) + から + N2 (thời gian/địa điểm) + まで",
-      "explanation": "'から' mang nghĩa 'từ' (chỉ điểm mốc bắt đầu về thời gian hoặc địa điểm), còn 'まで' mang nghĩa 'đến' (chỉ mốc kết thúc). Hai trợ từ này có thể đi cùng nhau tạo thành cặp hoặc đứng độc lập trong câu.",
-      "usage": "Thường dùng để mô tả khung giờ làm việc, học tập, mở cửa hoặc hoạt động của các tổ chức, trường học, công ty.",
-      "notes": "Có thể kết thúc câu bằng 'です' (Ví dụ: 9時から 5時まで です - Từ 9 giờ đến 5 giờ) hoặc đi kèm động từ hành động (Ví dụ: 9時から 5時まで 働きます - Làm việc từ 9 giờ đến 5 giờ). Không bắt buộc lúc nào 'から' và 'まで' cũng phải đi cùng nhau; ta có thể dùng riêng '9時から働きます' hoặc '5時まで勉強します'.",
+      "pattern": "どのくらい かかりますか",
+      "structure": "A から B まで どのくらいですか / どのくらい かかりますか。",
+      "explanation": "Dùng để hỏi mất khoảng bao lâu để di chuyển từ điểm A đến điểm B. Trả lời bằng khoảng thời gian + 'くらい' (khoảng).",
       "examples": [
         {
-          "japanese": "銀行は 9時から 3時まで です。",
-          "furigana": "[銀行](ぎんこう) は [九時](くじ) から [三時](さんじ) まで です。",
-          "vietnamese": "Ngân hàng mở cửa từ 9 giờ đến 3 giờ."
+          "japanese": "うちから 会社まで どのくらいですか。",
+          "furigana": "うちから [会社](かいしゃ)まで どのくらいですか。",
+          "vietnamese": "Từ nhà đến công ty mất khoảng bao lâu?"
         },
         {
-          "japanese": "月曜日から 金曜日まで 働きます。",
-          "furigana": "[月曜日](げつようび) から [金曜日](きんようび) まで [働](はたら)きます。",
-          "vietnamese": "Tôi làm việc từ thứ Hai đến thứ Sáu."
-        },
-        {
-          "japanese": "昼休みは 12時半から 1時半まで です。",
-          "furigana": "[昼休](ひるやす)み は [十二時](じゅうにじ) [半](はん) から [一時](いちじ) [半](はん) まで です。",
-          "vietnamese": "Giờ nghỉ trưa là từ 12 rưỡi đến 1 rưỡi."
+          "japanese": "電車で 20分くらいです。",
+          "furigana": "[電車](でんしゃ)で [二十分](にじゅっぷん)くらいです。",
+          "vietnamese": "Đi bằng tàu điện mất khoảng 20 phút."
         }
       ]
-    }
-  ],
-  "exercises": [
-    {
-      "id": "q1",
-      "type": "multiple_choice",
-      "questionText": "Trong tiếng Nhật, cách đọc đúng của mốc thời gian '4 giờ' là gì?",
-      "options": [
-        "よじ",
-        "よんじ",
-        "しじ",
-        "ななじ"
-      ],
-      "correctAnswer": "よじ",
-      "explanation": "Trong tiếng Nhật, 4 giờ đọc là 'よじ' (yoji), là cách đọc biến âm cố định, không dùng 'よんじ' hay 'しじ'."
     },
     {
-      "id": "q2",
-      "type": "multiple_choice",
-      "questionText": "Chọn câu hỏi phù hợp nhất với câu trả lời: '… いま 8時 30分 です。'",
-      "options": [
-        "いま なんじ ですか。",
-        "きょう は なんようび ですか。",
-        "ぎんこう は なんじ まで ですか。",
-        "まいにち なんじ に おきますか。"
-      ],
-      "correctAnswer": "いま なんじ ですか。",
-      "explanation": "'いま なんじ ですか' nghĩa là 'Bây giờ là mấy giờ?'. Câu trả lời 'いま 8時 30分 です' (Bây giờ là 8 giờ 30 phút) là câu trả lời trực tiếp cho câu hỏi này."
+      "id": "g4",
+      "pattern": "N は Adj です",
+      "structure": "[Danh từ] は [Tính từ đuôi い / đuôi な] です。",
+      "explanation": "Dùng tính từ để miêu tả tính chất, trạng thái của danh từ. Để hỏi 'N như thế nào?', ta dùng mẫu câu 'N は どうですか。'",
+      "examples": [
+        {
+          "japanese": "このコーヒーは 熱いです。",
+          "furigana": "このコーヒーは [熱](あつ)いです。",
+          "vietnamese": "Cốc cà phê này nóng."
+        },
+        {
+          "japanese": "わかば公園は 静かです。",
+          "furigana": "わかば[公園](こうえん)は [静](しず)かです。",
+          "vietnamese": "Công viên Wakaba yên tĩnh."
+        },
+        {
+          "japanese": "鈴木さんの家は どうですか。",
+          "furigana": "[鈴木](すずき)さんの[家](いえ)は どうですか。",
+          "vietnamese": "Nhà của anh Suzuki như thế nào?"
+        }
+      ]
     },
     {
-      "id": "q3",
-      "type": "multiple_choice",
-      "questionText": "Từ nào sau đây mang nghĩa là 'Thứ Hai' trong tuần?",
-      "options": [
-        "げつようび",
-        "かようび",
-        "すいようび",
-        "にちようび"
-      ],
-      "correctAnswer": "げつようび",
-      "explanation": "'げつようび' (月曜日) là thứ Hai. 'かようび' là thứ Ba, 'すいようび' là thứ Tư, 'にちようび' là Chủ nhật."
+      "id": "g5",
+      "pattern": "N1 は Adj + N2 です",
+      "structure": "N1 は [Tính từ đuôi い] + N2 です。 / N1 は [Tính từ đuôi な + な] + N2 です。",
+      "explanation": "Tính từ bổ nghĩa trực tiếp cho danh từ. Tính từ đuôi い giữ nguyên 'い', tính từ đuôi な thêm 'な' rồi ghép với danh từ đứng sau. Để hỏi 'N1 là nơi/vật/người như thế nào?', dùng 'どんな N2 ですか。'",
+      "examples": [
+        {
+          "japanese": "富士山は 高い 山です。",
+          "furigana": "[富士山](ふじさん)は [高](たか)い [山](やま)です。",
+          "vietnamese": "Núi Phú Sĩ là ngọn núi cao."
+        },
+        {
+          "japanese": "富士山は きれいな 山です。",
+          "furigana": "[富士山](ふじさん)は きれいな [山](やま)です。",
+          "vietnamese": "Núi Phú Sĩ là ngọn núi đẹp."
+        },
+        {
+          "japanese": "みどり公園は どんな 所ですか。",
+          "furigana": "みどり[公園](こうえん)は どんな [所](ところ)ですか。",
+          "vietnamese": "Công viên Midori là nơi như thế nào?"
+        }
+      ]
     },
     {
-      "id": "q4",
-      "type": "fill_in_blank",
-      "questionText": "Điền trợ từ thích hợp vào chỗ trống: わたし は 毎朝 6時 _____ 起きます。(Tôi thức dậy vào lúc 6 giờ mỗi sáng.)",
-      "correctAnswer": "に",
-      "explanation": "Trợ từ 'に' đứng sau danh từ chỉ thời gian có con số xác định (6時 - 6 giờ) để biểu thị thời điểm thực hiện hành động thức dậy."
+      "id": "g6",
+      "pattern": "N1 に N2 があります",
+      "structure": "[Địa điểm] に [Sự vật] が あります。",
+      "explanation": "Dùng để diễn tả sự tồn tại của đồ vật, sự vật ở một địa điểm nào đó. Trợ từ 'に' chỉ vị trí, trợ từ 'が' đi với chủ thể tồn tại.",
+      "examples": [
+        {
+          "japanese": "箱根に 温泉が あります。",
+          "furigana": "[箱根](はこね)に [温泉](おんせん)が あります。",
+          "vietnamese": "Ở Hakone có suối nước nóng."
+        },
+        {
+          "japanese": "私の町に 大きい お城が あります。",
+          "furigana": "[私](わたし)の[町](まち)に [大](おお)きい お[城](しろ)が あります。",
+          "vietnamese": "Ở thành phố của tôi có một tòa lâu đài lớn."
+        }
+      ]
     },
     {
-      "id": "q5",
-      "type": "fill_in_blank",
-      "questionText": "Điền từ thích hợp vào chỗ trống để biểu thị mốc kết thúc: 会社 は 9時 から 5時 _____ です。(Công ty làm việc từ 9 giờ đến 5 giờ.)",
-      "correctAnswer": "まで",
-      "explanation": "Cấu trúc '[Thời gian 1] から [Thời gian 2] まで' diễn đạt ý 'từ... đến...'. Từ 'まで' biểu thị mốc thời gian kết thúc."
+      "id": "g7",
+      "pattern": "Nối câu với そして và が",
+      "structure": "Mệnh đề 1。そして、Mệnh đề 2。 / Mệnh đề 1 が、Mệnh đề 2。",
+      "explanation": "Dùng để nối 2 mệnh đề có chứa tính từ. 'そして' (Và) dùng khi 2 vế có ý nghĩa tương đồng (cùng khen hoặc cùng chê). 'が' (Nhưng) dùng khi 2 vế mang ý nghĩa trái ngược nhau.",
+      "examples": [
+        {
+          "japanese": "姫路城は きれいです。そして、有名です。",
+          "furigana": "[姫路城](ひめじじょう)は きれいです。そして、[有名](ゆうめい)です。",
+          "vietnamese": "Lâu đài Himeji rất đẹp. Và còn nổi tiếng nữa."
+        },
+        {
+          "japanese": "私の部屋は 小さいですが、きれいです。",
+          "furigana": "[私](わたし)の[部屋](へや)は [小](ちい)さいですが、きれいです。",
+          "vietnamese": "Căn phòng của tôi tuy nhỏ nhưng đẹp."
+        }
+      ]
     },
     {
-      "id": "q6",
-      "type": "fill_in_blank",
-      "questionText": "Điền cách đọc Hiragana tương ứng với chữ Hán '半' mang nghĩa 30 phút (rưỡi): _____",
-      "correctAnswer": "はん",
-      "explanation": "Chữ Hán '半' đọc bằng Hiragana là 'はん' (han), biểu thị 30 phút hoặc 'rưỡi' trong cách nói thời gian (ví dụ: 8時半 - 8 giờ rưỡi)."
+      "id": "g8",
+      "pattern": "Phủ định của tính từ",
+      "structure": "Aい -> Aくないです。 / Aな -> Aじゃありません。",
+      "explanation": "Để chia tính từ sang dạng phủ định (hiện tại), tính từ đuôi い bỏ 'い' thêm 'くないです'. Tính từ đuôi な bỏ 'な' thêm 'じゃありません'.",
+      "examples": [
+        {
+          "japanese": "このジュースは 冷たくないです。",
+          "furigana": "このジュースは [冷](つめ)たくないです。",
+          "vietnamese": "Nước ép này không lạnh."
+        },
+        {
+          "japanese": "ここは 静かじゃありません。",
+          "furigana": "ここは [静](しず)かじゃありません。",
+          "vietnamese": "Chỗ này không yên tĩnh."
+        }
+      ]
     },
     {
-      "id": "q7",
-      "type": "ordering",
-      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Ngân hàng mở cửa từ 9 giờ đến 3 giờ.'",
-      "words": [
-        "ぎんこう",
-        "は",
-        "9じ",
-        "から",
-        "3じ",
-        "まで",
-        "です"
-      ],
-      "correctOrder": [
-        "ぎんこう",
-        "は",
-        "9じ",
-        "から",
-        "3じ",
-        "まで",
-        "です"
-      ],
-      "explanation": "Trật tự câu chuẩn: [Chủ ngữ + は] + [Mốc bắt đầu + から] + [Mốc kết thúc + まで] + です (ぎんこう は 9じ から 3じ まで です)."
+      "id": "g9",
+      "pattern": "～ね (Nhỉ!)",
+      "structure": "Câu + ね。",
+      "explanation": "Trợ từ 'ね' đứng ở cuối câu dùng để thể hiện sự cảm thán, hoặc để xác nhận, mong muốn sự đồng tình từ người nghe.",
+      "examples": [
+        {
+          "japanese": "暑いですね。",
+          "furigana": "[暑](あつ)いですね。",
+          "vietnamese": "Nóng quá nhỉ!"
+        },
+        {
+          "japanese": "天気が いいですね。",
+          "furigana": "[天気](てんき)が いいですね。",
+          "vietnamese": "Thời tiết đẹp nhỉ."
+        }
+      ]
     },
     {
-      "id": "q8",
-      "type": "ordering",
-      "questionText": "Sắp xếp các từ sau thành câu hoàn chỉnh: 'Mỗi ngày tôi học bài từ thứ Hai đến thứ Sáu.'",
-      "words": [
-        "まいにち",
-        "げつようび",
-        "から",
-        "きんようび",
-        "まで",
-        "べんきょうします"
-      ],
-      "correctOrder": [
-        "まいにち",
-        "げつようび",
-        "から",
-        "きんようび",
-        "まで",
-        "べんきょうします"
-      ],
-      "explanation": "Trật tự câu chuẩn: [Thời gian chung: まいにち] + [Thứ bắt đầu + から] + [Thứ kết thúc + まで] + [Động từ: べんきょうします]."
+      "id": "g10",
+      "pattern": "とても / すこし / あまり / ぜんぜん",
+      "structure": "とても / すこし + [Câu khẳng định] | あまり / ぜんぜん + [Câu phủ định]",
+      "explanation": "Các phó từ chỉ mức độ. 'とても' (Rất) và 'すこし' (Một chút) đứng trước tính từ trong câu khẳng định. 'あまり' (Không... lắm) và 'ぜんぜん' (Hoàn toàn không...) luôn đi kèm câu dạng phủ định.",
+      "examples": [
+        {
+          "japanese": "とても 大きい です。",
+          "furigana": "とても [大](おお)きい です。",
+          "vietnamese": "Rất lớn."
+        },
+        {
+          "japanese": "あまり 暑くない です。",
+          "furigana": "あまり [暑](あつ)くない です。",
+          "vietnamese": "Không nóng lắm."
+        }
+      ]
     },
     {
-      "id": "q9",
-      "type": "listening",
-      "questionText": "Lắng nghe câu sau và cho biết người nói thức dậy vào lúc mấy giờ?",
-      "audioText": "わたしは まいあさ 7じはん に おきます。",
-      "options": [
-        "6 giờ 30 phút",
-        "7 giờ 30 phút",
-        "8 giờ",
-        "7 giờ"
-      ],
-      "correctAnswer": "7 giờ 30 phút",
-      "explanation": "Câu phát âm: 'わたしは まいあさ 7じはん に おきます' (Tôi thức dậy vào lúc 7 giờ rưỡi - 7:30 mỗi sáng)."
-    },
-    {
-      "id": "q10",
-      "type": "listening",
-      "questionText": "Lắng nghe đoạn hội thoại ngắn và chọn thứ trong tuần được nhắc đến:",
-      "audioText": "きょうは なんようび ですか。… きんようび です。",
-      "options": [
-        "Thứ Hai (月曜日)",
-        "Thứ Tư (水曜日)",
-        "Thứ Sáu (金曜日)",
-        "Chủ nhật (日曜日)"
-      ],
-      "correctAnswer": "Thứ Sáu (金曜日)",
-      "explanation": "Đoạn thoại hỏi: 'きょうは なんようび ですか' (Hôm nay là thứ mấy?) và câu trả lời là 'きんようび です' (Hôm nay là thứ Sáu)."
+      "id": "g11",
+      "pattern": "N(国・町)は [thời gian]、Adjです。",
+      "structure": "N (đất nước/thành phố) は [Thời gian]、Adj です。",
+      "explanation": "Dùng để miêu tả đặc điểm, thời tiết của một vùng đất vào một khoảng thời gian cụ thể trong năm (tháng, mùa).",
+      "examples": [
+        {
+          "japanese": "私の国は 8月、とても 暑いです。",
+          "furigana": "[私](わたし)の[国](くに)は [八月](はちがつ)、とても [暑](あつ)いです。",
+          "vietnamese": "Đất nước tôi vào tháng 8 thì rất nóng."
+        },
+        {
+          "japanese": "私の町は 秋、天気が いいです。",
+          "furigana": "[私](わたし)の[町](まち)は [秋](あき)、[天気](てんき)が いいです。",
+          "vietnamese": "Thành phố tôi vào mùa thu thời tiết rất đẹp."
+        }
+      ]
     }
   ]
 }
