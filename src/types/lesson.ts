@@ -34,6 +34,21 @@ export interface Grammar {
   examples: Example[];
 }
 
+export interface KanjiWord {
+  word: string;
+  reading: string;
+  meaning: string;
+}
+
+export interface Kanji {
+  id: string;
+  character: string;
+  meaning: string;
+  onyomi?: string;
+  kunyomi?: string;
+  words: KanjiWord[];
+}
+
 export interface Lesson {
   id: string;
   level: string;
@@ -41,6 +56,7 @@ export interface Lesson {
   title: string;
   description: string;
   vocabulary: Vocabulary[];
+  kanji?: Kanji[];
   grammar: Grammar[];
   exercises?: Question[];
 }

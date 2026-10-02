@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { Ruby } from '@/components/Ruby';
 import { PlayAudioButton } from '@/components/PlayAudioButton';
 import { VocabularyTable } from '@/components/VocabularyTable';
+import { KanjiSection } from '@/components/KanjiSection';
 
 async function getLessonData(lessonId: string): Promise<Lesson | null> {
   try {
@@ -62,6 +63,8 @@ export default async function LessonPage({
         <p className="text-gray-600 dark:text-gray-400 mb-10 text-lg">{lesson.description}</p>
 
         <VocabularyTable vocabulary={lesson.vocabulary} />
+
+        <KanjiSection kanjiList={lesson.kanji} />
 
         {/* Grammar Section */}
         <section>

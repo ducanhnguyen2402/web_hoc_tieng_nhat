@@ -710,5 +710,261 @@
         }
       ]
     }
+  ],
+  "kanji": [
+    {
+      "id": "k1",
+      "character": "先",
+      "meaning": "TIÊN (trước)",
+      "words": [
+        {
+          "word": "先生",
+          "reading": "せんせい",
+          "meaning": "Giáo viên"
+        },
+        {
+          "word": "先日",
+          "reading": "せんじつ",
+          "meaning": "Ngày trước"
+        },
+        {
+          "word": "先週",
+          "reading": "せんしゅう",
+          "meaning": "Tuần trước"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "character": "週",
+      "meaning": "CHU (tuần)",
+      "words": [
+        {
+          "word": "先週",
+          "reading": "せんしゅう",
+          "meaning": "Tuần trước"
+        },
+        {
+          "word": "週間",
+          "reading": "しゅうかん",
+          "meaning": "~ tuần (số lượng)"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "character": "毎",
+      "meaning": "MỖI (mỗi)",
+      "words": [
+        {
+          "word": "毎日",
+          "reading": "まいにち",
+          "meaning": "mỗi ngày"
+        },
+        {
+          "word": "毎週",
+          "reading": "まいしゅう",
+          "meaning": "mỗi tuần"
+        },
+        {
+          "word": "毎月",
+          "reading": "まいつき",
+          "meaning": "mỗi tháng"
+        },
+        {
+          "word": "毎年",
+          "reading": "まいとし",
+          "meaning": "mỗi năm"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "character": "午",
+      "meaning": "NGỌ (giữa trưa)",
+      "words": [
+        {
+          "word": "午前",
+          "reading": "ごぜん",
+          "meaning": "am, sáng"
+        },
+        {
+          "word": "午後",
+          "reading": "ごご",
+          "meaning": "buổi chiều, pm"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "character": "後",
+      "meaning": "HẬU (sau)",
+      "words": [
+        {
+          "word": "午後",
+          "reading": "ごご",
+          "meaning": "buổi chiều, pm"
+        },
+        {
+          "word": "後ろ",
+          "reading": "うしろ",
+          "meaning": "phía sau"
+        },
+        {
+          "word": "後",
+          "reading": "あと",
+          "meaning": "sau"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "character": "見",
+      "meaning": "KIẾN (nhìn)",
+      "words": [
+        {
+          "word": "見学",
+          "reading": "けんがく",
+          "meaning": "kiến tập"
+        },
+        {
+          "word": "見ます",
+          "reading": "みます",
+          "meaning": "nhìn"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "character": "食",
+      "meaning": "THỰC (ăn)",
+      "words": [
+        {
+          "word": "食べもの",
+          "reading": "たべもの",
+          "meaning": "Đồ ăn"
+        },
+        {
+          "word": "食事",
+          "reading": "しょくじ",
+          "meaning": "Dùng bữa"
+        },
+        {
+          "word": "食べます",
+          "reading": "たべます",
+          "meaning": "Ăn"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "character": "飲",
+      "meaning": "ẨM (uống)",
+      "words": [
+        {
+          "word": "飲食",
+          "reading": "いんしょく",
+          "meaning": "Ăn uống, ẩm thực"
+        },
+        {
+          "word": "飲みもの",
+          "reading": "のみもの",
+          "meaning": "Đồ uống"
+        },
+        {
+          "word": "飲みます",
+          "reading": "のみます",
+          "meaning": "Uống"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "character": "買",
+      "meaning": "MÃI (mua)",
+      "words": [
+        {
+          "word": "買いもの",
+          "reading": "かいもの",
+          "meaning": "Mua sắm"
+        },
+        {
+          "word": "買います",
+          "reading": "かいます",
+          "meaning": "mua"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "character": "物",
+      "meaning": "VẬT (đồ vật)",
+      "words": [
+        {
+          "word": "買い物",
+          "reading": "かいもの",
+          "meaning": "Mua sắm"
+        },
+        {
+          "word": "食べ物",
+          "reading": "たべもの",
+          "meaning": "Đồ ăn"
+        },
+        {
+          "word": "飲み物",
+          "reading": "のみもの",
+          "meaning": "Đồ uống"
+        },
+        {
+          "word": "人物",
+          "reading": "じんぶつ",
+          "meaning": "Nhân vật"
+        },
+        {
+          "word": "見物",
+          "reading": "けんぶつ",
+          "meaning": "Ngắm cảnh"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "character": "行",
+      "meaning": "HÀNH/HÀNG (đi)",
+      "words": [
+        {
+          "word": "行",
+          "reading": "ぎょう",
+          "meaning": "dòng (kẻ)"
+        },
+        {
+          "word": "行きます",
+          "reading": "いきます",
+          "meaning": "đi"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "character": "休",
+      "meaning": "HƯU (nghỉ)",
+      "words": [
+        {
+          "word": "休み",
+          "reading": "やすみ",
+          "meaning": "Nghỉ"
+        },
+        {
+          "word": "休日",
+          "reading": "きゅうじつ",
+          "meaning": "ngày nghỉ"
+        },
+        {
+          "word": "休みます",
+          "reading": "やすみます",
+          "meaning": "nghỉ"
+        }
+      ]
+    }
   ]
 }

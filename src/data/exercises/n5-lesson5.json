@@ -4,184 +4,201 @@
     {
       "id": "q1",
       "type": "multiple_choice",
-      "questionText": "Chọn cách chia quá khứ đúng của động từ: 昨日 パンを _______ (Hôm qua tôi đã ăn bánh mì).",
+      "questionText": "Chọn cách đọc kanji đúng: 先生",
       "options": [
-        "食べます",
-        "食べました",
-        "食べません",
-        "食べませんでした"
+        "せんじつ",
+        "せんせい",
+        "せんぱい",
+        "せんしゅう"
       ],
-      "correctAnswer": "食べました",
-      "explanation": "Hành động đã xảy ra trong quá khứ nên dùng thể khẳng định quá khứ: ました."
+      "correctAnswer": "せんせい",
+      "explanation": "先生 (せんせい) nghĩa là giáo viên."
     },
     {
       "id": "q2",
-      "type": "fill_in_blank",
-      "questionText": "Điền trợ từ thích hợp vào chỗ trống: 日曜日、家族 ___ はこねへ いきました。(Chủ nhật, tôi đã đi Hakone với gia đình).",
-      "correctAnswer": "と",
-      "explanation": "Làm gì đó cùng với ai dùng trợ từ と."
+      "type": "multiple_choice",
+      "questionText": "Chọn cách đọc kanji đúng: 毎日",
+      "options": [
+        "まいとし",
+        "まいにち",
+        "まいしゅう",
+        "まいつき"
+      ],
+      "correctAnswer": "まいにち",
+      "explanation": "毎日 (まいにち) nghĩa là mỗi ngày."
     },
     {
       "id": "q3",
       "type": "multiple_choice",
-      "questionText": "Sắp xếp từ để tạo thành câu hoàn chỉnh: 友達の家へ行きました。(     ) 、ゲームをしました。",
+      "questionText": "Chọn cách đọc kanji đúng: 見学",
       "options": [
-        "どうして",
-        "それから",
-        "どこかへ",
-        "なにか"
+        "きんかく",
+        "けんがく",
+        "みがく",
+        "けんぶつ"
       ],
-      "correctAnswer": "それから",
-      "explanation": "それから (sau đó) dùng để nối 2 hành động xảy ra liên tiếp theo trình tự thời gian."
+      "correctAnswer": "けんがく",
+      "explanation": "見学 (けんがく) nghĩa là kiến tập / tham quan học hỏi."
     },
     {
       "id": "q4",
       "type": "multiple_choice",
-      "questionText": "Chọn cách chia quá khứ đúng của tính từ đuôi い: 今朝は _______。(Sáng nay trời đã lạnh).",
+      "questionText": "Chọn cách đọc kanji đúng: 食事",
       "options": [
-        "寒いです",
-        "寒いでした",
-        "寒かったです",
-        "寒くなかったです"
+        "しょくじ",
+        "どくじ",
+        "かくじ",
+        "たべもの"
       ],
-      "correctAnswer": "寒かったです",
-      "explanation": "Tính từ đuôi い chia quá khứ bằng cách bỏ い thêm かったです."
+      "correctAnswer": "しょくじ",
+      "explanation": "食事 (しょくじ) nghĩa là dùng bữa / bữa ăn."
     },
     {
       "id": "q5",
       "type": "multiple_choice",
-      "questionText": "Chọn cách chia quá khứ đúng của tính từ đuôi な: 昨日は _______。(Hôm qua tôi đã rảnh).",
+      "questionText": "Chọn cách đọc kanji đúng: 買い物",
       "options": [
-        "暇です",
-        "暇でした",
-        "暇かったです",
-        "暇じゃありません"
+        "はいもの",
+        "かいもの",
+        "まいもの",
+        "たべもの"
       ],
-      "correctAnswer": "暇でした",
-      "explanation": "Tính từ đuôi な chia quá khứ bằng cách thêm でした."
+      "correctAnswer": "かいもの",
+      "explanation": "買い物 (かいもの) nghĩa là mua sắm."
     },
     {
       "id": "q6",
       "type": "multiple_choice",
-      "questionText": "Câu hỏi: 先週のテストは どうでしたか。 (Bài kiểm tra tuần trước như thế nào?) - Chọn câu trả lời ĐÚNG:",
+      "questionText": "Chọn cách đọc kanji đúng: 休日",
       "options": [
-        "難しいです。",
-        "難しかったです。",
-        "難しくなかったです。",
-        "難しいでした。"
+        "きゅうじつ",
+        "やすみ",
+        "あさひ",
+        "まいにち"
       ],
-      "correctAnswer": "難しかったです。",
-      "explanation": "Hỏi về quá khứ nên phải trả lời bằng quá khứ. 難しい (tính từ đuôi い) -> 難しかったです."
+      "correctAnswer": "きゅうじつ",
+      "explanation": "休日 (きゅうじつ) nghĩa là ngày nghỉ."
     },
     {
       "id": "q7",
       "type": "fill_in_blank",
-      "questionText": "Điền trợ từ thích hợp vào chỗ trống: やまださんは いえ ___ ほしいです。(Anh Yamada muốn có một ngôi nhà.)",
-      "correctAnswer": "が",
-      "explanation": "Cấu trúc 'N が ほしいです' dùng để diễn tả mong muốn sở hữu một vật gì đó."
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: やま___ のぼります。(Leo núi)",
+      "correctAnswer": "に",
+      "explanation": "Với động từ 登ります (leo, trèo), ta dùng trợ từ に để chỉ đích đến. (山に登ります)"
     },
     {
       "id": "q8",
       "type": "fill_in_blank",
-      "questionText": "Điền trợ từ thích hợp vào chỗ trống: わたしは すし ___ たべたいです。(Tôi muốn ăn sushi.)",
-      "correctAnswer": "を",
-      "explanation": "Với cấu trúc 'Vたいです' (muốn làm V), trợ từ có thể là 'を' (giữ nguyên của tha động từ) hoặc 'が'."
+      "questionText": "Điền trợ từ thích hợp vào chỗ trống: レストラン___ しょくじします。(Dùng bữa ở nhà hàng)",
+      "correctAnswer": "で",
+      "explanation": "Xảy ra hành động (しょくじします - dùng bữa) tại một địa điểm thì dùng trợ từ で."
     },
     {
       "id": "q9",
-      "type": "fill_in_blank",
-      "questionText": "Chia động từ trong ngoặc: わたしは やまに (のぼります) _______ たいです。(Tôi muốn leo núi.)",
-      "correctAnswer": "のぼり",
-      "explanation": "Cấu trúc muốn làm V: Động từ thể 'ます' bỏ 'ます' đi + 'たい'. 'のぼります' -> 'のぼりたい'."
+      "type": "multiple_choice",
+      "questionText": "Hoàn thành câu: あそこで くるまを ___。(Đã thuê ô tô ở đằng kia)",
+      "options": [
+        "借（か）りました",
+        "はいりました",
+        "せんたくしました"
+      ],
+      "correctAnswer": "借（か）りました",
+      "explanation": "借りました (đã mượn/thuê) phù hợp ngữ cảnh. はいりました (đã vào), せんたくしました (đã giặt giũ) không hợp nghĩa."
     },
     {
       "id": "q10",
-      "type": "multiple_choice",
-      "questionText": "Chọn câu đúng nhất với nghĩa 'Tôi ghét rượu vang.'",
-      "options": [
-        "私は ワイン が きらいです。",
-        "私は ワイン を きらいです。",
-        "私は ワイン に きらいです。",
-        "私は ワイン で きらいです。"
-      ],
-      "correctAnswer": "私は ワイン が きらいです。",
-      "explanation": "'きらい' (ghét) và 'すき' (thích) là các tính từ đuôi な, dùng với trợ từ 'が' để chỉ đối tượng."
+      "type": "fill_in_blank",
+      "questionText": "Điền trợ từ thích hợp: あした かぞく___ 東京へ 行きます。(Ngày mai tôi đi Tokyo cùng gia đình)",
+      "correctAnswer": "と",
+      "explanation": "Làm gì cùng với ai dùng trợ từ と (かぞくと: cùng gia đình)."
     },
     {
       "id": "q11",
       "type": "multiple_choice",
-      "questionText": "Ghép câu đúng nhất: 図書館へ 本を _______ に 行きます。(Tôi đi đến thư viện để mượn sách.)",
+      "questionText": "Hoàn thành câu: きのう、天気（てんき）が ___ ですから、どこも いきませんでした。(Hôm qua, vì thời tiết... nên tôi đã không đi đâu cả)",
       "options": [
-        "かり",
-        "かります",
-        "かって",
-        "かりて"
+        "わるい",
+        "わるかった",
+        "わるくない"
       ],
-      "correctAnswer": "かり",
-      "explanation": "Cấu trúc 'đi để làm V': Động từ thể 'ます' bỏ 'ます' + に行きます. '借ります' (mượn) bỏ masu thành 'かり'."
+      "correctAnswer": "わるかった",
+      "explanation": "Sự việc trong quá khứ nên dùng わるかった (đã xấu). 'ですから' (vì) nối câu chỉ lý do."
     },
     {
       "id": "q12",
       "type": "multiple_choice",
-      "questionText": "Ghép câu đúng nhất: 日本へ 日本語の _______ に きました。(Tôi đã đến Nhật Bản để học tiếng Nhật.)",
+      "questionText": "Hoàn thành câu: きのうのばん DVDを みました。あまり ___ です。",
       "options": [
-        "勉強",
-        "勉強します",
-        "勉強して",
-        "勉強し"
+        "おもしろい",
+        "おもしろかった",
+        "おもしろくなかった"
       ],
-      "correctAnswer": "勉強",
-      "explanation": "Cấu trúc với Danh động từ (Nhóm 3): Danh động từ (không có します) + に来ました/行きます. Vậy '勉強' + に きました."
+      "correctAnswer": "おもしろくなかった",
+      "explanation": "あまり đi với phủ định (không... lắm). Sự việc quá khứ nên chia phủ định quá khứ -> おもしろくなかった."
     },
     {
       "id": "q13",
-      "type": "ordering",
-      "questionText": "Sắp xếp thành câu: 'Tại sao sáng nay bạn lại nghỉ?'",
-      "words": [
-        "どうして",
-        "休みましたか",
-        "今朝"
+      "type": "multiple_choice",
+      "questionText": "Hoàn thành câu: 私は あたらしいカメラ ___ ほしいです。(Tôi muốn có một chiếc máy ảnh mới)",
+      "options": [
+        "が",
+        "に",
+        "と",
+        "を"
       ],
-      "correctOrder": [
-        "どうして",
-        "今朝",
-        "休みましたか"
-      ],
-      "explanation": "Trật tự câu hỏi lý do: どうして + Thời gian + Động từ quá khứ + か."
+      "correctAnswer": "が",
+      "explanation": "Cấu trúc muốn có vật gì: N + が ほしいです."
     },
     {
       "id": "q14",
-      "type": "ordering",
-      "questionText": "Sắp xếp thành câu: 'Tôi đã đi đến Tokyo để mua sắm.'",
-      "words": [
-        "東京へ",
-        "買い物に",
-        "行きました",
-        "わたしは"
+      "type": "multiple_choice",
+      "questionText": "A: きのう やまの 天気（てんき）は どうでしたか。B: ＿＿＿＿＿＿＿。",
+      "options": [
+        "いいでした",
+        "よかったです",
+        "いかったです",
+        "わるいです"
       ],
-      "correctOrder": [
-        "わたしは",
-        "東京へ",
-        "買い物に",
-        "行きました"
-      ],
-      "explanation": "Trật tự câu: [Chủ ngữ] + [Địa điểm] へ + [Mục đích (Danh động từ)] に + 行きました."
+      "correctAnswer": "よかったです",
+      "explanation": "Tính từ 'いい' (tốt/đẹp) chia quá khứ thành 'よかった' (よかったです)."
     },
     {
       "id": "q15",
-      "type": "ordering",
-      "questionText": "Sắp xếp thành câu: 'Kỳ nghỉ đông bạn đã đi đâu đó không?'",
-      "words": [
-        "行きましたか",
-        "どこかへ",
-        "冬休みは"
+      "type": "multiple_choice",
+      "questionText": "A: 先週（せんしゅう）、___ いきましたか。 B: いいえ、どこも いきませんでした。",
+      "options": [
+        "どこか",
+        "どこ",
+        "なにか",
+        "どうして"
       ],
-      "correctOrder": [
-        "冬休みは",
-        "どこかへ",
-        "行きましたか"
+      "correctAnswer": "どこか",
+      "explanation": "Hỏi 'có đi ĐÂU ĐÓ không' dùng 'どこか'. Trả lời 'いいえ' nghĩa là không đi đâu cả."
+    },
+    {
+      "id": "q16",
+      "type": "multiple_choice",
+      "questionText": "きのうのパーティーは あまり ___。",
+      "options": [
+        "にぎやかです",
+        "にぎやかじゃありませんでした",
+        "にぎやかくなかったです"
       ],
-      "explanation": "冬休みは (Kỳ nghỉ đông thì) どこかへ (đi đâu đó) 行きましたか (có đi không?)."
+      "correctAnswer": "にぎやかじゃありませんでした",
+      "explanation": "'にぎやか' là tính từ đuôi な. Thể phủ định quá khứ là 'にぎやかじゃありませんでした'."
+    },
+    {
+      "id": "q17",
+      "type": "multiple_choice",
+      "questionText": "先週の土曜日、図書館（としょかん）で べんきょうしました。___、美術館（びじゅつかん）へ いきました。",
+      "options": [
+        "が",
+        "から",
+        "それから",
+        "でも"
+      ],
+      "correctAnswer": "それから",
+      "explanation": "Nối 2 hành động theo trình tự thời gian dùng 'それから' (Sau đó)."
     }
   ]
 }
